@@ -1,0 +1,47 @@
+#Title;Indices
+CAC40;MyIndicators;Daily;200
+CAC40;MyIndicators;HLBreak;200
+CAC40;MyIndicators;Bar_3;200
+CAC40;TrendLine;Daily;200
+SP500;MyIndicators;Daily;300
+#Title;Indicators
+BEAR/BULL Ratio;BullBearRatio;Daily;200
+PCR.EQUITY;PCR_Bench;Daily;200
+VIX;Hilbert;Daily;150
+TB.SBF120;ADBench_SBF120;Daily;500
+TB.SP500;ADBench_SP500;Daily;500
+#Title;Commodities
+#COFFEE C_COT;COT;Weekly;200
+COFFEE;MyIndicators;Daily;150
+#NATURAL GAS_COT;COT;Weekly;200
+NATURAL GAS;MyIndicators;Daily;150
+GOLD;MyIndicators;Daily;150
+#GOLD_COT;COT;Weekly;150
+SILVER;MyIndicators;Daily;150
+#SILVER_COT;COT;Weekly;150
+PALLADIUM;MyIndicators;Daily;150
+PLATINUM;MyIndicators;Daily;150
+#PALLADIUM_COT;COT;Weekly;150
+#Title;Currencies
+EURO INDEX;MyIndicators;Daily;300
+#EURO FX_COT;COT;Weekly;150
+US DOLLAR INDEX;MyIndicators;Daily;300
+#U.S. DOLLAR INDEX_COT;COT;Weekly;150
+JAPANESE YEN;MyIndicators;Daily;300
+#JAPANESE YEN_COT;COT;Weekly;150
+#Title;SBF20 Stocks
+AIR FRANCE-KLM;MyIndicators;Daily;200
+AIR FRANCE-KLM;MyIndicators;HLBreak;200
+SOITEC SILICON;MyIndicators;Daily;200
+SOITEC SILICON;MyIndicators;HLBreak;200
+PEUGEOT;MyIndicators;Daily;200
+PEUGEOT;MyIndicators;HLBreak;200
+#Title;Ratio
+SILVER/GOLD;MyIndicators;Daily;200
+SP500/GOLD;MyIndicators;Daily;200
+CAC40/SP500;MyIndicators;Daily;200
+TRANSPORT SECTOR/SP500;MyIndicators;Daily;200
+20+ Years T-Bonds/SP500;MyIndicators;Daily;200
+SP500/HIGH YIELD BOND;MyIndicators;Daily;200
+HIGH YIELD BOND/INVEST GRADE BOND;MyIndicators;Daily;200
+INT_INNATE PHARMA;NewTheme*;TwoLineBreaks_6D;248

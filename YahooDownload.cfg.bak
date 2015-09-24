@@ -276,6 +276,7 @@ FLIR,FLIR Systems,SP500
 FLR,Fluor Corp.,SP500
 FLS,Flowserve Corporation,SP500
 FMC,FMC Corporation,SP500
+FO,FORTUNE BRANDS INC,SP500
 FRX,Forest Laboratories,SP500
 FSLR,First Solar Inc,SP500
 FTI,FMC Technologies Inc.,SP500
@@ -293,7 +294,6 @@ GNW,Genworth Financial Inc.,SP500
 GOOG,Google Inc.,SP500
 GPC,Genuine Parts,SP500
 GPS,Gap (The),SP500
-GR,Goodrich Corporation,SP500
 GS,Goldman Sachs Group,SP500
 GT,Goodyear Tire & Rubber,SP500
 GWW,Grainger (W.W.) Inc.,SP500
@@ -329,6 +329,7 @@ IPG,Interpublic Group,SP500
 IR,Ingersoll-Rand PLC,SP500
 IRM,Iron Mountain Incorporated,SP500
 ISRG,Intuitive Surgical Inc.,SP500
+ITT,ITT CORPORATION,SP500
 ITW,Illinois Tool Works,SP500
 IVZ,Invesco Ltd.,SP500
 JBL,Jabil Circuit,SP500
@@ -337,6 +338,7 @@ JCP,Penney (J.C.),SP500
 JEC,Jacobs Engineering Group,SP500
 JNJ,Johnson & Johnson,SP500
 JNPR,Juniper Networks,SP500
+JNS,JANUS CAPITAL GROUP,SP500
 JOY,Joy Global Inc.,SP500
 JPM,JPMorgan Chase & Co.,SP500
 JWN,Nordstrom,SP500
@@ -378,8 +380,6 @@ MCO,Moody's Corp,SP500
 MDLZ,Kraft Foods,SP500
 MDT,Medtronic Inc.,SP500
 MET,MetLife Inc.,SP500
-MHP,McGraw-Hill,SP500
-MHS,Medco Health Solutions Inc.,SP500
 MJN,Mead Johnson,SP500
 MKC,McCormick & Co.,SP500
 MMC,Marsh & McLennan,SP500
@@ -397,7 +397,6 @@ MSI,Motorola Solutions Inc.,SP500
 MTB,M&T Bank Corp.,SP500
 MU,Micron Technology,SP500
 MUR,Murphy Oil,SP500
-MWV,MeadWestvaco Corporation,SP500
 MWW,Monster Worldwide,SP500
 MYL,Mylan Inc.,SP500
 NBL,Noble Energy Inc,SP500
@@ -416,13 +415,11 @@ NRG,NRG Energy,SP500
 NSC,Norfolk Southern Corp.,SP500
 NTAP,NetApp,SP500
 NTRS,Northern Trust Corp.,SP500
-NU,Northeast Utilities,SP500
 NUE,Nucor Corp.,SP500
 NVDA,Nvidia Corporation,SP500
 NVLS,Novellus Systems,SP500
 NWL,Newell Rubbermaid Co.,SP500
 NWSA,News Corporation,SP500
-NYX,NYSE Euronext,SP500
 OI,Owens-Illinois Inc,SP500
 OKE,ONEOK,SP500
 OMC,Omnicom Group,SP500
@@ -450,7 +447,6 @@ PH,Parker-Hannifin,SP500
 PHM,Pulte Homes Inc.,SP500
 PKI,PerkinElmer,SP500
 PLD,ProLogis,SP500
-PLL,Pall Corp.,SP500
 PM,Philip Morris International,SP500
 PNC,PNC Financial Services,SP500
 PNW,Pinnacle West Capital,SP500

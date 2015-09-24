@@ -62,11 +62,8 @@
   <StockWatchList>
     <Name>Alert</Name>
     <StockList>
-      <string>INT_ACCOR</string>
-      <string>INT_ALCATEL</string>
-      <string>INT_CARREFOUR</string>
+      <string>INT_EKINOPS SA</string>
       <string>INT_INNATE PHARMA</string>
-      <string>INT_VALLOUREC</string>
     </StockList>
   </StockWatchList>
   <StockWatchList>

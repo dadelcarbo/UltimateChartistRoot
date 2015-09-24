@@ -1,8 +1,6 @@
 #StockName1,StockName2
-Argent (once en $),Or (once en $)
-Argent (once en $),EUR-USD
-Or (once en $),EUR-USD
-SP500,Or (once en $)
+SILVER,GOLD
+SP500,GOLD
 CAC40,SP500
 TRANSPORT SECTOR,SP500
 20+ Years T-Bonds,SP500

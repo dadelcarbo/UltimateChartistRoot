@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StockFilteredStrategyBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>EMA2Lines(11,56)</Name>
+  <TriggerName>EMA2Lines(11,56)</TriggerName>
+  <FilterName>EMA2Lines(11,56)</FilterName>
+  <BuyTriggerEventName>BullishCrossing</BuyTriggerEventName>
+  <ShortTriggerEventName>BearishCrossing</ShortTriggerEventName>
+  <OkToBuyFilterEventName>UpTrend</OkToBuyFilterEventName>
+  <OkToShortFilterEventName>DownTrend</OkToShortFilterEventName>
+</StockFilteredStrategyBase>
