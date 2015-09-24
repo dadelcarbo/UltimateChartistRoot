@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StockFilteredStrategyBase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>SAR_DONCHIAN</Name>
+  <TriggerName>DONCHIAN(30)</TriggerName>
+  <FilterName>SAR(0.0001,0.0001,0.002)</FilterName>
+  <BuyTriggerEventName>LowAboveMidUpLine</BuyTriggerEventName>
+  <ShortTriggerEventName>HighBelowMidLowLine</ShortTriggerEventName>
+  <OkToBuyFilterEventName>Bearish</OkToBuyFilterEventName>
+  <OkToShortFilterEventName>Bullish</OkToShortFilterEventName>
+</StockFilteredStrategyBase>

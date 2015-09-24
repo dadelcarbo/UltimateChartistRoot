@@ -1,0 +1,8 @@
+## Keep only Ulmatate Chartist configuration files.
+
+CommentReport/
+data/
+log/
+Report/
+
+license.dat

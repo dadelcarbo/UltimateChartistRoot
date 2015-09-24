@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StockFilteredStrategyBase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>TRAILBB_HMA</Name>
+  <TriggerName>TRAILBB(13,2,-2)</TriggerName>
+  <FilterName>HMA(100)</FilterName>
+  <BuyTriggerEventName>BrokenUp</BuyTriggerEventName>
+  <ShortTriggerEventName>BrokenDown</ShortTriggerEventName>
+  <OkToBuyFilterEventName>PriceAbove</OkToBuyFilterEventName>
+  <OkToShortFilterEventName>PriceBelow</OkToShortFilterEventName>
+</StockFilteredStrategyBase>

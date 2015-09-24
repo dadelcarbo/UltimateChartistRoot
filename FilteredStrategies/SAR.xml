@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StockFilteredStrategyBase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>SAR</Name>
+  <TriggerName>SAR(0.01,0.0015,0.2)</TriggerName>
+  <FilterName>SAR(0.01,0.0015,0.2)</FilterName>
+  <BuyTriggerEventName>SupportDetected</BuyTriggerEventName>
+  <ShortTriggerEventName>ResistanceDetected</ShortTriggerEventName>
+  <OkToBuyFilterEventName>Bullish</OkToBuyFilterEventName>
+  <OkToShortFilterEventName>Bearish</OkToShortFilterEventName>
+</StockFilteredStrategyBase>
