@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StockFilteredStrategyBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>HigherClose_RANK</Name>
+  <TriggerName>TRUE()</TriggerName>
+  <FilterName>RANK(1,2)</FilterName>
+  <BuyTriggerEventName>HigherClose</BuyTriggerEventName>
+  <ShortTriggerEventName>LowerClose</ShortTriggerEventName>
+  <OkToBuyFilterEventName>Bullish</OkToBuyFilterEventName>
+  <OkToShortFilterEventName>Bearish</OkToShortFilterEventName>
+</StockFilteredStrategyBase>
