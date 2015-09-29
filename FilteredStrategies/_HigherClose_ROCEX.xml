@@ -2,9 +2,9 @@
 <StockFilteredStrategyBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>_HigherClose_ROCEX</Name>
   <TriggerName>TRUE()</TriggerName>
-  <FilterName>ROCEX3(200,100,50,6,12)</FilterName>
+  <FilterName>ROCEX3(50,25,12,6,12)</FilterName>
   <BuyTriggerEventName>HigherClose</BuyTriggerEventName>
   <ShortTriggerEventName>LowerClose</ShortTriggerEventName>
-  <OkToBuyFilterEventName>Bullish</OkToBuyFilterEventName>
-  <OkToShortFilterEventName>Bearish</OkToShortFilterEventName>
+  <OkToBuyFilterEventName>Positive</OkToBuyFilterEventName>
+  <OkToShortFilterEventName>Negative</OkToShortFilterEventName>
 </StockFilteredStrategyBase>
