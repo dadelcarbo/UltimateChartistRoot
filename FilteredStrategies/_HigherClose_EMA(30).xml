@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StockFilteredStrategyBase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>_HigherClose_EMA(30)</Name>
+  <TriggerName>TRUE()</TriggerName>
+  <FilterName>EMA(30)</FilterName>
+  <BuyTriggerEventName>HigherClose</BuyTriggerEventName>
+  <ShortTriggerEventName>LowerClose</ShortTriggerEventName>
+  <OkToBuyFilterEventName>PriceAbove</OkToBuyFilterEventName>
+  <OkToShortFilterEventName>PriceBelow</OkToShortFilterEventName>
+</StockFilteredStrategyBase>
