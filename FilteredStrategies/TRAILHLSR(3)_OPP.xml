@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StockFilteredStrategyBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>TRAILHLSR(3)_OPP</Name>
+  <TriggerName>TRAILHLSR(4)</TriggerName>
+  <FilterName>TRUE()</FilterName>
+  <BuyTriggerEventName>ResistanceDetected</BuyTriggerEventName>
+  <ShortTriggerEventName>SupportDetected</ShortTriggerEventName>
+  <OkToBuyFilterEventName>True</OkToBuyFilterEventName>
+  <OkToShortFilterEventName>True</OkToShortFilterEventName>
+</StockFilteredStrategyBase>
