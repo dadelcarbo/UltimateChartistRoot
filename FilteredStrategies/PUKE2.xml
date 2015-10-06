@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StockFilteredStrategyBase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>PUKE2</Name>
+  <TriggerName>TRAILHL(3)</TriggerName>
+  <FilterName>PUKE(20,1,30,6)</FilterName>
+  <BuyTriggerEventName>UpTrend</BuyTriggerEventName>
+  <ShortTriggerEventName>DownTrend</ShortTriggerEventName>
+  <OkToBuyFilterEventName>Bullish</OkToBuyFilterEventName>
+  <OkToShortFilterEventName>Bearish</OkToShortFilterEventName>
+</StockFilteredStrategyBase>
