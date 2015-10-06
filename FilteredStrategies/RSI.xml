@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
-<StockFilteredStrategyBase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StockFilteredStrategyBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>RSI</Name>
   <TriggerName>TRAILHL(3)</TriggerName>
-  <FilterName>RSI(50,55,45)</FilterName>
+  <FilterName>RSI(20,50,50)</FilterName>
   <BuyTriggerEventName>UpTrend</BuyTriggerEventName>
   <ShortTriggerEventName>DownTrend</ShortTriggerEventName>
   <OkToBuyFilterEventName>Overbought</OkToBuyFilterEventName>
