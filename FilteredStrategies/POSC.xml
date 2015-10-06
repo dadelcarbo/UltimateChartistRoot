@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StockFilteredStrategyBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>POSC</Name>
+  <TriggerName>POSC(6,12)</TriggerName>
+  <FilterName>TRUE()</FilterName>
+  <BuyTriggerEventName>TurnedPositive</BuyTriggerEventName>
+  <ShortTriggerEventName>Top</ShortTriggerEventName>
+  <OkToBuyFilterEventName>True</OkToBuyFilterEventName>
+  <OkToShortFilterEventName>True</OkToShortFilterEventName>
+</StockFilteredStrategyBase>

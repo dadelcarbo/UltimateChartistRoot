@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <StockFilteredStrategyBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>RSI</Name>
-  <TriggerName>TRAILHL(3)</TriggerName>
-  <FilterName>RSI(30,45,55)</FilterName>
+  <Name>CCIEX</Name>
+  <TriggerName>TRAILHL(1)</TriggerName>
+  <FilterName>CCIEX(30,12,3,0.0195,75,-75)</FilterName>
   <BuyTriggerEventName>UpTrend</BuyTriggerEventName>
   <ShortTriggerEventName>DownTrend</ShortTriggerEventName>
-  <OkToBuyFilterEventName>Overbought</OkToBuyFilterEventName>
-  <OkToShortFilterEventName>Oversold</OkToShortFilterEventName>
+  <OkToBuyFilterEventName>UpTrend</OkToBuyFilterEventName>
+  <OkToShortFilterEventName>DownTrend</OkToShortFilterEventName>
 </StockFilteredStrategyBase>
