@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StockFilteredStrategyBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>__MyOSC2</Name>
+  <TriggerName>MYOSC(20,6)</TriggerName>
+  <FilterName>TRUE()</FilterName>
+  <BuyTriggerEventName>UpTrend</BuyTriggerEventName>
+  <ShortTriggerEventName>DownTrend</ShortTriggerEventName>
+  <OkToBuyFilterEventName>True</OkToBuyFilterEventName>
+  <OkToShortFilterEventName>True</OkToShortFilterEventName>
+</StockFilteredStrategyBase>
