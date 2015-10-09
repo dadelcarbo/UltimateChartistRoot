@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<StockFilteredStrategyBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StockFilteredStrategyBase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>TRAILHLSR(3)_OPP</Name>
-  <TriggerName>TRAILHLSR(4)</TriggerName>
-  <FilterName>TRUE()</FilterName>
+  <TriggerName>TRAILHLSR(6)</TriggerName>
+  <FilterName>EMA2Lines(198,199)</FilterName>
   <BuyTriggerEventName>ResistanceDetected</BuyTriggerEventName>
   <ShortTriggerEventName>SupportDetected</ShortTriggerEventName>
-  <OkToBuyFilterEventName>True</OkToBuyFilterEventName>
-  <OkToShortFilterEventName>True</OkToShortFilterEventName>
+  <OkToBuyFilterEventName>UpTrend</OkToBuyFilterEventName>
+  <OkToShortFilterEventName>DownTrend</OkToShortFilterEventName>
 </StockFilteredStrategyBase>
