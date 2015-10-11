@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <StockFilteredStrategyBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>PUKE</Name>
-  <TriggerName>PUKE(30,6,10,10)</TriggerName>
+  <Name>CCIEX_FAST</Name>
+  <TriggerName>CCIEX(30,3,12,0.595,75,-75)</TriggerName>
   <FilterName>TRUE()</FilterName>
-  <BuyTriggerEventName>BullishCrossing</BuyTriggerEventName>
-  <ShortTriggerEventName>BearishCrossing</ShortTriggerEventName>
+  <BuyTriggerEventName>UpTrend</BuyTriggerEventName>
+  <ShortTriggerEventName>DownTrend</ShortTriggerEventName>
   <OkToBuyFilterEventName>True</OkToBuyFilterEventName>
   <OkToShortFilterEventName>True</OkToShortFilterEventName>
 </StockFilteredStrategyBase>

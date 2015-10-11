@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StockFilteredStrategyBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>CCIRS</Name>
+  <TriggerName>CCIRS(50,12,12)</TriggerName>
+  <FilterName>CCIEX(50,12,3,0.0195,75,-75)</FilterName>
+  <BuyTriggerEventName>UpTrend</BuyTriggerEventName>
+  <ShortTriggerEventName>DownTrend</ShortTriggerEventName>
+  <OkToBuyFilterEventName>UpTrend</OkToBuyFilterEventName>
+  <OkToShortFilterEventName>DownTrend</OkToShortFilterEventName>
+</StockFilteredStrategyBase>
