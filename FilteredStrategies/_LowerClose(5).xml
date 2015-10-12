@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <StockFilteredStrategyBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>MYOSC</Name>
-  <TriggerName>MYOSC(30,2)</TriggerName>
-  <FilterName>TRUE()</FilterName>
-  <BuyTriggerEventName>UpTrend</BuyTriggerEventName>
-  <ShortTriggerEventName>DownTrend</ShortTriggerEventName>
+  <Name>@LowerClose(5)</Name>
+  <TriggerName>TRUE(5)</TriggerName>
+  <FilterName>TRUE(1)</FilterName>
+  <BuyTriggerEventName>RecLowerClose</BuyTriggerEventName>
+  <ShortTriggerEventName>RecHigherClose</ShortTriggerEventName>
   <OkToBuyFilterEventName>True</OkToBuyFilterEventName>
   <OkToShortFilterEventName>True</OkToShortFilterEventName>
 </StockFilteredStrategyBase>

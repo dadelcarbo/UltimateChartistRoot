@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <StockFilteredStrategyBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>__MyOSC</Name>
-  <TriggerName>DIV(1,1)|MYOSC(20)</TriggerName>
+  <TriggerName>DIV(1,1,6)|MYOSC(18)</TriggerName>
   <FilterName>TRUE()</FilterName>
   <BuyTriggerEventName>ExhaustionBottom</BuyTriggerEventName>
   <ShortTriggerEventName>ExhaustionTop</ShortTriggerEventName>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StockFilteredStrategyBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>TrailerTest</Name>
+  <TriggerName>TRUE()</TriggerName>
+  <FilterName>ROCEX3(50,25,12,6,12)</FilterName>
+  <BuyTriggerEventName>True</BuyTriggerEventName>
+  <ShortTriggerEventName>False</ShortTriggerEventName>
+  <OkToBuyFilterEventName>Positive</OkToBuyFilterEventName>
+  <OkToShortFilterEventName>Negative</OkToShortFilterEventName>
+</StockFilteredStrategyBase>
