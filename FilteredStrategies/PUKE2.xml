@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <StockFilteredStrategyBase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>PUKE2</Name>
-  <TriggerName>TRAILHL(3)</TriggerName>
-  <FilterName>PUKE(20,1,30,6)</FilterName>
-  <BuyTriggerEventName>UpTrend</BuyTriggerEventName>
-  <ShortTriggerEventName>DownTrend</ShortTriggerEventName>
-  <OkToBuyFilterEventName>Bullish</OkToBuyFilterEventName>
-  <OkToShortFilterEventName>Bearish</OkToShortFilterEventName>
+  <TriggerName>TRUE(3)</TriggerName>
+  <FilterName>DIV(1,1,30)|PUKE(30,6,20,10)</FilterName>
+  <BuyTriggerEventName>EndOfLowerClose</BuyTriggerEventName>
+  <ShortTriggerEventName>RecLowerClose</ShortTriggerEventName>
+  <OkToBuyFilterEventName>ExhaustionBottomOccured</OkToBuyFilterEventName>
+  <OkToShortFilterEventName>ExhaustionTopOccured</OkToShortFilterEventName>
 </StockFilteredStrategyBase>

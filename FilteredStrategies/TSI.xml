@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <StockFilteredStrategyBase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name>PUKE</Name>
-  <TriggerName>PUKE(30,6,20,10)</TriggerName>
-  <FilterName>DIV(1,1,30)|PUKE(30,6,20,10)</FilterName>
+  <Name>TSI</Name>
+  <TriggerName>TSI(150,50,2,0.8,-0.8)</TriggerName>
+  <FilterName>TRUE(1)</FilterName>
   <BuyTriggerEventName>Bullish</BuyTriggerEventName>
   <ShortTriggerEventName>Bearish</ShortTriggerEventName>
-  <OkToBuyFilterEventName>ExhaustionBottomOccured</OkToBuyFilterEventName>
-  <OkToShortFilterEventName>ExhaustionTopOccured</OkToShortFilterEventName>
+  <OkToBuyFilterEventName>True</OkToBuyFilterEventName>
+  <OkToShortFilterEventName>True</OkToShortFilterEventName>
 </StockFilteredStrategyBase>
