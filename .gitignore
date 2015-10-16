@@ -1,8 +1,17 @@
 ## Keep only Ulmatate Chartist configuration files.
 
+# data/weekly/AAII/BullBearRatio.csv
+
+
+
 CommentReport/
-data/
+data/archive
+data/daily
+data/intraday
+data/weekly/cot
+data/weekly/harpex
+
 log/
 Report/
-
 license.dat
+*.bak
