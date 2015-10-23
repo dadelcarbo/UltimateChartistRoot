@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <StockAnalysisList>
   <StockAnalysisItem StockName="Australia">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="OPTIX" HasDrawings="True" HasComments="False">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
       <DrawingItems BarDuration="TLB_EMA6">
         <StockDrawingItems>
           <HalfLine2D>
