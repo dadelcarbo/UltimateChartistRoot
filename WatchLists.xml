@@ -67,7 +67,9 @@
       <string>INT_CARREFOUR</string>
       <string>INT_FUT_COPPER_DEC_15</string>
       <string>INT_FUT_CRUDE_DEC15</string>
+      <string>INT_FX_EUR_GBP</string>
       <string>INT_INNATE PHARMA</string>
+      <string>INT_LYXOR LEV CAC 40</string>
       <string>INT_VALLOUREC</string>
     </StockList>
   </StockWatchList>
