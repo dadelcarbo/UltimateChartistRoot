@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="Windows-1252"?>
 <StockPortofolioList>
-  <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <StockPortofolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <Name>BinckPEA_P</Name>
     <TotalDeposit>10000</TotalDeposit>
     <OffsetLiquidity>0</OffsetLiquidity>
@@ -8,9 +8,118 @@
     <Group>ALL</Group>
     <IsSimulation>false</IsSimulation>
     <IsVirtual>false</IsVirtual>
-    <OrderList />
+    <OrderList>
+      <StockOrder>
+        <StockName>ARCELOR MITTAL</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2015-11-13T00:00:00+01:00</CreationDate>
+        <ExecutionDate>2015-11-05T17:27:20</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>9</ID>
+        <Number>200</Number>
+        <Value>4.957</Value>
+        <Fee>2.500069</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VERGNET</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2015-11-13T00:00:00+01:00</CreationDate>
+        <ExecutionDate>2015-11-12T16:47:27</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>4</ID>
+        <Number>409</Number>
+        <Value>2.44</Value>
+        <Fee>114.74</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VET AFFAIRES</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2015-11-13T00:00:00+01:00</CreationDate>
+        <ExecutionDate>2015-11-13T11:29:53</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>3</ID>
+        <Number>322</Number>
+        <Value>2.86</Value>
+        <Fee>2.500017</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>EDF</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2015-11-13T00:00:00+01:00</CreationDate>
+        <ExecutionDate>2015-11-13T13:40:01</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>2</ID>
+        <Number>66</Number>
+        <Value>15.01</Value>
+        <Fee>2.499958</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>INNATE PHARMA</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2015-11-13T00:00:00+01:00</CreationDate>
+        <ExecutionDate>2015-11-13T15:46:47</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>0</ID>
+        <Number>71</Number>
+        <Value>13.97</Value>
+        <Fee>2.499976</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>LVC</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2015-11-13T00:00:00+01:00</CreationDate>
+        <ExecutionDate>2015-11-13T17:09:51</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>1</ID>
+        <Number>144</Number>
+        <Value>13.852</Value>
+        <Fee>5.001907</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+    </OrderList>
   </StockPortofolio>
-  <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <StockPortofolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <Name>BinckTitre_P</Name>
     <TotalDeposit>10000</TotalDeposit>
     <OffsetLiquidity>0</OffsetLiquidity>
@@ -18,6 +127,25 @@
     <Group>ALL</Group>
     <IsSimulation>false</IsSimulation>
     <IsVirtual>false</IsVirtual>
-    <OrderList />
+    <OrderList>
+      <StockOrder>
+        <StockName>CAC40</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2015-11-13T00:00:00+01:00</CreationDate>
+        <ExecutionDate>2015-10-14T10:40:53</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>15</ID>
+        <Number>774</Number>
+        <Value>0.31</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+    </OrderList>
   </StockPortofolio>
 </StockPortofolioList>
