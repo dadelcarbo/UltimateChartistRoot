@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <StockFilteredStrategyBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>PUKE2</Name>
-  <TriggerName>PUKE(3,3,20,2)</TriggerName>
-  <FilterName>PUKE(30,16,50,2)</FilterName>
+  <Name>PUKE_FAST</Name>
+  <TriggerName>PUKE(3,6,0,10)</TriggerName>
+  <FilterName>TRUE(1)</FilterName>
   <BuyTriggerEventName>Bullish</BuyTriggerEventName>
   <ShortTriggerEventName>Bearish</ShortTriggerEventName>
-  <OkToBuyFilterEventName>Bullish</OkToBuyFilterEventName>
-  <OkToShortFilterEventName>Bearish</OkToShortFilterEventName>
+  <OkToBuyFilterEventName>True</OkToBuyFilterEventName>
+  <OkToShortFilterEventName>False</OkToShortFilterEventName>
 </StockFilteredStrategyBase>
