@@ -1,6 +1,23 @@
 <?xml version="1.0"?>
 <ArrayOfStockWatchList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StockWatchList>
+    <Name>Alert</Name>
+    <StockList>
+      <string>INT_ACCOR</string>
+      <string>INT_ALCATEL</string>
+      <string>INT_CARREFOUR</string>
+      <string>INT_EDF</string>
+      <string>INT_FUT_COPPER_DEC_15</string>
+      <string>INT_FUT_CRUDE_DEC15</string>
+      <string>INT_FUT_EMINI_DEC15</string>
+      <string>INT_INNATE PHARMA</string>
+      <string>INT_LYXOR LEV CAC 40</string>
+      <string>INT_VALLOUREC</string>
+      <string>INT_VERGNET SA</string>
+      <string>INT_VET AFFAIRES</string>
+    </StockList>
+  </StockWatchList>
+  <StockWatchList>
     <Name>IVY</Name>
     <StockList>
       <string>20+ Years T-Bonds</string>
@@ -57,42 +74,6 @@
     <StockList>
       <string>BX4</string>
       <string>LVC</string>
-    </StockList>
-  </StockWatchList>
-  <StockWatchList>
-    <Name>Alert</Name>
-    <StockList>
-      <string>INT_ACCOR</string>
-      <string>INT_ALCATEL</string>
-      <string>INT_CARREFOUR</string>
-      <string>INT_EDF</string>
-      <string>INT_FUT_COPPER_DEC_15</string>
-      <string>INT_FUT_CRUDE_DEC15</string>
-      <string>INT_FUT_EMINI_DEC15</string>
-      <string>INT_INNATE PHARMA</string>
-      <string>INT_LYXOR LEV CAC 40</string>
-      <string>INT_VALLOUREC</string>
-      <string>INT_VERGNET SA</string>
-      <string>INT_VERGNET SA</string>
-      <string>INT_VET AFFAIRES</string>
-      <string>INT_VET AFFAIRES</string>
-    </StockList>
-  </StockWatchList>
-  <StockWatchList>
-    <Name>PEA</Name>
-    <StockList>
-      <string>INT_ARCELOR MITTAL</string>
-      <string>INT_BELVEDERE</string>
-      <string>INT_EDF</string>
-      <string>INT_INNATE PHARMA</string>
-      <string>INT_VALLOUREC</string>
-    </StockList>
-  </StockWatchList>
-  <StockWatchList>
-    <Name>Binck</Name>
-    <StockList>
-      <string>INT_VALLOUREC</string>
-      <string>INT_VSTOXX </string>
     </StockList>
   </StockWatchList>
 </ArrayOfStockWatchList>
