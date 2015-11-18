@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="Windows-1252"?>
 <StockPortofolioList>
-  <StockPortofolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>BinckPEA_P</Name>
     <TotalDeposit>10000</TotalDeposit>
     <OffsetLiquidity>0</OffsetLiquidity>
@@ -117,9 +117,27 @@
         <Threshold>0</Threshold>
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
+      <StockOrder>
+        <StockName>LVC</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2015-11-18T00:00:00+01:00</CreationDate>
+        <ExecutionDate>2015-11-18T11:03:17</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>16</ID>
+        <Number>144</Number>
+        <Value>14.342</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
     </OrderList>
   </StockPortofolio>
-  <StockPortofolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>BinckTitre_P</Name>
     <TotalDeposit>10000</TotalDeposit>
     <OffsetLiquidity>0</OffsetLiquidity>
