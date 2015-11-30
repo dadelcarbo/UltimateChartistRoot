@@ -114,7 +114,7 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="AIR LIQUIDE">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TwoLineBreaks">
+      <DrawingItems BarDuration="TLB">
         <StockDrawingItems>
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -170,7 +170,7 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ALCATEL-LUCENT">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TwoLineBreaks">
+      <DrawingItems BarDuration="TLB">
         <StockDrawingItems>
           <Line2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -828,7 +828,7 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="CASINO GUICHARD">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TwoLineBreaks">
+      <DrawingItems BarDuration="TLB">
         <StockDrawingItems>
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -1053,7 +1053,7 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="LAFARGE">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TwoLineBreaks">
+      <DrawingItems BarDuration="TLB">
         <StockDrawingItems>
           <Line2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -1376,7 +1376,7 @@
           </HalfLine2D>
         </StockDrawingItems>
       </DrawingItems>
-      <DrawingItems BarDuration="TwoLineBreaks">
+      <DrawingItems BarDuration="TLB">
         <StockDrawingItems>
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -1517,7 +1517,7 @@
           </HalfLine2D>
         </StockDrawingItems>
       </DrawingItems>
-      <DrawingItems BarDuration="TwoLineBreaks">
+      <DrawingItems BarDuration="TLB">
         <StockDrawingItems>
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -1703,7 +1703,7 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="STMICROELECTRONICS">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TwoLineBreaks">
+      <DrawingItems BarDuration="TLB">
         <StockDrawingItems>
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -1766,7 +1766,7 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="TECHNIP">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TwoLineBreaks">
+      <DrawingItems BarDuration="TLB">
         <StockDrawingItems>
           <Line2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -1807,7 +1807,7 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="TOTAL GABON">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TwoLineBreaks_3D">
+      <DrawingItems BarDuration="TLB_3D">
         <StockDrawingItems>
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -1907,7 +1907,7 @@
           </HalfLine2D>
         </StockDrawingItems>
       </DrawingItems>
-      <DrawingItems BarDuration="TwoLineBreaks">
+      <DrawingItems BarDuration="TLB">
         <StockDrawingItems>
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -2033,7 +2033,7 @@
           </Line2D>
         </StockDrawingItems>
       </DrawingItems>
-      <DrawingItems BarDuration="TwoLineBreaks">
+      <DrawingItems BarDuration="TLB">
         <StockDrawingItems>
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -2182,7 +2182,7 @@
           </HalfLine2D>
         </StockDrawingItems>
       </DrawingItems>
-      <DrawingItems BarDuration="TwoLineBreaks_3D">
+      <DrawingItems BarDuration="TLB_3D">
         <StockDrawingItems>
           <Line2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -2328,7 +2328,7 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="DERICHEBOURG">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TwoLineBreaks">
+      <DrawingItems BarDuration="TLB">
         <StockDrawingItems>
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -2365,7 +2365,7 @@
           </Line2D>
         </StockDrawingItems>
       </DrawingItems>
-      <DrawingItems BarDuration="TwoLineBreaks_6D">
+      <DrawingItems BarDuration="TLB_6D">
         <StockDrawingItems>
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -2671,7 +2671,7 @@
           </Line2D>
         </StockDrawingItems>
       </DrawingItems>
-      <DrawingItems BarDuration="TwoLineBreaks">
+      <DrawingItems BarDuration="TLB">
         <StockDrawingItems>
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -2727,7 +2727,7 @@
           </Line2D>
         </StockDrawingItems>
       </DrawingItems>
-      <DrawingItems BarDuration="TwoLineBreaks">
+      <DrawingItems BarDuration="TLB">
         <StockDrawingItems>
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -2853,7 +2853,7 @@
           </HalfLine2D>
         </StockDrawingItems>
       </DrawingItems>
-      <DrawingItems BarDuration="TwoLineBreaks">
+      <DrawingItems BarDuration="TLB">
         <StockDrawingItems>
           <Line2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -3130,7 +3130,7 @@
           </HalfLine2D>
         </StockDrawingItems>
       </DrawingItems>
-      <DrawingItems BarDuration="TwoLineBreaks">
+      <DrawingItems BarDuration="TLB">
         <StockDrawingItems>
           <Line2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -3218,7 +3218,7 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FTSE100">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TwoLineBreaks">
+      <DrawingItems BarDuration="TLB">
         <StockDrawingItems>
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -3244,7 +3244,7 @@
           </HalfLine2D>
         </StockDrawingItems>
       </DrawingItems>
-      <DrawingItems BarDuration="TwoLineBreaks_3D">
+      <DrawingItems BarDuration="TLB_3D">
         <StockDrawingItems>
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -3311,7 +3311,7 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FTSE350 HIGHER YLD">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TwoLineBreaks">
+      <DrawingItems BarDuration="TLB">
         <StockDrawingItems>
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -3330,7 +3330,7 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FTSE350 LOWER YLD">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TwoLineBreaks">
+      <DrawingItems BarDuration="TLB">
         <StockDrawingItems>
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -3468,7 +3468,7 @@
           </HalfLine2D>
         </StockDrawingItems>
       </DrawingItems>
-      <DrawingItems BarDuration="TwoLineBreaks">
+      <DrawingItems BarDuration="TLB">
         <StockDrawingItems>
           <Line2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -3570,7 +3570,7 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="VXN">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TwoLineBreaks">
+      <DrawingItems BarDuration="TLB">
         <StockDrawingItems>
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -3911,7 +3911,7 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="EUR-USD">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TwoLineBreaks_3D">
+      <DrawingItems BarDuration="TLB_3D">
         <StockDrawingItems>
           <Line2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -3967,7 +3967,7 @@
           </Line2D>
         </StockDrawingItems>
       </DrawingItems>
-      <DrawingItems BarDuration="TwoLineBreaks_3D">
+      <DrawingItems BarDuration="TLB_3D">
         <StockDrawingItems>
           <Line2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -4130,7 +4130,7 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_AREVA">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TwoLineBreaks_3D">
+      <DrawingItems BarDuration="TLB_3D">
         <StockDrawingItems>
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -4149,7 +4149,7 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_BNP PARIBAS">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TwoLineBreaks_3D">
+      <DrawingItems BarDuration="TLB_3D">
         <StockDrawingItems>
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -4168,7 +4168,7 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_CGG">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TwoLineBreaks_3D">
+      <DrawingItems BarDuration="TLB_3D">
         <StockDrawingItems>
           <Line2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -4224,7 +4224,7 @@
           </Line2D>
         </StockDrawingItems>
       </DrawingItems>
-      <DrawingItems BarDuration="TwoLineBreaks_6D">
+      <DrawingItems BarDuration="TLB_6D">
         <StockDrawingItems>
           <Line2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -4271,7 +4271,7 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_LYXOR BX4">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TwoLineBreaks_3D">
+      <DrawingItems BarDuration="TLB_3D">
         <StockDrawingItems>
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -4301,7 +4301,7 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_LYXOR LEV CAC 40">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TwoLineBreaks_9D">
+      <DrawingItems BarDuration="TLB_9D">
         <StockDrawingItems>
           <Line2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -4316,7 +4316,7 @@
           </Line2D>
         </StockDrawingItems>
       </DrawingItems>
-      <DrawingItems BarDuration="TwoLineBreaks_6D">
+      <DrawingItems BarDuration="TLB_6D">
         <StockDrawingItems>
           <Line2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -4357,7 +4357,7 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_PERNOD RICARD">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TwoLineBreaks_3D">
+      <DrawingItems BarDuration="TLB_3D">
         <StockDrawingItems>
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -4376,7 +4376,7 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_PEUGEOT">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TwoLineBreaks_3D">
+      <DrawingItems BarDuration="TLB_3D">
         <StockDrawingItems>
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -4436,7 +4436,7 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_SEQUANA">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TwoLineBreaks_6D">
+      <DrawingItems BarDuration="TLB_6D">
         <StockDrawingItems>
           <Line2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -4466,7 +4466,7 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_SOCIETE GENERALE">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TwoLineBreaks_3D">
+      <DrawingItems BarDuration="TLB_3D">
         <StockDrawingItems>
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -4496,7 +4496,7 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_SOITEC">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TwoLineBreaks_3D">
+      <DrawingItems BarDuration="TLB_3D">
         <StockDrawingItems>
           <Segment2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -4511,7 +4511,7 @@
           </Segment2D>
         </StockDrawingItems>
       </DrawingItems>
-      <DrawingItems BarDuration="TwoLineBreaks_6D">
+      <DrawingItems BarDuration="TLB_6D">
         <StockDrawingItems>
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -4552,7 +4552,7 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_VALLOUREC">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TwoLineBreaks_6D">
+      <DrawingItems BarDuration="TLB_6D">
         <StockDrawingItems>
           <Line2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
