@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="Windows-1252"?>
 <StockPortofolioList>
   <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <Name>BinckPEA</Name>
+    <Name>BinckPEA_P</Name>
     <TotalDeposit>10000</TotalDeposit>
     <OffsetLiquidity>0</OffsetLiquidity>
     <Currency>8364</Currency>
@@ -20,7 +20,24 @@
         <ID>9</ID>
         <Number>200</Number>
         <Value>4.957</Value>
-        <Fee>2.500069</Fee>
+        <Fee>2.5000</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ABC ARBITRAGE</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2015-09-03T00:00:00+01:00</CreationDate>
+        <ExecutionDate>2015-09-03T00:00:00+01:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <Number>199</Number>
+        <Value>5.2259</Value>
+        <Fee>0</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
         <Limit>0</Limit>
@@ -138,7 +155,7 @@
     </OrderList>
   </StockPortofolio>
   <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <Name>BinckTitre</Name>
+    <Name>BinckTitre_P</Name>
     <TotalDeposit>10000</TotalDeposit>
     <OffsetLiquidity>0</OffsetLiquidity>
     <Currency>8364</Currency>

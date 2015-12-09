@@ -8,16 +8,25 @@
     <Group>ALL</Group>
     <IsSimulation>false</IsSimulation>
     <IsVirtual>false</IsVirtual>
-    <OrderList />
-  </StockPortofolio>
-  <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <Name>BinckTitre_P</Name>
-    <TotalDeposit>10000</TotalDeposit>
-    <OffsetLiquidity>0</OffsetLiquidity>
-    <Currency>8364</Currency>
-    <Group>ALL</Group>
-    <IsSimulation>false</IsSimulation>
-    <IsVirtual>false</IsVirtual>
-    <OrderList />
+    <OrderList>
+      <StockOrder>
+        <StockName>INNATE PHARMA</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2015-12-09T00:00:00+01:00</CreationDate>
+        <ExecutionDate>2015-12-09T14:47:25</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>2</ID>
+        <Number>71</Number>
+        <Value>13.25</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+    </OrderList>
   </StockPortofolio>
 </StockPortofolioList>
