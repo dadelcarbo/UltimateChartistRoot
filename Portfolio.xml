@@ -10,60 +10,6 @@
     <IsVirtual>false</IsVirtual>
     <OrderList>
       <StockOrder>
-        <StockName>ABC ARBITRAGE</StockName>
-        <Type>BuyAtLimit</Type>
-        <CreationDate>2015-03-09T00:00:00</CreationDate>
-        <ExecutionDate>2015-03-09T00:00:00</ExecutionDate>
-        <ExpiryDate>2015-04-09T00:00:00</ExpiryDate>
-        <State>Executed</State>
-        <IsShortOrder>false</IsShortOrder>
-        <ID>34</ID>
-        <Number>199</Number>
-        <Value>5.2259</Value>
-        <Fee>0</Fee>
-        <Benchmark>0</Benchmark>
-        <GapInPoints>0</GapInPoints>
-        <Limit>0</Limit>
-        <Threshold>0</Threshold>
-        <AmountToInvest>1000</AmountToInvest>
-      </StockOrder>
-      <StockOrder>
-        <StockName>VALLOUREC</StockName>
-        <Type>BuyAtLimit</Type>
-        <CreationDate>2015-08-24T00:00:00</CreationDate>
-        <ExecutionDate>2015-08-24T00:00:00</ExecutionDate>
-        <ExpiryDate>2015-09-24T00:00:00</ExpiryDate>
-        <State>Executed</State>
-        <IsShortOrder>false</IsShortOrder>
-        <ID>42</ID>
-        <Number>150</Number>
-        <Value>11.3353</Value>
-        <Fee>0</Fee>
-        <Benchmark>0</Benchmark>
-        <GapInPoints>0</GapInPoints>
-        <Limit>0</Limit>
-        <Threshold>0</Threshold>
-        <AmountToInvest>1000</AmountToInvest>
-      </StockOrder>
-      <StockOrder>
-        <StockName>MPI</StockName>
-        <Type>BuyAtLimit</Type>
-        <CreationDate>2015-09-02T00:00:00</CreationDate>
-        <ExecutionDate>2015-09-02T00:00:00</ExecutionDate>
-        <ExpiryDate>2015-10-02T00:00:00</ExpiryDate>
-        <State>Executed</State>
-        <IsShortOrder>false</IsShortOrder>
-        <ID>38</ID>
-        <Number>2302</Number>
-        <Value>2.6467</Value>
-        <Fee>0</Fee>
-        <Benchmark>0</Benchmark>
-        <GapInPoints>0</GapInPoints>
-        <Limit>0</Limit>
-        <Threshold>0</Threshold>
-        <AmountToInvest>1000</AmountToInvest>
-      </StockOrder>
-      <StockOrder>
         <StockName>ARCELOR MITTAL</StockName>
         <Type>BuyAtLimit</Type>
         <CreationDate>2015-11-13T00:00:00+01:00</CreationDate>
@@ -183,78 +129,6 @@
         <Number>144</Number>
         <Value>14.342</Value>
         <Fee>5</Fee>
-        <Benchmark>0</Benchmark>
-        <GapInPoints>0</GapInPoints>
-        <Limit>0</Limit>
-        <Threshold>0</Threshold>
-        <AmountToInvest>0</AmountToInvest>
-      </StockOrder>
-      <StockOrder>
-        <StockName>AWOX</StockName>
-        <Type>BuyAtLimit</Type>
-        <CreationDate>2015-11-23T00:00:00+01:00</CreationDate>
-        <ExecutionDate>2015-11-20T14:21:03</ExecutionDate>
-        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
-        <State>Executed</State>
-        <IsShortOrder>false</IsShortOrder>
-        <ID>20</ID>
-        <Number>219</Number>
-        <Value>4.55</Value>
-        <Fee>2.5</Fee>
-        <Benchmark>0</Benchmark>
-        <GapInPoints>0</GapInPoints>
-        <Limit>0</Limit>
-        <Threshold>0</Threshold>
-        <AmountToInvest>0</AmountToInvest>
-      </StockOrder>
-      <StockOrder>
-        <StockName>VET AFFAIRES</StockName>
-        <Type>BuyAtLimit</Type>
-        <CreationDate>2015-11-23T00:00:00+01:00</CreationDate>
-        <ExecutionDate>2015-11-23T09:34:14</ExecutionDate>
-        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
-        <State>Executed</State>
-        <IsShortOrder>false</IsShortOrder>
-        <ID>18</ID>
-        <Number>380</Number>
-        <Value>2.58</Value>
-        <Fee>2.5</Fee>
-        <Benchmark>0</Benchmark>
-        <GapInPoints>0</GapInPoints>
-        <Limit>0</Limit>
-        <Threshold>0</Threshold>
-        <AmountToInvest>0</AmountToInvest>
-      </StockOrder>
-      <StockOrder>
-        <StockName>VET AFFAIRES</StockName>
-        <Type>SellAtLimit</Type>
-        <CreationDate>2015-11-23T00:00:00+01:00</CreationDate>
-        <ExecutionDate>2015-11-23T13:28:37</ExecutionDate>
-        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
-        <State>Executed</State>
-        <IsShortOrder>false</IsShortOrder>
-        <ID>23</ID>
-        <Number>334</Number>
-        <Value>2.99</Value>
-        <Fee>2.5</Fee>
-        <Benchmark>0</Benchmark>
-        <GapInPoints>0</GapInPoints>
-        <Limit>0</Limit>
-        <Threshold>0</Threshold>
-        <AmountToInvest>0</AmountToInvest>
-      </StockOrder>
-      <StockOrder>
-        <StockName>EDF</StockName>
-        <Type>BuyAtLimit</Type>
-        <CreationDate>2015-11-23T00:00:00+01:00</CreationDate>
-        <ExecutionDate>2015-11-23T16:25:20</ExecutionDate>
-        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
-        <State>Executed</State>
-        <IsShortOrder>false</IsShortOrder>
-        <ID>24</ID>
-        <Number>69</Number>
-        <Value>14.31</Value>
-        <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
         <Limit>0</Limit>
