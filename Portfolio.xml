@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="Windows-1252"?>
 <StockPortofolioList>
   <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <Name>BinckPEA_P</Name>
+    <Name>BinckPEA</Name>
     <TotalDeposit>10000</TotalDeposit>
     <OffsetLiquidity>0</OffsetLiquidity>
     <Currency>8364</Currency>
@@ -264,7 +264,7 @@
     </OrderList>
   </StockPortofolio>
   <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <Name>BinckTitre_P</Name>
+    <Name>BinckTitre</Name>
     <TotalDeposit>10000</TotalDeposit>
     <OffsetLiquidity>0</OffsetLiquidity>
     <Currency>8364</Currency>
