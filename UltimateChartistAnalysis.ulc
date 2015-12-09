@@ -3394,28 +3394,28 @@
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
       <DrawingItems BarDuration="TLB_6D_EMA3">
         <StockDrawingItems>
-          <HalfLine2D>
+          <Line2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>5047</X>
-              <Y>6.165383</Y>
+              <X>6441</X>
+              <Y>3.499034</Y>
             </PointF>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>5606</X>
-              <Y>5.51252842</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>5283</X>
-              <Y>5.11846733</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>5867</X>
-              <Y>4.506758</Y>
+              <X>7000</X>
+              <Y>2.84617949</Y>
             </PointF>
             <Pen>1:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
+          </Line2D>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>4017.92</X>
+              <Y>7.39080143</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>4576.92</X>
+              <Y>6.737947</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Line2D>
         </StockDrawingItems>
       </DrawingItems>
     </StockAnalysis>
