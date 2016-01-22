@@ -10,6 +10,24 @@
     <IsVirtual>false</IsVirtual>
     <OrderList>
       <StockOrder>
+        <StockName>ABC ARBITRAGE</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2015-09-03T01:00:00+02:00</CreationDate>
+        <ExecutionDate>2015-09-03T01:00:00+02:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>10</ID>
+        <Number>199</Number>
+        <Value>5.2259</Value>
+        <Fee>0</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
         <StockName>ARCELOR MITTAL</StockName>
         <Type>BuyAtLimit</Type>
         <CreationDate>2015-11-13T00:00:00+01:00</CreationDate>
@@ -20,24 +38,7 @@
         <ID>9</ID>
         <Number>200</Number>
         <Value>4.957</Value>
-        <Fee>2.5000</Fee>
-        <Benchmark>0</Benchmark>
-        <GapInPoints>0</GapInPoints>
-        <Limit>0</Limit>
-        <Threshold>0</Threshold>
-        <AmountToInvest>0</AmountToInvest>
-      </StockOrder>
-      <StockOrder>
-        <StockName>ABC ARBITRAGE</StockName>
-        <Type>BuyAtLimit</Type>
-        <CreationDate>2015-09-03T00:00:00+01:00</CreationDate>
-        <ExecutionDate>2015-09-03T00:00:00+01:00</ExecutionDate>
-        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
-        <State>Executed</State>
-        <IsShortOrder>false</IsShortOrder>
-        <Number>199</Number>
-        <Value>5.2259</Value>
-        <Fee>0</Fee>
+        <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
         <Limit>0</Limit>
@@ -152,6 +153,24 @@
         <Threshold>0</Threshold>
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
+      <StockOrder>
+        <StockName>LVC</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-01-15T00:00:00+01:00</CreationDate>
+        <ExecutionDate>2016-01-15T15:07:08</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>19</ID>
+        <Number>94</Number>
+        <Value>10.625</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
     </OrderList>
   </StockPortofolio>
   <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -162,25 +181,6 @@
     <Group>ALL</Group>
     <IsSimulation>false</IsSimulation>
     <IsVirtual>false</IsVirtual>
-    <OrderList>
-      <StockOrder>
-        <StockName>CAC40</StockName>
-        <Type>BuyAtLimit</Type>
-        <CreationDate>2015-11-13T00:00:00+01:00</CreationDate>
-        <ExecutionDate>2015-10-14T10:40:53</ExecutionDate>
-        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
-        <State>Executed</State>
-        <IsShortOrder>false</IsShortOrder>
-        <ID>15</ID>
-        <Number>774</Number>
-        <Value>0.31</Value>
-        <Fee>2.5</Fee>
-        <Benchmark>0</Benchmark>
-        <GapInPoints>0</GapInPoints>
-        <Limit>0</Limit>
-        <Threshold>0</Threshold>
-        <AmountToInvest>0</AmountToInvest>
-      </StockOrder>
-    </OrderList>
+    <OrderList />
   </StockPortofolio>
 </StockPortofolioList>
