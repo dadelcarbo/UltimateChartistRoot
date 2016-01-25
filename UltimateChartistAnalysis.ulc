@@ -460,6 +460,9 @@
   <StockAnalysisItem StockName="XIV">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="HeikinAshiSAR_NEW" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="AUSTRALIAN DOLLAR">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="COT" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="AD.CAC40">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="ADBench_CAC40" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>

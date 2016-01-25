@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StockFilteredStrategyBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>EMA_TRAIL</Name>
+  <TriggerName>TRAILHL(3)</TriggerName>
+  <FilterName>EMA(30)</FilterName>
+  <BuyTriggerEventName>UpTrend</BuyTriggerEventName>
+  <ShortTriggerEventName>DownTrend</ShortTriggerEventName>
+  <OkToBuyFilterEventName>Bullish</OkToBuyFilterEventName>
+  <OkToShortFilterEventName>Bearish</OkToShortFilterEventName>
+</StockFilteredStrategyBase>
