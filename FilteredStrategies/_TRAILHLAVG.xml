@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StockFilteredStrategyBase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>_TRAILHLAVG</Name>
+  <TriggerName>TRAILHLAVG(30,1)</TriggerName>
+  <FilterName>TRUE(1)</FilterName>
+  <BuyTriggerEventName>UpTrend</BuyTriggerEventName>
+  <ShortTriggerEventName>DownTrend</ShortTriggerEventName>
+  <OkToBuyFilterEventName>True</OkToBuyFilterEventName>
+  <OkToShortFilterEventName>True</OkToShortFilterEventName>
+</StockFilteredStrategyBase>
