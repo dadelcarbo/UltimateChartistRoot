@@ -511,4 +511,7 @@
   <StockAnalysisItem StockName="INT_ZODIAC AEROSPACE">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="TURBO BEST CAC40 CALL 3808">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
 </StockAnalysisList>
