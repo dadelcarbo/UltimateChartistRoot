@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="Windows-1252"?>
 <StockPortofolioList>
-  <StockPortofolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>BinckPEA_P</Name>
     <TotalDeposit>15704</TotalDeposit>
     <OffsetLiquidity>0</OffsetLiquidity>
@@ -20,6 +20,24 @@
         <ID>-1</ID>
         <Number>1856</Number>
         <Value>3.8214</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>BX4</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-03-04T00:00:00</CreationDate>
+        <ExecutionDate>2016-03-04T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>9</ID>
+        <Number>314</Number>
+        <Value>9.545</Value>
         <Fee>5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
@@ -48,14 +66,14 @@
       <StockOrder>
         <StockName>BX4</StockName>
         <Type>BuyAtLimit</Type>
-        <CreationDate>2016-03-04T00:00:00</CreationDate>
-        <ExecutionDate>2016-03-04T00:00:00</ExecutionDate>
+        <CreationDate>2016-03-07T00:00:00</CreationDate>
+        <ExecutionDate>2016-03-07T00:00:00</ExecutionDate>
         <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
         <State>Executed</State>
         <IsShortOrder>false</IsShortOrder>
-        <ID>9</ID>
-        <Number>314</Number>
-        <Value>9.545</Value>
+        <ID>11</ID>
+        <Number>317</Number>
+        <Value>9.45</Value>
         <Fee>5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
@@ -82,42 +100,6 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
-        <StockName>BX4</StockName>
-        <Type>BuyAtLimit</Type>
-        <CreationDate>2016-03-07T00:00:00</CreationDate>
-        <ExecutionDate>2016-03-07T00:00:00</ExecutionDate>
-        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
-        <State>Executed</State>
-        <IsShortOrder>false</IsShortOrder>
-        <ID>11</ID>
-        <Number>317</Number>
-        <Value>9.45</Value>
-        <Fee>5</Fee>
-        <Benchmark>0</Benchmark>
-        <GapInPoints>0</GapInPoints>
-        <Limit>0</Limit>
-        <Threshold>0</Threshold>
-        <AmountToInvest>0</AmountToInvest>
-      </StockOrder>
-      <StockOrder>
-        <StockName>BX4</StockName>
-        <Type>SellAtLimit</Type>
-        <CreationDate>2016-03-08T00:00:00</CreationDate>
-        <ExecutionDate>2016-03-08T00:00:00</ExecutionDate>
-        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
-        <State>Executed</State>
-        <IsShortOrder>false</IsShortOrder>
-        <ID>15</ID>
-        <Number>103</Number>
-        <Value>9.64</Value>
-        <Fee>2.5</Fee>
-        <Benchmark>0</Benchmark>
-        <GapInPoints>0</GapInPoints>
-        <Limit>0</Limit>
-        <Threshold>0</Threshold>
-        <AmountToInvest>0</AmountToInvest>
-      </StockOrder>
-      <StockOrder>
         <StockName>SECHE ENVIRONNEMENT</StockName>
         <Type>BuyAtLimit</Type>
         <CreationDate>2016-03-08T00:00:00</CreationDate>
@@ -136,16 +118,16 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
-        <StockName>CARREFOUR</StockName>
-        <Type>BuyAtLimit</Type>
-        <CreationDate>2016-03-09T00:00:00</CreationDate>
-        <ExecutionDate>2016-03-09T00:00:00</ExecutionDate>
+        <StockName>BX4</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-03-08T00:00:00</CreationDate>
+        <ExecutionDate>2016-03-08T00:00:00</ExecutionDate>
         <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
         <State>Executed</State>
         <IsShortOrder>false</IsShortOrder>
-        <ID>19</ID>
-        <Number>38</Number>
-        <Value>25.835</Value>
+        <ID>15</ID>
+        <Number>103</Number>
+        <Value>9.64</Value>
         <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
@@ -201,6 +183,24 @@
         <Number>218</Number>
         <Value>9.6</Value>
         <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CARREFOUR</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-03-09T00:00:00</CreationDate>
+        <ExecutionDate>2016-03-09T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>19</ID>
+        <Number>38</Number>
+        <Value>25.835</Value>
+        <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
         <Limit>0</Limit>
@@ -280,6 +280,24 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
+        <StockName>ERAMET</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-03-17T00:00:00</CreationDate>
+        <ExecutionDate>2016-03-17T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>27</ID>
+        <Number>41</Number>
+        <Value>23.9</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
         <StockName>CARREFOUR</StockName>
         <Type>SellAtLimit</Type>
         <CreationDate>2016-03-17T00:00:00</CreationDate>
@@ -326,24 +344,6 @@
         <ID>31</ID>
         <Number>10</Number>
         <Value>89.15</Value>
-        <Fee>2.5</Fee>
-        <Benchmark>0</Benchmark>
-        <GapInPoints>0</GapInPoints>
-        <Limit>0</Limit>
-        <Threshold>0</Threshold>
-        <AmountToInvest>0</AmountToInvest>
-      </StockOrder>
-      <StockOrder>
-        <StockName>ERAMET</StockName>
-        <Type>BuyAtLimit</Type>
-        <CreationDate>2016-03-17T00:00:00</CreationDate>
-        <ExecutionDate>2016-03-17T00:00:00</ExecutionDate>
-        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
-        <State>Executed</State>
-        <IsShortOrder>false</IsShortOrder>
-        <ID>27</ID>
-        <Number>41</Number>
-        <Value>23.9</Value>
         <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
@@ -413,10 +413,10 @@
         <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
         <State>Executed</State>
         <IsShortOrder>false</IsShortOrder>
-        <ID>38</ID>
-        <Number>1135</Number>
-        <Value>1.76</Value>
-        <Fee>5</Fee>
+        <ID>37</ID>
+        <Number>561</Number>
+        <Value>1.78</Value>
+        <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
         <Limit>0</Limit>
@@ -431,28 +431,10 @@
         <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
         <State>Executed</State>
         <IsShortOrder>false</IsShortOrder>
-        <ID>37</ID>
-        <Number>561</Number>
-        <Value>1.78</Value>
-        <Fee>2.5</Fee>
-        <Benchmark>0</Benchmark>
-        <GapInPoints>0</GapInPoints>
-        <Limit>0</Limit>
-        <Threshold>0</Threshold>
-        <AmountToInvest>0</AmountToInvest>
-      </StockOrder>
-      <StockOrder>
-        <StockName>VERGNET</StockName>
-        <Type>SellAtLimit</Type>
-        <CreationDate>2016-03-29T00:00:00</CreationDate>
-        <ExecutionDate>2016-03-29T00:00:00</ExecutionDate>
-        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
-        <State>Executed</State>
-        <IsShortOrder>false</IsShortOrder>
-        <ID>41</ID>
-        <Number>469</Number>
-        <Value>2.13</Value>
-        <Fee>2.5</Fee>
+        <ID>38</ID>
+        <Number>1135</Number>
+        <Value>1.76</Value>
+        <Fee>5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
         <Limit>0</Limit>
@@ -485,9 +467,117 @@
         <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
         <State>Executed</State>
         <IsShortOrder>false</IsShortOrder>
+        <ID>41</ID>
+        <Number>469</Number>
+        <Value>2.13</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VERGNET</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-03-29T00:00:00</CreationDate>
+        <ExecutionDate>2016-03-29T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
         <ID>42</ID>
         <Number>444</Number>
         <Value>2.25</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VERGNET</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-03-30T00:00:00</CreationDate>
+        <ExecutionDate>2016-03-30T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>44</ID>
+        <Number>469</Number>
+        <Value>2.13</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ENGIE</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-03-30T00:00:00</CreationDate>
+        <ExecutionDate>2016-03-30T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>45</ID>
+        <Number>72</Number>
+        <Value>13.795</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VERGNET</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-03-30T00:00:00</CreationDate>
+        <ExecutionDate>2016-03-30T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>46</ID>
+        <Number>999</Number>
+        <Value>2.06</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ENGIE</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-03-30T00:00:00</CreationDate>
+        <ExecutionDate>2016-03-30T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>47</ID>
+        <Number>145</Number>
+        <Value>13.785</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VERGNET</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-03-30T00:00:00</CreationDate>
+        <ExecutionDate>2016-03-30T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>48</ID>
+        <Number>445</Number>
+        <Value>2.24</Value>
         <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
@@ -533,7 +623,7 @@
       </StockOrder>
     </OrderList>
   </StockPortofolio>
-  <StockPortofolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>BinckTitre_P</Name>
     <TotalDeposit>10000</TotalDeposit>
     <OffsetLiquidity>0</OffsetLiquidity>
@@ -550,10 +640,10 @@
         <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
         <State>Executed</State>
         <IsShortOrder>false</IsShortOrder>
-        <ID>38</ID>
-        <Number>1135</Number>
-        <Value>1.76</Value>
-        <Fee>5</Fee>
+        <ID>37</ID>
+        <Number>561</Number>
+        <Value>1.78</Value>
+        <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
         <Limit>0</Limit>
@@ -568,10 +658,10 @@
         <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
         <State>Executed</State>
         <IsShortOrder>false</IsShortOrder>
-        <ID>37</ID>
-        <Number>561</Number>
-        <Value>1.78</Value>
-        <Fee>2.5</Fee>
+        <ID>38</ID>
+        <Number>1135</Number>
+        <Value>1.76</Value>
+        <Fee>5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
         <Limit>0</Limit>
@@ -604,9 +694,9 @@
         <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
         <State>Executed</State>
         <IsShortOrder>false</IsShortOrder>
-        <ID>42</ID>
-        <Number>444</Number>
-        <Value>2.25</Value>
+        <ID>41</ID>
+        <Number>469</Number>
+        <Value>2.13</Value>
         <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
@@ -622,9 +712,9 @@
         <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
         <State>Executed</State>
         <IsShortOrder>false</IsShortOrder>
-        <ID>41</ID>
-        <Number>469</Number>
-        <Value>2.13</Value>
+        <ID>42</ID>
+        <Number>444</Number>
+        <Value>2.25</Value>
         <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
