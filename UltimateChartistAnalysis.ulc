@@ -30,9 +30,6 @@
       </DrawingItems>
     </StockAnalysis>
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="VERGNET">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
   <StockAnalysisItem StockName="AB SCIENCE">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
       <DrawingItems BarDuration="Daily">
@@ -116,7 +113,34 @@
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ACCOR HOTELS">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="HeikinAshiSAR_NEW" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
+      <DrawingItems BarDuration="Daily">
+        <StockDrawingItems>
+          <HalfLine2D>
+            <PointF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+              <X>2515</X>
+              <Y>46.22</Y>
+            </PointF>
+            <PointF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+              <X>2603</X>
+              <Y>40.3</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
+          <Line2D>
+            <PointF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+              <X>2621</X>
+              <Y>35.955</Y>
+            </PointF>
+            <PointF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+              <X>2709</X>
+              <Y>30.035</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Line2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ADP">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
@@ -440,9 +464,6 @@
       </DrawingItems>
     </StockAnalysis>
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="CAC40">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="ReportTheme" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
   <StockAnalysisItem StockName="SRD">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
       <DrawingItems BarDuration="Daily">
@@ -483,30 +504,6 @@
         </StockDrawingItems>
       </DrawingItems>
     </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="BEAR/BULL Log Ratio">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="BullBearRatio" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="PCR.EQUITY">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="PCR_Bench" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="VIX">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="HeikinAshiSAR_NEW" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="XIV">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="HeikinAshiSAR_NEW" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="AUSTRALIAN DOLLAR">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="COT" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="AD.CAC40">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="ADBench" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="INT_ABC ARBITRAGE">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="ReportTheme" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="TURBO BEST CAC40 CALL 3808">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="ReportTheme" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="TURBO BEST SILVER CALL 12.11">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
