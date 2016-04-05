@@ -586,6 +586,60 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
+        <StockName>VERGNET</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-04-01T00:00:00</CreationDate>
+        <ExecutionDate>2016-04-01T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>50</ID>
+        <Number>432</Number>
+        <Value>2.31</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VERGNET</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-04-04T00:00:00</CreationDate>
+        <ExecutionDate>2016-04-04T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>51</ID>
+        <Number>520</Number>
+        <Value>1.92</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VERGNET</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-04-04T00:00:00</CreationDate>
+        <ExecutionDate>2016-04-04T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>52</ID>
+        <Number>482</Number>
+        <Value>2.08</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
         <StockName>SECHE ENVIRONNEMENT</StockName>
         <Type>SellAtLimit</Type>
         <CreationDate>2016-04-06T00:00:00</CreationDate>
