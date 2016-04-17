@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="Windows-1252"?>
 <StockPortofolioList>
-  <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <StockPortofolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <Name>BinckPEA_P</Name>
     <TotalDeposit>15704</TotalDeposit>
     <OffsetLiquidity>0</OffsetLiquidity>
@@ -640,6 +640,24 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
+        <StockName>MAUREL ET PROM</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-04-04T00:00:00</CreationDate>
+        <ExecutionDate>2016-04-04T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>53</ID>
+        <Number>343</Number>
+        <Value>2.91</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
         <StockName>SECHE ENVIRONNEMENT</StockName>
         <Type>SellAtLimit</Type>
         <CreationDate>2016-04-06T00:00:00</CreationDate>
@@ -651,6 +669,96 @@
         <Number>35</Number>
         <Value>29.77</Value>
         <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>BX4</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-04-06T00:00:00</CreationDate>
+        <ExecutionDate>2016-04-06T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>55</ID>
+        <Number>324</Number>
+        <Value>10.08</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VERGNET</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-04-06T00:00:00</CreationDate>
+        <ExecutionDate>2016-04-06T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>56</ID>
+        <Number>525</Number>
+        <Value>1.9</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VERGNET</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-04-06T00:00:00</CreationDate>
+        <ExecutionDate>2016-04-06T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>57</ID>
+        <Number>523</Number>
+        <Value>1.90698</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VERGNET</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-04-11T00:00:00</CreationDate>
+        <ExecutionDate>2016-04-11T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>60</ID>
+        <Number>1000</Number>
+        <Value>1.80001</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VERGNET</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-04-13T00:00:00</CreationDate>
+        <ExecutionDate>2016-04-13T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>62</ID>
+        <Number>545</Number>
+        <Value>1.82</Value>
+        <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
         <Limit>0</Limit>
@@ -675,9 +783,27 @@
         <Threshold>0</Threshold>
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
+      <StockOrder>
+        <StockName>VERGNET</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-05-09T00:00:00</CreationDate>
+        <ExecutionDate>2016-05-09T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>61</ID>
+        <Number>522</Number>
+        <Value>1.91</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
     </OrderList>
   </StockPortofolio>
-  <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <StockPortofolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <Name>BinckTitre_P</Name>
     <TotalDeposit>10000</TotalDeposit>
     <OffsetLiquidity>0</OffsetLiquidity>
