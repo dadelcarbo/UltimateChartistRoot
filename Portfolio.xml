@@ -28,6 +28,186 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
+        <StockName>CASINO GUICHARD</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2015-12-02T00:00:00</CreationDate>
+        <ExecutionDate>2015-12-02T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>-4</ID>
+        <Number>20</Number>
+        <Value>49.02</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ERAMET</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2015-12-02T00:00:00</CreationDate>
+        <ExecutionDate>2015-12-02T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>-4</ID>
+        <Number>34</Number>
+        <Value>22</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VALLOUREC</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2015-12-02T00:00:00</CreationDate>
+        <ExecutionDate>2015-12-02T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>-3</ID>
+        <Number>661</Number>
+        <Value>7.33</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ARCELOR MITTAL</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2015-12-02T00:00:00</CreationDate>
+        <ExecutionDate>2015-12-02T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>-2</ID>
+        <Number>465</Number>
+        <Value>4.36</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ARCELOR MITTAL</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-03-03T00:00:00</CreationDate>
+        <ExecutionDate>2016-03-03T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>1</ID>
+        <Number>229</Number>
+        <Value>4.36</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VALLOUREC</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-03-04T00:00:00</CreationDate>
+        <ExecutionDate>2016-03-04T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>2</ID>
+        <Number>251</Number>
+        <Value>7.366</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CASINO GUICHARD</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-03-04T00:00:00</CreationDate>
+        <ExecutionDate>2016-03-04T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>4</ID>
+        <Number>20</Number>
+        <Value>49.02</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ARCELOR MITTAL</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-03-04T00:00:00</CreationDate>
+        <ExecutionDate>2016-03-04T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>5</ID>
+        <Number>236</Number>
+        <Value>4.489</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ERAMET</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-03-04T00:00:00</CreationDate>
+        <ExecutionDate>2016-03-04T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>7</ID>
+        <Number>34</Number>
+        <Value>21.21</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VALLOUREC</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-03-04T00:00:00</CreationDate>
+        <ExecutionDate>2016-03-04T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>8</ID>
+        <Number>410</Number>
+        <Value>7.27476</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
         <StockName>BX4</StockName>
         <Type>BuyAtLimit</Type>
         <CreationDate>2016-03-04T00:00:00</CreationDate>
@@ -56,24 +236,6 @@
         <ID>10</ID>
         <Number>856</Number>
         <Value>2.98</Value>
-        <Fee>5</Fee>
-        <Benchmark>0</Benchmark>
-        <GapInPoints>0</GapInPoints>
-        <Limit>0</Limit>
-        <Threshold>0</Threshold>
-        <AmountToInvest>0</AmountToInvest>
-      </StockOrder>
-      <StockOrder>
-        <StockName>SRD VALLOUREC</StockName>
-        <Type>BuyAtLimit</Type>
-        <CreationDate>2016-03-07T00:00:00</CreationDate>
-        <ExecutionDate>2016-03-07T00:00:00</ExecutionDate>
-        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
-        <State>Executed</State>
-        <IsShortOrder>false</IsShortOrder>
-        <ID>7</ID>
-        <Number>240</Number>
-        <Value>7.759</Value>
         <Fee>5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
@@ -111,24 +273,6 @@
         <Number>310</Number>
         <Value>9.66</Value>
         <Fee>5</Fee>
-        <Benchmark>0</Benchmark>
-        <GapInPoints>0</GapInPoints>
-        <Limit>0</Limit>
-        <Threshold>0</Threshold>
-        <AmountToInvest>0</AmountToInvest>
-      </StockOrder>
-      <StockOrder>
-        <StockName>CAC 40 CB BEST TURBO SHORT 4758.0628</StockName>
-        <Type>SellAtLimit</Type>
-        <CreationDate>2016-03-08T00:00:00</CreationDate>
-        <ExecutionDate>2016-03-08T00:00:00</ExecutionDate>
-        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
-        <State>Executed</State>
-        <IsShortOrder>false</IsShortOrder>
-        <ID>8</ID>
-        <Number>70</Number>
-        <Value>3.92</Value>
-        <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
         <Limit>0</Limit>
@@ -406,24 +550,6 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
-        <StockName>COFFEE FUTURE JUL 16 CB TURBO LONG 0.959</StockName>
-        <Type>SellAtLimit</Type>
-        <CreationDate>2016-03-23T00:00:00</CreationDate>
-        <ExecutionDate>2016-03-23T00:00:00</ExecutionDate>
-        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
-        <State>Executed</State>
-        <IsShortOrder>false</IsShortOrder>
-        <ID>21</ID>
-        <Number>123</Number>
-        <Value>1.43</Value>
-        <Fee>2.5</Fee>
-        <Benchmark>0</Benchmark>
-        <GapInPoints>0</GapInPoints>
-        <Limit>0</Limit>
-        <Threshold>0</Threshold>
-        <AmountToInvest>0</AmountToInvest>
-      </StockOrder>
-      <StockOrder>
         <StockName>BX4</StockName>
         <Type>BuyAtLimit</Type>
         <CreationDate>2016-03-23T00:00:00</CreationDate>
@@ -435,24 +561,6 @@
         <Number>429</Number>
         <Value>9.31</Value>
         <Fee>5</Fee>
-        <Benchmark>0</Benchmark>
-        <GapInPoints>0</GapInPoints>
-        <Limit>0</Limit>
-        <Threshold>0</Threshold>
-        <AmountToInvest>0</AmountToInvest>
-      </StockOrder>
-      <StockOrder>
-        <StockName>SRD STMICROELECTRONICS NV</StockName>
-        <Type>BuyAtLimit</Type>
-        <CreationDate>2016-03-24T00:00:00</CreationDate>
-        <ExecutionDate>2016-03-24T00:00:00</ExecutionDate>
-        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
-        <State>Executed</State>
-        <IsShortOrder>false</IsShortOrder>
-        <ID>28</ID>
-        <Number>192</Number>
-        <Value>4.883</Value>
-        <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
         <Limit>0</Limit>
@@ -838,6 +946,24 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
+        <StockName>VERGNET</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-04-18T00:00:00</CreationDate>
+        <ExecutionDate>2016-04-18T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>66</ID>
+        <Number>1244</Number>
+        <Value>1.7924</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
         <StockName>BX4</StockName>
         <Type>SellAtLimit</Type>
         <CreationDate>2016-04-19T00:00:00</CreationDate>
@@ -877,7 +1003,7 @@
   </StockPortofolio>
   <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>BinckTitre_P</Name>
-    <TotalDeposit>10000</TotalDeposit>
+    <TotalDeposit>1000</TotalDeposit>
     <OffsetLiquidity>0</OffsetLiquidity>
     <Currency>8364</Currency>
     <Group>ALL</Group>
@@ -914,42 +1040,6 @@
         <Number>70</Number>
         <Value>39.42</Value>
         <Fee>5</Fee>
-        <Benchmark>0</Benchmark>
-        <GapInPoints>0</GapInPoints>
-        <Limit>0</Limit>
-        <Threshold>0</Threshold>
-        <AmountToInvest>0</AmountToInvest>
-      </StockOrder>
-      <StockOrder>
-        <StockName>COPPER FUTURE [MAY-16] CB TL 1.924</StockName>
-        <Type>SellAtLimit</Type>
-        <CreationDate>2016-03-04T00:00:00</CreationDate>
-        <ExecutionDate>2016-03-04T00:00:00</ExecutionDate>
-        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
-        <State>Executed</State>
-        <IsShortOrder>false</IsShortOrder>
-        <ID>3</ID>
-        <Number>150</Number>
-        <Value>3.28</Value>
-        <Fee>2.5</Fee>
-        <Benchmark>0</Benchmark>
-        <GapInPoints>0</GapInPoints>
-        <Limit>0</Limit>
-        <Threshold>0</Threshold>
-        <AmountToInvest>0</AmountToInvest>
-      </StockOrder>
-      <StockOrder>
-        <StockName>TURBO BEST CAC40 PUT 4750</StockName>
-        <Type>BuyAtLimit</Type>
-        <CreationDate>2016-03-04T00:00:00</CreationDate>
-        <ExecutionDate>2016-03-04T00:00:00</ExecutionDate>
-        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
-        <State>Executed</State>
-        <IsShortOrder>false</IsShortOrder>
-        <ID>4</ID>
-        <Number>135</Number>
-        <Value>3.71</Value>
-        <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
         <Limit>0</Limit>
@@ -1004,42 +1094,6 @@
         <Number>240</Number>
         <Value>7.759</Value>
         <Fee>5</Fee>
-        <Benchmark>0</Benchmark>
-        <GapInPoints>0</GapInPoints>
-        <Limit>0</Limit>
-        <Threshold>0</Threshold>
-        <AmountToInvest>0</AmountToInvest>
-      </StockOrder>
-      <StockOrder>
-        <StockName>CAC 40 CB BEST TURBO SHORT 4758.0628</StockName>
-        <Type>SellAtLimit</Type>
-        <CreationDate>2016-03-08T00:00:00</CreationDate>
-        <ExecutionDate>2016-03-08T00:00:00</ExecutionDate>
-        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
-        <State>Executed</State>
-        <IsShortOrder>false</IsShortOrder>
-        <ID>8</ID>
-        <Number>70</Number>
-        <Value>3.92</Value>
-        <Fee>2.5</Fee>
-        <Benchmark>0</Benchmark>
-        <GapInPoints>0</GapInPoints>
-        <Limit>0</Limit>
-        <Threshold>0</Threshold>
-        <AmountToInvest>0</AmountToInvest>
-      </StockOrder>
-      <StockOrder>
-        <StockName>CAC 40 CB BEST TURBO SHORT 4758.0628</StockName>
-        <Type>SellAtLimit</Type>
-        <CreationDate>2016-03-09T00:00:00</CreationDate>
-        <ExecutionDate>2016-03-09T00:00:00</ExecutionDate>
-        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
-        <State>Executed</State>
-        <IsShortOrder>false</IsShortOrder>
-        <ID>9</ID>
-        <Number>65</Number>
-        <Value>3.76</Value>
-        <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
         <Limit>0</Limit>
@@ -1237,6 +1291,24 @@
         <ID>22</ID>
         <Number>205</Number>
         <Value>4.85</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>RECYLEX</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-03-24T00:00:00</CreationDate>
+        <ExecutionDate>2016-03-24T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>26</ID>
+        <Number>270</Number>
+        <Value>2.78</Value>
         <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
@@ -1533,6 +1605,24 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
+        <StockName>ARCELOR MITTAL CB BTS 4.7693</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-04-13T00:00:00</CreationDate>
+        <ExecutionDate>2016-04-13T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>48</ID>
+        <Number>1462</Number>
+        <Value>0</Value>
+        <Fee>0</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
         <StockName>REMY COINTREAU</StockName>
         <Type>SellAtLimit</Type>
         <CreationDate>2016-04-14T00:00:00</CreationDate>
@@ -1579,6 +1669,24 @@
         <ID>47</ID>
         <Number>142</Number>
         <Value>2.1</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>TURBO BEST CAC40 PUT 4750</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-04-20T00:00:00</CreationDate>
+        <ExecutionDate>2016-04-20T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>49</ID>
+        <Number>77</Number>
+        <Value>1.93</Value>
         <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
