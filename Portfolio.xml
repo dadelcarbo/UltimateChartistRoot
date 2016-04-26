@@ -4,7 +4,6 @@
     <Name>BinckPEA_P</Name>
     <TotalDeposit>15704</TotalDeposit>
     <OffsetLiquidity>0</OffsetLiquidity>
-    <Currency>8364</Currency>
     <Group>ALL</Group>
     <IsSimulation>false</IsSimulation>
     <IsVirtual>false</IsVirtual>
@@ -984,6 +983,24 @@
       <StockOrder>
         <StockName>VERGNET</StockName>
         <Type>SellAtLimit</Type>
+        <CreationDate>2016-04-26T00:00:00</CreationDate>
+        <ExecutionDate>2016-04-26T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>58</ID>
+        <Number>507</Number>
+        <Value>1.97</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VERGNET</StockName>
+        <Type>SellAtLimit</Type>
         <CreationDate>2016-05-09T00:00:00</CreationDate>
         <ExecutionDate>2016-05-09T00:00:00</ExecutionDate>
         <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
@@ -1005,7 +1022,6 @@
     <Name>BinckTitre_P</Name>
     <TotalDeposit>1000</TotalDeposit>
     <OffsetLiquidity>0</OffsetLiquidity>
-    <Currency>8364</Currency>
     <Group>ALL</Group>
     <IsSimulation>false</IsSimulation>
     <IsVirtual>false</IsVirtual>
@@ -1687,6 +1703,96 @@
         <ID>49</ID>
         <Number>77</Number>
         <Value>1.93</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>TURBO BEST CAC40 PUT 4750</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-04-21T00:00:00</CreationDate>
+        <ExecutionDate>2016-04-21T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>51</ID>
+        <Number>100</Number>
+        <Value>2.11</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>TURBO BEST CAC40 PUT 4750</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-04-22T00:00:00</CreationDate>
+        <ExecutionDate>2016-04-22T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>52</ID>
+        <Number>100</Number>
+        <Value>1.88</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>TURBO BEST CAC40 PUT 4750</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-04-22T00:00:00</CreationDate>
+        <ExecutionDate>2016-04-22T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>53</ID>
+        <Number>100</Number>
+        <Value>2.08</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>EURO BUND FUTURE [JUN-16 CB BTS 177.4626</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-04-25T00:00:00</CreationDate>
+        <ExecutionDate>2016-04-25T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>54</ID>
+        <Number>20</Number>
+        <Value>14.85</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>COFFEE FUTURE JUL 16 CB TURBO LONG 0.959</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-04-25T00:00:00</CreationDate>
+        <ExecutionDate>2016-04-25T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>55</ID>
+        <Number>300</Number>
+        <Value>1.1</Value>
         <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
