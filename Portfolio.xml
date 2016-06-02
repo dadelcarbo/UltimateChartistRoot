@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="Windows-1252"?>
 <StockPortofolioList>
-  <StockPortofolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>BinckPEA_P</Name>
     <TotalDeposit>15704</TotalDeposit>
     <OffsetLiquidity>0</OffsetLiquidity>
@@ -27,24 +27,6 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
-        <StockName>CASINO GUICHARD</StockName>
-        <Type>BuyAtLimit</Type>
-        <CreationDate>2015-12-02T00:00:00</CreationDate>
-        <ExecutionDate>2015-12-02T00:00:00</ExecutionDate>
-        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
-        <State>Executed</State>
-        <IsShortOrder>false</IsShortOrder>
-        <ID>-4</ID>
-        <Number>20</Number>
-        <Value>49.02</Value>
-        <Fee>5</Fee>
-        <Benchmark>0</Benchmark>
-        <GapInPoints>0</GapInPoints>
-        <Limit>0</Limit>
-        <Threshold>0</Threshold>
-        <AmountToInvest>0</AmountToInvest>
-      </StockOrder>
-      <StockOrder>
         <StockName>ERAMET</StockName>
         <Type>BuyAtLimit</Type>
         <CreationDate>2015-12-02T00:00:00</CreationDate>
@@ -56,6 +38,24 @@
         <Number>34</Number>
         <Value>22</Value>
         <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CASINO GUICHARD</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2015-12-02T00:00:00</CreationDate>
+        <ExecutionDate>2015-12-02T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>-4</ID>
+        <Number>20</Number>
+        <Value>49.02</Value>
+        <Fee>5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
         <Limit>0</Limit>
@@ -1071,6 +1071,24 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
+        <StockName>BX4</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-05-02T00:00:00</CreationDate>
+        <ExecutionDate>2016-05-02T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>72</ID>
+        <Number>327</Number>
+        <Value>9.155</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
         <StockName>VERGNET</StockName>
         <Type>SellAtLimit</Type>
         <CreationDate>2016-05-09T00:00:00</CreationDate>
@@ -1088,9 +1106,81 @@
         <Threshold>0</Threshold>
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
+      <StockOrder>
+        <StockName>BX4</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-05-09T00:00:00</CreationDate>
+        <ExecutionDate>2016-05-09T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>73</ID>
+        <Number>327</Number>
+        <Value>9.59</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>LVC</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-05-09T00:00:00</CreationDate>
+        <ExecutionDate>2016-05-09T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>75</ID>
+        <Number>255</Number>
+        <Value>11.153</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>GEMALTO</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-05-09T00:00:00</CreationDate>
+        <ExecutionDate>2016-05-09T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>76</ID>
+        <Number>17</Number>
+        <Value>56.11</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>LVC</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-06-21T00:00:00</CreationDate>
+        <ExecutionDate>2016-06-21T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>77</ID>
+        <Number>80</Number>
+        <Value>12.45</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
     </OrderList>
   </StockPortofolio>
-  <StockPortofolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>BinckTitre_P</Name>
     <TotalDeposit>1000</TotalDeposit>
     <OffsetLiquidity>0</OffsetLiquidity>
@@ -1207,7 +1297,7 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
-        <StockName>COFFEE FUTURE JUL 16 CB TURBO LONG 0.959</StockName>
+        <StockName>TURBO COFFEE CALL 0.94</StockName>
         <Type>BuyAtLimit</Type>
         <CreationDate>2016-03-11T00:00:00</CreationDate>
         <ExecutionDate>2016-03-11T00:00:00</ExecutionDate>
@@ -1297,7 +1387,7 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
-        <StockName>COFFEE FUTURE JUL 16 CB TURBO LONG 0.959</StockName>
+        <StockName>TURBO COFFEE CALL 0.94</StockName>
         <Type>SellAtLimit</Type>
         <CreationDate>2016-03-23T00:00:00</CreationDate>
         <ExecutionDate>2016-03-23T00:00:00</ExecutionDate>
@@ -1351,7 +1441,7 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
-        <StockName>COFFEE FUTURE JUL 16 CB TURBO LONG 0.959</StockName>
+        <StockName>TURBO COFFEE CALL 0.94</StockName>
         <Type>SellAtLimit</Type>
         <CreationDate>2016-03-23T00:00:00</CreationDate>
         <ExecutionDate>2016-03-23T00:00:00</ExecutionDate>
@@ -1549,7 +1639,7 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
-        <StockName>COFFEE FUTURE JUL 16 CB TURBO LONG 0.959</StockName>
+        <StockName>TURBO COFFEE CALL 0.94</StockName>
         <Type>BuyAtLimit</Type>
         <CreationDate>2016-04-08T00:00:00</CreationDate>
         <ExecutionDate>2016-04-08T00:00:00</ExecutionDate>
@@ -1621,7 +1711,7 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
-        <StockName>EURO BUND FUTURE [JUN-16 CB BTS 177.4626</StockName>
+        <StockName>TURBO BEST EUROBUND PUT 180</StockName>
         <Type>BuyAtLimit</Type>
         <CreationDate>2016-04-12T00:00:00</CreationDate>
         <ExecutionDate>2016-04-12T00:00:00</ExecutionDate>
@@ -1639,7 +1729,7 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
-        <StockName>COFFEE FUTURE JUL 16 CB TURBO LONG 0.959</StockName>
+        <StockName>TURBO COFFEE CALL 0.94</StockName>
         <Type>SellAtLimit</Type>
         <CreationDate>2016-04-12T00:00:00</CreationDate>
         <ExecutionDate>2016-04-12T00:00:00</ExecutionDate>
@@ -1675,7 +1765,7 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
-        <StockName>COFFEE FUTURE JUL 16 CB TURBO LONG 0.959</StockName>
+        <StockName>TURBO COFFEE CALL 0.94</StockName>
         <Type>BuyAtLimit</Type>
         <CreationDate>2016-04-13T00:00:00</CreationDate>
         <ExecutionDate>2016-04-13T00:00:00</ExecutionDate>
@@ -1837,7 +1927,7 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
-        <StockName>EURO BUND FUTURE [JUN-16 CB BTS 177.4626</StockName>
+        <StockName>TURBO BEST EUROBUND PUT 180</StockName>
         <Type>SellAtLimit</Type>
         <CreationDate>2016-04-25T00:00:00</CreationDate>
         <ExecutionDate>2016-04-25T00:00:00</ExecutionDate>
@@ -1855,7 +1945,7 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
-        <StockName>COFFEE FUTURE JUL 16 CB TURBO LONG 0.959</StockName>
+        <StockName>TURBO COFFEE CALL 0.94</StockName>
         <Type>BuyAtLimit</Type>
         <CreationDate>2016-04-25T00:00:00</CreationDate>
         <ExecutionDate>2016-04-25T00:00:00</ExecutionDate>
@@ -1865,6 +1955,132 @@
         <ID>55</ID>
         <Number>300</Number>
         <Value>1.1</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>TURBO BEST CAC40 PUT 4750</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-05-02T00:00:00</CreationDate>
+        <ExecutionDate>2016-05-02T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>57</ID>
+        <Number>119</Number>
+        <Value>2.95</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>TURBO COFFEE CALL 0.94</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-05-02T00:00:00</CreationDate>
+        <ExecutionDate>2016-05-02T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>58</ID>
+        <Number>309</Number>
+        <Value>0.97</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>TURBO COFFEE CALL 0.94</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-05-03T00:00:00</CreationDate>
+        <ExecutionDate>2016-05-03T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>59</ID>
+        <Number>309</Number>
+        <Value>0.97</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>TURBO COFFEE CALL 0.94</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-05-23T00:00:00</CreationDate>
+        <ExecutionDate>2016-05-23T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>56</ID>
+        <Number>300</Number>
+        <Value>1.2</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>TURBO COFFEE CALL 0.94</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-05-30T00:00:00</CreationDate>
+        <ExecutionDate>2016-05-30T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>60</ID>
+        <Number>318</Number>
+        <Value>1.07</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>TURBO COFFEE CALL 0.94</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-05-31T00:00:00</CreationDate>
+        <ExecutionDate>2016-05-31T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>63</ID>
+        <Number>240</Number>
+        <Value>1.04</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>TURBO COFFEE CALL 0.94</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-06-06T00:00:00</CreationDate>
+        <ExecutionDate>2016-06-06T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>61</ID>
+        <Number>399</Number>
+        <Value>1.28</Value>
         <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
