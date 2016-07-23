@@ -7375,38 +7375,6 @@
       </Comments>
     </StockAnalysis>
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="FONCIÈRE DE PARIS">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
-      <Comments>
-        <Comment Date="15/04/2016 00:00:00" Value="Détachement du dividende&#xD;&#xA;Montant : 9€" />
-        <Comment Date="12/04/2016 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="15/10/2015 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="28/07/2015 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="15/04/2014 00:00:00" Value="Assemblée Générale ordinaire" />
-        <Comment Date="11/09/2013 00:00:00" Value="Changement de denomination&#xD;&#xA;Ancien nom Cofitem Cofimur" />
-        <Comment Date="30/05/2013 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="17/04/2013 00:00:00" Value="Détachement du dividende&#xD;&#xA;Montant : 5.3€" />
-        <Comment Date="09/04/2013 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="25/02/2013 00:00:00" Value="Résultat annuel" />
-        <Comment Date="17/04/2012 00:00:00" Value="Détachement du dividende&#xD;&#xA;Montant : 5,15€" />
-        <Comment Date="12/04/2012 00:00:00" Value="Assemblée Générale ordinaire" />
-        <Comment Date="19/04/2011 00:00:00" Value="Détachement du dividende&#xD;&#xA;Montant : 5€" />
-        <Comment Date="12/04/2011 00:00:00" Value="Assemblée Générale ordinaire" />
-        <Comment Date="31/03/2009 00:00:00" Value="Assemblée Générale ordinaire" />
-        <Comment Date="27/03/2008 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="27/03/2007 00:00:00" Value="Assemblée Générale ordinaire" />
-        <Comment Date="12/12/2006 00:00:00" Value="Assemblée Générale extraordinaire" />
-        <Comment Date="28/07/2006 00:00:00" Value="Chiffre d'affaires 1er semestre" />
-        <Comment Date="25/07/2006 00:00:00" Value="Augmentation de capital&#xD;&#xA;Modalités de l'offre : 1 action nouvelle pour 7 anciennes" />
-        <Comment Date="06/07/2006 00:00:00" Value="Assemblée Générale extraordinaire" />
-        <Comment Date="30/03/2006 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="16/06/2005 00:00:00" Value="Assemblée Générale extraordinaire" />
-        <Comment Date="01/04/2005 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="21/12/2004 00:00:00" Value="Réunion" />
-        <Comment Date="20/04/2004 00:00:00" Value="Assemblée Générale ordinaire" />
-      </Comments>
-    </StockAnalysis>
-  </StockAnalysisItem>
   <StockAnalysisItem StockName="FONCIERE DES MURS">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
       <Comments>
@@ -14829,81 +14797,6 @@
       </Comments>
     </StockAnalysis>
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="SAFT">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
-      <Comments>
-        <Comment Date="20/10/2016 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="27/07/2016 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="20/05/2016 00:00:00" Value="Détachement du dividende&#xD;&#xA;Montant : 0.85€" />
-        <Comment Date="12/05/2016 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="21/04/2016 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="07/03/2016 00:00:00" Value="Assemblée Générale extraordinaire" />
-        <Comment Date="18/02/2016 00:00:00" Value="Résultat annuel" />
-        <Comment Date="22/10/2015 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="23/07/2015 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="18/05/2015 00:00:00" Value="Détachement du dividende&#xD;&#xA;Montant : 0.82€" />
-        <Comment Date="12/05/2015 00:00:00" Value="Assemblée Générale ordinaire" />
-        <Comment Date="23/04/2015 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="18/02/2015 00:00:00" Value="Résultat annuel" />
-        <Comment Date="23/10/2014 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="23/07/2014 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="19/05/2014 00:00:00" Value="Détachement du dividende&#xD;&#xA;Montant : 0.78€" />
-        <Comment Date="12/05/2014 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="24/04/2014 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="18/02/2014 00:00:00" Value="Résultat annuel" />
-        <Comment Date="24/10/2013 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="24/07/2013 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="14/05/2013 00:00:00" Value="Détachement du dividende&#xD;&#xA;Montant : 0.75€" />
-        <Comment Date="07/05/2013 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="25/04/2013 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="18/02/2013 00:00:00" Value="Résultat annuel" />
-        <Comment Date="25/10/2012 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="25/07/2012 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="16/05/2012 00:00:00" Value="Détachement du dividende&#xD;&#xA;Montant : 1,72€" />
-        <Comment Date="11/05/2012 00:00:00" Value="Assemblée Générale ordinaire" />
-        <Comment Date="26/04/2012 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="16/02/2012 00:00:00" Value="Résultat annuel" />
-        <Comment Date="27/10/2011 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="27/07/2011 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="04/05/2011 00:00:00" Value="Assemblée Générale ordinaire" />
-        <Comment Date="28/04/2011 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="16/02/2011 00:00:00" Value="Résultat annuel" />
-        <Comment Date="03/11/2010 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="28/07/2010 00:00:00" Value="Chiffre d'affaires 1er semestre&#xD;&#xA;Chiffre d'affaires 2ème trimestre" />
-        <Comment Date="09/06/2010 00:00:00" Value="Assemblée Générale ordinaire" />
-        <Comment Date="26/03/2010 00:00:00" Value="Entrée au SRD" />
-        <Comment Date="19/02/2010 00:00:00" Value="Résultat annuel" />
-        <Comment Date="28/01/2010 00:00:00" Value="Chiffre d'affaires 4ème trimestre" />
-        <Comment Date="19/11/2009 00:00:00" Value="Augmentation de capital&#xD;&#xA;Modalités de l'offre : 3 actions nouvelles pour 10 droits préfé. de sousc" />
-        <Comment Date="02/11/2009 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="29/07/2009 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="03/06/2009 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="29/04/2009 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="22/12/2008 00:00:00" Value="Admission dans l'indice SBF 120" />
-        <Comment Date="06/11/2008 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="28/08/2008 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="24/07/2008 00:00:00" Value="Chiffre d'affaires 1er semestre" />
-        <Comment Date="16/06/2008 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="06/05/2008 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="13/03/2008 00:00:00" Value="Résultat annuel" />
-        <Comment Date="07/02/2008 00:00:00" Value="Chiffre d'affaires annuel" />
-        <Comment Date="17/12/2007 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="31/08/2007 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="26/07/2007 00:00:00" Value="Chiffre d'affaires 1er semestre" />
-        <Comment Date="06/06/2007 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="15/05/2007 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="15/03/2007 00:00:00" Value="Résultat annuel" />
-        <Comment Date="15/02/2007 00:00:00" Value="Chiffre d'affaires annuel" />
-        <Comment Date="09/11/2006 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="06/11/2006 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="21/09/2006 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="27/07/2006 00:00:00" Value="Chiffre d'affaires 1er semestre" />
-        <Comment Date="22/06/2006 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="11/05/2006 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="14/03/2006 00:00:00" Value="Résultat annuel" />
-      </Comments>
-    </StockAnalysis>
-  </StockAnalysisItem>
   <StockAnalysisItem StockName="SAINT GOBAIN">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
       <Comments>
@@ -19521,7 +19414,13 @@
   <StockAnalysisItem StockName="INT_ILIAD">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_IND_SPY">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_INNATE PHARMA">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_JACQUET METAL">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_LYXOR BX4">
@@ -19533,6 +19432,9 @@
   <StockAnalysisItem StockName="INT_MAUREL ET PROM">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_NICOX">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_SOLOCAL">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
@@ -19540,7 +19442,34 @@
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_VALLOUREC">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
+      <DrawingItems BarDuration="TLB_9D_EMA3">
+        <StockDrawingItems>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>4200.697</X>
+              <Y>3.50672674</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>4201.697</X>
+              <Y>3.50672674</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Line2D>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>4192.712</X>
+              <Y>2.91080666</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>4193.712</X>
+              <Y>2.91080666</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Line2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="TURBO BEST CAC40 CALL 3000">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="ReportTheme" HasDrawings="False" HasComments="False" />
@@ -19563,5 +19492,8 @@
         </StockDrawingItems>
       </DrawingItems>
     </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="TURBO COFFEE CALL 0.94">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
 </StockAnalysisList>
