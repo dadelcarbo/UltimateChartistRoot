@@ -637,7 +637,22 @@
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="AIR FRANCE - KLM">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="True">
+      <DrawingItems BarDuration="Daily">
+        <StockDrawingItems>
+          <HalfLine2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2662</X>
+              <Y>7.559</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2716</X>
+              <Y>5.271</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
+        </StockDrawingItems>
+      </DrawingItems>
       <Comments>
         <Comment Date="03/11/2016 00:00:00" Value="Résultat 3ème trimestre&#xD;&#xA;Avant ouverture" />
         <Comment Date="27/07/2016 00:00:00" Value="Résultat 1er semestre&#xD;&#xA;Avant ouverture" />
@@ -15766,97 +15781,6 @@
       </Comments>
     </StockAnalysis>
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="SOMFY INTL">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
-      <Comments>
-        <Comment Date="20/10/2016 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="07/09/2016 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="21/07/2016 00:00:00" Value="Chiffre d'affaires 1er semestre" />
-        <Comment Date="24/05/2016 00:00:00" Value="Assemblée Générale ordinaire" />
-        <Comment Date="21/04/2016 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="09/03/2016 00:00:00" Value="Résultat annuel" />
-        <Comment Date="28/01/2016 00:00:00" Value="Chiffre d'affaires annuel" />
-        <Comment Date="21/10/2015 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="02/09/2015 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="22/07/2015 00:00:00" Value="Chiffre d'affaires 1er semestre" />
-        <Comment Date="02/06/2015 00:00:00" Value="Détachement du dividende&#xD;&#xA;Montant : 5.2€" />
-        <Comment Date="13/05/2015 00:00:00" Value="Assemblée Générale ordinaire" />
-        <Comment Date="22/04/2015 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="05/03/2015 00:00:00" Value="Résultat annuel" />
-        <Comment Date="28/01/2015 00:00:00" Value="Chiffre d'affaires annuel" />
-        <Comment Date="02/12/2014 00:00:00" Value="Détachement du dividende&#xD;&#xA;Montant : 50€" />
-        <Comment Date="27/11/2014 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="21/10/2014 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="28/08/2014 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="22/07/2014 00:00:00" Value="Chiffre d'affaires 1er semestre" />
-        <Comment Date="02/06/2014 00:00:00" Value="Détachement du dividende&#xD;&#xA;Montant : 5.2€" />
-        <Comment Date="14/05/2014 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="23/04/2014 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="05/03/2014 00:00:00" Value="Résultat annuel" />
-        <Comment Date="28/01/2014 00:00:00" Value="Chiffre d'affaires annuel" />
-        <Comment Date="23/10/2013 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="30/08/2013 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="23/07/2013 00:00:00" Value="Chiffre d'affaires 1er semestre" />
-        <Comment Date="30/05/2013 00:00:00" Value="Détachement du dividende&#xD;&#xA;Montant : 4.8€" />
-        <Comment Date="16/05/2013 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="24/04/2013 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="28/02/2013 00:00:00" Value="Résultat annuel" />
-        <Comment Date="23/01/2013 00:00:00" Value="Chiffre d'affaires annuel" />
-        <Comment Date="18/10/2012 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="31/08/2012 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="20/07/2012 00:00:00" Value="Chiffre d'affaires 1er semestre" />
-        <Comment Date="15/05/2012 00:00:00" Value="Assemblée Générale ordinaire" />
-        <Comment Date="24/04/2012 00:00:00" Value="Résultat annuel" />
-        <Comment Date="20/04/2012 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="20/01/2012 00:00:00" Value="Chiffre d'affaires annuel" />
-        <Comment Date="21/10/2011 00:00:00" Value="Résultat 3ème trimestre" />
-        <Comment Date="22/07/2011 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="02/06/2011 00:00:00" Value="Détachement du dividende&#xD;&#xA;Montant : 5.2€" />
-        <Comment Date="18/05/2011 00:00:00" Value="Assemblée Générale ordinaire" />
-        <Comment Date="22/04/2011 00:00:00" Value="Résultat 1er trimestre" />
-        <Comment Date="20/01/2011 00:00:00" Value="Chiffre d'affaires annuel" />
-        <Comment Date="22/10/2010 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="30/08/2010 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="23/07/2010 00:00:00" Value="Chiffre d'affaires 1er semestre" />
-        <Comment Date="12/05/2010 00:00:00" Value="Assemblée Générale ordinaire" />
-        <Comment Date="23/04/2010 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="22/01/2010 00:00:00" Value="Résultat annuel" />
-        <Comment Date="23/10/2009 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="01/09/2009 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="24/07/2009 00:00:00" Value="Chiffre d'affaires 1er semestre" />
-        <Comment Date="13/05/2009 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="24/04/2009 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="27/02/2009 00:00:00" Value="Résultat annuel" />
-        <Comment Date="24/10/2008 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="29/08/2008 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="25/07/2008 00:00:00" Value="Chiffre d'affaires 1er semestre" />
-        <Comment Date="14/05/2008 00:00:00" Value="Assemblée Générale ordinaire" />
-        <Comment Date="25/04/2008 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="29/02/2008 00:00:00" Value="Résultat annuel" />
-        <Comment Date="25/01/2008 00:00:00" Value="Chiffre d'affaires annuel" />
-        <Comment Date="26/10/2007 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="31/08/2007 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="27/07/2007 00:00:00" Value="Chiffre d'affaires 1er semestre" />
-        <Comment Date="15/05/2007 00:00:00" Value="Assemblée Générale ordinaire" />
-        <Comment Date="27/04/2007 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="06/03/2007 00:00:00" Value="Résultat annuel" />
-        <Comment Date="26/01/2007 00:00:00" Value="Chiffre d'affaires annuel" />
-        <Comment Date="27/10/2006 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="12/09/2006 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="28/07/2006 00:00:00" Value="Chiffre d'affaires 1er semestre" />
-        <Comment Date="31/05/2006 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="28/04/2006 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="07/03/2006 00:00:00" Value="Résultat annuel" />
-        <Comment Date="27/12/2005 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="13/09/2005 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="02/06/2005 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="09/03/2005 00:00:00" Value="Résultat annuel" />
-        <Comment Date="14/09/2004 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="03/06/2004 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="03/07/2002 00:00:00" Value="Changement de denomination&#xD;&#xA;Ancien nom Damart" />
-      </Comments>
-    </StockAnalysis>
-  </StockAnalysisItem>
   <StockAnalysisItem StockName="SOPRA STERIA GROUP">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
       <Comments>
@@ -18731,95 +18655,6 @@
         <Comment Date="06/11/2014 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
         <Comment Date="28/07/2014 00:00:00" Value="Résultat 1er semestre" />
         <Comment Date="27/06/2014 00:00:00" Value="Introduction&#xD;&#xA;Nombre de titres admis : &#xD;&#xA;Cours d'introduction : 16.40 &gt; 20.00" />
-      </Comments>
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="XPO LOGISTICS">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
-      <Comments>
-        <Comment Date="02/11/2016 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="26/07/2016 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="24/06/2016 00:00:00" Value="Assemblée Générale ordinaire" />
-        <Comment Date="03/05/2016 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="25/02/2016 00:00:00" Value="Résultat annuel&#xD;&#xA;Après clôture" />
-        <Comment Date="03/02/2016 00:00:00" Value="Changement de denomination&#xD;&#xA;Ancien nom Norbert Dentressangle" />
-        <Comment Date="18/11/2015 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="05/11/2015 00:00:00" Value="Chiffre d'affaires 3ème trimestre&#xD;&#xA;Avant ouverture" />
-        <Comment Date="06/08/2015 00:00:00" Value="Résultat 1er semestre&#xD;&#xA;Après clôture" />
-        <Comment Date="17/07/2015 00:00:00" Value="OPA&#xD;&#xA;Inititateur : XPO Logistics&#xD;&#xA;Prix de l'offre : 217.50" />
-        <Comment Date="28/05/2015 00:00:00" Value="Détachement du dividende&#xD;&#xA;Montant : 1.8€" />
-        <Comment Date="21/05/2015 00:00:00" Value="Assemblée Générale ordinaire" />
-        <Comment Date="22/04/2015 00:00:00" Value="Chiffre d'affaires 1er trimestre&#xD;&#xA;Après clôture" />
-        <Comment Date="26/02/2015 00:00:00" Value="Résultat annuel&#xD;&#xA;Avant ouverture" />
-        <Comment Date="29/01/2015 00:00:00" Value="Chiffre d'affaires annuel&#xD;&#xA;Après clôture" />
-        <Comment Date="23/10/2014 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="31/07/2014 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="28/05/2014 00:00:00" Value="Détachement du dividende&#xD;&#xA;Montant : 1.8€" />
-        <Comment Date="21/05/2014 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="23/04/2014 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="26/02/2014 00:00:00" Value="Résultat annuel" />
-        <Comment Date="30/01/2014 00:00:00" Value="Chiffre d'affaires annuel" />
-        <Comment Date="23/10/2013 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="31/07/2013 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="29/05/2013 00:00:00" Value="Détachement du dividende&#xD;&#xA;Montant : 1.5€" />
-        <Comment Date="23/05/2013 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="24/04/2013 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="27/02/2013 00:00:00" Value="Résultat annuel" />
-        <Comment Date="30/01/2013 00:00:00" Value="Chiffre d'affaires annuel" />
-        <Comment Date="25/10/2012 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="01/08/2012 00:00:00" Value="Chiffre d'affaires 1er semestre" />
-        <Comment Date="24/05/2012 00:00:00" Value="Assemblée Générale ordinaire" />
-        <Comment Date="27/10/2011 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="31/08/2011 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="27/07/2011 00:00:00" Value="Chiffre d'affaires 1er semestre" />
-        <Comment Date="27/05/2011 00:00:00" Value="Détachement du dividende&#xD;&#xA;Montant : 1.1€" />
-        <Comment Date="19/05/2011 00:00:00" Value="Assemblée Générale ordinaire" />
-        <Comment Date="28/04/2011 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="01/03/2011 00:00:00" Value="Résultat annuel" />
-        <Comment Date="26/01/2011 00:00:00" Value="Chiffre d'affaires annuel" />
-        <Comment Date="28/10/2010 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="31/08/2010 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="29/07/2010 00:00:00" Value="Chiffre d'affaires 1er semestre" />
-        <Comment Date="26/05/2010 00:00:00" Value="Entrée au SRD" />
-        <Comment Date="20/05/2010 00:00:00" Value="Assemblée Générale ordinaire" />
-        <Comment Date="30/04/2010 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="10/03/2010 00:00:00" Value="Résultat annuel" />
-        <Comment Date="28/01/2010 00:00:00" Value="Chiffre d'affaires annuel" />
-        <Comment Date="29/10/2009 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="26/05/2009 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="29/04/2009 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="24/03/2009 00:00:00" Value="Résultat annuel" />
-        <Comment Date="02/02/2009 00:00:00" Value="Chiffre d'affaires 4ème trimestre" />
-        <Comment Date="30/10/2008 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="29/08/2008 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="29/07/2008 00:00:00" Value="Chiffre d'affaires 1er semestre" />
-        <Comment Date="22/05/2008 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="26/03/2008 00:00:00" Value="Résultat annuel" />
-        <Comment Date="31/01/2008 00:00:00" Value="Chiffre d'affaires annuel" />
-        <Comment Date="30/10/2007 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="31/08/2007 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="27/07/2007 00:00:00" Value="Chiffre d'affaires 1er semestre" />
-        <Comment Date="30/05/2007 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="27/04/2007 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="15/03/2007 00:00:00" Value="Résultat annuel" />
-        <Comment Date="31/01/2007 00:00:00" Value="Chiffre d'affaires annuel" />
-        <Comment Date="27/10/2006 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="21/09/2006 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="28/07/2006 00:00:00" Value="Chiffre d'affaires 1er semestre" />
-        <Comment Date="23/05/2006 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="28/04/2006 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
-        <Comment Date="30/03/2006 00:00:00" Value="Résultat annuel" />
-        <Comment Date="16/03/2006 00:00:00" Value="Résultat annuel&#xD;&#xA;Avant ouverture" />
-        <Comment Date="31/01/2006 00:00:00" Value="Chiffre d'affaires annuel" />
-        <Comment Date="21/09/2005 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="24/05/2005 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="17/03/2005 00:00:00" Value="Résultat annuel" />
-        <Comment Date="31/01/2005 00:00:00" Value="Chiffre d'affaires annuel" />
-        <Comment Date="28/10/2004 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
-        <Comment Date="23/09/2004 00:00:00" Value="Résultat 1er semestre" />
-        <Comment Date="25/05/2004 00:00:00" Value="Assemblée Générale mixte" />
-        <Comment Date="18/03/2004 00:00:00" Value="Résultat annuel" />
-        <Comment Date="03/02/2004 00:00:00" Value="Chiffre d'affaires annuel" />
       </Comments>
     </StockAnalysis>
   </StockAnalysisItem>
