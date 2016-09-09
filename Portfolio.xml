@@ -1161,6 +1161,24 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
+        <StockName>JACQUET METALS</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-05-31T00:00:00</CreationDate>
+        <ExecutionDate>2016-05-31T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>79</ID>
+        <Number>75</Number>
+        <Value>13.18</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
         <StockName>LVC</StockName>
         <Type>SellAtLimit</Type>
         <CreationDate>2016-06-21T00:00:00</CreationDate>
@@ -1172,6 +1190,78 @@
         <Number>80</Number>
         <Value>12.45</Value>
         <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>MAUREL ET PROM</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-08-02T00:00:00</CreationDate>
+        <ExecutionDate>2016-08-02T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>81</ID>
+        <Number>258</Number>
+        <Value>3.87</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>MAUREL ET PROM</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-08-19T00:00:00</CreationDate>
+        <ExecutionDate>2016-08-19T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>82</ID>
+        <Number>1085</Number>
+        <Value>4.01</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VALLOUREC</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-08-24T00:00:00</CreationDate>
+        <ExecutionDate>2016-08-24T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>83</ID>
+        <Number>623</Number>
+        <Value>4.413</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CASINO GUICHARD</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-09-09T00:00:00</CreationDate>
+        <ExecutionDate>2016-09-09T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>84</ID>
+        <Number>53</Number>
+        <Value>47.135</Value>
+        <Fee>5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
         <Limit>0</Limit>
@@ -2081,6 +2171,294 @@
         <ID>61</ID>
         <Number>399</Number>
         <Value>1.28</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CAC 40 CB BEST TURBO LONG 4010.503</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-06-13T00:00:00</CreationDate>
+        <ExecutionDate>2016-06-13T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>65</ID>
+        <Number>190</Number>
+        <Value>2.62</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CAC 40 CB BEST TURBO LONG 4010.503</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-06-13T00:00:00</CreationDate>
+        <ExecutionDate>2016-06-13T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>66</ID>
+        <Number>110</Number>
+        <Value>2.28</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>COFFEE FUTURE DEC 16 CB TL 1.0325</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-06-14T00:00:00</CreationDate>
+        <ExecutionDate>2016-06-14T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>67</ID>
+        <Number>241</Number>
+        <Value>1.48</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CAC 40 CB BEST TURBO LONG 4010.503</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-06-14T00:00:00</CreationDate>
+        <ExecutionDate>2016-06-14T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>68</ID>
+        <Number>150</Number>
+        <Value>1.8</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CAC 40 CB BEST TURBO LONG 4010.503</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-06-22T00:00:00</CreationDate>
+        <ExecutionDate>2016-06-22T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>70</ID>
+        <Number>125</Number>
+        <Value>4.22</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>COFFEE FUTURE DEC 16 CB TL 1.0325</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-07-04T00:00:00</CreationDate>
+        <ExecutionDate>2016-07-04T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>64</ID>
+        <Number>200</Number>
+        <Value>1.38</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>USD/JPY CB BEST TURBO LONG 87.694</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-07-08T00:00:00</CreationDate>
+        <ExecutionDate>2016-07-08T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>71</ID>
+        <Number>254</Number>
+        <Value>1.18</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CAC 40 CB BEST TURBO LONG 4010.503</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-07-11T00:00:00</CreationDate>
+        <ExecutionDate>2016-07-11T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>69</ID>
+        <Number>200</Number>
+        <Value>2.32</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>USD/JPY CB BEST TURBO LONG 87.694</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-08-10T00:00:00</CreationDate>
+        <ExecutionDate>2016-08-10T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>72</ID>
+        <Number>254</Number>
+        <Value>1.56</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>AIRBUS SOG BEST TURBO LONG 46 16-09-2016</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-08-23T00:00:00</CreationDate>
+        <ExecutionDate>2016-08-23T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>73</ID>
+        <Number>520</Number>
+        <Value>0.96</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VALLOUREC SOG BTL 3 16-12-2016</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-08-29T00:00:00</CreationDate>
+        <ExecutionDate>2016-08-29T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>76</ID>
+        <Number>350</Number>
+        <Value>1.14</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>AIRBUS SOG BEST TURBO LONG 46 16-09-2016</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-08-31T00:00:00</CreationDate>
+        <ExecutionDate>2016-08-31T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>78</ID>
+        <Number>260</Number>
+        <Value>1.29</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VALLOUREC SOG BTL 3 16-12-2016</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-09-02T00:00:00</CreationDate>
+        <ExecutionDate>2016-09-02T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>80</ID>
+        <Number>350</Number>
+        <Value>0.95</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>AIR FRANCE - KLM</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-09-06T00:00:00</CreationDate>
+        <ExecutionDate>2016-09-06T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>81</ID>
+        <Number>551</Number>
+        <Value>5.08</Value>
+        <Fee>10</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>AIRBUS SOG BEST TURBO LONG 46 16-09-2016</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-09-19T00:00:00</CreationDate>
+        <ExecutionDate>2016-09-19T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>74</ID>
+        <Number>260</Number>
+        <Value>1.02</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>AIRBUS SOG BEST TURBO LONG 46 16-09-2016</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-09-19T00:00:00</CreationDate>
+        <ExecutionDate>2016-09-19T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>75</ID>
+        <Number>260</Number>
+        <Value>1.07</Value>
         <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
