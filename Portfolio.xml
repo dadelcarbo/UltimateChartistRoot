@@ -1268,6 +1268,78 @@
         <Threshold>0</Threshold>
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
+      <StockOrder>
+        <StockName>CASINO GUICHARD</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-09-09T00:00:00</CreationDate>
+        <ExecutionDate>2016-09-09T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>85</ID>
+        <Number>9</Number>
+        <Value>45.79</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>LVC</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-09-12T00:00:00</CreationDate>
+        <ExecutionDate>2016-09-12T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>86</ID>
+        <Number>175</Number>
+        <Value>11.79</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>STMICROELECTRONICS</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-09-12T00:00:00</CreationDate>
+        <ExecutionDate>2016-09-12T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>87</ID>
+        <Number>192</Number>
+        <Value>6.579</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>GEMALTO</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-09-12T00:00:00</CreationDate>
+        <ExecutionDate>2016-09-12T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>88</ID>
+        <Number>17</Number>
+        <Value>62.66</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
     </OrderList>
   </StockPortofolio>
   <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -2423,6 +2495,60 @@
         <ID>81</ID>
         <Number>551</Number>
         <Value>5.08</Value>
+        <Fee>10</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>AIRBUS SOG BEST TURBO LONG 46 16-09-2016</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-09-12T00:00:00</CreationDate>
+        <ExecutionDate>2016-09-12T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>82</ID>
+        <Number>260</Number>
+        <Value>1.76</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VALLOUREC SOG BTL 3 16-12-2016</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-09-12T00:00:00</CreationDate>
+        <ExecutionDate>2016-09-12T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>83</ID>
+        <Number>700</Number>
+        <Value>1.16</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>AIR FRANCE - KLM</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-09-12T00:00:00</CreationDate>
+        <ExecutionDate>2016-09-12T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>85</ID>
+        <Number>551</Number>
+        <Value>5.121</Value>
         <Fee>10</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
