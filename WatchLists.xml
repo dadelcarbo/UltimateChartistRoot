@@ -15,6 +15,7 @@
       <string>INT_GEMALTO</string>
       <string>INT_ILIAD</string>
       <string>INT_IND_SPY</string>
+      <string>INT_INGENICO</string>
       <string>INT_INNATE PHARMA</string>
       <string>INT_JACQUET METAL</string>
       <string>INT_LYXOR BX4</string>
@@ -23,8 +24,7 @@
       <string>INT_SOLOCAL</string>
       <string>INT_STMICROELECTRONICS</string>
       <string>INT_VALLOUREC</string>
-      <string>TURBO BEST CAC40 CALL 3808</string>
-      <string>TURBO COFFEE CALL 0.94</string>
+      <string>INT_ZODIAC AEROSPACE</string>
     </StockList>
   </StockWatchList>
   <StockWatchList>
