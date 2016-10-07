@@ -238,7 +238,7 @@
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ACCOR HOTELS">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="TrendHL2" HasDrawings="False" HasComments="True">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="ReportTheme" HasDrawings="False" HasComments="True">
       <Comments>
         <Comment Date="27/04/2016 00:00:00" Value="Détachement du dividende&#xD;&#xA;Montant : 1€" />
         <Comment Date="22/04/2016 00:00:00" Value="Assemblée Générale ordinaire" />
@@ -9892,6 +9892,79 @@
       </Comments>
     </StockAnalysis>
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="KORIAN-MEDICA">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
+      <Comments>
+        <Comment Date="26/10/2016 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
+        <Comment Date="14/09/2016 00:00:00" Value="Résultat 1er semestre" />
+        <Comment Date="20/07/2016 00:00:00" Value="Chiffre d'affaires 1er semestre" />
+        <Comment Date="23/06/2016 00:00:00" Value="Assemblée Générale ordinaire" />
+        <Comment Date="04/05/2016 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
+        <Comment Date="23/03/2016 00:00:00" Value="Résultat annuel" />
+        <Comment Date="10/02/2016 00:00:00" Value="Chiffre d'affaires annuel" />
+        <Comment Date="04/11/2015 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
+        <Comment Date="16/09/2015 00:00:00" Value="Résultat 1er semestre" />
+        <Comment Date="22/07/2015 00:00:00" Value="Chiffre d'affaires 1er semestre" />
+        <Comment Date="01/07/2015 00:00:00" Value="Détachement du dividende&#xD;&#xA;Montant : 0.6€" />
+        <Comment Date="25/06/2015 00:00:00" Value="Assemblée Générale ordinaire" />
+        <Comment Date="06/05/2015 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
+        <Comment Date="25/03/2015 00:00:00" Value="Résultat annuel" />
+        <Comment Date="11/02/2015 00:00:00" Value="Chiffre d'affaires annuel" />
+        <Comment Date="28/10/2014 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
+        <Comment Date="11/09/2014 00:00:00" Value="Résultat 1er semestre&#xD;&#xA;Avant ouverture" />
+        <Comment Date="16/07/2014 00:00:00" Value="Chiffre d'affaires 1er semestre&#xD;&#xA;Après clôture" />
+        <Comment Date="03/07/2014 00:00:00" Value="Détachement du dividende&#xD;&#xA;Montant : 0.6€" />
+        <Comment Date="26/06/2014 00:00:00" Value="Assemblée Générale ordinaire" />
+        <Comment Date="14/05/2014 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
+        <Comment Date="27/03/2014 00:00:00" Value="Résultat annuel&#xD;&#xA;Changement de denomination&#xD;&#xA;Ancien nom Korian" />
+        <Comment Date="18/03/2014 00:00:00" Value="Assemblée Générale mixte" />
+        <Comment Date="12/02/2014 00:00:00" Value="Chiffre d'affaires annuel&#xD;&#xA;Après clôture" />
+        <Comment Date="06/11/2013 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
+        <Comment Date="12/09/2013 00:00:00" Value="Résultat 1er semestre" />
+        <Comment Date="17/07/2013 00:00:00" Value="Chiffre d'affaires 1er semestre" />
+        <Comment Date="27/06/2013 00:00:00" Value="Détachement du dividende&#xD;&#xA;Montant : 0.6€" />
+        <Comment Date="20/06/2013 00:00:00" Value="Assemblée Générale mixte" />
+        <Comment Date="15/05/2013 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
+        <Comment Date="28/03/2013 00:00:00" Value="Résultat annuel" />
+        <Comment Date="06/02/2013 00:00:00" Value="Chiffre d'affaires annuel" />
+        <Comment Date="07/11/2012 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
+        <Comment Date="06/09/2012 00:00:00" Value="Résultat 1er semestre" />
+        <Comment Date="18/07/2012 00:00:00" Value="Chiffre d'affaires 1er semestre" />
+        <Comment Date="28/06/2012 00:00:00" Value="Détachement du dividende&#xD;&#xA;Montant : 0,6€" />
+        <Comment Date="21/06/2012 00:00:00" Value="Assemblée Générale mixte" />
+        <Comment Date="21/03/2012 00:00:00" Value="Assemblée Générale ordinaire" />
+        <Comment Date="27/07/2011 00:00:00" Value="Chiffre d'affaires 1er semestre" />
+        <Comment Date="23/06/2011 00:00:00" Value="Assemblée Générale ordinaire" />
+        <Comment Date="11/05/2011 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
+        <Comment Date="24/03/2011 00:00:00" Value="Résultat annuel" />
+        <Comment Date="16/02/2011 00:00:00" Value="Sortie du SRD" />
+        <Comment Date="24/06/2010 00:00:00" Value="Détachement du dividende&#xD;&#xA;Montant : 0.6€" />
+        <Comment Date="17/06/2010 00:00:00" Value="Assemblée Générale ordinaire" />
+        <Comment Date="26/05/2010 00:00:00" Value="Entrée au SRD" />
+        <Comment Date="25/03/2010 00:00:00" Value="Résultat annuel" />
+        <Comment Date="10/11/2009 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
+        <Comment Date="14/09/2009 00:00:00" Value="Résultat 1er semestre" />
+        <Comment Date="30/06/2009 00:00:00" Value="Assemblée Générale mixte" />
+        <Comment Date="11/06/2009 00:00:00" Value="Augmentation de capital&#xD;&#xA;Modalités de l'offre : 2 actions nouvelles pour 15 droits préfé. de sousc" />
+        <Comment Date="12/05/2009 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
+        <Comment Date="27/03/2009 00:00:00" Value="Résultat annuel" />
+        <Comment Date="10/02/2009 00:00:00" Value="Chiffre d'affaires annuel" />
+        <Comment Date="28/08/2008 00:00:00" Value="Résultat 1er semestre" />
+        <Comment Date="12/08/2008 00:00:00" Value="Chiffre d'affaires 1er semestre" />
+        <Comment Date="18/06/2008 00:00:00" Value="Assemblée Générale mixte" />
+        <Comment Date="27/03/2008 00:00:00" Value="Résultat annuel" />
+        <Comment Date="04/02/2008 00:00:00" Value="Chiffre d'affaires annuel" />
+        <Comment Date="05/11/2007 00:00:00" Value="Chiffre d'affaires 3ème trimestre" />
+        <Comment Date="30/08/2007 00:00:00" Value="Résultat 1er semestre" />
+        <Comment Date="28/08/2007 00:00:00" Value="Résultat 1er semestre" />
+        <Comment Date="06/08/2007 00:00:00" Value="Chiffre d'affaires 1er semestre" />
+        <Comment Date="21/06/2007 00:00:00" Value="Assemblée Générale mixte" />
+        <Comment Date="02/05/2007 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
+        <Comment Date="03/04/2007 00:00:00" Value="Résultat annuel" />
+        <Comment Date="23/11/2006 00:00:00" Value="Introduction&#xD;&#xA;Nombre de titres admis : 2 890 365&#xD;&#xA;Cours d'introduction : 30.10 &gt; 35.00" />
+      </Comments>
+    </StockAnalysis>
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="LAFARGEHOLCIM">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
       <Comments>
@@ -18812,6 +18885,21 @@
   <StockAnalysisItem StockName="AD.CAC40">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="ADBench" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_AIR FRANCE - KLM">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_AIRBUS">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_ARCELOR MITTAL">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_CARREFOUR">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_EDF">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_ENGIE">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
       <DrawingItems BarDuration="TLB_6D">
@@ -18829,7 +18917,52 @@
           </Line2D>
         </StockDrawingItems>
       </DrawingItems>
+      <DrawingItems BarDuration="TLB_9D_EMA3">
+        <StockDrawingItems />
+      </DrawingItems>
     </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_ERAMET">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_FX_USD_JPY">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_GEMALTO">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_ILIAD">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_IND_SPY">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_INGENICO">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_INNATE PHARMA">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_JACQUET METAL">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_LYXOR BX4">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_LYXOR LEV CAC 40">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_NICOX">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_SOLOCAL">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_STMICROELECTRONICS">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_ZODIAC AEROSPACE">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="TURBO BEST CAC40 CALL 3000">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="ReportTheme" HasDrawings="False" HasComments="False" />
@@ -18852,5 +18985,8 @@
         </StockDrawingItems>
       </DrawingItems>
     </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="TURBO COFFEE CALL 0.94">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
 </StockAnalysisList>
