@@ -89,8 +89,10 @@
   <StockWatchList>
     <Name>FollowUp</Name>
     <StockList>
+      <string>AMPLITUDE SURGICAL</string>
       <string>ASSYSTEM</string>
       <string>AVIATION LATECOERE</string>
+      <string>BASTIDE LE CONFORT</string>
       <string>BELIER</string>
     </StockList>
   </StockWatchList>
