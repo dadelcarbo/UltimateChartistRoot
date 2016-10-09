@@ -86,4 +86,12 @@
       <string>LVC</string>
     </StockList>
   </StockWatchList>
+  <StockWatchList>
+    <Name>FollowUp</Name>
+    <StockList>
+      <string>ASSYSTEM</string>
+      <string>AVIATION LATECOERE</string>
+      <string>BELIER</string>
+    </StockList>
+  </StockWatchList>
 </ArrayOfStockWatchList>
