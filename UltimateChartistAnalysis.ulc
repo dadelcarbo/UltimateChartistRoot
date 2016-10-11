@@ -150,6 +150,7 @@
         <Comment Date="23/05/2011 00:00:00" Value="Assemblée Générale ordinaire" />
         <Comment Date="08/09/2010 00:00:00" Value="Assemblée Générale ordinaire" />
         <Comment Date="21/04/2010 00:00:00" Value="Introduction&#xD;&#xA;Nombre de titres admis : 2 278 530&#xD;&#xA;Cours d'introduction : 13.95 &gt; 17.05" />
+        <Comment Date="28/06/2016 00:00:00" Value="Assemblée Générale mixte" />
       </Comments>
     </StockAnalysis>
   </StockAnalysisItem>
@@ -18090,7 +18091,22 @@
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="VALLOUREC">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="True">
+      <DrawingItems BarDuration="Daily">
+        <StockDrawingItems>
+          <HalfLine2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2714</X>
+              <Y>4.63</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2715</X>
+              <Y>4.63</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
+        </StockDrawingItems>
+      </DrawingItems>
       <Comments>
         <Comment Date="03/05/2016 00:00:00" Value="Résultat 1er trimestre" />
         <Comment Date="22/04/2016 00:00:00" Value="Augmentation de capital&#xD;&#xA;Modalités de l'offre : 8 actions nouvelles pour 5 DPS" />
@@ -19057,7 +19073,22 @@
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="WORLDLINE">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="True">
+      <DrawingItems BarDuration="Daily">
+        <StockDrawingItems>
+          <HalfLine2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>413</X>
+              <Y>18.605</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>510</X>
+              <Y>23.5</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
+        </StockDrawingItems>
+      </DrawingItems>
       <Comments>
         <Comment Date="20/04/2016 00:00:00" Value="Chiffre d'affaires 1er trimestre" />
         <Comment Date="21/03/2016 00:00:00" Value="Admission dans l'indice CAC Mid 60&#xD;&#xA;Admission dans l'indice SBF 120&#xD;&#xA;Retrait de l'indice CAC Small" />
@@ -19074,7 +19105,22 @@
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ZODIAC AEROSPACE">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="True">
+      <DrawingItems BarDuration="Daily">
+        <StockDrawingItems>
+          <HalfLine2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2479</X>
+              <Y>21.945</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2480</X>
+              <Y>21.945</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
+        </StockDrawingItems>
+      </DrawingItems>
       <Comments>
         <Comment Date="14/06/2016 00:00:00" Value="Chiffre d'affaires 3ème trimestre&#xD;&#xA;Après clôture" />
         <Comment Date="20/04/2016 00:00:00" Value="Résultat 1er semestre&#xD;&#xA;Avant ouverture" />
