@@ -3,7 +3,7 @@ Argent (once en $),Or (once en $)
 Argent (once en $),EUR-USD
 Or (once en $),EUR-USD
 SP500,Or (once en $)
-CAC40,SP500
+CAC40NR,SP500
 TRANSPORT SECTOR,SP500
 20+ Years T-Bonds,SP500
 SP500,HIGH YIELD BOND
