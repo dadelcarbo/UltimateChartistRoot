@@ -1485,7 +1485,7 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
-        <StockName>QUANTUM GENOMICS SAS</StockName>
+        <StockName>QUANTUM GENOMICS</StockName>
         <Type>BuyAtLimit</Type>
         <CreationDate>2016-10-07T00:00:00</CreationDate>
         <ExecutionDate>2016-10-07T00:00:00</ExecutionDate>
@@ -1495,6 +1495,132 @@
         <ID>98</ID>
         <Number>134</Number>
         <Value>7.35</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VALLOUREC</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-11-16T00:00:00</CreationDate>
+        <ExecutionDate>2016-10-16T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>101</ID>
+        <Number>196</Number>
+        <Value>5.079</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>QUANTUM GENOMICS</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-10-20T00:00:00</CreationDate>
+        <ExecutionDate>2016-10-20T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>99</ID>
+        <Number>134</Number>
+        <Value>6.35</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>AIR FRANCE - KLM</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-10-20T00:00:00</CreationDate>
+        <ExecutionDate>2016-10-20T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>100</ID>
+        <Number>189</Number>
+        <Value>5.26</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CASINO GUICHARD</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-10-20T00:00:00</CreationDate>
+        <ExecutionDate>2016-10-20T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>102</ID>
+        <Number>21</Number>
+        <Value>46.62</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VALLOUREC</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-10-26T00:00:00</CreationDate>
+        <ExecutionDate>2016-10-26T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>104</ID>
+        <Number>213</Number>
+        <Value>4.671</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>INNATE PHARMA</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-10-27T00:00:00</CreationDate>
+        <ExecutionDate>2016-10-27T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>105</ID>
+        <Number>89</Number>
+        <Value>11.17</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VERGNET</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-11-22T00:00:00</CreationDate>
+        <ExecutionDate>2016-10-28T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>103</ID>
+        <Number>853</Number>
+        <Value>1.17</Value>
         <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
@@ -3061,6 +3187,42 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
+        <StockName>TRANSGENE</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-10-20T00:00:00</CreationDate>
+        <ExecutionDate>2016-10-20T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>114</ID>
+        <Number>639</Number>
+        <Value>2.85</Value>
+        <Fee>10</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CASINO GUICHARD PERRACHON CB TL 36.21</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-10-20T00:00:00</CreationDate>
+        <ExecutionDate>2016-10-20T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>115</ID>
+        <Number>500</Number>
+        <Value>0.59</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
         <StockName>VALLOUREC SOG BTL 3 16-12-2016</StockName>
         <Type>SellAtLimit</Type>
         <CreationDate>2016-10-26T00:00:00</CreationDate>
@@ -3071,6 +3233,78 @@
         <ID>95</ID>
         <Number>624</Number>
         <Value>1.13</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VALLOUREC SOG BTL 3 16-12-2016</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-10-26T00:00:00</CreationDate>
+        <ExecutionDate>2016-10-26T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>116</ID>
+        <Number>235</Number>
+        <Value>1.7</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>COPPER FUTURE [DEC-16] CB TL 1.9795</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-10-27T00:00:00</CreationDate>
+        <ExecutionDate>2016-10-27T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>117</ID>
+        <Number>246</Number>
+        <Value>2.03</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VALLOUREC SOG BTL 3 16-12-2016</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-11-14T00:00:00</CreationDate>
+        <ExecutionDate>2016-11-14T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>109</ID>
+        <Number>100</Number>
+        <Value>2.09</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VALLOUREC SOG BTL 3 16-12-2016</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-11-14T00:00:00</CreationDate>
+        <ExecutionDate>2016-11-14T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>110</ID>
+        <Number>200</Number>
+        <Value>2.12</Value>
         <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
