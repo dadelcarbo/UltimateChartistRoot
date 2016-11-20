@@ -1628,6 +1628,78 @@
         <Threshold>0</Threshold>
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
+      <StockOrder>
+        <StockName>LVC</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-11-02T00:00:00</CreationDate>
+        <ExecutionDate>2016-11-02T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>107</ID>
+        <Number>74</Number>
+        <Value>11.959</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>LVC</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-11-10T00:00:00</CreationDate>
+        <ExecutionDate>2016-11-10T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>108</ID>
+        <Number>74</Number>
+        <Value>12.793</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ZODIAC AEROSPACE</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-11-10T00:00:00</CreationDate>
+        <ExecutionDate>2016-11-10T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>109</ID>
+        <Number>44</Number>
+        <Value>22.33</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>INNATE PHARMA</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-11-11T00:00:00</CreationDate>
+        <ExecutionDate>2016-11-11T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>110</ID>
+        <Number>89</Number>
+        <Value>13.38</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
     </OrderList>
   </StockPortofolio>
   <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -2575,7 +2647,7 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
-        <StockName>COFFEE FUTURE DEC 16 CB TL 1.0325</StockName>
+        <StockName>TURBO COFFEE CALL 0.94</StockName>
         <Type>SellAtLimit</Type>
         <CreationDate>2016-06-14T00:00:00</CreationDate>
         <ExecutionDate>2016-06-14T00:00:00</ExecutionDate>
@@ -2629,7 +2701,25 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
-        <StockName>COFFEE FUTURE DEC 16 CB TL 1.0325</StockName>
+        <StockName>CAC 40 CB BEST TURBO LONG 4010.503</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-06-27T00:00:00</CreationDate>
+        <ExecutionDate>2016-06-27T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>77</ID>
+        <Number>125</Number>
+        <Value>0</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>TURBO COFFEE CALL 0.94</StockName>
         <Type>SellAtLimit</Type>
         <CreationDate>2016-07-04T00:00:00</CreationDate>
         <ExecutionDate>2016-07-04T00:00:00</ExecutionDate>
@@ -3079,7 +3169,7 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
-        <StockName>SILVER CB BEST TURBO SHORT 20.9695</StockName>
+        <StockName>SILVER CB BEST TURBO SHORT 20.939</StockName>
         <Type>BuyAtLimit</Type>
         <CreationDate>2016-10-11T00:00:00</CreationDate>
         <ExecutionDate>2016-10-11T00:00:00</ExecutionDate>
@@ -3259,7 +3349,7 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
-        <StockName>COPPER FUTURE [DEC-16] CB TL 1.9795</StockName>
+        <StockName>COPPER FUTURE [DEC-16] CB TL 1.985</StockName>
         <Type>BuyAtLimit</Type>
         <CreationDate>2016-10-27T00:00:00</CreationDate>
         <ExecutionDate>2016-10-27T00:00:00</ExecutionDate>
@@ -3269,6 +3359,240 @@
         <ID>117</ID>
         <Number>246</Number>
         <Value>2.03</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CAC 40 BNP BTL 4200 17-03-2017</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-11-01T00:00:00</CreationDate>
+        <ExecutionDate>2016-11-01T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>118</ID>
+        <Number>121</Number>
+        <Value>3.29</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CAC 40 BNP BTL 4200 17-03-2017</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-11-01T00:00:00</CreationDate>
+        <ExecutionDate>2016-11-01T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>119</ID>
+        <Number>122</Number>
+        <Value>3.26</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>COPPER FUTURE [DEC-16] CB TL 1.985</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-11-01T00:00:00</CreationDate>
+        <ExecutionDate>2016-11-01T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>121</ID>
+        <Number>123</Number>
+        <Value>2.65</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CAC 40 BNP BTL 4200 17-03-2017</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-11-02T00:00:00</CreationDate>
+        <ExecutionDate>2016-11-02T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>123</ID>
+        <Number>133</Number>
+        <Value>2.44</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CASINO GUICHARD PERRACHON CB TL 36.21</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-11-02T00:00:00</CreationDate>
+        <ExecutionDate>2016-11-02T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>124</ID>
+        <Number>500</Number>
+        <Value>0.52</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>COPPER FUTURE [DEC-16] CB TL 1.985</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-11-02T00:00:00</CreationDate>
+        <ExecutionDate>2016-11-02T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>125</ID>
+        <Number>123</Number>
+        <Value>2.49</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VALLOUREC SOG BTL 3 16-12-2016</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-11-02T00:00:00</CreationDate>
+        <ExecutionDate>2016-11-02T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>126</ID>
+        <Number>243</Number>
+        <Value>1.24</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CAC 40 BNP BTL 4200 17-03-2017</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-11-02T00:00:00</CreationDate>
+        <ExecutionDate>2016-11-02T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>127</ID>
+        <Number>110</Number>
+        <Value>2.3</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CAC 40 BNP BTL 4200 17-03-2017</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-11-08T00:00:00</CreationDate>
+        <ExecutionDate>2016-11-08T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>129</ID>
+        <Number>186</Number>
+        <Value>2.69</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VALLOUREC SOG BTL 3 16-12-2016</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-11-09T00:00:00</CreationDate>
+        <ExecutionDate>2016-11-09T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>130</ID>
+        <Number>278</Number>
+        <Value>1.45</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CAC 40 BNP BTL 4200 17-03-2017</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-11-10T00:00:00</CreationDate>
+        <ExecutionDate>2016-11-10T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>131</ID>
+        <Number>100</Number>
+        <Value>3.92</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>SILVER CB BEST TURBO SHORT 20.939</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-11-10T00:00:00</CreationDate>
+        <ExecutionDate>2016-11-10T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>132</ID>
+        <Number>211</Number>
+        <Value>1.03</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>SILVER CB BEST TURBO SHORT 20.939</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-11-11T00:00:00</CreationDate>
+        <ExecutionDate>2016-11-11T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>133</ID>
+        <Number>100</Number>
+        <Value>1.41</Value>
         <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
