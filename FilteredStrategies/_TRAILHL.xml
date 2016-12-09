@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<StockFilteredStrategyBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>_TRAILH</Name>
-  <TriggerName>TRAILHL(200)</TriggerName>
+<StockFilteredStrategyBase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>_TRAILHL</Name>
+  <TriggerName>TRAILHLSR(6)</TriggerName>
   <FilterName>TRUE(1)</FilterName>
-  <BuyTriggerEventName>UpTrend</BuyTriggerEventName>
-  <ShortTriggerEventName>DownTrend</ShortTriggerEventName>
+  <BuyTriggerEventName>HigherHigh</BuyTriggerEventName>
+  <ShortTriggerEventName>SupportDetected</ShortTriggerEventName>
   <OkToBuyFilterEventName>True</OkToBuyFilterEventName>
   <OkToShortFilterEventName>True</OkToShortFilterEventName>
 </StockFilteredStrategyBase>
