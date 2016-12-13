@@ -10257,6 +10257,9 @@
   <StockAnalysisItem StockName="SAFTI GROUPE">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="BEAR/BULL Log Ratio">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="BullBearRatio" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="PCR.EQUITY">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="PCR_Bench" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
