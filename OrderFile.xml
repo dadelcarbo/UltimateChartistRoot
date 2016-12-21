@@ -1808,6 +1808,60 @@
         <Threshold>0</Threshold>
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
+      <StockOrder>
+        <StockName>AGROGENERATION</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2016-12-15T00:00:00</CreationDate>
+        <ExecutionDate>2016-12-15T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>121</ID>
+        <Number>3222</Number>
+        <Value>0.31</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>BOURSE DIRECT</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2016-12-16T00:00:00</CreationDate>
+        <ExecutionDate>2016-12-16T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>122</ID>
+        <Number>594</Number>
+        <Value>1.68</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>AGROGENERATION</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-01-16T00:00:00</CreationDate>
+        <ExecutionDate>2017-01-16T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>124</ID>
+        <Number>2700</Number>
+        <Value>0.37</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
     </OrderList>
   </StockPortofolio>
   <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
