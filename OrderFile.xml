@@ -1848,13 +1848,31 @@
         <StockName>AGROGENERATION</StockName>
         <Type>SellAtLimit</Type>
         <CreationDate>2017-01-16T00:00:00</CreationDate>
-        <ExecutionDate>2017-01-16T00:00:00</ExecutionDate>
+        <ExecutionDate>2016-12-20T00:00:00</ExecutionDate>
         <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
         <State>Executed</State>
         <IsShortOrder>false</IsShortOrder>
         <ID>124</ID>
         <Number>2700</Number>
         <Value>0.37</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>MARIE BRIZARD WINE AND SPIRITS</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-01-24T00:00:00</CreationDate>
+        <ExecutionDate>2016-12-28T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>125</ID>
+        <Number>57</Number>
+        <Value>17.38</Value>
         <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
