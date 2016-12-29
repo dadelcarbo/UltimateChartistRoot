@@ -1,4 +1,4 @@
-## Keep only Ulmatate Chartist configuration files.
+## Keep only Ultimate Chartist configuration files.
 
 # data/weekly/AAII/BullBearRatio.csv
 
@@ -10,6 +10,9 @@ data/daily
 data/intraday
 data/weekly/cot
 data/weekly/harpex
+data/archive
+data/agenda
+data/financial
 
 log/
 Report/
