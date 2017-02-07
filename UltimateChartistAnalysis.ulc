@@ -213,7 +213,7 @@
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="VIX">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="TrailHMA" HasDrawings="True" HasComments="False">
       <DrawingItems BarDuration="Daily">
         <StockDrawingItems>
           <HalfLine2D>
