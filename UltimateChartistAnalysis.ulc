@@ -146,6 +146,9 @@
   <StockAnalysisItem StockName="ZCI LIMITED">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="1000MERCIS">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="_TOP" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="ACROPOLIS TELECOM">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
@@ -248,6 +251,9 @@
       </DrawingItems>
     </StockAnalysis>
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="AUSTRALIAN DOLLAR">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="COT" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="US DOLLAR INDEX">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
       <DrawingItems BarDuration="Daily">
@@ -307,5 +313,11 @@
         </StockDrawingItems>
       </DrawingItems>
     </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="AD.CAC40">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="PCR_Bench" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="BinckPEA_P">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="_TOP" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
 </StockAnalysisList>
