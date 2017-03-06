@@ -326,6 +326,9 @@
   <StockAnalysisItem StockName="INT_ABC ARBITRAGE">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="_HL" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_ABC ARBITRAGE">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="_HL" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="BinckPEA_P">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="_TOP" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
