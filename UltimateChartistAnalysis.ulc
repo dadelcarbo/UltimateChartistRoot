@@ -19,6 +19,9 @@
       </DrawingItems>
     </StockAnalysis>
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="France">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="__SPEED" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="SPY">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
       <DrawingItems BarDuration="TLB">
@@ -335,6 +338,80 @@
             </PointF>
             <Pen>1:255:0:0:0:Solid</Pen>
           </Line2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="COPPER">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
+      <DrawingItems BarDuration="Daily">
+        <StockDrawingItems>
+          <Segment2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2199</X>
+              <Y>26.12</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2272</X>
+              <Y>24.8387756</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Segment2D>
+          <Segment2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2069</X>
+              <Y>22.04</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2270</X>
+              <Y>23.6646652</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Segment2D>
+          <Segment2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1898</X>
+              <Y>35.46</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2090</X>
+              <Y>23.2822247</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Segment2D>
+          <HalfLine2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2357</X>
+              <Y>29.32</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2385</X>
+              <Y>28.44</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
+          <HalfLine2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2340</X>
+              <Y>32.39</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2372</X>
+              <Y>31.16</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
+          <Segment2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2263</X>
+              <Y>23.64</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2347</X>
+              <Y>31.9542866</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Segment2D>
         </StockDrawingItems>
       </DrawingItems>
     </StockAnalysis>
