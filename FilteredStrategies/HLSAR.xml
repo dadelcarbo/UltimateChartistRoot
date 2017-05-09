@@ -1,10 +1,13 @@
 <?xml version="1.0"?>
 <StockFilteredStrategyBase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>HLSAR</Name>
-  <TriggerName>HLSAR(0,0.1,20,1)</TriggerName>
+  <EntryTriggerName>HLSAR(0,0.1,20,1)</EntryTriggerName>
+  <ExitTriggerName>HLSAR(0,0.1,20,1)</ExitTriggerName>
   <FilterName>TRUE(1)</FilterName>
   <BuyTriggerEventName>SupportBroken</BuyTriggerEventName>
   <ShortTriggerEventName>SupportDetected</ShortTriggerEventName>
+  <SellTriggerEventName>SupportDetected</SellTriggerEventName>
+  <CoverTriggerEventName>SupportBroken</CoverTriggerEventName>
   <OkToBuyFilterEventName>True</OkToBuyFilterEventName>
   <OkToShortFilterEventName>True</OkToShortFilterEventName>
 </StockFilteredStrategyBase>
