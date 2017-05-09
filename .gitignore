@@ -18,3 +18,5 @@ log/
 Report/
 license.dat
 *.bak
+/data/intraday.Old
+*.suo

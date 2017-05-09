@@ -1,0 +1,127 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UltimateChartistRoot", "UltimateChartistRoot", "{1C7888FD-6579-4E34-A96B-ADCF2BC8AB8C}"
+	ProjectSection(SolutionItems) = preProject
+		BarChartDownload.cfg = BarChartDownload.cfg
+		BreadthCfg.txt = BreadthCfg.txt
+		CAC40.txt = CAC40.txt
+		CBOEDownload.cfg = CBOEDownload.cfg
+		CleanBarChart.bat = CleanBarChart.bat
+		CleanCommerzBank.bat = CleanCommerzBank.bat
+		CleanGenerated.bat = CleanGenerated.bat
+		CleanGeneratedBreadth.bat = CleanGeneratedBreadth.bat
+		CommerzBankIntradayDownload.cfg = CommerzBankIntradayDownload.cfg
+		COT.cfg = COT.cfg
+		EuronextDownload.cfg = EuronextDownload.cfg
+		GoogleDownload.cfg = GoogleDownload.cfg
+		GoogleDownload.user.cfg = GoogleDownload.user.cfg
+		GoogleIntradayDownload.user.cfg = GoogleIntradayDownload.user.cfg
+		OrderFile.xml = OrderFile.xml
+		Portfolio.xml = Portfolio.xml
+		RatioIndicator.txt = RatioIndicator.txt
+		Report.cfg = Report.cfg
+		RydexDownload.cfg = RydexDownload.cfg
+		SentimentTrader_DATA_URL.xlsx = SentimentTrader_DATA_URL.xlsx
+		UltimateChartistAnalysis.ulc = UltimateChartistAnalysis.ulc
+		WatchLists.xml = WatchLists.xml
+		YahooDownload.cfg = YahooDownload.cfg
+		YahooDownload.user.cfg = YahooDownload.user.cfg
+		YahooIntradayDownload.cfg = YahooIntradayDownload.cfg
+		YahooIntradayDownload.user.cfg = YahooIntradayDownload.user.cfg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Themes", "Themes", "{2884C3A9-C2C5-413D-8C6D-85134266BF9F}"
+	ProjectSection(SolutionItems) = preProject
+		themes\__SPEED.thm = themes\__SPEED.thm
+		themes\_HL.thm = themes\_HL.thm
+		themes\_HLBB.thm = themes\_HLBB.thm
+		themes\_SPEED.thm = themes\_SPEED.thm
+		themes\_TOP.thm = themes\_TOP.thm
+		themes\_TOPEMA.thm = themes\_TOPEMA.thm
+		themes\ADBench.thm = themes\ADBench.thm
+		themes\BB.thm = themes\BB.thm
+		themes\BBStop.thm = themes\BBStop.thm
+		themes\BullBearRatio.thm = themes\BullBearRatio.thm
+		themes\CCI.thm = themes\CCI.thm
+		themes\CCI_INT.thm = themes\CCI_INT.thm
+		themes\CCI_TRAIL.thm = themes\CCI_TRAIL.thm
+		themes\CONVEX_HULL.thm = themes\CONVEX_HULL.thm
+		themes\COT.thm = themes\COT.thm
+		themes\CUPHANDLE.thm = themes\CUPHANDLE.thm
+		themes\DONCHIAN.thm = themes\DONCHIAN.thm
+		themes\DOWLine.thm = themes\DOWLine.thm
+		themes\EMA200_HMA30.thm = themes\EMA200_HMA30.thm
+		themes\EMA3_EMA6.thm = themes\EMA3_EMA6.thm
+		themes\Empty.thm = themes\Empty.thm
+		themes\ER.thm = themes\ER.thm
+		themes\HeikinAshi.thm = themes\HeikinAshi.thm
+		themes\HeikinAshi_SAR.thm = themes\HeikinAshi_SAR.thm
+		themes\HeikinAshi_VOL.thm = themes\HeikinAshi_VOL.thm
+		themes\HeikinAshiRank.thm = themes\HeikinAshiRank.thm
+		themes\HeikinAshiSAR.thm = themes\HeikinAshiSAR.thm
+		themes\HeikinAshiSAR_NEW.thm = themes\HeikinAshiSAR_NEW.thm
+		themes\HeikinAshiVol.thm = themes\HeikinAshiVol.thm
+		themes\Hilbert.thm = themes\Hilbert.thm
+		themes\Hilbert_BB.thm = themes\Hilbert_BB.thm
+		themes\HorseRace.thm = themes\HorseRace.thm
+		themes\KEMA.thm = themes\KEMA.thm
+		themes\MACD.thm = themes\MACD.thm
+		themes\MYBAND.thm = themes\MYBAND.thm
+		themes\MyIndicators.thm = themes\MyIndicators.thm
+		themes\PCR_Bench.thm = themes\PCR_Bench.thm
+		themes\Pivot.thm = themes\Pivot.thm
+		themes\PUKE.thm = themes\PUKE.thm
+		themes\QQE.thm = themes\QQE.thm
+		themes\RANK.thm = themes\RANK.thm
+		themes\ReportTheme.thm = themes\ReportTheme.thm
+		themes\RSI.thm = themes\RSI.thm
+		themes\SAR.thm = themes\SAR.thm
+		themes\SEASONALITY.thm = themes\SEASONALITY.thm
+		themes\ShortInterest.thm = themes\ShortInterest.thm
+		themes\Stochastik.thm = themes\Stochastik.thm
+		themes\STOKS.thm = themes\STOKS.thm
+		themes\Trail.thm = themes\Trail.thm
+		themes\TRAIL_MTF.thm = themes\TRAIL_MTF.thm
+		themes\TrailEMA.thm = themes\TrailEMA.thm
+		themes\TrailHMA.thm = themes\TrailHMA.thm
+		themes\TrailPercent.thm = themes\TrailPercent.thm
+		themes\TrailSR.thm = themes\TrailSR.thm
+		themes\TrailSR_Light.thm = themes\TrailSR_Light.thm
+		themes\TRAILVOL.thm = themes\TRAILVOL.thm
+		themes\TrendHL.thm = themes\TrendHL.thm
+		themes\TrendHL2.thm = themes\TrendHL2.thm
+		themes\TrendLine.thm = themes\TrendLine.thm
+		themes\TrendLineHL.thm = themes\TrendLineHL.thm
+		themes\VOLPATTERN.thm = themes\VOLPATTERN.thm
+		themes\WEDGE.thm = themes\WEDGE.thm
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FilteredStrategies", "FilteredStrategies", "{B39A472A-69C2-40F6-8886-F7F1DCAAB58C}"
+	ProjectSection(SolutionItems) = preProject
+		FilteredStrategies\HLSAR.xml = FilteredStrategies\HLSAR.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{7E40E468-401B-4BE6-B353-D9621459EA58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "weekly", "weekly", "{209370CC-539F-46C1-9B3A-EE1BB04A872D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AAII", "AAII", "{AEAE9B9F-3512-4B73-A1D6-492CB0C4DA53}"
+	ProjectSection(SolutionItems) = preProject
+		data\weekly\AAII\BullBearRatio.csv = data\weekly\AAII\BullBearRatio.csv
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2884C3A9-C2C5-413D-8C6D-85134266BF9F} = {1C7888FD-6579-4E34-A96B-ADCF2BC8AB8C}
+		{B39A472A-69C2-40F6-8886-F7F1DCAAB58C} = {1C7888FD-6579-4E34-A96B-ADCF2BC8AB8C}
+		{7E40E468-401B-4BE6-B353-D9621459EA58} = {1C7888FD-6579-4E34-A96B-ADCF2BC8AB8C}
+		{209370CC-539F-46C1-9B3A-EE1BB04A872D} = {7E40E468-401B-4BE6-B353-D9621459EA58}
+		{AEAE9B9F-3512-4B73-A1D6-492CB0C4DA53} = {209370CC-539F-46C1-9B3A-EE1BB04A872D}
+	EndGlobalSection
+EndGlobal
