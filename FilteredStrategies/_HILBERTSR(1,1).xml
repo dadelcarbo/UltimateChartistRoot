@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StockFilteredStrategyBase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>_HILBERTSR(1,1)</Name>
+  <EntryTriggerName>HILBERTSR(1,1)</EntryTriggerName>
+  <ExitTriggerName>HILBERTSR(1,1)</ExitTriggerName>
+  <FilterName>TRUE(1)</FilterName>
+  <BuyTriggerEventName>SupportDetected</BuyTriggerEventName>
+  <ShortTriggerEventName>SupportDetected</ShortTriggerEventName>
+  <SellTriggerEventName>ResistanceDetected</SellTriggerEventName>
+  <CoverTriggerEventName>SupportDetected</CoverTriggerEventName>
+  <OkToBuyFilterEventName>True</OkToBuyFilterEventName>
+  <OkToShortFilterEventName>True</OkToShortFilterEventName>
+</StockFilteredStrategyBase>
