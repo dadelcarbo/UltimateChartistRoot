@@ -102,6 +102,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Themes", "Themes", "{2884C3
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FilteredStrategies", "FilteredStrategies", "{B39A472A-69C2-40F6-8886-F7F1DCAAB58C}"
 	ProjectSection(SolutionItems) = preProject
+		FilteredStrategies\_CROSSING.xml = FilteredStrategies\_CROSSING.xml
+		FilteredStrategies\_ER.xml = FilteredStrategies\_ER.xml
+		FilteredStrategies\_HILBERTSR(1,1).xml = FilteredStrategies\_HILBERTSR(1,1).xml
+		FilteredStrategies\_STOKSR.xml = FilteredStrategies\_STOKSR.xml
 		FilteredStrategies\HLSAR.xml = FilteredStrategies\HLSAR.xml
 	EndProjectSection
 EndProject
