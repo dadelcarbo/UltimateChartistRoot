@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <StockAnalysisList>
   <StockAnalysisItem StockName="Argentina">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="_STOK" HasDrawings="True" HasComments="False">
       <DrawingItems BarDuration="Daily">
         <StockDrawingItems>
           <Line2D>
