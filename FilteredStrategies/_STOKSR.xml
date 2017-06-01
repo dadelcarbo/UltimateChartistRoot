@@ -4,10 +4,10 @@
   <FilterName>TRUE(1)</FilterName>
   <OkToBuyFilterEventName>True</OkToBuyFilterEventName>
   <OkToShortFilterEventName>True</OkToShortFilterEventName>
-  <EntryTriggerName>OVERBOUGHTSR(STOKS(50_3_3_75_25),75,25)</EntryTriggerName>
+  <EntryTriggerName>OVERBOUGHTSR(STOKS(50_3_3),75,25)</EntryTriggerName>
   <BuyTriggerEventName>SupportDetected</BuyTriggerEventName>
   <ShortTriggerEventName>ResistanceDetected</ShortTriggerEventName>
-  <ExitTriggerName>OVERBOUGHTSR(STOKS(50_3_3_75_25),75,25)</ExitTriggerName>
+  <ExitTriggerName>OVERBOUGHTSR(STOKS(50_3_3),75,25)</ExitTriggerName>
   <SellTriggerEventName>ResistanceDetected</SellTriggerEventName>
   <CoverTriggerEventName>SupportDetected</CoverTriggerEventName>
   <StopTriggerName>TRUE(1)</StopTriggerName>
