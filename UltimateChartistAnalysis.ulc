@@ -20,7 +20,7 @@
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="France">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="__SPEED" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="_STOK" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SPY">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
@@ -309,7 +309,7 @@
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="CAC40">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="_HL" HasDrawings="True" HasComments="False">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="_STOK" HasDrawings="True" HasComments="False">
       <DrawingItems BarDuration="Daily">
         <StockDrawingItems>
           <Line2D>
