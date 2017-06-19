@@ -21,7 +21,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UltimateChartistRoot", "Ult
 		GoogleDownload.user.cfg = GoogleDownload.user.cfg
 		GoogleIntradayDownload.user.cfg = GoogleIntradayDownload.user.cfg
 		OrderFile.xml = OrderFile.xml
-		Portfolio.xml = Portfolio.xml
 		RatioIndicator.txt = RatioIndicator.txt
 		Report.cfg = Report.cfg
 		RydexDownload.cfg = RydexDownload.cfg
