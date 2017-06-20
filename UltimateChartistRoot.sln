@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UltimateChartistRoot", "UltimateChartistRoot", "{1C7888FD-6579-4E34-A96B-ADCF2BC8AB8C}"
 	ProjectSection(SolutionItems) = preProject
@@ -35,11 +35,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UltimateChartistRoot", "Ult
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Themes", "Themes", "{2884C3A9-C2C5-413D-8C6D-85134266BF9F}"
 	ProjectSection(SolutionItems) = preProject
+		themes\__RANGE.thm = themes\__RANGE.thm
 		themes\__SPEED.thm = themes\__SPEED.thm
+		themes\_CROSS_RSI.thm = themes\_CROSS_RSI.thm
+		themes\_CROSSING.thm = themes\_CROSSING.thm
 		themes\_HL.thm = themes\_HL.thm
 		themes\_HLBB.thm = themes\_HLBB.thm
 		themes\_SPEED.thm = themes\_SPEED.thm
 		themes\_STOK.thm = themes\_STOK.thm
+		themes\_STOK_14.thm = themes\_STOK_14.thm
 		themes\_TOP.thm = themes\_TOP.thm
 		themes\_TOPEMA.thm = themes\_TOPEMA.thm
 		themes\ADBench.thm = themes\ADBench.thm
@@ -103,8 +107,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FilteredStrategies", "Filte
 	ProjectSection(SolutionItems) = preProject
 		FilteredStrategies\_CROSSING.xml = FilteredStrategies\_CROSSING.xml
 		FilteredStrategies\_ER.xml = FilteredStrategies\_ER.xml
+		FilteredStrategies\_HIGHLOW200.xml = FilteredStrategies\_HIGHLOW200.xml
 		FilteredStrategies\_HILBERTSR(1,1).xml = FilteredStrategies\_HILBERTSR(1,1).xml
+		FilteredStrategies\_RSISR.xml = FilteredStrategies\_RSISR.xml
 		FilteredStrategies\_STOKSR.xml = FilteredStrategies\_STOKSR.xml
+		FilteredStrategies\_TRAILFOLLOW.xml = FilteredStrategies\_TRAILFOLLOW.xml
 		FilteredStrategies\HLSAR.xml = FilteredStrategies\HLSAR.xml
 	EndProjectSection
 EndProject
