@@ -146,6 +146,9 @@
       </DrawingItems>
     </StockAnalysis>
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="FAIVELEY TRANSPORT">
+    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="GAMELOFT">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
@@ -765,6 +768,92 @@
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
               <X>248.991974</X>
               <Y>25.2138367</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Line2D>
+        </StockDrawingItems>
+      </DrawingItems>
+      <DrawingItems BarDuration="Daily_EMA3">
+        <StockDrawingItems>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1811.41553</X>
+              <Y>27.4469337</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1812.41553</X>
+              <Y>27.4469337</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Line2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="AD.CAC40">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="ADBench" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="AD.SP500">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
+      <DrawingItems BarDuration="Daily">
+        <StockDrawingItems>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>796.685364</X>
+              <Y>-0.45742476</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>797.685364</X>
+              <Y>-0.45742476</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Line2D>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>832.5587</X>
+              <Y>0.470794439</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>833.5587</X>
+              <Y>0.470794439</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Line2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="HL_2.SRD">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
+      <DrawingItems BarDuration="Daily_EMA12">
+        <StockDrawingItems>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2843.62744</X>
+              <Y>-0.00100946426</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2844.62744</X>
+              <Y>-0.00100946426</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Line2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="HL_20.SP500">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
+      <DrawingItems BarDuration="Daily_EMA12">
+        <StockDrawingItems>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>938.1858</X>
+              <Y>-0.00122666359</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>939.1858</X>
+              <Y>-0.00122666359</Y>
             </PointF>
             <Pen>1:255:0:0:0:Solid</Pen>
           </Line2D>
