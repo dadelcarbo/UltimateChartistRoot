@@ -6,10 +6,12 @@
       <string>INT_AIR FRANCE - KLM</string>
       <string>INT_AIRBUS</string>
       <string>INT_ARCELOR MITTAL</string>
+      <string>INT_BNP PARIBAS</string>
       <string>INT_BOURBON</string>
       <string>INT_CARREFOUR</string>
       <string>INT_CASINO</string>
       <string>INT_CGG</string>
+      <string>INT_CREDIT AGRICOLE</string>
       <string>INT_DERICHEBOURG</string>
       <string>INT_EDF</string>
       <string>INT_ENGIE</string>
@@ -26,6 +28,7 @@
       <string>INT_ORANGE</string>
       <string>INT_RECYLEX</string>
       <string>INT_SAINT GOBAIN</string>
+      <string>INT_SOCIETE GENERALE</string>
       <string>INT_SOLOCAL</string>
       <string>INT_STMICROELECTRONICS</string>
       <string>INT_TOTAL</string>

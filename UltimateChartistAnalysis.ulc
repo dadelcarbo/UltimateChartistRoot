@@ -66,6 +66,51 @@
   <StockAnalysisItem StockName="ACCOR HOTELS">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="_STOK" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="AIR FRANCE - KLM">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
+      <DrawingItems BarDuration="Weekly_EMA3">
+        <StockDrawingItems>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>411.234253</X>
+              <Y>11.6491089</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>412.234253</X>
+              <Y>11.6491089</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Line2D>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>415.1462</X>
+              <Y>6.296425</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>416.1462</X>
+              <Y>6.296425</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Line2D>
+        </StockDrawingItems>
+      </DrawingItems>
+      <DrawingItems BarDuration="Weekly">
+        <StockDrawingItems>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>430</X>
+              <Y>11.945</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>431</X>
+              <Y>11.945</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Line2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="ALCATEL-LUCENT">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
@@ -146,6 +191,9 @@
       </DrawingItems>
     </StockAnalysis>
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="AB SCIENCE">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="_STOK" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="FAIVELEY TRANSPORT">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
@@ -163,6 +211,9 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SAFT">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="ABEO">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="_STOK" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="AGRICOLE CRAU">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
@@ -241,6 +292,9 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ZCI LIMITED">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="1000MERCIS">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="_STOK" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="CAC40">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="_STOK" HasDrawings="True" HasComments="False">
