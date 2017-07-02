@@ -2853,6 +2853,24 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
+        <StockName>AGROGENERATION</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-06-29T00:00:00</CreationDate>
+        <ExecutionDate>2017-06-19T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>184</ID>
+        <Number>2378</Number>
+        <Value>0.42</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
         <StockName>IMPLANET</StockName>
         <Type>SellAtLimit</Type>
         <CreationDate>2017-06-20T00:00:00</CreationDate>
@@ -2961,16 +2979,52 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
-        <StockName>AGROGENERATION</StockName>
+        <StockName>INNATE PHARMA</StockName>
         <Type>SellAtLimit</Type>
+        <CreationDate>2017-06-27T00:00:00</CreationDate>
+        <ExecutionDate>2017-06-27T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>206</ID>
+        <Number>80</Number>
+        <Value>11.57</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>HOLOSFIND</StockName>
+        <Type>BuyAtLimit</Type>
         <CreationDate>2017-06-29T00:00:00</CreationDate>
         <ExecutionDate>2017-06-29T00:00:00</ExecutionDate>
         <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
         <State>Executed</State>
         <IsShortOrder>false</IsShortOrder>
-        <ID>184</ID>
-        <Number>2378</Number>
-        <Value>0.42</Value>
+        <ID>207</ID>
+        <Number>6666</Number>
+        <Value>0.03</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>AGROGENERATION</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-06-29T00:00:00</CreationDate>
+        <ExecutionDate>2017-06-29T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>208</ID>
+        <Number>1921</Number>
+        <Value>0.52</Value>
         <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
