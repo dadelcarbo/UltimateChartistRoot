@@ -5493,12 +5493,19 @@
     </OrderList>
   </StockPortofolio>
   <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Name>OWNER_P</Name>
+    <TotalDeposit>20000</TotalDeposit>
+    <OffsetLiquidity>0</OffsetLiquidity>
+    <Group>ALL</Group>
+    <IsSimulation>false</IsSimulation>
+    <IsVirtual>false</IsVirtual>
+  </StockPortofolio>
+  <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>SIMU_P</Name>
     <TotalDeposit>20000</TotalDeposit>
     <OffsetLiquidity>0</OffsetLiquidity>
     <Group>ALL</Group>
     <IsSimulation>false</IsSimulation>
     <IsVirtual>false</IsVirtual>
-    <OrderList />
   </StockPortofolio>
 </StockPortofolioList>
