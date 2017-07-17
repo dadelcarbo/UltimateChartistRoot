@@ -3032,6 +3032,60 @@
         <Threshold>0</Threshold>
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
+      <StockOrder>
+        <StockName>BX4</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-07-03T00:00:00</CreationDate>
+        <ExecutionDate>2017-07-03T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>211</ID>
+        <Number>575</Number>
+        <Value>5.385</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>METABOLIC EXPLORER</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-07-03T00:00:00</CreationDate>
+        <ExecutionDate>2017-07-03T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>212</ID>
+        <Number>390</Number>
+        <Value>2.56</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VOLTALIA</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-07-03T00:00:00</CreationDate>
+        <ExecutionDate>2017-07-03T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>213</ID>
+        <Number>82</Number>
+        <Value>12.09</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
     </OrderList>
   </StockPortofolio>
   <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -5499,6 +5553,7 @@
     <Group>ALL</Group>
     <IsSimulation>false</IsSimulation>
     <IsVirtual>false</IsVirtual>
+    <OrderList />
   </StockPortofolio>
   <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>SIMU_P</Name>
@@ -5507,5 +5562,6 @@
     <Group>ALL</Group>
     <IsSimulation>false</IsSimulation>
     <IsVirtual>false</IsVirtual>
+    <OrderList />
   </StockPortofolio>
 </StockPortofolioList>
