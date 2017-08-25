@@ -918,6 +918,9 @@
   <StockAnalysisItem StockName="INT_ACCOR">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="_STOK" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_AIR FRANCE - KLM">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_AIRBUS">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
@@ -983,6 +986,9 @@
       </DrawingItems>
     </StockAnalysis>
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_EDF">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_ENGIE">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
@@ -990,6 +996,9 @@
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_GEMALTO">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_ILIAD">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_IND_SPY">
@@ -1079,9 +1088,15 @@
           </HalfLine2D>
         </StockDrawingItems>
       </DrawingItems>
+      <DrawingItems BarDuration="TLB_6D">
+        <StockDrawingItems />
+      </DrawingItems>
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_TOTAL">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_VALLOUREC">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BinckPEA_P">
