@@ -161,6 +161,9 @@
   <StockAnalysisItem StockName="CFAO">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="EDF DS">
+    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="VALLOUREC">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
       <DrawingItems BarDuration="Daily">
