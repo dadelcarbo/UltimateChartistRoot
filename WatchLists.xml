@@ -12,11 +12,9 @@
       <string>INT_CASINO</string>
       <string>INT_CGG</string>
       <string>INT_CREDIT AGRICOLE</string>
-      <string>INT_DERICHEBOURG</string>
       <string>INT_EDF</string>
       <string>INT_ENGIE</string>
       <string>INT_ERAMET</string>
-      <string>INT_FX_USD_JPY</string>
       <string>INT_GEMALTO</string>
       <string>INT_ILIAD</string>
       <string>INT_IND_SPY</string>
@@ -26,12 +24,9 @@
       <string>INT_LYXOR LEV CAC 40</string>
       <string>INT_NICOX</string>
       <string>INT_ORANGE</string>
-      <string>INT_RECYLEX</string>
-      <string>INT_SAINT GOBAIN</string>
       <string>INT_SOCIETE GENERALE</string>
       <string>INT_SOLOCAL</string>
       <string>INT_STMICROELECTRONICS</string>
-      <string>INT_TOTAL</string>
       <string>INT_VALLOUREC</string>
     </StockList>
   </StockWatchList>
