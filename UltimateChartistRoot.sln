@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UltimateChartistRoot", "UltimateChartistRoot", "{1C7888FD-6579-4E34-A96B-ADCF2BC8AB8C}"
 	ProjectSection(SolutionItems) = preProject
@@ -44,8 +44,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Themes", "Themes", "{2884C3
 		themes\_SPEED.thm = themes\_SPEED.thm
 		themes\_STOK.thm = themes\_STOK.thm
 		themes\_STOK_14.thm = themes\_STOK_14.thm
-		themes\_TOP.thm = themes\_TOP.thm
 		themes\_TOPEMA.thm = themes\_TOPEMA.thm
+		themes\_TOPSAR.thm = themes\_TOPSAR.thm
 		themes\ADBench.thm = themes\ADBench.thm
 		themes\BB.thm = themes\BB.thm
 		themes\BBStop.thm = themes\BBStop.thm
@@ -134,5 +134,8 @@ Global
 		{7E40E468-401B-4BE6-B353-D9621459EA58} = {1C7888FD-6579-4E34-A96B-ADCF2BC8AB8C}
 		{209370CC-539F-46C1-9B3A-EE1BB04A872D} = {7E40E468-401B-4BE6-B353-D9621459EA58}
 		{AEAE9B9F-3512-4B73-A1D6-492CB0C4DA53} = {209370CC-539F-46C1-9B3A-EE1BB04A872D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {739F75DB-2139-48D8-A612-E8AB77F3CF0F}
 	EndGlobalSection
 EndGlobal

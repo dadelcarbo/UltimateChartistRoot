@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="Windows-1252"?>
 <StockPortofolioList>
-  <StockPortofolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>BinckPEA_P</Name>
     <TotalDeposit>15704</TotalDeposit>
     <OffsetLiquidity>0</OffsetLiquidity>
@@ -2915,7 +2915,7 @@
         <State>Executed</State>
         <IsShortOrder>false</IsShortOrder>
         <ID>201</ID>
-        <Number>1051</Number>
+        <Number>1052</Number>
         <Value>0.7</Value>
         <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
@@ -2998,6 +2998,7 @@
       </StockOrder>
       <StockOrder>
         <StockName>HOLOSFIND</StockName>
+        <Comment>Achat trés spéculatif. Cotation arretée aprés prise de position.</Comment>
         <Type>BuyAtLimit</Type>
         <CreationDate>2017-06-29T00:00:00</CreationDate>
         <ExecutionDate>2017-06-29T00:00:00</ExecutionDate>
@@ -3286,6 +3287,7 @@
       </StockOrder>
       <StockOrder>
         <StockName>SPINEWAY</StockName>
+        <Comment>Reco David Renan</Comment>
         <Type>BuyAtLimit</Type>
         <CreationDate>2017-10-27T00:00:00</CreationDate>
         <ExecutionDate>2017-10-27T00:00:00</ExecutionDate>
@@ -3448,6 +3450,7 @@
       </StockOrder>
       <StockOrder>
         <StockName>INNATE PHARMA</StockName>
+        <Comment>Jouer rebond technique aprés grosse chute</Comment>
         <Type>BuyAtLimit</Type>
         <CreationDate>2017-12-06T00:00:00</CreationDate>
         <ExecutionDate>2017-12-06T00:00:00</ExecutionDate>
@@ -3484,6 +3487,7 @@
       </StockOrder>
       <StockOrder>
         <StockName>INNATE PHARMA</StockName>
+        <Comment>Reforcement aprés grosse baisse de plus de 5%</Comment>
         <Type>BuyAtLimit</Type>
         <CreationDate>2017-12-08T00:00:00</CreationDate>
         <ExecutionDate>2017-12-08T00:00:00</ExecutionDate>
@@ -3502,6 +3506,7 @@
       </StockOrder>
       <StockOrder>
         <StockName>INNATE PHARMA</StockName>
+        <Comment>Première prise de profit</Comment>
         <Type>SellAtLimit</Type>
         <CreationDate>2017-12-12T00:00:00</CreationDate>
         <ExecutionDate>2017-12-12T00:00:00</ExecutionDate>
@@ -3520,7 +3525,7 @@
       </StockOrder>
     </OrderList>
   </StockPortofolio>
-  <StockPortofolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>BinckTitre_P</Name>
     <TotalDeposit>1000</TotalDeposit>
     <OffsetLiquidity>0</OffsetLiquidity>
@@ -5959,6 +5964,78 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
+        <StockName>COCOA FUTURE [SEP-17] CB TURBO LONG 1806</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-05-24T00:00:00</CreationDate>
+        <ExecutionDate>2017-05-24T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>202</ID>
+        <Number>155</Number>
+        <Value>1.93</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>COCOA FUTURE [SEP-17] CB TURBO LONG 1806</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-05-24T00:00:00</CreationDate>
+        <ExecutionDate>2017-05-24T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>204</ID>
+        <Number>161</Number>
+        <Value>1.86</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ST MICROELECTRONICS BNP TS 15.99</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-06-06T00:00:00</CreationDate>
+        <ExecutionDate>2017-06-06T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>211</ID>
+        <Number>127</Number>
+        <Value>2.35</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ERAMET</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-06-06T00:00:00</CreationDate>
+        <ExecutionDate>2017-06-06T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>212</ID>
+        <Number>45</Number>
+        <Value>44.32</Value>
+        <Fee>10</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
         <StockName>ST MICROELECTRONICS BNP TS 16.27</StockName>
         <Type>BuyAtLimit</Type>
         <CreationDate>2017-06-07T00:00:00</CreationDate>
@@ -5969,6 +6046,996 @@
         <ID>189</ID>
         <Number>184</Number>
         <Value>1.63</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ST MICROELECTRONICS BNP TS 15.99</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-06-07T00:00:00</CreationDate>
+        <ExecutionDate>2017-06-07T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>214</ID>
+        <Number>127</Number>
+        <Value>2.09</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>SAINT-GOBAIN BNP TURBO SHORT 50.82</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-06-07T00:00:00</CreationDate>
+        <ExecutionDate>2017-06-07T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>215</ID>
+        <Number>566</Number>
+        <Value>0.57</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ST MICROELECTRONICS BNP TS 15.99</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-06-07T00:00:00</CreationDate>
+        <ExecutionDate>2017-06-07T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>216</ID>
+        <Number>155</Number>
+        <Value>1.99</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ERAMET</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-06-07T00:00:00</CreationDate>
+        <ExecutionDate>2017-06-07T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>217</ID>
+        <Number>45</Number>
+        <Value>43.68</Value>
+        <Fee>10</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CAC 40 BNP BEST TURBO SHORT 5874.3046</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-06-07T00:00:00</CreationDate>
+        <ExecutionDate>2017-06-07T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>218</ID>
+        <Number>37</Number>
+        <Value>7.98</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VALLOUREC BNP BEST TURBO SHORT 7.4209</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-06-13T00:00:00</CreationDate>
+        <ExecutionDate>2017-06-13T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>220</ID>
+        <Number>303</Number>
+        <Value>0.99</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VIX CBOE VOLATILITY FUTURE [ CB TL 12.14</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-06-14T00:00:00</CreationDate>
+        <ExecutionDate>2017-06-14T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>221</ID>
+        <Number>374</Number>
+        <Value>0.45</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>AIR FRANCE KLM BNP BTS 12.9029</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-06-16T00:00:00</CreationDate>
+        <ExecutionDate>2017-06-16T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>223</ID>
+        <Number>120</Number>
+        <Value>2.49</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>COCOA FUTURE [SEP-17] CB TURBO LONG 1806</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-06-20T00:00:00</CreationDate>
+        <ExecutionDate>2017-06-20T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>203</ID>
+        <Number>275</Number>
+        <Value>2.25</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VALLOUREC BNP BEST TURBO SHORT 7.4209</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-06-20T00:00:00</CreationDate>
+        <ExecutionDate>2017-06-20T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>224</ID>
+        <Number>153</Number>
+        <Value>1.13</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VIX CBOE VOLATILITY FUTURE [ CB TL 12.14</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-06-20T00:00:00</CreationDate>
+        <ExecutionDate>2017-06-20T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>226</ID>
+        <Number>350</Number>
+        <Value>0.38</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>AIR FRANCE KLM BNP BTS 12.9029</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-06-22T00:00:00</CreationDate>
+        <ExecutionDate>2017-06-22T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>228</ID>
+        <Number>120</Number>
+        <Value>2.18</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ST MICROELECTRONICS BNP TS 15.99</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-06-22T00:00:00</CreationDate>
+        <ExecutionDate>2017-06-22T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>229</ID>
+        <Number>70</Number>
+        <Value>3.66</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>COCOA FUTURE [SEP-17] CB TURBO LONG 1806</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-06-26T00:00:00</CreationDate>
+        <ExecutionDate>2017-06-26T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>205</ID>
+        <Number>161</Number>
+        <Value>2.16</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VIX CBOE VOLATILITY FUTURE [ CB TL 12.14</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-06-26T00:00:00</CreationDate>
+        <ExecutionDate>2017-06-26T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>230</ID>
+        <Number>588</Number>
+        <Value>0.35</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>AIR FRANCE KLM BNP BTS 12.9029</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-06-27T00:00:00</CreationDate>
+        <ExecutionDate>2017-06-27T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>231</ID>
+        <Number>222</Number>
+        <Value>1.35</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>AIR FRANCE KLM BNP BTS 12.9029</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-06-27T00:00:00</CreationDate>
+        <ExecutionDate>2017-06-27T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>232</ID>
+        <Number>222</Number>
+        <Value>1.14</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ST MICROELECTRONICS BNP TS 15.99</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-06-28T00:00:00</CreationDate>
+        <ExecutionDate>2017-06-28T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>233</ID>
+        <Number>69</Number>
+        <Value>4.26</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>AIR FRANCE KLM BNP BTS 12.9029</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-06-29T00:00:00</CreationDate>
+        <ExecutionDate>2017-06-29T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>234</ID>
+        <Number>300</Number>
+        <Value>1</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VIX CBOE VOLATILITY FUTURE [ CB TL 12.14</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-07-03T00:00:00</CreationDate>
+        <ExecutionDate>2017-07-03T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>213</ID>
+        <Number>326</Number>
+        <Value>0.51</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ST MICROELECTRONICS BNP TS 15.99</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-07-10T00:00:00</CreationDate>
+        <ExecutionDate>2017-07-10T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>219</ID>
+        <Number>140</Number>
+        <Value>2.55</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VALLOUREC BNP BEST TURBO SHORT 7.4209</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-07-17T00:00:00</CreationDate>
+        <ExecutionDate>2017-07-17T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>225</ID>
+        <Number>150</Number>
+        <Value>1.06</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CGG ACT</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-08-24T00:00:00</CreationDate>
+        <ExecutionDate>2017-08-24T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>251</ID>
+        <Number>176</Number>
+        <Value>5.65</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CGG ACT</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-08-24T00:00:00</CreationDate>
+        <ExecutionDate>2017-08-24T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>252</ID>
+        <Number>176</Number>
+        <Value>5.88</Value>
+        <Fee>10</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CARREFOUR UCR TURBO LONG 15.9</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-08-25T00:00:00</CreationDate>
+        <ExecutionDate>2017-08-25T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>253</ID>
+        <Number>584</Number>
+        <Value>0.513</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CARREFOUR UCR TURBO LONG 15.9</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-08-31T00:00:00</CreationDate>
+        <ExecutionDate>2017-08-31T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>254</ID>
+        <Number>1250</Number>
+        <Value>0.24</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VIX CBOE VOLATILITY FUTURE [ CB TL 12.14</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-08-31T00:00:00</CreationDate>
+        <ExecutionDate>2017-08-31T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>255</ID>
+        <Number>1225</Number>
+        <Value>0.28</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CARREFOUR UCR TURBO LONG 15.9</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-08-31T00:00:00</CreationDate>
+        <ExecutionDate>2017-08-31T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>256</ID>
+        <Number>1095</Number>
+        <Value>0.199</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>COCOA FUTURE [MAR-18] CB TURBO LONG 1520</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-09-01T00:00:00</CreationDate>
+        <ExecutionDate>2017-09-01T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>257</ID>
+        <Number>80</Number>
+        <Value>4.21</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CARREFOUR UCR TURBO LONG 15.9</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-09-05T00:00:00</CreationDate>
+        <ExecutionDate>2017-09-05T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>258</ID>
+        <Number>1933</Number>
+        <Value>0.181</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>EDF BNP BEST TURBO LONG 6.7216</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-09-06T00:00:00</CreationDate>
+        <ExecutionDate>2017-09-06T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>247</ID>
+        <Number>1100</Number>
+        <Value>0.28</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VIX CBOE VOLATILITY FUTURE [ CB TL 12.14</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-09-06T00:00:00</CreationDate>
+        <ExecutionDate>2017-09-06T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>248</ID>
+        <Number>1000</Number>
+        <Value>0.36</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>COCOA FUTURE [MAR-18] CB TURBO LONG 1520</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-09-06T00:00:00</CreationDate>
+        <ExecutionDate>2017-09-06T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>260</ID>
+        <Number>80</Number>
+        <Value>3.79</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CARREFOUR UCR TURBO LONG 15.9</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-10-02T00:00:00</CreationDate>
+        <ExecutionDate>2017-10-02T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>259</ID>
+        <Number>1862</Number>
+        <Value>0.25</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>COCOA FUTURE [MAR-18] CB TURBO LONG 1520</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-10-03T00:00:00</CreationDate>
+        <ExecutionDate>2017-10-03T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>263</ID>
+        <Number>80</Number>
+        <Value>5.34</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ST MICROELECTRONICS CB TS 21.5891</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-10-26T00:00:00</CreationDate>
+        <ExecutionDate>2017-10-26T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>265</ID>
+        <Number>160</Number>
+        <Value>1.87</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ST MICROELECTRONICS CB TS 21.5891</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-10-26T00:00:00</CreationDate>
+        <ExecutionDate>2017-10-26T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>266</ID>
+        <Number>181</Number>
+        <Value>1.65</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ST MICROELECTRONICS CB TS 21.5891</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-10-26T00:00:00</CreationDate>
+        <ExecutionDate>2017-10-26T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>267</ID>
+        <Number>200</Number>
+        <Value>1.5</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ST MICROELECTRONICS CB TS 21.5891</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-10-27T00:00:00</CreationDate>
+        <ExecutionDate>2017-10-27T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>269</ID>
+        <Number>214</Number>
+        <Value>1.4</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ST MICROELECTRONICS CB TS 21.5891</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-11-01T00:00:00</CreationDate>
+        <ExecutionDate>2017-11-01T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>270</ID>
+        <Number>189</Number>
+        <Value>1.11</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>EDF BNP BEST TURBO LONG 6.7216</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-11-01T00:00:00</CreationDate>
+        <ExecutionDate>2017-11-01T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>271</ID>
+        <Number>600</Number>
+        <Value>0.53</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ST MICROELECTRONICS CB TS 21.5891</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-11-03T00:00:00</CreationDate>
+        <ExecutionDate>2017-11-03T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>274</ID>
+        <Number>309</Number>
+        <Value>0.97</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ST MICROELECTRONICS CB TS 21.5891</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-11-07T00:00:00</CreationDate>
+        <ExecutionDate>2017-11-07T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>276</ID>
+        <Number>405</Number>
+        <Value>0.74</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CARREFOUR UCR TURBO LONG 15.9</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-11-09T00:00:00</CreationDate>
+        <ExecutionDate>2017-11-09T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>264</ID>
+        <Number>1500</Number>
+        <Value>0.265</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ST MICROELECTRONICS CB TS 21.5891</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-11-09T00:00:00</CreationDate>
+        <ExecutionDate>2017-11-09T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>278</ID>
+        <Number>405</Number>
+        <Value>1.06</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ST MICROELECTRONICS CB TS 21.5891</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-11-09T00:00:00</CreationDate>
+        <ExecutionDate>2017-11-09T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>279</ID>
+        <Number>405</Number>
+        <Value>1.08</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ST MICROELECTRONICS CB TS 21.5891</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-11-21T00:00:00</CreationDate>
+        <ExecutionDate>2017-11-21T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>281</ID>
+        <Number>448</Number>
+        <Value>0.96</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VIX CBOE VOLATILITY FUTURE [ CB TL 10.48</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-11-22T00:00:00</CreationDate>
+        <ExecutionDate>2017-11-22T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>282</ID>
+        <Number>1551</Number>
+        <Value>0.29</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>EDF BNP BEST TURBO LONG 6.7216</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-11-29T00:00:00</CreationDate>
+        <ExecutionDate>2017-11-29T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>272</ID>
+        <Number>600</Number>
+        <Value>0.54</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>CARREFOUR UCR TURBO LONG 15.9</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-12-04T00:00:00</CreationDate>
+        <ExecutionDate>2017-12-04T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>275</ID>
+        <Number>1500</Number>
+        <Value>0.253</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ST MICROELECTRONICS CB TS 21.5891</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2017-12-06T00:00:00</CreationDate>
+        <ExecutionDate>2017-12-06T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>280</ID>
+        <Number>400</Number>
+        <Value>1.51</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>COCOA FUTURE [MAR-18] CB TURBO LONG 1520</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-12-06T00:00:00</CreationDate>
+        <ExecutionDate>2017-12-06T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>283</ID>
+        <Number>100</Number>
+        <Value>4.02</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>COCOA FUTURE [MAR-18] CB TURBO LONG 1520</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-12-13T00:00:00</CreationDate>
+        <ExecutionDate>2017-12-13T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>284</ID>
+        <Number>150</Number>
+        <Value>3.46</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VIX CBOE VOLATILITY FUTURE [ CB TL 10.48</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-12-13T00:00:00</CreationDate>
+        <ExecutionDate>2017-12-13T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>285</ID>
+        <Number>1842</Number>
+        <Value>0.19</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VIX CBOE VOLATILITY FUTURE [ CB TL 10.48</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2017-12-20T00:00:00</CreationDate>
+        <ExecutionDate>2017-12-20T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>287</ID>
+        <Number>1538</Number>
+        <Value>0.13</Value>
         <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
