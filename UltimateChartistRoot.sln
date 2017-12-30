@@ -11,6 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UltimateChartistRoot", "Ult
 		CAC40.txt = CAC40.txt
 		CBOEDownload.cfg = CBOEDownload.cfg
 		CleanBarChart.bat = CleanBarChart.bat
+		CleanBarChartIntraday.bat = CleanBarChartIntraday.bat
 		CleanCommerzBank.bat = CleanCommerzBank.bat
 		CleanGenerated.bat = CleanGenerated.bat
 		CleanGeneratedBreadth.bat = CleanGeneratedBreadth.bat
