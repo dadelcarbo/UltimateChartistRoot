@@ -8,7 +8,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UltimateChartistRoot", "Ult
 		BarChartDownload.cfg = BarChartDownload.cfg
 		BarChartIntradayDownload.user.cfg = BarChartIntradayDownload.user.cfg
 		BreadthCfg.txt = BreadthCfg.txt
-		CAC40.txt = CAC40.txt
 		CBOEDownload.cfg = CBOEDownload.cfg
 		CleanBarChart.bat = CleanBarChart.bat
 		CleanBarChartIntraday.bat = CleanBarChartIntraday.bat
