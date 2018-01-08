@@ -3,8 +3,14 @@
   <StockWatchList>
     <Name>Alert</Name>
     <StockList>
+      <string>FUT_COCOA</string>
+      <string>FUT_CRUDE_OIL</string>
+      <string>FUT_FX_EURUSD</string>
+      <string>FUT_GOLD</string>
+      <string>FUT_NATURAL_GAS</string>
+      <string>FUT_SILVER</string>
+      <string>FUT_VIX</string>
       <string>INT_AIR FRANCE - KLM</string>
-      <string>INT_AIRBUS</string>
       <string>INT_ARCELOR MITTAL</string>
       <string>INT_BNP PARIBAS</string>
       <string>INT_BOURBON</string>
@@ -15,7 +21,6 @@
       <string>INT_EDF</string>
       <string>INT_ENGIE</string>
       <string>INT_ERAMET</string>
-      <string>INT_GEMALTO</string>
       <string>INT_ILIAD</string>
       <string>INT_IND_SPY</string>
       <string>INT_INNATE PHARMA</string>
