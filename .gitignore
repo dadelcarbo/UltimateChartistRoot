@@ -20,3 +20,4 @@ license.dat
 *.bak
 /data/intraday.Old
 *.suo
+/data2
