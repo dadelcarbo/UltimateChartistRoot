@@ -3523,6 +3523,43 @@
         <Threshold>0</Threshold>
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
+      <StockOrder>
+        <StockName>AGROGENERATION</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2018-01-29T00:00:00</CreationDate>
+        <ExecutionDate>2018-01-04T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>245</ID>
+        <Number>1886</Number>
+        <Value>0.371</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>INNATE PHARMA</StockName>
+        <Comment>deuxième prise de profit aprés retournement intraday</Comment>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2018-01-04T00:00:00</CreationDate>
+        <ExecutionDate>2018-01-04T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>246</ID>
+        <Number>244</Number>
+        <Value>5.04</Value>
+        <Fee>5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
     </OrderList>
   </StockPortofolio>
   <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
