@@ -3560,6 +3560,44 @@
         <Threshold>0</Threshold>
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
+      <StockOrder>
+        <StockName>SOLOCAL GROUP</StockName>
+        <Comment>Entry on FirstResistanceBroken, prés de 1, attention à la resistance</Comment>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2018-01-15T00:00:00</CreationDate>
+        <ExecutionDate>2018-01-15T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>248</ID>
+        <Number>935</Number>
+        <Value>0.983</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>SPINEWAY</StockName>
+        <Comment>Renforcement en anticipation des résulats</Comment>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2018-01-15T00:00:00</CreationDate>
+        <ExecutionDate>2018-01-15T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>249</ID>
+        <Number>179</Number>
+        <Value>4.25</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
     </OrderList>
   </StockPortofolio>
   <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -7073,6 +7111,96 @@
         <ID>287</ID>
         <Number>1538</Number>
         <Value>0.13</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>BOURBON CORPORATION</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2018-01-12T00:00:00</CreationDate>
+        <ExecutionDate>2018-01-12T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>290</ID>
+        <Number>120</Number>
+        <Value>8.27</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ILIAD BNP TURBO LONG 143.2</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2018-01-15T00:00:00</CreationDate>
+        <ExecutionDate>2018-01-15T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>291</ID>
+        <Number>70</Number>
+        <Value>7.12</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ST MICROELECTRONICS BNP TS 21.54</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2018-01-15T00:00:00</CreationDate>
+        <ExecutionDate>2018-01-15T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>292</ID>
+        <Number>187</Number>
+        <Value>2.66</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>SILVER FX BNP TURBO SHORT 19.6829</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2018-01-16T00:00:00</CreationDate>
+        <ExecutionDate>2018-01-16T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>293</ID>
+        <Number>151</Number>
+        <Value>2.64</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>BOURBON CORPORATION</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2018-01-16T00:00:00</CreationDate>
+        <ExecutionDate>2018-01-16T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>294</ID>
+        <Number>60</Number>
+        <Value>8.7</Value>
         <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
