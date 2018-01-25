@@ -7210,4 +7210,50 @@
       </StockOrder>
     </OrderList>
   </StockPortofolio>
+  <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Name>IB_P</Name>
+    <TotalDeposit>3000</TotalDeposit>
+    <OffsetLiquidity>0</OffsetLiquidity>
+    <Group>ALL</Group>
+    <IsSimulation>false</IsSimulation>
+    <IsVirtual>false</IsVirtual>
+    <OrderList>
+      <StockOrder>
+        <StockName>Ampio Pharmaceuticals Inc</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2018-01-23T00:00:00</CreationDate>
+        <ExecutionDate>2018-01-23T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>true</IsShortOrder>
+        <ID>1</ID>
+        <Number>100</Number>
+        <Value>2.73</Value>
+        <Fee>1</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>VXX</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2018-01-23T00:00:00+01:00</CreationDate>
+        <ExecutionDate>2018-01-23T00:00:00+01:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>451</ID>
+        <Number>10</Number>
+        <Value>0</Value>
+        <Fee>1</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+    </OrderList>
+  </StockPortofolio>
 </StockPortofolioList>
