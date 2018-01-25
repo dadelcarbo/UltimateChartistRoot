@@ -13,6 +13,30 @@
     <EventName>FirstSupportBroken</EventName>
   </StockAlertDef>
   <StockAlertDef>
+    <BarDuration>TLB_3D_EMA6</BarDuration>
+    <IndicatorType>TRAILSTOP</IndicatorType>
+    <IndicatorName>TRAILHL(1)</IndicatorName>
+    <EventName>BrokenUp</EventName>
+  </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>TLB_3D_EMA6</BarDuration>
+    <IndicatorType>TRAILSTOP</IndicatorType>
+    <IndicatorName>TRAILHL(1)</IndicatorName>
+    <EventName>BrokenDown</EventName>
+  </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>TLB_6D_EMA6</BarDuration>
+    <IndicatorType>TRAILSTOP</IndicatorType>
+    <IndicatorName>TRAILHL(1)</IndicatorName>
+    <EventName>BrokenUp</EventName>
+  </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>TLB_6D_EMA6</BarDuration>
+    <IndicatorType>TRAILSTOP</IndicatorType>
+    <IndicatorName>TRAILHL(1)</IndicatorName>
+    <EventName>BrokenDown</EventName>
+  </StockAlertDef>
+  <StockAlertDef>
     <BarDuration>TLB_6D_EMA6</BarDuration>
     <IndicatorType>INDICATOR</IndicatorType>
     <IndicatorName>TOPEMA(0,30,1)</IndicatorName>
