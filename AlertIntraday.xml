@@ -2,6 +2,18 @@
 <ArrayOfStockAlertDef xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StockAlertDef>
     <BarDuration>TLB_3D_EMA3</BarDuration>
+    <IndicatorType>PAINTBAR</IndicatorType>
+    <IndicatorName>HARMONIC(3)</IndicatorName>
+    <EventName>BullishPattern</EventName>
+  </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>TLB_3D_EMA3</BarDuration>
+    <IndicatorType>PAINTBAR</IndicatorType>
+    <IndicatorName>HARMONIC(3)</IndicatorName>
+    <EventName>BearishPattern</EventName>
+  </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>TLB_3D_EMA3</BarDuration>
     <IndicatorType>INDICATOR</IndicatorType>
     <IndicatorName>TOPEMA(0,30,1)</IndicatorName>
     <EventName>FirstResistanceBroken</EventName>
