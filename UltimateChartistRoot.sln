@@ -9,6 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UltimateChartistRoot", "Ult
 		AlertReport.xml = AlertReport.xml
 		BarChartDownload.cfg = BarChartDownload.cfg
 		BarChartIntradayDownload.user.cfg = BarChartIntradayDownload.user.cfg
+		BNPIntradayDownload.user.cfg = BNPIntradayDownload.user.cfg
 		BreadthCfg.txt = BreadthCfg.txt
 		CBOEDownload.cfg = CBOEDownload.cfg
 		CleanBarChart.bat = CleanBarChart.bat
