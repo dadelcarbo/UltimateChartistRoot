@@ -4,8 +4,8 @@
     <Name>Alert</Name>
     <StockList>
       <string>FUT_BOND_US</string>
+      <string>FUT_BRENT_OIL</string>
       <string>FUT_COCOA</string>
-      <string>FUT_CRUDE_OIL</string>
       <string>FUT_FX_EURUSD</string>
       <string>FUT_GOLD</string>
       <string>FUT_IND_SP500</string>
