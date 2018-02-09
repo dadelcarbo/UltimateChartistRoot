@@ -839,6 +839,33 @@
       </DrawingItems>
     </StockAnalysis>
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_BOND_US">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_BRENT_OIL">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_COCOA">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_FX_EURUSD">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_GOLD">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_IND_SP500">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_NATURAL_GAS">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_SILVER">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_VIX">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="Or (once en $)">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
       <DrawingItems BarDuration="Daily_EMA3">
@@ -1046,6 +1073,12 @@
   <StockAnalysisItem StockName="INT_INNATE PHARMA">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_JACQUET METAL">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_KERING">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_LATECOERE">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
@@ -1056,6 +1089,9 @@
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_LYXOR LEV CAC 40">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_MGI COUTIER">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_NICOX">
@@ -1074,37 +1110,7 @@
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_STMICROELECTRONICS">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TLB_9D">
-        <StockDrawingItems>
-          <Segment2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>12</X>
-              <Y>13.292201</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>374</X>
-              <Y>15.37401</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Segment2D>
-          <Segment2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>14</X>
-              <Y>13.21</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>379</X>
-              <Y>15.309062</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Segment2D>
-        </StockDrawingItems>
-      </DrawingItems>
-      <DrawingItems BarDuration="TLB_3D_EMA3">
-        <StockDrawingItems />
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_TECHNIP">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />

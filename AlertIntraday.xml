@@ -1,13 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfStockAlertDef xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StockAlertDef>
-    <BarDuration>TLB_3D_EMA3</BarDuration>
+    <BarDuration>TLB_3D</BarDuration>
     <IndicatorType>PAINTBAR</IndicatorType>
     <IndicatorName>HARMONIC(3)</IndicatorName>
     <EventName>BullishPattern</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_3D_EMA3</BarDuration>
+    <BarDuration>TLB_3D</BarDuration>
+    <IndicatorType>PAINTBAR</IndicatorType>
+    <IndicatorName>HARMONIC(3)</IndicatorName>
+    <EventName>BearishPattern</EventName>
+  </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>TLB_6D</BarDuration>
+    <IndicatorType>PAINTBAR</IndicatorType>
+    <IndicatorName>HARMONIC(3)</IndicatorName>
+    <EventName>BullishPattern</EventName>
+  </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>TLB_6D</BarDuration>
+    <IndicatorType>PAINTBAR</IndicatorType>
+    <IndicatorName>HARMONIC(3)</IndicatorName>
+    <EventName>BearishPattern</EventName>
+  </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>TLB_9D</BarDuration>
+    <IndicatorType>PAINTBAR</IndicatorType>
+    <IndicatorName>HARMONIC(3)</IndicatorName>
+    <EventName>BullishPattern</EventName>
+  </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>TLB_9D</BarDuration>
     <IndicatorType>PAINTBAR</IndicatorType>
     <IndicatorName>HARMONIC(3)</IndicatorName>
     <EventName>BearishPattern</EventName>
