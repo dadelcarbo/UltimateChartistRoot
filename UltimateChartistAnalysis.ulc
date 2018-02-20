@@ -266,23 +266,7 @@
     <StockAnalysis Excluded="False" FollowUp="False" Theme="_TOPEMA" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="CAC40">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="_STOK" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Daily">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>5870.02734</X>
-              <Y>5248.33447</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>5871.02734</X>
-              <Y>5248.33447</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="_STOK" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="CAC40NR">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
@@ -842,6 +826,9 @@
   <StockAnalysisItem StockName="FUT_BITCOIN">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_BOND_OAT">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_BOND_US">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
@@ -854,6 +841,9 @@
   <StockAnalysisItem StockName="FUT_FX_EURUSD">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_FX_USDJPY">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_GOLD">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
@@ -861,6 +851,12 @@
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_NATURAL_GAS">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_PALLADIUM">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_PLATINUM">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_SILVER">
@@ -1106,37 +1102,13 @@
   <StockAnalysisItem StockName="INT_SOLOCAL">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_STMICROELECTRONICS">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_TECHNIP">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_VALLOUREC">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TLB_3D_EMA3">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1739.554</X>
-              <Y>4.65860748</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1740.554</X>
-              <Y>4.65860748</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Line2D>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1739.554</X>
-              <Y>4.573957</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1740.554</X>
-              <Y>4.573957</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
 </StockAnalysisList>
