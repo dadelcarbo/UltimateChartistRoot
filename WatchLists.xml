@@ -9,18 +9,12 @@
       <string>FUT_FX_EURUSD</string>
       <string>FUT_GOLD</string>
       <string>FUT_IND_SP500</string>
-      <string>FUT_NATURAL_GAS</string>
       <string>FUT_SILVER</string>
       <string>FUT_VIX</string>
-      <string>INT_ACCOR</string>
-      <string>INT_AIR FRANCE - KLM</string>
-      <string>INT_AIRBUS</string>
-      <string>INT_ALTRAN</string>
       <string>INT_ARCELOR MITTAL</string>
       <string>INT_AXA</string>
       <string>INT_BNP PARIBAS</string>
       <string>INT_BOURBON</string>
-      <string>INT_CARREFOUR</string>
       <string>INT_CASINO</string>
       <string>INT_CGG</string>
       <string>INT_CREDIT AGRICOLE</string>
@@ -29,9 +23,9 @@
       <string>INT_ERAMET</string>
       <string>INT_ILIAD</string>
       <string>INT_IND_SPY</string>
+      <string>INT_INGENICO</string>
       <string>INT_INNATE PHARMA</string>
       <string>INT_KERING</string>
-      <string>INT_LATECOERE</string>
       <string>INT_LOREAL</string>
       <string>INT_LYXOR BX4</string>
       <string>INT_LYXOR LEV CAC 40</string>

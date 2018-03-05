@@ -826,9 +826,6 @@
   <StockAnalysisItem StockName="FUT_BITCOIN">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_BOND_OAT">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_BOND_US">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
@@ -838,10 +835,10 @@
   <StockAnalysisItem StockName="FUT_COCOA">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_FX_EURUSD">
+  <StockAnalysisItem StockName="FUT_CRUDE_OIL">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_FX_USDJPY">
+  <StockAnalysisItem StockName="FUT_FX_EURUSD">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_GOLD">
@@ -851,12 +848,6 @@
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_NATURAL_GAS">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_PALLADIUM">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_PLATINUM">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_SILVER">
@@ -1067,6 +1058,9 @@
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_IND_SPY">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_INGENICO">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_INNATE PHARMA">
