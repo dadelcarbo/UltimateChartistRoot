@@ -5,8 +5,8 @@
     <StockList>
       <string>FUT_BOND_US</string>
       <string>FUT_BRENT_OIL</string>
-      <string>FUT_COCOA</string>
       <string>FUT_FX_EURUSD</string>
+      <string>FUT_FX_USDJPY</string>
       <string>FUT_GOLD</string>
       <string>FUT_IND_SP500</string>
       <string>FUT_SILVER</string>
@@ -27,7 +27,6 @@
       <string>INT_INNATE PHARMA</string>
       <string>INT_KERING</string>
       <string>INT_LOREAL</string>
-      <string>INT_LYXOR BX4</string>
       <string>INT_LYXOR LEV CAC 40</string>
       <string>INT_NICOX</string>
       <string>INT_ORANGE</string>
