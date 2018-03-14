@@ -39,25 +39,25 @@
   <StockAlertDef>
     <BarDuration>TLB_3D_EMA3</BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILEMA(30,1)</IndicatorName>
+    <IndicatorName>TRAILEMA(12,1)</IndicatorName>
     <EventName>BrokenUp</EventName>
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>TLB_3D_EMA3</BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILEMA(30,1)</IndicatorName>
+    <IndicatorName>TRAILEMA(12,1)</IndicatorName>
     <EventName>BrokenDown</EventName>
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>TLB_9D_EMA3</BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILEMA(30,1)</IndicatorName>
+    <IndicatorName>TRAILEMA(12,1)</IndicatorName>
     <EventName>BrokenUp</EventName>
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>TLB_9D_EMA3</BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILEMA(30,1)</IndicatorName>
+    <IndicatorName>TRAILEMA(12,1)</IndicatorName>
     <EventName>BrokenDown</EventName>
   </StockAlertDef>
 </ArrayOfStockAlertDef>
