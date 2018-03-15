@@ -4284,6 +4284,24 @@
         <Threshold>0</Threshold>
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
+      <StockOrder>
+        <StockName>EKINOPS</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2018-03-14T00:00:00</CreationDate>
+        <ExecutionDate>2018-03-14T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>293</ID>
+        <Number>226</Number>
+        <Value>4.40564</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
     </OrderList>
   </StockPortofolio>
   <StockPortofolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -8975,6 +8993,60 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
+        <StockName>PLATINIUM BNP TURBO LONG 814.6682</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2018-03-12T00:00:00</CreationDate>
+        <ExecutionDate>2018-03-12T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>376</ID>
+        <Number>306</Number>
+        <Value>1.63</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ICE BRENT FUTURE [MAY-18 BNP BTL 49.3776</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2018-03-12T00:00:00</CreationDate>
+        <ExecutionDate>2018-03-12T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>377</ID>
+        <Number>40</Number>
+        <Value>12.42</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>USD/JPY BNP BEST TURBO LONG 86.8114</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2018-03-12T00:00:00</CreationDate>
+        <ExecutionDate>2018-03-12T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>378</ID>
+        <Number>333</Number>
+        <Value>1.51</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
         <StockName>VALLOUREC BNP BTL 3.8 16-03-2018</StockName>
         <Type>SellAtLimit</Type>
         <CreationDate>2018-03-13T00:00:00</CreationDate>
@@ -9047,6 +9119,24 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
+        <StockName>CGG</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2018-03-13T00:00:00</CreationDate>
+        <ExecutionDate>2018-03-13T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>379</ID>
+        <Number>694</Number>
+        <Value>1.598</Value>
+        <Fee>10</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
         <StockName>ST MICROELECTRONICS BNP BTL 11.7582</StockName>
         <Type>SellAtLimit</Type>
         <CreationDate>2018-03-14T00:00:00</CreationDate>
@@ -9065,6 +9155,78 @@
         <AmountToInvest>0</AmountToInvest>
       </StockOrder>
       <StockOrder>
+        <StockName>ICE BRENT FUTURE [MAY-18 BNP BTL 49.3776</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2018-03-14T00:00:00</CreationDate>
+        <ExecutionDate>2018-03-14T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>381</ID>
+        <Number>38</Number>
+        <Value>12.84</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>ICE BRENT FUTURE [MAY-18 BNP BTL 49.3776</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2018-03-14T00:00:00</CreationDate>
+        <ExecutionDate>2018-03-14T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>382</ID>
+        <Number>38</Number>
+        <Value>12.38</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>PLATINIUM BNP TURBO LONG 814.6682</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2018-03-14T00:00:00</CreationDate>
+        <ExecutionDate>2018-03-14T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>383</ID>
+        <Number>306</Number>
+        <Value>1.66</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>L'ORÉAL BNP BEST TURBO LONG 144.4815</StockName>
+        <Type>BuyAtLimit</Type>
+        <CreationDate>2018-03-14T00:00:00</CreationDate>
+        <ExecutionDate>2018-03-14T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>384</ID>
+        <Number>129</Number>
+        <Value>3.86</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
         <StockName>ICE BRENT FUTURE [MAY-18] BNP BTS 75.446</StockName>
         <Type>SellAtLimit</Type>
         <CreationDate>2018-03-28T00:00:00</CreationDate>
@@ -9075,6 +9237,24 @@
         <ID>367</ID>
         <Number>28</Number>
         <Value>9.68</Value>
+        <Fee>2.5</Fee>
+        <Benchmark>0</Benchmark>
+        <GapInPoints>0</GapInPoints>
+        <Limit>0</Limit>
+        <Threshold>0</Threshold>
+        <AmountToInvest>0</AmountToInvest>
+      </StockOrder>
+      <StockOrder>
+        <StockName>INGENICO SA BNP TURBO LONG 53.45</StockName>
+        <Type>SellAtLimit</Type>
+        <CreationDate>2018-04-09T00:00:00</CreationDate>
+        <ExecutionDate>2018-04-09T00:00:00</ExecutionDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <State>Executed</State>
+        <IsShortOrder>false</IsShortOrder>
+        <ID>380</ID>
+        <Number>500</Number>
+        <Value>1.89</Value>
         <Fee>2.5</Fee>
         <Benchmark>0</Benchmark>
         <GapInPoints>0</GapInPoints>
