@@ -60,4 +60,16 @@
     <IndicatorName>TRAILEMA(12,1)</IndicatorName>
     <EventName>BrokenDown</EventName>
   </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>TLB_9D_EMA3</BarDuration>
+    <IndicatorType>INDICATOR</IndicatorType>
+    <IndicatorName>VAR(30)</IndicatorName>
+    <EventName>CrossUp</EventName>
+  </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>TLB_9D_EMA3</BarDuration>
+    <IndicatorType>INDICATOR</IndicatorType>
+    <IndicatorName>VAR(30)</IndicatorName>
+    <EventName>CrossDown</EventName>
+  </StockAlertDef>
 </ArrayOfStockAlertDef>
