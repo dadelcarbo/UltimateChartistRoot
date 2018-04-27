@@ -21,11 +21,13 @@
       <string>INT_AIR FRANCE - KLM</string>
       <string>INT_ARCELOR MITTAL</string>
       <string>INT_AXA</string>
+      <string>INT_BENETEAU</string>
       <string>INT_BNP PARIBAS</string>
       <string>INT_BOURBON</string>
       <string>INT_CASINO</string>
       <string>INT_CGG</string>
       <string>INT_CREDIT AGRICOLE</string>
+      <string>INT_DERICHEBOURG</string>
       <string>INT_EDF</string>
       <string>INT_ENGIE</string>
       <string>INT_ERAMET</string>
@@ -44,6 +46,7 @@
       <string>INT_SOLOCAL</string>
       <string>INT_STMICROELECTRONICS</string>
       <string>INT_TECHNIP</string>
+      <string>INT_US_TESLA</string>
       <string>INT_VALLOUREC</string>
     </StockList>
   </StockWatchList>
