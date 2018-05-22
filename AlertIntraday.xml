@@ -37,37 +37,37 @@
     <EventName>BearishPattern</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_3D_EMA3</BarDuration>
+    <BarDuration>TLB_3D_EMA12</BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
     <IndicatorName>TRAILEMA(12,1)</IndicatorName>
     <EventName>BrokenUp</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_3D_EMA3</BarDuration>
+    <BarDuration>TLB_3D_EMA12</BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
     <IndicatorName>TRAILEMA(12,1)</IndicatorName>
     <EventName>BrokenDown</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_9D_EMA3</BarDuration>
+    <BarDuration>TLB_9D_EMA12</BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
     <IndicatorName>TRAILEMA(12,1)</IndicatorName>
     <EventName>BrokenUp</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_9D_EMA3</BarDuration>
+    <BarDuration>TLB_9D_EMA12</BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
     <IndicatorName>TRAILEMA(12,1)</IndicatorName>
     <EventName>BrokenDown</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_9D_EMA3</BarDuration>
+    <BarDuration>TLB_9D_EMA12</BarDuration>
     <IndicatorType>INDICATOR</IndicatorType>
     <IndicatorName>VAR(30)</IndicatorName>
     <EventName>CrossUp</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_9D_EMA3</BarDuration>
+    <BarDuration>TLB_9D_EMA12</BarDuration>
     <IndicatorType>INDICATOR</IndicatorType>
     <IndicatorName>VAR(30)</IndicatorName>
     <EventName>CrossDown</EventName>
