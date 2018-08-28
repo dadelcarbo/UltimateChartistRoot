@@ -1,14 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UltimateChartistRoot", "UltimateChartistRoot", "{1C7888FD-6579-4E34-A96B-ADCF2BC8AB8C}"
 	ProjectSection(SolutionItems) = preProject
 		AlertIntraday.xml = AlertIntraday.xml
 		AlertReport.xml = AlertReport.xml
 		BarChartDownload.cfg = BarChartDownload.cfg
-		BarChartIntradayDownload.user.cfg = BarChartIntradayDownload.user.cfg
 		BNPIntradayDownload.user.cfg = BNPIntradayDownload.user.cfg
 		BreadthCfg.txt = BreadthCfg.txt
 		CBOEDownload.cfg = CBOEDownload.cfg
@@ -23,6 +22,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UltimateChartistRoot", "Ult
 		GoogleDownload.cfg = GoogleDownload.cfg
 		GoogleDownload.user.cfg = GoogleDownload.user.cfg
 		GoogleIntradayDownload.user.cfg = GoogleIntradayDownload.user.cfg
+		InvestingIntradayDownload.user.cfg = InvestingIntradayDownload.user.cfg
 		InvestingTickers.cfg = InvestingTickers.cfg
 		OrderFile.xml = OrderFile.xml
 		RatioIndicator.txt = RatioIndicator.txt
