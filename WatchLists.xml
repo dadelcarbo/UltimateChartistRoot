@@ -19,8 +19,12 @@
       <string>FUT_PLATINUM</string>
       <string>FUT_SILVER</string>
       <string>FUT_VIX</string>
+      <string>INT_ACCOR</string>
+      <string>INT_BOURBON CORPORATION</string>
       <string>INT_DERICHEBOURG</string>
+      <string>INT_ENGIE</string>
       <string>INT_ERAMET</string>
+      <string>INT_INGENICO GROUP</string>
       <string>INT_LVC</string>
     </StockList>
   </StockWatchList>
