@@ -26,6 +26,7 @@
       <string>INT_ERAMET</string>
       <string>INT_INGENICO GROUP</string>
       <string>INT_LVC</string>
+      <string>INT_TRIGANO</string>
     </StockList>
   </StockWatchList>
   <StockWatchList>
