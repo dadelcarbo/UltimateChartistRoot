@@ -25,8 +25,10 @@
       <string>INT_ENGIE</string>
       <string>INT_ERAMET</string>
       <string>INT_INGENICO GROUP</string>
+      <string>INT_INNATE PHARMA</string>
       <string>INT_LVC</string>
       <string>INT_TRIGANO</string>
+      <string>INT_VALLOUREC</string>
     </StockList>
   </StockWatchList>
   <StockWatchList>
