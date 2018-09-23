@@ -100,4 +100,8 @@
       <string>BELIER</string>
     </StockList>
   </StockWatchList>
+  <StockWatchList>
+    <Name>WEEKLY</Name>
+    <StockList />
+  </StockWatchList>
 </ArrayOfStockWatchList>
