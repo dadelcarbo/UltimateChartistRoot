@@ -72,4 +72,28 @@
     <IndicatorName>VAR(30)</IndicatorName>
     <EventName>CrossDown</EventName>
   </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>TLB_9D_EMA3</BarDuration>
+    <IndicatorType>PAINTBAR</IndicatorType>
+    <IndicatorName>LEADER(60,6)</IndicatorName>
+    <EventName>NewHigh</EventName>
+  </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>TLB_9D_EMA3</BarDuration>
+    <IndicatorType>PAINTBAR</IndicatorType>
+    <IndicatorName>LEADER(60,6)</IndicatorName>
+    <EventName>EndOfBull</EventName>
+  </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>TLB_9D_EMA3</BarDuration>
+    <IndicatorType>PAINTBAR</IndicatorType>
+    <IndicatorName>LEADER(60,6)</IndicatorName>
+    <EventName>NewLow</EventName>
+  </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>TLB_9D_EMA3</BarDuration>
+    <IndicatorType>PAINTBAR</IndicatorType>
+    <IndicatorName>LEADER(60,6)</IndicatorName>
+    <EventName>EndOfBear</EventName>
+  </StockAlertDef>
 </ArrayOfStockAlertDef>
