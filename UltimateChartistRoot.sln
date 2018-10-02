@@ -43,6 +43,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Themes", "Themes", "{2884C3A9-C2C5-413D-8C6D-85134266BF9F}"
 	ProjectSection(SolutionItems) = preProject
 		themes\___RISKSR.thm = themes\___RISKSR.thm
+		themes\__BBEX.thm = themes\__BBEX.thm
 		themes\__FLAG.thm = themes\__FLAG.thm
 		themes\__LEADER.thm = themes\__LEADER.thm
 		themes\__RANGE.thm = themes\__RANGE.thm
