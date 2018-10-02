@@ -36,7 +36,7 @@
     <IndicatorName>HARMONIC(3)</IndicatorName>
     <EventName>BearishPattern</EventName>
   </StockAlertDef>
-  <StockAlertDef>
+  <!--<StockAlertDef>
     <BarDuration>TLB_3D_EMA3</BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
     <IndicatorName>TRAILEMA(12,1)</IndicatorName>
@@ -71,7 +71,7 @@
     <IndicatorType>INDICATOR</IndicatorType>
     <IndicatorName>VAR(30)</IndicatorName>
     <EventName>CrossDown</EventName>
-  </StockAlertDef>
+  </StockAlertDef>-->
   <StockAlertDef>
     <BarDuration>TLB_9D_EMA3</BarDuration>
     <IndicatorType>PAINTBAR</IndicatorType>
