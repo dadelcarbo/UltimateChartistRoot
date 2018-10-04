@@ -30,7 +30,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UltimateChartistRoot", "Ult
 		InvestingTickers.cfg = InvestingTickers.cfg
 		OrderFile.xml = OrderFile.xml
 		RatioIndicator.txt = RatioIndicator.txt
-		Report.cfg = Report.cfg
 		RydexDownload.cfg = RydexDownload.cfg
 		SentimentTrader_DATA_URL.xlsx = SentimentTrader_DATA_URL.xlsx
 		UltimateChartistAnalysis.ulc = UltimateChartistAnalysis.ulc
