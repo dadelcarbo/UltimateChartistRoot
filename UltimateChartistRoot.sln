@@ -26,6 +26,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UltimateChartistRoot", "Ult
 		GoogleDownload.user.cfg = GoogleDownload.user.cfg
 		GoogleIntradayDownload.user.cfg = GoogleIntradayDownload.user.cfg
 		InvestingDownload.user.cfg = InvestingDownload.user.cfg
+		InvestingIntradayDownload.cfg.old = InvestingIntradayDownload.cfg.old
 		InvestingIntradayDownload.user.cfg = InvestingIntradayDownload.user.cfg
 		InvestingTickers.cfg = InvestingTickers.cfg
 		OrderFile.xml = OrderFile.xml
