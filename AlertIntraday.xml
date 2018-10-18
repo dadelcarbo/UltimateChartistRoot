@@ -37,133 +37,133 @@
     <EventName>BearishPattern</EventName>
   </StockAlertDef>
   <!--<StockAlertDef>
-    <BarDuration>TLB_3D_EMA3</BarDuration>
+    <BarDuration>TLB_3D</BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
     <IndicatorName>TRAILEMA(12,1)</IndicatorName>
     <EventName>BrokenUp</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_3D_EMA3</BarDuration>
+    <BarDuration>TLB_3D</BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
     <IndicatorName>TRAILEMA(12,1)</IndicatorName>
     <EventName>BrokenDown</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_9D_EMA3</BarDuration>
+    <BarDuration>TLB_9D</BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
     <IndicatorName>TRAILEMA(12,1)</IndicatorName>
     <EventName>BrokenUp</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_9D_EMA3</BarDuration>
+    <BarDuration>TLB_9D</BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
     <IndicatorName>TRAILEMA(12,1)</IndicatorName>
     <EventName>BrokenDown</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_9D_EMA3</BarDuration>
+    <BarDuration>TLB_9D</BarDuration>
     <IndicatorType>INDICATOR</IndicatorType>
     <IndicatorName>VAR(30)</IndicatorName>
     <EventName>CrossUp</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_9D_EMA3</BarDuration>
+    <BarDuration>TLB_9D</BarDuration>
     <IndicatorType>INDICATOR</IndicatorType>
     <IndicatorName>VAR(30)</IndicatorName>
     <EventName>CrossDown</EventName>
   </StockAlertDef>-->
   <StockAlertDef>
-    <BarDuration>TLB_3D_EMA3</BarDuration>
+    <BarDuration>TLB_3D</BarDuration>
     <IndicatorType>PAINTBAR</IndicatorType>
     <IndicatorName>LEADER(60,6)</IndicatorName>
     <EventName>NewHigh</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_3D_EMA3</BarDuration>
+    <BarDuration>TLB_3D</BarDuration>
     <IndicatorType>PAINTBAR</IndicatorType>
     <IndicatorName>LEADER(60,6)</IndicatorName>
     <EventName>EndOfBull</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_3D_EMA3</BarDuration>
+    <BarDuration>TLB_3D</BarDuration>
     <IndicatorType>PAINTBAR</IndicatorType>
     <IndicatorName>LEADER(60,6)</IndicatorName>
     <EventName>NewLow</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_3D_EMA3</BarDuration>
+    <BarDuration>TLB_3D</BarDuration>
     <IndicatorType>PAINTBAR</IndicatorType>
     <IndicatorName>LEADER(60,6)</IndicatorName>
     <EventName>EndOfBear</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_9D_EMA3</BarDuration>
+    <BarDuration>TLB_9D</BarDuration>
     <IndicatorType>PAINTBAR</IndicatorType>
     <IndicatorName>LEADER(60,6)</IndicatorName>
     <EventName>NewHigh</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_9D_EMA3</BarDuration>
+    <BarDuration>TLB_9D</BarDuration>
     <IndicatorType>PAINTBAR</IndicatorType>
     <IndicatorName>LEADER(60,6)</IndicatorName>
     <EventName>EndOfBull</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_9D_EMA3</BarDuration>
+    <BarDuration>TLB_9D</BarDuration>
     <IndicatorType>PAINTBAR</IndicatorType>
     <IndicatorName>LEADER(60,6)</IndicatorName>
     <EventName>NewLow</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_9D_EMA3</BarDuration>
+    <BarDuration>TLB_9D</BarDuration>
     <IndicatorType>PAINTBAR</IndicatorType>
     <IndicatorName>LEADER(60,6)</IndicatorName>
     <EventName>EndOfBear</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_3D_EMA3</BarDuration>
+    <BarDuration>TLB_3D</BarDuration>
     <IndicatorType>PAINTBAR</IndicatorType>
     <IndicatorName>BBEX(50,1.5,-1.5,MA)</IndicatorName>
     <EventName>NewHigh</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_3D_EMA3</BarDuration>
+    <BarDuration>TLB_3D</BarDuration>
     <IndicatorType>PAINTBAR</IndicatorType>
     <IndicatorName>BBEX(50,1.5,-1.5,MA)</IndicatorName>
     <EventName>EndOfBull</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_3D_EMA3</BarDuration>
+    <BarDuration>TLB_3D</BarDuration>
     <IndicatorType>PAINTBAR</IndicatorType>
     <IndicatorName>BBEX(50,1.5,-1.5,MA)</IndicatorName>
     <EventName>NewLow</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_3D_EMA3</BarDuration>
+    <BarDuration>TLB_3D</BarDuration>
     <IndicatorType>PAINTBAR</IndicatorType>
     <IndicatorName>BBEX(50,1.5,-1.5,MA)</IndicatorName>
     <EventName>EndOfBear</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_9D_EMA3</BarDuration>
+    <BarDuration>TLB_9D</BarDuration>
     <IndicatorType>PAINTBAR</IndicatorType>
     <IndicatorName>BBEX(50,1.5,-1.5,MA)</IndicatorName>
     <EventName>NewHigh</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_9D_EMA3</BarDuration>
+    <BarDuration>TLB_9D</BarDuration>
     <IndicatorType>PAINTBAR</IndicatorType>
     <IndicatorName>BBEX(50,1.5,-1.5,MA)</IndicatorName>
     <EventName>EndOfBull</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_9D_EMA3</BarDuration>
+    <BarDuration>TLB_9D</BarDuration>
     <IndicatorType>PAINTBAR</IndicatorType>
     <IndicatorName>BBEX(50,1.5,-1.5,MA)</IndicatorName>
     <EventName>NewLow</EventName>
   </StockAlertDef>
   <StockAlertDef>
-    <BarDuration>TLB_9D_EMA3</BarDuration>
+    <BarDuration>TLB_9D</BarDuration>
     <IndicatorType>PAINTBAR</IndicatorType>
     <IndicatorName>BBEX(50,1.5,-1.5,MA)</IndicatorName>
     <EventName>EndOfBear</EventName>
