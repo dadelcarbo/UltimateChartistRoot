@@ -9,6 +9,7 @@
       <string>FUT_COM_COCOA</string>
       <string>FUT_COM_COFFEE</string>
       <string>FUT_COM_GOLD</string>
+      <string>FUT_COM_OIL_CRUDE</string>
       <string>FUT_COM_PALLADIUM</string>
       <string>FUT_COM_PLATINUM</string>
       <string>FUT_COM_SILVER</string>
@@ -19,6 +20,7 @@
       <string>FUT_IND_SP500</string>
       <string>FUT_IND_VIX</string>
       <string>INT_ACCOR</string>
+      <string>INT_CREDIT AGRICOLE</string>
       <string>INT_DERICHEBOURG</string>
       <string>INT_EDF</string>
       <string>INT_ENGIE</string>
