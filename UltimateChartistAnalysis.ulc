@@ -1,5 +1,57 @@
 <?xml version="1.0"?>
 <StockAnalysisList>
+  <StockAnalysisItem StockName="Argentina">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
+      <DrawingItems BarDuration="Weekly">
+        <StockDrawingItems>
+          <Segment2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>123</X>
+              <Y>15.07</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>237.53978</X>
+              <Y>32.505497</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Segment2D>
+          <Segment2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>143</X>
+              <Y>22.43</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>234.65094</X>
+              <Y>39.7142868</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Segment2D>
+          <HalfLine2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>254</X>
+              <Y>30.49</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>273</X>
+              <Y>26.65</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
+          <HalfLine2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>251</X>
+              <Y>26.36</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>260</X>
+              <Y>24.55</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="SPY">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
       <DrawingItems BarDuration="TLB">
@@ -200,36 +252,6 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_BITCOIN">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="_TOPEMA" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_IND_SP500">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TLB_3D">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2062</X>
-              <Y>2873.5</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2536</X>
-              <Y>2652.75</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Line2D>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2368</X>
-              <Y>2817.5</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2525</X>
-              <Y>2746.5</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="AD.CAC40">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="ADBench" HasDrawings="False" HasComments="False" />
