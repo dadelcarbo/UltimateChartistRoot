@@ -8,6 +8,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UltimateChartistRoot", "Ult
 		.gitignore = .gitignore
 		AlertDailyReport.xml = AlertDailyReport.xml
 		AlertIntraday.xml = AlertIntraday.xml
+		AlertMonthlyReport.xml = AlertMonthlyReport.xml
 		AlertWeeklyReport.xml = AlertWeeklyReport.xml
 		BarChartDownload.cfg = BarChartDownload.cfg
 		BNPIntradayDownload.user.cfg = BNPIntradayDownload.user.cfg
