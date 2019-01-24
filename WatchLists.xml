@@ -20,6 +20,8 @@
       <string>FUT_IND_SP500</string>
       <string>FUT_IND_VIX</string>
       <string>INT_ACCOR</string>
+      <string>INT_AIR FRANCE - KLM</string>
+      <string>INT_BNP PARIBAS</string>
       <string>INT_CREDIT AGRICOLE</string>
       <string>INT_DERICHEBOURG</string>
       <string>INT_EDF</string>
@@ -29,7 +31,6 @@
       <string>INT_INNATE PHARMA</string>
       <string>INT_LVC</string>
       <string>INT_SOCIETE GENERALE</string>
-      <string>INT_TRIGANO</string>
       <string>INT_VALLOUREC</string>
     </StockList>
   </StockWatchList>
