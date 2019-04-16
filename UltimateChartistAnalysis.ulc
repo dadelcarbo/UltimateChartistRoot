@@ -220,13 +220,62 @@
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="1000MERCIS">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="_TOPEMA" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="_TOPSAR" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="M2I">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="WE.CONNECT">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
+      <DrawingItems BarDuration="Daily">
+        <StockDrawingItems>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>151.170715</X>
+              <Y>14.2062521</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>152.170715</X>
+              <Y>14.2062521</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Line2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="CAC Mid &amp; Small GR">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="_TOPEMA" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="CAC40GR">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
+      <DrawingItems BarDuration="Daily">
+        <StockDrawingItems>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2484.496</X>
+              <Y>14547.5176</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2485.496</X>
+              <Y>14547.5176</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Line2D>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2473.71045</X>
+              <Y>11995.4648</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2474.71045</X>
+              <Y>11995.4648</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Line2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="CAC40NR">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
@@ -342,6 +391,6 @@
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_ACCOR">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="_TOPEMA" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="_TOPSAR" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
 </StockAnalysisList>
