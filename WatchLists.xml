@@ -95,4 +95,41 @@
     <Name>WEEKLY</Name>
     <StockList />
   </StockWatchList>
+  <StockWatchList>
+    <Name>RENAN</Name>
+    <StockList>
+      <string>ACTIA GROUP</string>
+      <string>ADOCIA</string>
+      <string>AGROGENERATION</string>
+      <string>ALBIOMA</string>
+      <string>ARTPRICE COM</string>
+      <string>ATARI</string>
+      <string>ATEME</string>
+      <string>BELIER</string>
+      <string>BILENDI</string>
+      <string>BUDGET TELECOM</string>
+      <string>CHARGEURS</string>
+      <string>DBV TECHNOLOGIES</string>
+      <string>DERICHEBOURG</string>
+      <string>EO2</string>
+      <string>FIGEAC AERO</string>
+      <string>GENSIGHT BIOLOGICS</string>
+      <string>GROUPE OPEN</string>
+      <string>INNATE PHARMA</string>
+      <string>JACQUES BOGART</string>
+      <string>JACQUET METALS</string>
+      <string>MAISONS DU MONDE</string>
+      <string>MAUNA KEA</string>
+      <string>MOULINVEST</string>
+      <string>NANOBIOTIX</string>
+      <string>NEXANS</string>
+      <string>NICOX</string>
+      <string>ONCODESIGN</string>
+      <string>PHARMASIMPLE</string>
+      <string>SHOWROOMPRIVE</string>
+      <string>SPIE</string>
+      <string>TECHNICOLOR</string>
+      <string>THERACLION</string>
+    </StockList>
+  </StockWatchList>
 </ArrayOfStockWatchList>
