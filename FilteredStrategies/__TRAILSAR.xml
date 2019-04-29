@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <StockFilteredStrategyBase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name>__TRAILEMA</Name>
+  <Name>@__TRAILSAR</Name>
   <FilterName>TRUE(1)</FilterName>
   <OkToBuyFilterEventName>True</OkToBuyFilterEventName>
   <OkToShortFilterEventName>True</OkToShortFilterEventName>
-  <EntryTriggerName>TRAILEMA(12,1)</EntryTriggerName>
-  <BuyTriggerEventName>BrokenUp</BuyTriggerEventName>
+  <EntryTriggerName>TRAILSAR(0.2)</EntryTriggerName>
+  <BuyTriggerEventName>BrokenDown</BuyTriggerEventName>
   <ShortTriggerEventName>BrokenUp</ShortTriggerEventName>
-  <ExitTriggerName>TRAILEMA(12,1)</ExitTriggerName>
-  <SellTriggerEventName>BrokenDown</SellTriggerEventName>
+  <ExitTriggerName>TRAILSAR(0.2)</ExitTriggerName>
+  <SellTriggerEventName>BrokenUp</SellTriggerEventName>
   <CoverTriggerEventName>BrokenUp</CoverTriggerEventName>
   <StopTriggerName>TRUE(1)</StopTriggerName>
   <StopLongTriggerEventName>False</StopLongTriggerEventName>
