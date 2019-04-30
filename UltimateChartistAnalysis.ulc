@@ -195,6 +195,12 @@
       </DrawingItems>
     </StockAnalysis>
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="CHAUFFAGE URBAIN">
+    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="ECA">
+    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="ROBERTET CDV 87">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
@@ -405,6 +411,9 @@
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_ERAMET">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_ILIAD">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_INGENICO GROUP">
