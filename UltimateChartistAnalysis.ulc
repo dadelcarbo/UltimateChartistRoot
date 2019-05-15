@@ -317,6 +317,15 @@
   <StockAnalysisItem StockName="FUT_BOND_US">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_COM_COCOA">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_COM_COFFEE">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_COM_GOLD">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_COM_OIL_CRUDE">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
@@ -342,10 +351,34 @@
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_IND_SP500">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_IND_VIX">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
+      <DrawingItems BarDuration="TLB_3D">
+        <StockDrawingItems>
+          <HalfLine2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1608</X>
+              <Y>2949.25</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1784</X>
+              <Y>2889.38</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
+          <Segment2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1810</X>
+              <Y>2813.62</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1481</X>
+              <Y>2931.55615</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Segment2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="VIX/VIX Future">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="Empty" HasDrawings="False" HasComments="False" />
