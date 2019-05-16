@@ -4,64 +4,16 @@
     <BarDuration>
       <Duration>Daily</Duration>
     </BarDuration>
-    <IndicatorType>PAINTBAR</IndicatorType>
-    <IndicatorName>BBEX(50,1.5,-1.5,MA)</IndicatorName>
-    <EventName>NewHigh</EventName>
+    <IndicatorType>TRAILSTOP</IndicatorType>
+    <IndicatorName>TRAILBB(30,2.5,-2.5)</IndicatorName>
+    <EventName>BrokenUp</EventName>
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>
       <Duration>Daily</Duration>
     </BarDuration>
-    <IndicatorType>PAINTBAR</IndicatorType>
-    <IndicatorName>BBEX(50,1.5,-1.5,MA)</IndicatorName>
-    <EventName>EndOfBull</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Daily</Duration>
-    </BarDuration>
-    <IndicatorType>PAINTBAR</IndicatorType>
-    <IndicatorName>BBEX(50,1.5,-1.5,MA)</IndicatorName>
-    <EventName>NewLow</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Daily</Duration>
-    </BarDuration>
-    <IndicatorType>PAINTBAR</IndicatorType>
-    <IndicatorName>BBEX(50,1.5,-1.5,MA)</IndicatorName>
-    <EventName>EndOfBear</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Daily</Duration>
-    </BarDuration>
-    <IndicatorType>PAINTBAR</IndicatorType>
-    <IndicatorName>LEADER(60,6)</IndicatorName>
-    <EventName>NewHigh</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Daily</Duration>
-    </BarDuration>
-    <IndicatorType>PAINTBAR</IndicatorType>
-    <IndicatorName>LEADER(60,6)</IndicatorName>
-    <EventName>EndOfBull</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Daily</Duration>
-    </BarDuration>
-    <IndicatorType>PAINTBAR</IndicatorType>
-    <IndicatorName>LEADER(60,6)</IndicatorName>
-    <EventName>NewLow</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Daily</Duration>
-    </BarDuration>
-    <IndicatorType>PAINTBAR</IndicatorType>
-    <IndicatorName>LEADER(60,6)</IndicatorName>
-    <EventName>EndOfBear</EventName>
+    <IndicatorType>TRAILSTOP</IndicatorType>
+    <IndicatorName>TRAILBB(30,2.5,-2.5)</IndicatorName>
+    <EventName>BrokenDown</EventName>
   </StockAlertDef>
 </ArrayOfStockAlertDef>
