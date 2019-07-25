@@ -34,6 +34,7 @@
       <string>INT_SOCIETE GENERALE</string>
       <string>INT_SOLOCAL</string>
       <string>INT_TOTAL</string>
+      <string>INT_US_TESLA</string>
       <string>INT_VALEO</string>
       <string>INT_VALLOUREC</string>
     </StockList>
