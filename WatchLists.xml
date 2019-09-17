@@ -136,4 +136,19 @@
       <string>THERACLION</string>
     </StockList>
   </StockWatchList>
+  <StockWatchList>
+    <Name>SMALLCAPS</Name>
+    <StockList>
+      <string>BILENDI</string>
+      <string>CATANA GROUP</string>
+      <string>CBO TERRITORIA</string>
+      <string>CIS (CATERING INTL SCES)</string>
+      <string>CLASQUIN</string>
+      <string>DLSI</string>
+      <string>HIGH CO</string>
+      <string>LUMIBIRD</string>
+      <string>MGI DIGITAL GRAPHIC</string>
+      <string>MICROWAVE VISION</string>
+    </StockList>
+  </StockWatchList>
 </ArrayOfStockWatchList>
