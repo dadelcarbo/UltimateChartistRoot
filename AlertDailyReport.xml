@@ -16,4 +16,12 @@
     <IndicatorName>TRAILBB(30,2.5,-2.5)</IndicatorName>
     <EventName>BrokenDown</EventName>
   </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>
+      <Duration>Bar_6</Duration>
+    </BarDuration>
+    <IndicatorType>TRAILSTOP</IndicatorType>
+    <IndicatorName>TRAILSAR(0.2)</IndicatorName>
+    <EventName>LH_HL</EventName>
+  </StockAlertDef>
 </ArrayOfStockAlertDef>
