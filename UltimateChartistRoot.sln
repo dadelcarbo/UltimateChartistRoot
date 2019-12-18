@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2016
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UltimateChartistRoot", "UltimateChartistRoot", "{1C7888FD-6579-4E34-A96B-ADCF2BC8AB8C}"
 	ProjectSection(SolutionItems) = preProject
@@ -26,6 +26,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UltimateChartistRoot", "Ult
 		CommerzBankIntradayDownload.cfg = CommerzBankIntradayDownload.cfg
 		COT.cfg = COT.cfg
 		EuronextDownload.cfg = EuronextDownload.cfg
+		EuronextDownload.user.cfg = EuronextDownload.user.cfg
 		GoogleDownload.cfg = GoogleDownload.cfg
 		GoogleDownload.user.cfg = GoogleDownload.user.cfg
 		GoogleIntradayDownload.user.cfg = GoogleIntradayDownload.user.cfg
