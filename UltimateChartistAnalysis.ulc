@@ -384,47 +384,6 @@
   <StockAnalysisItem StockName="FUT_BITCOIN">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="_TOPSAR" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_COM_COFFEE">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TLB_3D">
-        <StockDrawingItems>
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>944.4057</X>
-              <Y>96.4630356</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1206.16736</X>
-              <Y>107.3824</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1161.71729</X>
-              <Y>105.3603</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1332.10925</X>
-              <Y>120.930504</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1352.84033</X>
-              <Y>123.151474</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1394</X>
-              <Y>131.9319</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
-  </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_IND_DAX30">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
       <DrawingItems BarDuration="TLB_3D">
