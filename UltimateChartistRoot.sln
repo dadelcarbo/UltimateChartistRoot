@@ -148,6 +148,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AAII", "AAII", "{AEAE9B9F-3
 		data\weekly\AAII\BullBearRatio.csv = data\weekly\AAII\BullBearRatio.csv
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Portfolio", "Portfolio", "{B6269A8B-47BA-46EA-8BE7-F07538098FF2}"
+	ProjectSection(SolutionItems) = preProject
+		Portfolio\BinckTest.ptf = Portfolio\BinckTest.ptf
+		Portfolio\BinckPEA.ptf = Portfolio\BinckPEA.ptf
+		Portfolio\BinckTitre.ptf = Portfolio\BinckTitre.ptf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -158,6 +165,7 @@ Global
 		{7E40E468-401B-4BE6-B353-D9621459EA58} = {1C7888FD-6579-4E34-A96B-ADCF2BC8AB8C}
 		{209370CC-539F-46C1-9B3A-EE1BB04A872D} = {7E40E468-401B-4BE6-B353-D9621459EA58}
 		{AEAE9B9F-3512-4B73-A1D6-492CB0C4DA53} = {209370CC-539F-46C1-9B3A-EE1BB04A872D}
+		{B6269A8B-47BA-46EA-8BE7-F07538098FF2} = {1C7888FD-6579-4E34-A96B-ADCF2BC8AB8C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {739F75DB-2139-48D8-A612-E8AB77F3CF0F}
