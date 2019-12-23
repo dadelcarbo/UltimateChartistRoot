@@ -150,9 +150,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AAII", "AAII", "{AEAE9B9F-3
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Portfolio", "Portfolio", "{B6269A8B-47BA-46EA-8BE7-F07538098FF2}"
 	ProjectSection(SolutionItems) = preProject
-		Portfolio\BinckTest.ptf = Portfolio\BinckTest.ptf
-		Portfolio\BinckPEA.ptf = Portfolio\BinckPEA.ptf
-		Portfolio\BinckTitre.ptf = Portfolio\BinckTitre.ptf
+		Portfolio\BinckPEA_P.ptf = Portfolio\BinckPEA_P.ptf
+		Portfolio\BinckTest_P.ptf = Portfolio\BinckTest_P.ptf
+		Portfolio\BinckTitre_P.ptf = Portfolio\BinckTitre_P.ptf
 	EndProjectSection
 EndProject
 Global
