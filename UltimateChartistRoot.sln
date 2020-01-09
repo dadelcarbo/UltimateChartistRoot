@@ -6,12 +6,11 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UltimateChartistRoot", "UltimateChartistRoot", "{1C7888FD-6579-4E34-A96B-ADCF2BC8AB8C}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
-		AlertDailyReport.xml = AlertDailyReport.xml
-		AlertDailyReport2.xml = AlertDailyReport2.xml
-		AlertIntraday.xml = AlertIntraday.xml
+		AlertDefDaily.xml = AlertDefDaily.xml
+		AlertDefIntraday.xml = AlertDefIntraday.xml
+		AlertDefMonthly.xml = AlertDefMonthly.xml
+		AlertDefWeekly.xml = AlertDefWeekly.xml
 		AlertIntraday2.xml = AlertIntraday2.xml
-		AlertMonthlyReport.xml = AlertMonthlyReport.xml
-		AlertWeeklyReport.xml = AlertWeeklyReport.xml
 		AlertWeeklyReport2.xml = AlertWeeklyReport2.xml
 		BarChartDownload.cfg = BarChartDownload.cfg
 		BNPIntradayDownload.user.cfg = BNPIntradayDownload.user.cfg
@@ -162,6 +161,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{11CFF281-48A
 		img\Up.png = img\Up.png
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Alert", "Alert", "{67B0D179-5378-4BB1-A155-58600F7DACEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AlertDef", "AlertDef", "{07757D98-B606-4FDD-9BF0-D4947BEB6440}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -174,6 +177,8 @@ Global
 		{AEAE9B9F-3512-4B73-A1D6-492CB0C4DA53} = {209370CC-539F-46C1-9B3A-EE1BB04A872D}
 		{B6269A8B-47BA-46EA-8BE7-F07538098FF2} = {1C7888FD-6579-4E34-A96B-ADCF2BC8AB8C}
 		{11CFF281-48AC-4802-BE2B-E9FE34BB9C12} = {1C7888FD-6579-4E34-A96B-ADCF2BC8AB8C}
+		{67B0D179-5378-4BB1-A155-58600F7DACEC} = {1C7888FD-6579-4E34-A96B-ADCF2BC8AB8C}
+		{07757D98-B606-4FDD-9BF0-D4947BEB6440} = {67B0D179-5378-4BB1-A155-58600F7DACEC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {739F75DB-2139-48D8-A612-E8AB77F3CF0F}
