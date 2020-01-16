@@ -13,6 +13,7 @@ data/weekly/harpex
 data/archive
 data/agenda
 data/financial
+Alert/AlertLog
 
 log/
 Report/
