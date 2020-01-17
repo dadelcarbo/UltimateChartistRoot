@@ -31,6 +31,7 @@
       <string>INT_INGENICO GROUP</string>
       <string>INT_INNATE PHARMA</string>
       <string>INT_LVC</string>
+      <string>INT_RENAULT</string>
       <string>INT_SOCIETE GENERALE</string>
       <string>INT_SOLOCAL</string>
       <string>INT_TOTAL</string>
@@ -106,7 +107,6 @@
       <string>ADOCIA</string>
       <string>AGROGENERATION</string>
       <string>ALBIOMA</string>
-      <string>ARTPRICE COM</string>
       <string>ATARI</string>
       <string>ATEME</string>
       <string>BELIER</string>
