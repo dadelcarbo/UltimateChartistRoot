@@ -152,6 +152,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Portfolio", "Portfolio", "{
 		Portfolio\BinckPEA_P.ptf = Portfolio\BinckPEA_P.ptf
 		Portfolio\BinckTest_P.ptf = Portfolio\BinckTest_P.ptf
 		Portfolio\BinckTitre_P.ptf = Portfolio\BinckTitre_P.ptf
+		Portfolio\NameMappings.xml = Portfolio\NameMappings.xml
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{11CFF281-48AC-4802-BE2B-E9FE34BB9C12}"
