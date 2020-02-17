@@ -5,7 +5,7 @@
       <Duration>Weekly</Duration>
     </BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILBB(30,2.5,-2.5)</IndicatorName>
+    <IndicatorName>TRAILATRBAND(50,3,-3,MA)</IndicatorName>
     <EventName>BrokenUp</EventName>
   </StockAlertDef>
   <StockAlertDef>
@@ -13,7 +13,7 @@
       <Duration>Weekly</Duration>
     </BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILBB(30,2.5,-2.5)</IndicatorName>
+    <IndicatorName>TRAILATRBAND(50,3,-3,MA)</IndicatorName>
     <EventName>BrokenDown</EventName>
   </StockAlertDef>
 </ArrayOfStockAlertDef>
