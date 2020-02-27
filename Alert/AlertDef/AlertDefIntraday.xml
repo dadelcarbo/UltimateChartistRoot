@@ -13,14 +13,6 @@
       <Duration>Bar_6</Duration>
     </BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILSAR(0.2)</IndicatorName>
-    <EventName>LH_HL</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Bar_6</Duration>
-    </BarDuration>
-    <IndicatorType>TRAILSTOP</IndicatorType>
     <IndicatorName>TRAILATRBAND(50,3,-3,MA)</IndicatorName>
     <EventName>BrokenDown</EventName>
   </StockAlertDef>
@@ -28,16 +20,16 @@
     <BarDuration>
       <Duration>Bar_6</Duration>
     </BarDuration>
-    <IndicatorType>PAINTBAR</IndicatorType>
-    <IndicatorName>DRAWING()</IndicatorName>
-    <EventName>SupportBroken</EventName>
+    <IndicatorType>TRAILSTOP</IndicatorType>
+    <IndicatorName>TRAILHL(12)</IndicatorName>
+    <EventName>BrokenUp</EventName>
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>
       <Duration>Bar_6</Duration>
     </BarDuration>
-    <IndicatorType>PAINTBAR</IndicatorType>
-    <IndicatorName>DRAWING()</IndicatorName>
-    <EventName>ResistanceBroken</EventName>
+    <IndicatorType>TRAILSTOP</IndicatorType>
+    <IndicatorName>TRAILHL(12)</IndicatorName>
+    <EventName>BrokenDown</EventName>
   </StockAlertDef>
 </ArrayOfStockAlertDef>
