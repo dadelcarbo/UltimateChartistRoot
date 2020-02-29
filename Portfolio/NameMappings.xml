@@ -1,18 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfStockNameMapping xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <StockNameMapping>
-    <StockName>CAC40</StockName>
     <BinckName>CAC 40 X15 Leverage</BinckName>
+    <StockName>CAC40</StockName>
     <Leverage>15</Leverage>
   </StockNameMapping>
   <StockNameMapping>
-    <StockName>COFFEE</StockName>
     <BinckName>COFFEE Future [Mar-20] CB ts</BinckName>
+    <StockName>COFFEE</StockName>
     <Leverage>-3</Leverage>
   </StockNameMapping>
   <StockNameMapping>
-    <StockName>COFFEE</StockName>
     <BinckName>COFFEE Future [Mar-20] CB tl</BinckName>
+    <StockName>COFFEE</StockName>
     <Leverage>3</Leverage>
+  </StockNameMapping>
+  <StockNameMapping>
+    <BinckName>Lyxor CAC 40 Daily Double Shrt UCITS ETF</BinckName>
+    <StockName>Lyxor CAC 40 (-2x) Inverse</StockName>
+    <Leverage>3</Leverage>
+  </StockNameMapping>
+  <StockNameMapping>
+    <BinckName>Lyxor ETF Leverage CAC40</BinckName>
+    <StockName>Lyxor CAC 40 (2x) Leveraged</StockName>
+    <Leverage>3</Leverage>
+  </StockNameMapping>
+  <StockNameMapping>
+    <BinckName>Blabla</BinckName>
+    <StockName>Blibli</StockName>
+    <Leverage>1</Leverage>
   </StockNameMapping>
 </ArrayOfStockNameMapping>
