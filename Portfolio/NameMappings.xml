@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ArrayOfStockNameMapping xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<ArrayOfStockNameMapping xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StockNameMapping>
     <BinckName>CAC 40 X15 Leverage</BinckName>
     <StockName>CAC40</StockName>
@@ -26,8 +26,13 @@
     <Leverage>3</Leverage>
   </StockNameMapping>
   <StockNameMapping>
-    <BinckName>Blabla</BinckName>
-    <StockName>Blibli</StockName>
+    <BinckName>Plastivaloire </BinckName>
+    <StockName>PLAST. VAL DE LOIRE</StockName>
     <Leverage>1</Leverage>
+  </StockNameMapping>
+  <StockNameMapping>
+    <BinckName>COFFEE Future [May-20] CB tl</BinckName>
+    <StockName>COFFEE</StockName>
+    <Leverage>3</Leverage>
   </StockNameMapping>
 </ArrayOfStockNameMapping>
