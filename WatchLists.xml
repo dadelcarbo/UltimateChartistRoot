@@ -9,6 +9,7 @@
       <string>FUT_COM_COCOA</string>
       <string>FUT_COM_COFFEE</string>
       <string>FUT_COM_GOLD</string>
+      <string>FUT_COM_NATURAL_GAS</string>
       <string>FUT_COM_OIL_CRUDE</string>
       <string>FUT_COM_PALLADIUM</string>
       <string>FUT_COM_PLATINUM</string>
@@ -81,17 +82,13 @@
   </StockWatchList>
   <StockWatchList>
     <Name>LVC_BX4</Name>
-    <StockList>
-      <string>BX4</string>
-      <string>LVC</string>
-    </StockList>
+    <StockList />
   </StockWatchList>
   <StockWatchList>
     <Name>FollowUp</Name>
     <StockList>
       <string>AMPLITUDE SURGICAL</string>
       <string>ASSYSTEM</string>
-      <string>AVIATION LATECOERE</string>
       <string>BASTIDE LE CONFORT</string>
       <string>BELIER</string>
     </StockList>
@@ -111,7 +108,6 @@
       <string>ATEME</string>
       <string>BELIER</string>
       <string>BILENDI</string>
-      <string>BUDGET TELECOM</string>
       <string>CHARGEURS</string>
       <string>DBV TECHNOLOGIES</string>
       <string>DERICHEBOURG</string>
