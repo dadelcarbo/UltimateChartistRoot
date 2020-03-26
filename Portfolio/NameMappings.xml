@@ -11,6 +11,11 @@
     <Leverage>-3</Leverage>
   </StockNameMapping>
   <StockNameMapping>
+    <BinckName>COCOA Future [May-20] LEV L 5 CB</BinckName>
+    <StockName>FUT_COM_COCOA</StockName>
+    <Leverage>5</Leverage>
+  </StockNameMapping>
+  <StockNameMapping>
     <BinckName>COFFEE Future [Mar-20] CB tl</BinckName>
     <StockName>COFFEE</StockName>
     <Leverage>3</Leverage>
