@@ -40,4 +40,19 @@
     <StockName>COFFEE</StockName>
     <Leverage>3</Leverage>
   </StockNameMapping>
+  <StockNameMapping>
+    <BinckName>VIX CBOE VOLATILITY FUTURE [ CB TS 83.26</BinckName>
+    <StockName>FUT_IND_VIX</StockName>
+    <Leverage>-1</Leverage>
+  </StockNameMapping>
+  <StockNameMapping>
+    <BinckName>USD / JPY CB BEST TURBO SHORT 125.3704</BinckName>
+    <StockName>FUT_FX_USDJPY</StockName>
+    <Leverage>-7</Leverage>
+  </StockNameMapping>
+  <StockNameMapping>
+    <BinckName>BENETEAU CB TURBO LONG 7.33</BinckName>
+    <StockName>BENETEAU</StockName>
+    <Leverage>3</Leverage>
+  </StockNameMapping>
 </ArrayOfStockNameMapping>
