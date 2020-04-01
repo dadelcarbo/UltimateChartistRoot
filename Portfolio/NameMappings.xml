@@ -55,4 +55,14 @@
     <StockName>BENETEAU</StockName>
     <Leverage>3</Leverage>
   </StockNameMapping>
+  <StockNameMapping>
+    <BinckName>VIX CBOE VOLATILITY FUTURE [APR LEV S CB</BinckName>
+    <StockName>VIX</StockName>
+    <Leverage>-1</Leverage>
+  </StockNameMapping>
+  <StockNameMapping>
+    <BinckName>MARSEILLAISE DU TUNNEL PRADO CARENAGE</BinckName>
+    <StockName>SMTPC</StockName>
+    <Leverage>1</Leverage>
+  </StockNameMapping>
 </ArrayOfStockNameMapping>

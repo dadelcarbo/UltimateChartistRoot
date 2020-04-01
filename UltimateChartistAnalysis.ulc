@@ -252,6 +252,9 @@
   <StockAnalysisItem StockName="LYSOGENE">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="TOUPARGEL GROUPE">
+    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="1000MERCIS">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="_TRAILATR" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
