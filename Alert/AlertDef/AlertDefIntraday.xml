@@ -4,48 +4,16 @@
     <BarDuration>
       <Duration>Bar_6</Duration>
     </BarDuration>
-    <IndicatorType>INDICATOR</IndicatorType>
-    <IndicatorName>ADX(30,28,3)</IndicatorName>
-    <EventName>UpTrend</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Bar_6</Duration>
-    </BarDuration>
-    <IndicatorType>INDICATOR</IndicatorType>
-    <IndicatorName>ADX(30,28,3)</IndicatorName>
-    <EventName>DownTrend</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Bar_6</Duration>
-    </BarDuration>
-    <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILATRBAND(50,3,-3,MA)</IndicatorName>
+    <IndicatorType>CLOUD</IndicatorType>
+    <IndicatorName>EMA2Lines(20,50,7)</IndicatorName>
     <EventName>BrokenUp</EventName>
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>
       <Duration>Bar_6</Duration>
     </BarDuration>
-    <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILATRBAND(50,3,-3,MA)</IndicatorName>
-    <EventName>BrokenDown</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Bar_6</Duration>
-    </BarDuration>
-    <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILHL(12)</IndicatorName>
-    <EventName>BrokenUp</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Bar_6</Duration>
-    </BarDuration>
-    <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILHL(12)</IndicatorName>
+    <IndicatorType>CLOUD</IndicatorType>
+    <IndicatorName>EMA2Lines(20,50,7)</IndicatorName>
     <EventName>BrokenDown</EventName>
   </StockAlertDef>
 </ArrayOfStockAlertDef>

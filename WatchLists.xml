@@ -43,60 +43,10 @@
     </StockList>
   </StockWatchList>
   <StockWatchList>
-    <Name>IVY</Name>
-    <StockList>
-      <string>SPY</string>
-    </StockList>
-  </StockWatchList>
-  <StockWatchList>
-    <Name>CAC40</Name>
-    <StockList>
-      <string>AIR LIQUIDE</string>
-      <string>ALSTOM</string>
-      <string>AXA</string>
-      <string>BNP PARIBAS</string>
-      <string>BOUYGUES</string>
-      <string>CARREFOUR</string>
-      <string>CREDIT AGRICOLE</string>
-      <string>DANONE</string>
-      <string>EDF</string>
-      <string>GEMALTO</string>
-      <string>LEGRAND SA</string>
-      <string>L'OREAL</string>
-      <string>LVMH</string>
-      <string>MICHELIN</string>
-      <string>ORANGE</string>
-      <string>PUBLICIS GROUPE</string>
-      <string>RENAULT</string>
-      <string>SAFRAN</string>
-      <string>SAINT GOBAIN</string>
-      <string>SANOFI</string>
-      <string>SCHNEIDER ELECTRIC</string>
-      <string>SOCIETE GENERALE</string>
-      <string>STMICROELECTRONICS</string>
-      <string>TOTAL</string>
-      <string>VALLOUREC</string>
-      <string>VEOLIA ENVIRON.</string>
-      <string>VINCI</string>
-      <string>VIVENDI</string>
-    </StockList>
-  </StockWatchList>
-  <StockWatchList>
-    <Name>LVC_BX4</Name>
-    <StockList />
-  </StockWatchList>
-  <StockWatchList>
     <Name>FollowUp</Name>
     <StockList>
-      <string>AMPLITUDE SURGICAL</string>
-      <string>ASSYSTEM</string>
-      <string>BASTIDE LE CONFORT</string>
-      <string>BELIER</string>
+      <string>ARGAN</string>
     </StockList>
-  </StockWatchList>
-  <StockWatchList>
-    <Name>WEEKLY</Name>
-    <StockList />
   </StockWatchList>
   <StockWatchList>
     <Name>RENAN</Name>
