@@ -65,4 +65,14 @@
     <StockName>SMTPC</StockName>
     <Leverage>1</Leverage>
   </StockNameMapping>
+  <StockNameMapping>
+    <BinckName>COPPER Future [Mar-20] SOG tl 1.588</BinckName>
+    <StockName>FUT_COM_COPPER</StockName>
+    <Leverage>3.4</Leverage>
+  </StockNameMapping>
+  <StockNameMapping>
+    <BinckName>OIL LIGHT CRUDE FUTURE [APR- LEV L 3 SOG</BinckName>
+    <StockName>FUT_COM_OIL_CRUDE</StockName>
+    <Leverage>3</Leverage>
+  </StockNameMapping>
 </ArrayOfStockNameMapping>

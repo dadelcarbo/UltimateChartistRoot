@@ -45,7 +45,17 @@
   <StockWatchList>
     <Name>FollowUp</Name>
     <StockList>
+      <string>ABIVAX</string>
+      <string>ADOCIA</string>
+      <string>AMOEBA BIOCIDE</string>
       <string>ARGAN</string>
+      <string>ERYTECH PHARMA</string>
+      <string>INNATE PHARMA</string>
+      <string>INTEGRAGEN</string>
+      <string>MERSEN</string>
+      <string>MINT</string>
+      <string>POXEL</string>
+      <string>SPINEWAY</string>
     </StockList>
   </StockWatchList>
   <StockWatchList>
@@ -96,6 +106,16 @@
       <string>LUMIBIRD</string>
       <string>MGI DIGITAL GRAPHIC</string>
       <string>MICROWAVE VISION</string>
+    </StockList>
+  </StockWatchList>
+  <StockWatchList>
+    <Name>Abadie</Name>
+    <StockList>
+      <string>CBO TERRITORIA</string>
+      <string>IDI</string>
+      <string>PASSAT</string>
+      <string>SCBSM</string>
+      <string>SMTPC</string>
     </StockList>
   </StockWatchList>
 </ArrayOfStockWatchList>
