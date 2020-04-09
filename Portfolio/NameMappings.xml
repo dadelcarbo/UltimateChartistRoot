@@ -75,4 +75,9 @@
     <StockName>FUT_COM_OIL_CRUDE</StockName>
     <Leverage>3</Leverage>
   </StockNameMapping>
+  <StockNameMapping>
+    <BinckName>Lyxor Daily double Short S&amp;P 500 ETF</BinckName>
+    <StockName>SP500</StockName>
+    <Leverage>-2</Leverage>
+  </StockNameMapping>
 </ArrayOfStockNameMapping>
