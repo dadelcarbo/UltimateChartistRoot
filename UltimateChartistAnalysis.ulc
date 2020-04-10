@@ -620,6 +620,13 @@
       </DrawingItems>
     </StockAnalysis>
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_IND_SP500">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
+      <Comments>
+        <Comment Date="09/04/2020 16:35:00" Value="Position short indice en vue d'un repli aprés hausse &quot;exagérée&quot;. Les annonces de la FED e BCE sont maintenant pricée. Un pull back serait bien venu avant le déconfinement et la reprise de l'économie.&#xD;&#xA;Reco Loic Abadie.&#xD;&#xA;Indicateur de sentiment pas encore en excés d'optimisme. Peu-être un trade sur PEA un peu trop tôt." />
+      </Comments>
+    </StockAnalysis>
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_US_TESLA">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
       <Comments>

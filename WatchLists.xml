@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<ArrayOfStockWatchList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<ArrayOfStockWatchList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StockWatchList>
     <Name>Alert</Name>
     <StockList>
@@ -111,11 +111,25 @@
   <StockWatchList>
     <Name>Abadie</Name>
     <StockList>
+      <string>AKWEL</string>
       <string>CBO TERRITORIA</string>
+      <string>CGG</string>
+      <string>COFIDUR</string>
+      <string>ENVEA</string>
+      <string>GEVELOT</string>
+      <string>GRAINES VOLTZ</string>
       <string>IDI</string>
+      <string>MAUREL ET PROM</string>
+      <string>NATIXIS</string>
       <string>PASSAT</string>
+      <string>PLAST. VAL DE LOIRE</string>
       <string>SCBSM</string>
+      <string>SERGEFERRARI GROUP</string>
+      <string>SIGNAUX GIROD</string>
       <string>SMTPC</string>
+      <string>SOGECLAIR</string>
+      <string>U10 CORP.</string>
+      <string>WE.CONNECT</string>
     </StockList>
   </StockWatchList>
 </ArrayOfStockWatchList>
