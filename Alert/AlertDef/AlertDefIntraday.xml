@@ -4,16 +4,24 @@
     <BarDuration>
       <Duration>Bar_6</Duration>
     </BarDuration>
-    <IndicatorType>CLOUD</IndicatorType>
-    <IndicatorName>EMA2Lines(20,50,7)</IndicatorName>
+    <IndicatorType>TRAILSTOP</IndicatorType>
+    <IndicatorName>TRAILEMA(68,1)</IndicatorName>
     <EventName>BrokenUp</EventName>
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>
       <Duration>Bar_6</Duration>
     </BarDuration>
-    <IndicatorType>CLOUD</IndicatorType>
-    <IndicatorName>EMA2Lines(20,50,7)</IndicatorName>
+    <IndicatorType>TRAILSTOP</IndicatorType>
+    <IndicatorName>TRAILEMA(68,1)</IndicatorName>
     <EventName>BrokenDown</EventName>
+  </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>
+      <Duration>Bar_6</Duration>
+    </BarDuration>
+    <IndicatorType>INDICATOR</IndicatorType>
+    <IndicatorName>TRAILHL2SR(12)</IndicatorName>
+    <EventName>BullStart</EventName>
   </StockAlertDef>
 </ArrayOfStockAlertDef>

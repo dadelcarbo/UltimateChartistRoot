@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <StockAnalysisList>
   <StockAnalysisItem StockName="Argentina">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="__CLOUD" HasDrawings="True" HasComments="False">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
       <DrawingItems BarDuration="Weekly">
         <StockDrawingItems>
           <Segment2D>
@@ -108,9 +108,6 @@
       </DrawingItems>
     </StockAnalysis>
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="ACCOR HOTELS">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="__CLOUD" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
   <StockAnalysisItem StockName="AIR FRANCE - KLM">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
       <DrawingItems BarDuration="Weekly">
@@ -177,6 +174,9 @@
   <StockAnalysisItem StockName="CAMBODGE NOM.">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="CATERPILLAR INC">
+    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="CNOVA NV">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
@@ -240,13 +240,13 @@
   <StockAnalysisItem StockName="ZODIAC AEROSPACE">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="AB SCIENCE">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="__CLOUD" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
   <StockAnalysisItem StockName="AGTA RECORD">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ALTAREIT">
+    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="ANF IMMOBILIER">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="APRIL">
@@ -309,9 +309,6 @@
   <StockAnalysisItem StockName="STALLERGENES GREER">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="2CRSI">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="__CLOUD" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
   <StockAnalysisItem StockName="ABIVAX">
     <StockAnalysis Excluded="False" FollowUp="True" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
@@ -373,7 +370,7 @@
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="1000MERCIS">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="__CLOUD" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="A2MICILE EUROPE">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
@@ -533,9 +530,6 @@
   <StockAnalysisItem StockName="AEROSPACE &amp; DEFENSE">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="_TRAILATR" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="VIX/VIX Future">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="Empty" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
   <StockAnalysisItem StockName="AD.CAC40">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="ADBench" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
@@ -570,7 +564,10 @@
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_BITCOIN">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="__CLOUD" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_BOND_BTP">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="_Intraday" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_COM_COCOA">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
