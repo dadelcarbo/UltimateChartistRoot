@@ -132,4 +132,13 @@
       <string>WE.CONNECT</string>
     </StockList>
   </StockWatchList>
+  <StockWatchList>
+    <Name>Bank</Name>
+    <StockList>
+      <string>INT_BNP PARIBAS</string>
+      <string>INT_CREDIT AGRICOLE</string>
+      <string>INT_NATIXIS</string>
+      <string>INT_SOCIETE GENERALE</string>
+    </StockList>
+  </StockWatchList>
 </ArrayOfStockWatchList>

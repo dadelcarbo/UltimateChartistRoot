@@ -524,9 +524,6 @@
   <StockAnalysisItem StockName="BEAR/BULL Log Ratio">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="BullBearRatio" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="PCR.EQUITY">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="PCR_Bench" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
   <StockAnalysisItem StockName="AEROSPACE &amp; DEFENSE">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="_TRAILATR" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
@@ -583,11 +580,55 @@
       </Comments>
     </StockAnalysis>
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_COM_NATURAL_GAS">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
+      <DrawingItems BarDuration="Bar_6">
+        <StockDrawingItems>
+          <Segment2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>3993.27515</X>
+              <Y>1.86970842</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>4238.2</X>
+              <Y>1.56619251</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Segment2D>
+          <Segment2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>4006.166</X>
+              <Y>1.9275471</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>4279.45068</X>
+              <Y>1.588887</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Segment2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_COM_OIL_CRUDE">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
       <Comments>
         <Comment Date="30/03/2020 10:40:00" Value="Achat à l'approche des 20€ en vue d'un rebond technique. Pas de signal mais une vaorisation trés failble. " />
         <Comment Date="08/04/2020 17:10:00" Value="renforcement de position sur échec de sorti du cloud par le bas." />
+      </Comments>
+    </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_COM_SUGAR">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
+      <Comments>
+        <Comment Date="22/04/2020 12:25:00" Value="Moyenage à la baisse ! Ereur à na pas faire il faudra jouer le stop serré.&#xD;&#xA;Position prise à la faveur du rebond sur le pétrole qui pourrait tirer les autres commodities. TrailEMA positif" />
+      </Comments>
+    </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_FX_EURJPY">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
+      <Comments>
+        <Comment Date="22/04/2020 12:25:00" Value="Higher low on Trail HL. Specualtion sur baisse du JPY face à l'EUR (même signal sur USD/JPY)" />
       </Comments>
     </StockAnalysis>
   </StockAnalysisItem>
@@ -621,6 +662,34 @@
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
       <Comments>
         <Comment Date="09/04/2020 16:35:00" Value="Position short indice en vue d'un repli aprés hausse &quot;exagérée&quot;. Les annonces de la FED e BCE sont maintenant pricée. Un pull back serait bien venu avant le déconfinement et la reprise de l'économie.&#xD;&#xA;Reco Loic Abadie.&#xD;&#xA;Indicateur de sentiment pas encore en excés d'optimisme. Peu-être un trade sur PEA un peu trop tôt." />
+      </Comments>
+    </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_BIOMERIEUX">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
+      <Comments>
+        <Comment Date="21/04/2020 09:30:00" Value="Trade trés légérement perdnt alors qu'il n'y avait aucun signal de vente. Panique du à la baisse du CAC." />
+      </Comments>
+    </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_CGG">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
+      <Comments>
+        <Comment Date="22/04/2020 15:00:00" Value="Achat sur rebond du pétrole" />
+      </Comments>
+    </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_TOTAL">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
+      <Comments>
+        <Comment Date="22/04/2020 15:00:00" Value="Achat sur rebond du pétrole" />
+      </Comments>
+    </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_US_NETFLIX">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
+      <Comments>
+        <Comment Date="22/04/2020 16:10:00" Value="Short after LH and in the cloud. Perharps a bit of a rush trade. Netflix publication occured it seems to be priced already. Targeting a 5 to 10 % pull back, retesting previous all time highs. Counter trend trade." />
       </Comments>
     </StockAnalysis>
   </StockAnalysisItem>
