@@ -85,4 +85,14 @@
     <StockName>FUT_COM_OIL_CRUDE</StockName>
     <Leverage>1</Leverage>
   </StockNameMapping>
+  <StockNameMapping>
+    <BinckName>AIRBUS SE</BinckName>
+    <StockName>AIRBUS</StockName>
+    <Leverage>1</Leverage>
+  </StockNameMapping>
+  <StockNameMapping>
+    <BinckName>CGG Act</BinckName>
+    <StockName>CGG</StockName>
+    <Leverage>1</Leverage>
+  </StockNameMapping>
 </ArrayOfStockNameMapping>
