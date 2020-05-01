@@ -95,4 +95,14 @@
     <StockName>CGG</StockName>
     <Leverage>1</Leverage>
   </StockNameMapping>
+  <StockNameMapping>
+    <BinckName>DERICHEBOURG ACT.</BinckName>
+    <StockName>DERICHEBOURG</StockName>
+    <Leverage>1</Leverage>
+  </StockNameMapping>
+  <StockNameMapping>
+    <BinckName>TF 1</BinckName>
+    <StockName>TF1</StockName>
+    <Leverage>1</Leverage>
+  </StockNameMapping>
 </ArrayOfStockNameMapping>
