@@ -10,6 +10,7 @@ data/daily
 data/intraday
 data/archive
 data/agenda
+data/dividend
 data/financial
 Alert/AlertLog
 

@@ -108,6 +108,36 @@
       </DrawingItems>
     </StockAnalysis>
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="ADP">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
+      <DrawingItems BarDuration="Weekly">
+        <StockDrawingItems>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>301.230225</X>
+              <Y>56.395752</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>302.230225</X>
+              <Y>56.395752</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Line2D>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>299.100525</X>
+              <Y>66.04636</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>300.100525</X>
+              <Y>66.04636</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Line2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="AIR FRANCE - KLM">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
       <DrawingItems BarDuration="Weekly">
@@ -580,34 +610,26 @@
       </Comments>
     </StockAnalysis>
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_COM_NATURAL_GAS">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
+  <StockAnalysisItem StockName="FUT_COM_GOLD">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="True">
       <DrawingItems BarDuration="Bar_6">
         <StockDrawingItems>
           <Segment2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>3993.27515</X>
-              <Y>1.86970842</Y>
+              <X>4199</X>
+              <Y>1718.25</Y>
             </PointF>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>4238.2</X>
-              <Y>1.56619251</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Segment2D>
-          <Segment2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>4006.166</X>
-              <Y>1.9275471</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>4279.45068</X>
-              <Y>1.588887</Y>
+              <X>4276</X>
+              <Y>1717.8</Y>
             </PointF>
             <Pen>1:255:0:0:0:Solid</Pen>
           </Segment2D>
         </StockDrawingItems>
       </DrawingItems>
+      <Comments>
+        <Comment Date="06/05/2020 13:00:00" Value="Short sur Bar_3 bearish cloud trend" />
+      </Comments>
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_COM_OIL_CRUDE">
@@ -656,6 +678,13 @@
           </Line2D>
         </StockDrawingItems>
       </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_IND_NASDAQ100">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
+      <Comments>
+        <Comment Date="05/05/2020 17:00:00" Value="SHort en contre tendance court terme en vue d'une reprise de la correction commencée  30/04" />
+      </Comments>
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_IND_SP500">
