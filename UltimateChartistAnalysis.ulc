@@ -112,50 +112,6 @@
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
       <DrawingItems BarDuration="Daily">
         <StockDrawingItems>
-          <CupHandle2D>
-            <PointF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-              <X>4552</X>
-              <Y>43.455</Y>
-            </PointF>
-            <PointF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-              <X>4603</X>
-              <Y>43.455</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </CupHandle2D>
-          <CupHandle2D>
-            <PointF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-              <X>4212</X>
-              <Y>39.33</Y>
-            </PointF>
-            <PointF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-              <X>4414</X>
-              <Y>39.33</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </CupHandle2D>
-          <CupHandle2D>
-            <PointF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-              <X>3710</X>
-              <Y>38.055</Y>
-            </PointF>
-            <PointF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-              <X>3844</X>
-              <Y>38.055</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </CupHandle2D>
-          <CupHandle2D>
-            <PointF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-              <X>3381</X>
-              <Y>28.035</Y>
-            </PointF>
-            <PointF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-              <X>3467</X>
-              <Y>28.035</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </CupHandle2D>
         </StockDrawingItems>
       </DrawingItems>
     </StockAnalysis>
