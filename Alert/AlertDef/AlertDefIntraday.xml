@@ -20,6 +20,22 @@
     <BarDuration>
       <Duration>Bar_6</Duration>
     </BarDuration>
+    <IndicatorType>TRAILSTOP</IndicatorType>
+    <IndicatorName>TRAILCUPHANDLE(4)</IndicatorName>
+    <EventName>BrokenUp</EventName>
+  </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>
+      <Duration>Bar_6</Duration>
+    </BarDuration>
+    <IndicatorType>TRAILSTOP</IndicatorType>
+    <IndicatorName>TRAILCUPHANDLE(4)</IndicatorName>
+    <EventName>BrokenDown</EventName>
+  </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>
+      <Duration>Bar_6</Duration>
+    </BarDuration>
     <IndicatorType>INDICATOR</IndicatorType>
     <IndicatorName>TRAILHL2SR(12)</IndicatorName>
     <EventName>BullStart</EventName>
