@@ -118,6 +118,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Portfolio", "Portfolio", "{
 		Portfolio\Binck_Simu_P.tptf = Portfolio\Binck_Simu_P.tptf
 		Portfolio\BinckPEA_P.ptf = Portfolio\BinckPEA_P.ptf
 		Portfolio\BinckTitre_P.ptf = Portfolio\BinckTitre_P.ptf
+		Portfolio\CupHandle.tptf = Portfolio\CupHandle.tptf
 		Portfolio\Formation.tptf = Portfolio\Formation.tptf
 		Portfolio\NameMappings.xml = Portfolio\NameMappings.xml
 	EndProjectSection
