@@ -2,7 +2,7 @@
 <ArrayOfStockAlertDef xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <!--<StockAlertDef>
     <BarDuration>
-      <Duration>Bar_6</Duration>
+      <Duration>Bar_12</Duration>
     </BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
     <IndicatorName>TRAILEMA(68,1)</IndicatorName>
@@ -10,7 +10,7 @@
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>
-      <Duration>Bar_6</Duration>
+      <Duration>Bar_12</Duration>
     </BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
     <IndicatorName>TRAILEMA(68,1)</IndicatorName>
@@ -18,7 +18,7 @@
   </StockAlertDef>-->
   <StockAlertDef>
     <BarDuration>
-      <Duration>Bar_6</Duration>
+      <Duration>Bar_12</Duration>
     </BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
     <IndicatorName>TRAILCUPHANDLE(4)</IndicatorName>
@@ -26,7 +26,7 @@
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>
-      <Duration>Bar_6</Duration>
+      <Duration>Bar_12</Duration>
     </BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
     <IndicatorName>TRAILCUPHANDLE(4)</IndicatorName>
@@ -34,7 +34,7 @@
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>
-      <Duration>Bar_6</Duration>
+      <Duration>Bar_12</Duration>
     </BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
     <IndicatorName>TRAILCUPHANDLEINV(4)</IndicatorName>
@@ -42,7 +42,7 @@
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>
-      <Duration>Bar_6</Duration>
+      <Duration>Bar_12</Duration>
     </BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
     <IndicatorName>TRAILCUPHANDLEINV(4)</IndicatorName>
@@ -50,7 +50,7 @@
   </StockAlertDef>
   <!--<StockAlertDef>
     <BarDuration>
-      <Duration>Bar_6</Duration>
+      <Duration>Bar_12</Duration>
     </BarDuration>
     <IndicatorType>INDICATOR</IndicatorType>
     <IndicatorName>TRAILHL2SR(12)</IndicatorName>

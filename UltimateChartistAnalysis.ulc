@@ -1192,7 +1192,44 @@
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_COM_SUGAR">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="True">
+      <DrawingItems BarDuration="Bar_12">
+        <StockDrawingItems RefDate="28/04/2020 10:35:00" RefDateIndex="758">
+          <HalfLine2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>578.0887</X>
+              <Y>11.3630524</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>579.0887</X>
+              <Y>11.3630524</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
+          <HalfLine2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>758</X>
+              <Y>9.21</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>897</X>
+              <Y>10.29</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
+          <HalfLine2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>758</X>
+              <Y>9.21</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>968</X>
+              <Y>10.55</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
+        </StockDrawingItems>
+      </DrawingItems>
       <Comments>
         <Comment Date="22/04/2020 12:25:00" Value="Moyenage à la baisse ! Ereur à na pas faire il faudra jouer le stop serré.&#xD;&#xA;Position prise à la faveur du rebond sur le pétrole qui pourrait tirer les autres commodities. TrailEMA positif" />
       </Comments>
@@ -1222,7 +1259,7 @@
   <StockAnalysisItem StockName="FUT_IND_CAC40">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
       <DrawingItems BarDuration="Bar_6">
-        <StockDrawingItems>
+        <StockDrawingItems RefDate="22/05/2020 10:00:00" RefDateIndex="2891">
           <Line2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
               <X>2732.67969</X>
@@ -1231,17 +1268,6 @@
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
               <X>2733.67969</X>
               <Y>4368.92529</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Line2D>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2744.90967</X>
-              <Y>4435.018</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2745.90967</X>
-              <Y>4435.018</Y>
             </PointF>
             <Pen>1:255:0:0:0:Solid</Pen>
           </Line2D>
