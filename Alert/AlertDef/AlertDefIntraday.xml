@@ -16,6 +16,22 @@
     <IndicatorName>TRAILEMA(68,1)</IndicatorName>
     <EventName>BrokenDown</EventName>
   </StockAlertDef>-->
+	<StockAlertDef>
+		<BarDuration>
+			<Duration>Bar_12</Duration>
+		</BarDuration>
+		<IndicatorType>PAINTBAR</IndicatorType>
+		<IndicatorName>DRAWING()</IndicatorName>
+		<EventName>SupportBroken</EventName>
+	</StockAlertDef>
+	<StockAlertDef>
+		<BarDuration>
+			<Duration>Bar_12</Duration>
+		</BarDuration>
+		<IndicatorType>PAINTBAR</IndicatorType>
+		<IndicatorName>DRAWING()</IndicatorName>
+		<EventName>ResistanceBroken</EventName>
+	</StockAlertDef>
   <StockAlertDef>
     <BarDuration>
       <Duration>Bar_12</Duration>
