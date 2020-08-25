@@ -20,6 +20,22 @@
 		<BarDuration>
 			<Duration>Bar_12</Duration>
 		</BarDuration>
+		<IndicatorType>CLOUD</IndicatorType>
+		<IndicatorName>MDH(26,78)</IndicatorName>
+		<EventName>CloseAboveCloud</EventName>
+	</StockAlertDef>
+	<StockAlertDef>
+		<BarDuration>
+			<Duration>Bar_12</Duration>
+		</BarDuration>
+		<IndicatorType>CLOUD</IndicatorType>
+		<IndicatorName>MDH(26,78)</IndicatorName>
+		<EventName>CloseBelowCloud</EventName>
+	</StockAlertDef>
+	<StockAlertDef>
+		<BarDuration>
+			<Duration>Bar_12</Duration>
+		</BarDuration>
 		<IndicatorType>PAINTBAR</IndicatorType>
 		<IndicatorName>DRAWING()</IndicatorName>
 		<EventName>SupportBroken</EventName>
