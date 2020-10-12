@@ -16,6 +16,14 @@
     <IndicatorName>EMA2Lines(20,50,7)</IndicatorName>
     <EventName>BrokenDown</EventName>
   </StockAlertDef>-->
+	<StockAlertDef>
+		<BarDuration>
+			<Duration>Daily</Duration>
+		</BarDuration>
+		<IndicatorType>INDICATOR</IndicatorType>
+		<IndicatorName>GUPPY(3,5,8,10,12,15,30,35,40,45,50,60)</IndicatorName>
+		<EventName>BullStart</EventName>
+	</StockAlertDef>
   <StockAlertDef>
     <BarDuration>
       <Duration>Daily</Duration>
