@@ -2,6 +2,14 @@
 <ArrayOfStockAlertDef xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<StockAlertDef>
 		<BarDuration>
+			<Duration>LineBreak_3W</Duration>
+		</BarDuration>
+		<IndicatorType>TRAILSTOP</IndicatorType>
+		<IndicatorName>TRAILHLBODY(2)</IndicatorName>
+		<EventName>HigherLow</EventName>
+	</StockAlertDef>
+	<StockAlertDef>
+		<BarDuration>
 			<Duration>Weekly</Duration>
 		</BarDuration>
 		<IndicatorType>INDICATOR</IndicatorType>

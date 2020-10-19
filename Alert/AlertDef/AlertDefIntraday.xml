@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfStockAlertDef xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <!--<StockAlertDef>
-    <BarDuration>
-      <Duration>Bar_12</Duration>
-    </BarDuration>
-    <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILEMA(68,1)</IndicatorName>
-    <EventName>BrokenUp</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Bar_12</Duration>
-    </BarDuration>
-    <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILEMA(68,1)</IndicatorName>
-    <EventName>BrokenDown</EventName>
-  </StockAlertDef>-->
+	<StockAlertDef>
+		<BarDuration>
+			<Duration>LineBreak_3H</Duration>
+		</BarDuration>
+		<IndicatorType>TRAILSTOP</IndicatorType>
+		<IndicatorName>TRAILHLBODY(2)</IndicatorName>
+		<EventName>HigherLow</EventName>
+	</StockAlertDef>	
+		<StockAlertDef>
+		<BarDuration>
+			<Duration>LineBreak_3H</Duration>
+		</BarDuration>
+		<IndicatorType>TRAILSTOP</IndicatorType>
+		<IndicatorName>TRAILHLBODY(2)</IndicatorName>
+		<EventName>LowerHigh</EventName>
+	</StockAlertDef>
 	<StockAlertDef>
 		<BarDuration>
 			<Duration>Bar_12</Duration>
@@ -56,39 +56,39 @@
 		<IndicatorName>DRAWING()</IndicatorName>
 		<EventName>ResistanceBroken</EventName>
 	</StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Bar_12</Duration>
-    </BarDuration>
-    <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILCUPHANDLE(4)</IndicatorName>
-    <EventName>BrokenUp</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Bar_12</Duration>
-    </BarDuration>
-    <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILCUPHANDLE(4)</IndicatorName>
-    <EventName>BrokenDown</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Bar_12</Duration>
-    </BarDuration>
-    <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILCUPHANDLEINV(4)</IndicatorName>
-    <EventName>BrokenUp</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Bar_12</Duration>
-    </BarDuration>
-    <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILCUPHANDLEINV(4)</IndicatorName>
-    <EventName>BrokenDown</EventName>
-  </StockAlertDef>
-  <!--<StockAlertDef>
+	<StockAlertDef>
+		<BarDuration>
+			<Duration>Bar_12</Duration>
+		</BarDuration>
+		<IndicatorType>TRAILSTOP</IndicatorType>
+		<IndicatorName>TRAILCUPHANDLE(4)</IndicatorName>
+		<EventName>BrokenUp</EventName>
+	</StockAlertDef>
+	<StockAlertDef>
+		<BarDuration>
+			<Duration>Bar_12</Duration>
+		</BarDuration>
+		<IndicatorType>TRAILSTOP</IndicatorType>
+		<IndicatorName>TRAILCUPHANDLE(4)</IndicatorName>
+		<EventName>BrokenDown</EventName>
+	</StockAlertDef>
+	<StockAlertDef>
+		<BarDuration>
+			<Duration>Bar_12</Duration>
+		</BarDuration>
+		<IndicatorType>TRAILSTOP</IndicatorType>
+		<IndicatorName>TRAILCUPHANDLEINV(4)</IndicatorName>
+		<EventName>BrokenUp</EventName>
+	</StockAlertDef>
+	<StockAlertDef>
+		<BarDuration>
+			<Duration>Bar_12</Duration>
+		</BarDuration>
+		<IndicatorType>TRAILSTOP</IndicatorType>
+		<IndicatorName>TRAILCUPHANDLEINV(4)</IndicatorName>
+		<EventName>BrokenDown</EventName>
+	</StockAlertDef>
+	<!--<StockAlertDef>
     <BarDuration>
       <Duration>Bar_12</Duration>
     </BarDuration>
