@@ -4,8 +4,8 @@
 		<BarDuration>
 			<Duration>LineBreak_3D</Duration>
 		</BarDuration>
-		<IndicatorType>TRAILSTOP</IndicatorType>
-		<IndicatorName>TRAILHLBODY(2)</IndicatorName>
+		<IndicatorType>INDICATOR</IndicatorType>
+		<IndicatorName>TRUE(3)</IndicatorName>
 		<EventName>HigherLow</EventName>
 	</StockAlertDef>
 	<StockAlertDef>
