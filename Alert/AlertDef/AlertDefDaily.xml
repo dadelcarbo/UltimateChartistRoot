@@ -4,6 +4,14 @@
 		<BarDuration>
 			<Duration>LineBreak_3D</Duration>
 		</BarDuration>
+		<IndicatorType>CLOUD</IndicatorType>
+		<IndicatorName>TRAILATRBAND(20,2.5,-2.5,MA,3)</IndicatorName>
+		<EventName>LongEntry</EventName>
+	</StockAlertDef>
+	<!--<StockAlertDef>
+		<BarDuration>
+			<Duration>LineBreak_3D</Duration>
+		</BarDuration>
 		<IndicatorType>INDICATOR</IndicatorType>
 		<IndicatorName>TRUE(3)</IndicatorName>
 		<EventName>HigherLow</EventName>
@@ -47,5 +55,5 @@
 		<IndicatorType>TRAILSTOP</IndicatorType>
 		<IndicatorName>TRAILCUPHANDLEINV(4)</IndicatorName>
 		<EventName>BrokenDown</EventName>
-	</StockAlertDef>
+	</StockAlertDef>-->
 </ArrayOfStockAlertDef>

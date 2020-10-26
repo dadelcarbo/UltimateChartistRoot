@@ -2,13 +2,45 @@
 <ArrayOfStockAlertDef xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<StockAlertDef>
 		<BarDuration>
+			<Duration>LineBreak_3D</Duration>
+		</BarDuration>
+		<IndicatorType>CLOUD</IndicatorType>
+		<IndicatorName>TRAILATRBAND(50,2.5,-2.5,MA,3)</IndicatorName>
+		<EventName>LongEntry</EventName>
+	</StockAlertDef>
+	<StockAlertDef>
+		<BarDuration>
+			<Duration>LineBreak_3D</Duration>
+		</BarDuration>
+		<IndicatorType>CLOUD</IndicatorType>
+		<IndicatorName>TRAILATRBAND(20,2.5,-2.5,MA,3)</IndicatorName>
+		<EventName>ShortEntry</EventName>
+	</StockAlertDef>
+	<StockAlertDef>
+		<BarDuration>
+			<Duration>LineBreak_3H</Duration>
+		</BarDuration>
+		<IndicatorType>CLOUD</IndicatorType>
+		<IndicatorName>TRAILATRBAND(50,2.5,-2.5,MA,3)</IndicatorName>
+		<EventName>LongEntry</EventName>
+	</StockAlertDef>
+	<StockAlertDef>
+		<BarDuration>
+			<Duration>LineBreak_3H</Duration>
+		</BarDuration>
+		<IndicatorType>CLOUD</IndicatorType>
+		<IndicatorName>TRAILATRBAND(20,2.5,-2.5,MA,3)</IndicatorName>
+		<EventName>ShortEntry</EventName>
+	</StockAlertDef>
+	<!--<StockAlertDef>
+		<BarDuration>
 			<Duration>LineBreak_3H</Duration>
 		</BarDuration>
 		<IndicatorType>TRAILSTOP</IndicatorType>
 		<IndicatorName>TRAILHLBODY(2)</IndicatorName>
 		<EventName>HigherLow</EventName>
-	</StockAlertDef>	
-		<StockAlertDef>
+	</StockAlertDef>
+	<StockAlertDef>
 		<BarDuration>
 			<Duration>LineBreak_3H</Duration>
 		</BarDuration>
@@ -87,7 +119,7 @@
 		<IndicatorType>TRAILSTOP</IndicatorType>
 		<IndicatorName>TRAILCUPHANDLEINV(4)</IndicatorName>
 		<EventName>BrokenDown</EventName>
-	</StockAlertDef>
+	</StockAlertDef>-->
 	<!--<StockAlertDef>
     <BarDuration>
       <Duration>Bar_12</Duration>
