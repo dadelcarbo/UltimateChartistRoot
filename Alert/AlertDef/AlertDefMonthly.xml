@@ -2,7 +2,7 @@
 <ArrayOfStockAlertDef xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StockAlertDef>
     <BarDuration>
-      <Duration>Daily</Duration>
+      <Duration>Monthly</Duration>
     </BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
     <IndicatorName>TRAILCUPHANDLE(4)</IndicatorName>
@@ -10,7 +10,7 @@
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>
-      <Duration>Daily</Duration>
+      <Duration>Monthly</Duration>
     </BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
     <IndicatorName>TRAILCUPHANDLE(4)</IndicatorName>
@@ -18,7 +18,7 @@
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>
-      <Duration>Daily</Duration>
+      <Duration>Monthly</Duration>
     </BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
     <IndicatorName>TRAILCUPHANDLEINV(4)</IndicatorName>

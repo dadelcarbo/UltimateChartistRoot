@@ -13,7 +13,7 @@
 			<Duration>LineBreak_3D</Duration>
 		</BarDuration>
 		<IndicatorType>CLOUD</IndicatorType>
-		<IndicatorName>TRAILATRBAND(20,2.5,-2.5,MA,3)</IndicatorName>
+		<IndicatorName>TRAILATRBAND(50,2.5,-2.5,MA,3)</IndicatorName>
 		<EventName>ShortEntry</EventName>
 	</StockAlertDef>
 	<StockAlertDef>
@@ -29,7 +29,7 @@
 			<Duration>LineBreak_3H</Duration>
 		</BarDuration>
 		<IndicatorType>CLOUD</IndicatorType>
-		<IndicatorName>TRAILATRBAND(20,2.5,-2.5,MA,3)</IndicatorName>
+		<IndicatorName>TRAILATRBAND(50,2.5,-2.5,MA,3)</IndicatorName>
 		<EventName>ShortEntry</EventName>
 	</StockAlertDef>
 	<!--<StockAlertDef>
