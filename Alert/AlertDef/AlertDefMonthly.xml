@@ -3,6 +3,15 @@
   <StockAlertDef>
     <BarDuration>
       <Duration>Monthly</Duration>
+      <LineBreak>3</LineBreak>
+    </BarDuration>
+    <IndicatorType>INDICATOR</IndicatorType>
+    <IndicatorName>TRUE(3)</IndicatorName>
+    <EventName>HigherLow</EventName>
+  </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>
+      <Duration>Monthly</Duration>
     </BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
     <IndicatorName>TRAILCUPHANDLE(4)</IndicatorName>

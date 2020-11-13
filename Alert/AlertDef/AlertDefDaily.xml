@@ -2,7 +2,8 @@
 <ArrayOfStockAlertDef xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<StockAlertDef>
 		<BarDuration>
-			<Duration>LineBreak_3D</Duration>
+			<Duration>Daily</Duration>
+			<LineBreak>3</LineBreak>
 		</BarDuration>
 		<IndicatorType>CLOUD</IndicatorType>
 		<IndicatorName>TRAILATRBAND(20,2.5,-2.5,MA,3)</IndicatorName>

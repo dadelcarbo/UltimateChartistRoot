@@ -2,7 +2,8 @@
 <ArrayOfStockAlertDef xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<StockAlertDef>
 		<BarDuration>
-			<Duration>LineBreak_3W</Duration>
+			<Duration>Weekly</Duration>
+      <LineBreak>3</LineBreak>
 		</BarDuration>
 		<IndicatorType>INDICATOR</IndicatorType>
 		<IndicatorName>TRUE(3)</IndicatorName>
