@@ -94,6 +94,7 @@
   <StockWatchList>
     <Name>FollowUp</Name>
     <StockList>
+      <string>ABEO</string>
       <string>ABIVAX</string>
       <string>ADOCIA</string>
       <string>AMOEBA BIOCIDE</string>
@@ -129,7 +130,6 @@
       <string>JACQUES BOGART</string>
       <string>JACQUET METALS</string>
       <string>MAISONS DU MONDE</string>
-      <string>MAUNA KEA</string>
       <string>MOULINVEST</string>
       <string>NANOBIOTIX</string>
       <string>NEXANS</string>
