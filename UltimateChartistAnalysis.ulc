@@ -320,9 +320,6 @@
   <StockAnalysisItem StockName="AFONE">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="APTORUM">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
   <StockAnalysisItem StockName="BARBARA BUI">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
@@ -438,9 +435,6 @@
   <StockAnalysisItem StockName="HOTELS DE PARIS">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="IMMOB.HOTELIERE">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
   <StockAnalysisItem StockName="INTEXA">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
@@ -514,9 +508,6 @@
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="YMAGIS">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="ZCI LIMITED">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="1000MERCIS">
@@ -660,9 +651,6 @@
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="HEURTEY PETROCHEM">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="HOLOSFIND">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="I2S">
@@ -902,9 +890,6 @@
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="OSMOZIS">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="OSPREYFRANCK">
     <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="OXATIS">
@@ -1192,6 +1177,9 @@
         </StockDrawingItems>
       </DrawingItems>
     </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_BOND_BTP">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="__Alert2" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_BOND_EURO">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">

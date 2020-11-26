@@ -6,7 +6,7 @@
       <LineBreak>3</LineBreak>
     </BarDuration>
     <IndicatorType>CLOUD</IndicatorType>
-    <IndicatorName>TRAILATRBAND(50,2.5,-2.5,MA,3)</IndicatorName>
+    <IndicatorName>TRAILATRBAND(50,2.75,-2.75,MA,3)</IndicatorName>
     <EventName>LongEntry</EventName>
   </StockAlertDef>
   <StockAlertDef>
@@ -15,7 +15,7 @@
       <LineBreak>3</LineBreak>
     </BarDuration>
     <IndicatorType>CLOUD</IndicatorType>
-    <IndicatorName>TRAILATRBAND(50,2.5,-2.5,MA,3)</IndicatorName>
+    <IndicatorName>TRAILATRBAND(50,2.75,-2.75,MA,3)</IndicatorName>
     <EventName>ShortEntry</EventName>
   </StockAlertDef>
 	<StockAlertDef>
@@ -24,7 +24,7 @@
       <LineBreak>3</LineBreak>
 		</BarDuration>
 		<IndicatorType>CLOUD</IndicatorType>
-		<IndicatorName>TRAILATRBAND(50,2.5,-2.5,MA,3)</IndicatorName>
+		<IndicatorName>TRAILATRBAND(50,2.75,-2.75,MA,3)</IndicatorName>
 		<EventName>LongEntry</EventName>
 	</StockAlertDef>
 	<StockAlertDef>
@@ -33,7 +33,7 @@
       <LineBreak>3</LineBreak>
 		</BarDuration>
 		<IndicatorType>CLOUD</IndicatorType>
-		<IndicatorName>TRAILATRBAND(50,2.5,-2.5,MA,3)</IndicatorName>
+		<IndicatorName>TRAILATRBAND(50,2.75,-2.75,MA,3)</IndicatorName>
 		<EventName>ShortEntry</EventName>
 	</StockAlertDef>
 </ArrayOfStockAlertDef>
