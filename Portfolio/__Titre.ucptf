@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StockPortfolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TradeOperations>
+    <StockTradeOperation>
+      <Id>0</Id>
+      <Date>2020-11-20T10:07:00</Date>
+      <OperationType>Buy</OperationType>
+      <Qty>100</Qty>
+      <StockName>TURBO_UNIBAIL LONG X5</StockName>
+      <Value>2.463</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>1</Id>
+      <Date>2020-12-02T17:55:00</Date>
+      <OperationType>Buy</OperationType>
+      <Qty>80</Qty>
+      <StockName>TURBO_COFFEE LONG X5</StockName>
+      <Value>6.33</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>2</Id>
+      <Date>2020-12-02T10:01:00</Date>
+      <OperationType>Buy</OperationType>
+      <Qty>73</Qty>
+      <StockName>INT_DSP5</StockName>
+      <Value>13.64</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>3</Id>
+      <Date>2020-12-04T17:06:32</Date>
+      <OperationType>Buy</OperationType>
+      <Qty>20</Qty>
+      <StockName>TURBO_TESLA SHORT X5</StockName>
+      <Value>27.69</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+  </TradeOperations>
+  <LogEntries>
+    <StockTradeLogEntry>
+      <Id>0</Id>
+      <StockName>TURBO_UNIBAIL LONG X5</StockName>
+      <EntryQty>100</EntryQty>
+      <EntryValue>2.463</EntryValue>
+      <Stop>2.75</Stop>
+      <EntryDate>2020-11-20T10:07:00</EntryDate>
+      <BarDuration>
+        <Duration>Bar_12</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>CLOUD|TRAILATRBAND(50,2.75,-2.75,MA,3)</Indicator>
+      <EndDate
+        xsi:nil="true" />
+    </StockTradeLogEntry>
+    <StockTradeLogEntry>
+      <Id>1</Id>
+      <StockName>TURBO_COFFEE LONG X5</StockName>
+      <EntryQty>80</EntryQty>
+      <EntryValue>6.33</EntryValue>
+      <Stop>5.64299965</Stop>
+      <EntryDate>2020-12-02T17:55:00</EntryDate>
+      <BarDuration>
+        <Duration>Bar_12</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>3</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <EntryComment>Bounce close to close to moving average</EntryComment>
+      <Indicator>CLOUD|TRAILATRBAND(50,2.75,-2.75,MA,3)</Indicator>
+      <EndDate
+        xsi:nil="true" />
+    </StockTradeLogEntry>
+    <StockTradeLogEntry>
+      <Id>2</Id>
+      <StockName>INT_DSP5</StockName>
+      <EntryQty>73</EntryQty>
+      <EntryValue>13.64</EntryValue>
+      <Stop>13.1</Stop>
+      <EntryDate>2020-12-02T10:01:00</EntryDate>
+      <BarDuration>
+        <Duration>Bar_3</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>CLOUD|TRAILATRBAND(50,2.75,-2.75,MA,3)</Indicator>
+      <EndDate
+        xsi:nil="true" />
+    </StockTradeLogEntry>
+    <StockTradeLogEntry>
+      <Id>3</Id>
+      <StockName>TURBO_TESLA SHORT X5</StockName>
+      <EntryQty>20</EntryQty>
+      <EntryValue>27.69</EntryValue>
+      <Stop>25.0199986</Stop>
+      <EntryDate>2020-12-04T17:06:00</EntryDate>
+      <BarDuration>
+        <Duration>Bar_3</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>CLOUD|TRAILATRBAND(50,2.75,-2.75,MA,3)</Indicator>
+      <EndDate
+        xsi:nil="true" />
+    </StockTradeLogEntry>
+  </LogEntries>
+  <Positions>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>TURBO_UNIBAIL LONG X5</StockName>
+      <Qty>100</Qty>
+      <OpenValue>2.463</OpenValue>
+      <StartDate>2020-11-20T10:07:00</StartDate>
+      <EndDate>9999-12-31T23:59:59.9999999</EndDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>1</Id>
+      <StockName>TURBO_COFFEE LONG X5</StockName>
+      <Qty>80</Qty>
+      <OpenValue>6.33</OpenValue>
+      <StartDate>2020-12-02T17:55:00</StartDate>
+      <EndDate>9999-12-31T23:59:59.9999999</EndDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>2</Id>
+      <StockName>INT_DSP5</StockName>
+      <Qty>73</Qty>
+      <OpenValue>13.64</OpenValue>
+      <StartDate>2020-12-02T10:01:00</StartDate>
+      <EndDate>9999-12-31T23:59:59.9999999</EndDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>3</Id>
+      <StockName>TURBO_TESLA SHORT X5</StockName>
+      <Qty>20</Qty>
+      <OpenValue>27.69</OpenValue>
+      <StartDate>2020-12-04T17:06:00</StartDate>
+      <EndDate>9999-12-31T23:59:59.9999999</EndDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+  </Positions>
+  <Name>__Titre</Name>
+  <InitialBalance>2500</InitialBalance>
+  <Balance>737.999939</Balance>
+  <IsSimu>true</IsSimu>
+</StockPortfolio>

@@ -123,6 +123,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AAII", "AAII", "{AEAE9B9F-3
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Portfolio", "Portfolio", "{B6269A8B-47BA-46EA-8BE7-F07538098FF2}"
 	ProjectSection(SolutionItems) = preProject
+		Portfolio\__PEA.ucptf = Portfolio\__PEA.ucptf
+		Portfolio\__TestPortfolio.ucptf = Portfolio\__TestPortfolio.ucptf
+		Portfolio\__Titre.ucptf = Portfolio\__Titre.ucptf
 		Portfolio\_Binck_Simu_P.tlog = Portfolio\_Binck_Simu_P.tlog
 		Portfolio\_Binck_Simu_P.tptf = Portfolio\_Binck_Simu_P.tptf
 		Portfolio\Abadie.tptf = Portfolio\Abadie.tptf

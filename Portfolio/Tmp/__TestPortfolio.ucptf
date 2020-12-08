@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StockPortfolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TradeOperations>
+    <StockTradeOperation>
+      <Id>0</Id>
+      <Date>2020-11-02T00:00:00+01:00</Date>
+      <OperationType>Buy</OperationType>
+      <Qty>40</Qty>
+      <StockName>Argentina</StockName>
+      <Value>24.5</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+  </TradeOperations>
+  <LogEntries>
+    <StockTradeLogEntry>
+      <Id>0</Id>
+      <StockName>Australia</StockName>
+      <EntryQty>100</EntryQty>
+      <EntryValue>15</EntryValue>
+      <EntryDate>2020-11-27T00:00:00+01:00</EntryDate>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>3</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <EntryComment>Entry for Unit Test</EntryComment>
+      <Indicator>CLOUD|TRAILATRBAND(20,2.5,-2.5,MA,3)</Indicator>
+      <EndDate
+        xsi:nil="true" />
+    </StockTradeLogEntry>
+  </LogEntries>
+  <Positions>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>Brazil</StockName>
+      <Qty>100</Qty>
+      <OpenValue>15</OpenValue>
+      <StartDate>2020-11-27T00:00:00+01:00</StartDate>
+      <EndDate>9999-12-31T23:59:59.9999999</EndDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+  </Positions>
+  <Name>__TestPortfolio</Name>
+  <InitialBalance>10000</InitialBalance>
+  <Balance>8497.5</Balance>
+  <IsSimu>true</IsSimu>
+</StockPortfolio>
