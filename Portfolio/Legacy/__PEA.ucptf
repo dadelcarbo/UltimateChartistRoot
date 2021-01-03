@@ -83,6 +83,145 @@
       <Fee>2.5</Fee>
     </StockTradeOperation>
   </TradeOperations>
+  <LogEntries>
+    <StockTradeLogEntry>
+      <Id>0</Id>
+      <StockName>KERLINK</StockName>
+      <EntryQty>563</EntryQty>
+      <EntryValue>3.552</EntryValue>
+      <Stop>3.21299982</Stop>
+      <EntryDate>2020-11-26T00:00:00</EntryDate>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>3</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>CLOUD|TRAILATRBAND(50,2.75,-2.75,MA,3)</Indicator>
+      <EndDate
+        xsi:nil="true" />
+    </StockTradeLogEntry>
+    <StockTradeLogEntry>
+      <Id>1</Id>
+      <StockName>EKINOPS</StockName>
+      <EntryQty>162</EntryQty>
+      <EntryValue>6.14</EntryValue>
+      <Stop>5.54399967</Stop>
+      <EntryDate>2020-11-18T00:00:00</EntryDate>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>3</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>CLOUD|TRAILATRBAND(50,2.75,-2.75,MA,3)</Indicator>
+      <EndDate
+        xsi:nil="true" />
+    </StockTradeLogEntry>
+    <StockTradeLogEntry>
+      <Id>2</Id>
+      <StockName>EOS IMAGING</StockName>
+      <EntryQty>1140</EntryQty>
+      <EntryValue>1.75</EntryValue>
+      <Stop>1.548</Stop>
+      <EntryDate>2020-11-19T00:00:00</EntryDate>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>3</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>CLOUD|TRAILATRBAND(50,2.75,-2.75,MA,3)</Indicator>
+      <EndDate
+        xsi:nil="true" />
+    </StockTradeLogEntry>
+    <StockTradeLogEntry>
+      <Id>3</Id>
+      <StockName>Lyxor S&amp;P 500 (-2x) Inverse</StockName>
+      <EntryQty>200</EntryQty>
+      <EntryValue>15.7</EntryValue>
+      <Stop>14.1345</Stop>
+      <EntryDate>2020-11-04T00:00:00</EntryDate>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>3</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>CLOUD|TRAILATRBAND(50,2.75,-2.75,MA,3)</Indicator>
+      <EndDate
+        xsi:nil="true" />
+    </StockTradeLogEntry>
+    <StockTradeLogEntry>
+      <Id>5</Id>
+      <StockName>TURBO_COFFEE LONG X5</StockName>
+      <EntryQty>80</EntryQty>
+      <EntryValue>6.33</EntryValue>
+      <Stop>5.64299965</Stop>
+      <EntryDate>2020-12-02T17:55:00</EntryDate>
+      <BarDuration>
+        <Duration>Bar_12</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>3</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <EntryComment>Bounce close to close to moving average</EntryComment>
+      <Indicator>CLOUD|TRAILATRBAND(50,2.75,-2.75,MA,3)</Indicator>
+      <EndDate
+        xsi:nil="true" />
+    </StockTradeLogEntry>
+    <StockTradeLogEntry>
+      <Id>6</Id>
+      <StockName>INT_DSP5</StockName>
+      <EntryQty>73</EntryQty>
+      <EntryValue>13.64</EntryValue>
+      <Stop>13.1</Stop>
+      <EntryDate>2020-12-04T10:01:00</EntryDate>
+      <BarDuration>
+        <Duration>Bar_3</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>CLOUD|TRAILATRBAND(50,2.75,-2.75,MA,3)</Indicator>
+      <EndDate
+        xsi:nil="true" />
+    </StockTradeLogEntry>
+    <StockTradeLogEntry>
+      <Id>7</Id>
+      <StockName>TURBO_TESLA SHORT X5</StockName>
+      <EntryQty>20</EntryQty>
+      <EntryValue>27.69</EntryValue>
+      <Stop>25.0199986</Stop>
+      <EntryDate>2020-12-04T17:06:00</EntryDate>
+      <BarDuration>
+        <Duration>Bar_3</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>CLOUD|TRAILATRBAND(50,2.75,-2.75,MA,3)</Indicator>
+      <EndDate
+        xsi:nil="true" />
+    </StockTradeLogEntry>
+    <StockTradeLogEntry>
+      <Id>8</Id>
+      <StockName>TURBO_UNIBAIL LONG X5</StockName>
+      <EntryQty>100</EntryQty>
+      <EntryValue>2.463</EntryValue>
+      <Stop>2.75</Stop>
+      <EntryDate>2020-12-05T10:07:00</EntryDate>
+      <BarDuration>
+        <Duration>Bar_12</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>CLOUD|TRAILATRBAND(50,2.75,-2.75,MA,3)</Indicator>
+      <EndDate
+        xsi:nil="true" />
+    </StockTradeLogEntry>
+  </LogEntries>
   <Positions>
     <StockPosition>
       <Id>0</Id>

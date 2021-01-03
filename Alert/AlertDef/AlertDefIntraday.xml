@@ -2,6 +2,15 @@
 <ArrayOfStockAlertDef xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StockAlertDef>
     <BarDuration>
+      <Duration>Bar_12</Duration>
+      <LineBreak>0</LineBreak>
+    </BarDuration>
+    <IndicatorType>INDICATOR</IndicatorType>
+    <IndicatorName>GUPPY(3,5,8,10,12,15,30,35,40,45,50,60)</IndicatorName>
+    <EventName>BullCrossing</EventName>
+  </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>
       <Duration>Bar_3</Duration>
       <LineBreak>3</LineBreak>
     </BarDuration>
@@ -17,6 +26,15 @@
     <IndicatorType>CLOUD</IndicatorType>
     <IndicatorName>TRAILATRBAND(50,2.75,-2.75,MA,3)</IndicatorName>
     <EventName>ShortEntry</EventName>
+  </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>
+      <Duration>Bar_3</Duration>
+      <LineBreak>3</LineBreak>
+    </BarDuration>
+    <IndicatorType>INDICATOR</IndicatorType>
+    <IndicatorName>HIGHEST(20)</IndicatorName>
+    <EventName>NewHigh</EventName>
   </StockAlertDef>
 	<StockAlertDef>
 		<BarDuration>

@@ -3,6 +3,14 @@
   <StockAlertDef>
     <BarDuration>
       <Duration>Monthly</Duration>
+    </BarDuration>
+    <IndicatorType>INDICATOR</IndicatorType>
+    <IndicatorName>GUPPY(3,5,8,10,12,15,30,35,40,45,50,60)</IndicatorName>
+    <EventName>BullCrossing</EventName>
+  </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>
+      <Duration>Monthly</Duration>
       <LineBreak>3</LineBreak>
     </BarDuration>
     <IndicatorType>INDICATOR</IndicatorType>
@@ -14,31 +22,7 @@
       <Duration>Monthly</Duration>
     </BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILCUPHANDLE(4)</IndicatorName>
+    <IndicatorName>TRAILCUPHANDLE(4,false)</IndicatorName>
     <EventName>BrokenUp</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Monthly</Duration>
-    </BarDuration>
-    <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILCUPHANDLE(4)</IndicatorName>
-    <EventName>BrokenDown</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Monthly</Duration>
-    </BarDuration>
-    <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILCUPHANDLEINV(4)</IndicatorName>
-    <EventName>BrokenUp</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Monthly</Duration>
-    </BarDuration>
-    <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILCUPHANDLEINV(4)</IndicatorName>
-    <EventName>BrokenDown</EventName>
   </StockAlertDef>
 </ArrayOfStockAlertDef>
