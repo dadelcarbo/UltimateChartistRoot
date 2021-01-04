@@ -1178,9 +1178,6 @@
       </DrawingItems>
     </StockAnalysis>
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_BOND_BTP">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="__Alert2" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_BOND_EURO">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
       <DrawingItems BarDuration="Bar_12">

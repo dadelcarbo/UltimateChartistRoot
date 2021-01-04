@@ -37,6 +37,24 @@
       <Value>27.69</Value>
       <Fee>2.5</Fee>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>4</Id>
+      <Date>2020-12-07T17:25:00</Date>
+      <OperationType>Sell</OperationType>
+      <Qty>73</Qty>
+      <StockName>INT_DSP5</StockName>
+      <Value>13.24</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5</Id>
+      <Date>2020-12-07T17:26:00</Date>
+      <OperationType>Buy</OperationType>
+      <Qty>30</Qty>
+      <StockName>TURBO_TESLA SHORT X5</StockName>
+      <Value>19.97</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
   </TradeOperations>
   <LogEntries>
     <StockTradeLogEntry>
@@ -88,8 +106,7 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Indicator>CLOUD|TRAILATRBAND(50,2.75,-2.75,MA,3)</Indicator>
-      <EndDate
-        xsi:nil="true" />
+      <EndDate>2020-12-09T17:25:00</EndDate>
     </StockTradeLogEntry>
     <StockTradeLogEntry>
       <Id>3</Id>
@@ -136,7 +153,7 @@
       <Qty>73</Qty>
       <OpenValue>13.64</OpenValue>
       <StartDate>2020-12-02T10:01:00</StartDate>
-      <EndDate>9999-12-31T23:59:59.9999999</EndDate>
+      <EndDate>2020-12-09T17:25:00</EndDate>
       <IsShort>false</IsShort>
       <Leverage>1</Leverage>
     </StockPosition>
@@ -153,6 +170,6 @@
   </Positions>
   <Name>__Titre</Name>
   <InitialBalance>2500</InitialBalance>
-  <Balance>737.999939</Balance>
+  <Balance>1702.0199</Balance>
   <IsSimu>true</IsSimu>
 </StockPortfolio>
