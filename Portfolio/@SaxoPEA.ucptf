@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StockPortfolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TradeOperations>
+    <StockTradeOperation>
+      <Id>0</Id>
+      <Date>2021-01-07T17:24:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>AGROGENERATION</StockName>
+      <Qty>9400</Qty>
+      <Value>0.1055</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+  </TradeOperations>
+  <Positions>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>AGROGENERATION</StockName>
+      <EntryQty>9400</EntryQty>
+      <EntryValue>0.105765954</EntryValue>
+      <EntryDate>2021-01-07T17:24:00</EntryDate>
+      <Stop>0.09405</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <EntryComment>New High</EntryComment>
+      <Indicator>TRAILSTOP|TRAILHLBODY(12)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+  </Positions>
+  <Name>@SaxoPEA</Name>
+  <InitialBalance>15000</InitialBalance>
+  <Balance>0</Balance>
+  <MaxNbPositions>10</MaxNbPositions>
+  <MaxRisk>0.02</MaxRisk>
+  <IsSimu>false</IsSimu>
+</StockPortfolio>
