@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStockAlertDef xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <StockAlertDef>
+    <CreationDate>2021-01-11T14:09:57.8688089+01:00</CreationDate>
+    <StockName>ACCOR HOTELS</StockName>
+    <PriceTrigger>0</PriceTrigger>
+    <TriggerBrokenUp>false</TriggerBrokenUp>
+    <BarDuration>
+      <Duration>Daily</Duration>
+      <Smoothing>1</Smoothing>
+      <LineBreak>0</LineBreak>
+      <HeikinAshi>false</HeikinAshi>
+    </BarDuration>
+    <IndicatorType>CLOUD</IndicatorType>
+    <IndicatorName>TRENDBODY(12)</IndicatorName>
+    <EventName>CloudUp</EventName>
+  </StockAlertDef>
+  <StockAlertDef>
+    <CreationDate>2021-01-19T13:43:03.0103562+01:00</CreationDate>
+    <StockName>TURBO_CARREFOUR LONG X5</StockName>
+    <PriceTrigger>0</PriceTrigger>
+    <TriggerBrokenUp>false</TriggerBrokenUp>
+    <BarDuration>
+      <Duration>Bar_12</Duration>
+      <Smoothing>1</Smoothing>
+      <LineBreak>0</LineBreak>
+      <HeikinAshi>false</HeikinAshi>
+    </BarDuration>
+    <IndicatorType>TRAILSTOP</IndicatorType>
+    <IndicatorName>TRAILHLBODY(12)</IndicatorName>
+    <EventName>BrokenUp</EventName>
+  </StockAlertDef>
+</ArrayOfStockAlertDef>

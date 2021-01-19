@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StockPortfolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TradeOperations>
+    <StockTradeOperation>
+      <Id>0</Id>
+      <Date>2020-06-02T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>AIR LIQUIDE</StockName>
+      <Qty>16</Qty>
+      <Value>123.3</Value>
+      <Fee>5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>1</Id>
+      <Date>2021-01-07T15:30:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>INT_AGROGENERATION</StockName>
+      <Qty>10</Qty>
+      <Value>0.1045</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+  </TradeOperations>
+  <Positions>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>AIR LIQUIDE</StockName>
+      <EntryQty>16</EntryQty>
+      <EntryValue>123.6125</EntryValue>
+      <EntryDate>2020-06-02T00:00:00</EntryDate>
+      <Stop>110.97</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>TRAILSTOP|TRAILHLBODY(12)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>1</Id>
+      <StockName>INT_AGROGENERATION</StockName>
+      <EntryQty>10</EntryQty>
+      <EntryValue>0.3545</EntryValue>
+      <EntryDate>2021-01-07T15:30:00</EntryDate>
+      <Stop>0.09405</Stop>
+      <BarDuration>
+        <Duration>Bar_12</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>CLOUD|TRAILATRBAND(50,2.75,-2.75,MA,3)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+  </Positions>
+  <Name>_TestPortfolio</Name>
+  <InitialBalance>10000</InitialBalance>
+  <Balance>8018.65527</Balance>
+  <MaxNbPositions>10</MaxNbPositions>
+  <MaxRisk>0.02</MaxRisk>
+  <IsSimu>false</IsSimu>
+</StockPortfolio>

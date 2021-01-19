@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StockPortfolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TradeOperations>
+    <StockTradeOperation>
+      <Id>0</Id>
+      <Date>2021-01-13T09:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>TURBO_NASDAQ PUT 13750</StockName>
+      <Qty>80</Qty>
+      <Value>7</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>1</Id>
+      <Date>2021-01-13T15:46:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>TURBO_TESLA SHORT X5</StockName>
+      <Qty>300</Qty>
+      <Value>1.811</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+  </TradeOperations>
+  <Positions>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>TURBO_NASDAQ PUT 13750</StockName>
+      <EntryQty>80</EntryQty>
+      <EntryValue>7.03125</EntryValue>
+      <EntryDate>2021-01-13T09:00:00</EntryDate>
+      <Stop>6.309</Stop>
+      <BarDuration>
+        <Duration>Bar_12</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>TRAILSTOP|TRAILHLBODY(12)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>1</Id>
+      <StockName>TURBO_TESLA SHORT X5</StockName>
+      <EntryQty>300</EntryQty>
+      <EntryValue>1.81933331</EntryValue>
+      <EntryDate>2021-01-13T15:46:00</EntryDate>
+      <Stop>1.6758</Stop>
+      <BarDuration>
+        <Duration>Bar_12</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>TRAILSTOP|TRAILHLBODY(12)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+  </Positions>
+  <Name>@SaxoTitre</Name>
+  <InitialBalance>2000</InitialBalance>
+  <Balance>0</Balance>
+  <MaxNbPositions>10</MaxNbPositions>
+  <MaxRisk>0.05</MaxRisk>
+  <IsSimu>false</IsSimu>
+</StockPortfolio>
