@@ -19,6 +19,15 @@
       <Value>1.811</Value>
       <Fee>2.5</Fee>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>2</Id>
+      <Date>2021-01-21T13:15:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>TURBO_CARREFOUR LONG X2</StockName>
+      <Qty>6</Qty>
+      <Value>58.29</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -59,10 +68,30 @@
       <IsShort>false</IsShort>
       <Leverage>1</Leverage>
     </StockPosition>
+    <StockPosition>
+      <Id>2</Id>
+      <StockName>TURBO_CARREFOUR LONG X2</StockName>
+      <EntryQty>6</EntryQty>
+      <EntryValue>58.706665</EntryValue>
+      <EntryDate>2021-01-21T13:15:00</EntryDate>
+      <Stop>50.5</Stop>
+      <BarDuration>
+        <Duration>Bar_12</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <EntryComment>Rebond court terme</EntryComment>
+      <Indicator>TRAILSTOP|TRAILHLBODY(12)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
   </Positions>
   <Name>@SaxoTitre</Name>
   <InitialBalance>2000</InitialBalance>
-  <Balance>0</Balance>
+  <Balance>1647.76</Balance>
   <MaxNbPositions>10</MaxNbPositions>
   <MaxRisk>0.05</MaxRisk>
   <IsSimu>false</IsSimu>
