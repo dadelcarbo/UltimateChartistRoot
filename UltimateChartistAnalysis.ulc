@@ -1403,90 +1403,48 @@
   <StockAnalysisItem StockName="AD.CAC40">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="ADBench" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_BOND_EURO">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Bar_12">
-        <StockDrawingItems RefDate="10/06/2020 07:35:00" RefDateIndex="1918">
+  <StockAnalysisItem StockName="FUT_COM_COCOA">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="True">
+      <DrawingItems BarDuration="Bar_48">
+        <StockDrawingItems RefDate="04/01/2021 10:45:00" RefDateIndex="321">
           <HalfLine2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1918</X>
-              <Y>173.25</Y>
+              <X>321.248474</X>
+              <Y>2640.61816</Y>
             </PointF>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2128</X>
-              <Y>175.25</Y>
+              <X>378</X>
+              <Y>2567.84766</Y>
             </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
+          <HalfLine2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>322.8426</X>
+              <Y>2475.927</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>323.8426</X>
+              <Y>2475.927</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
           </HalfLine2D>
         </StockDrawingItems>
       </DrawingItems>
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_CC_RIPPLE">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Bar_12">
-        <StockDrawingItems RefDate="19/01/2021 07:00:00" RefDateIndex="2236">
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2236</X>
-              <Y>0.2712585</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2019</X>
-              <Y>0.2965687</Y>
-            </PointF>
-            <Pen>2:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_COM_COCOA">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
       <Comments>
         <Comment Date="25/03/2020 15:54:59" Value="Achat Speculatif aprés forte baisse. Pas de signal court terme particulier" />
       </Comments>
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_COM_COPPER">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="True">
-      <DrawingItems BarDuration="Bar_12">
-        <StockDrawingItems RefDate="16/06/2020 16:25:00" RefDateIndex="2330">
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2330</X>
-              <Y>2.532</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2495</X>
-              <Y>2.63</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-        </StockDrawingItems>
-      </DrawingItems>
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
       <Comments>
         <Comment Date="02/04/2020 14:35:00" Value="Achat sur repli aprés passage du cloud" />
       </Comments>
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_COM_GOLD">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="True">
-      <DrawingItems BarDuration="Bar_12">
-        <StockDrawingItems RefDate="24/06/2020 12:00:00" RefDateIndex="2563">
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2563</X>
-              <Y>1796.1</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2623</X>
-              <Y>1790.35</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-        </StockDrawingItems>
-      </DrawingItems>
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
       <Comments>
         <Comment Date="06/05/2020 13:00:00" Value="Short sur Bar_3 bearish cloud trend" />
       </Comments>
@@ -1929,22 +1887,7 @@
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_US_TESLA">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="True">
-      <DrawingItems BarDuration="Daily_LB1">
-        <StockDrawingItems RefDate="25/01/2021 16:00:00" RefDateIndex="5968">
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>5968.5415</X>
-              <Y>899.5574</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>6052.887</X>
-              <Y>890.9273</Y>
-            </PointF>
-            <Pen>2:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-        </StockDrawingItems>
-      </DrawingItems>
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
       <Comments>
         <Comment Date="08/04/2020 16:30:00" Value="Short, echec sur résistance." />
       </Comments>
