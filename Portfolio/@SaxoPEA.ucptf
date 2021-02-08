@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<StockPortfolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StockPortfolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <TradeOperations>
     <StockTradeOperation>
       <Id>0</Id>
@@ -35,8 +35,8 @@
   </Positions>
   <Name>@SaxoPEA</Name>
   <InitialBalance>15000</InitialBalance>
-  <Balance>0</Balance>
-  <MaxNbPositions>10</MaxNbPositions>
+  <Balance>15000</Balance>
   <MaxRisk>0.02</MaxRisk>
   <IsSimu>false</IsSimu>
+  <MaxPositions>10</MaxPositions>
 </StockPortfolio>

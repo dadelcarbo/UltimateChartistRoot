@@ -12,46 +12,28 @@
   <StockAlertDef>
     <BarDuration>
       <Duration>Bar_3</Duration>
-      <LineBreak>3</LineBreak>
+      <LineBreak>1</LineBreak>
     </BarDuration>
     <IndicatorType>CLOUD</IndicatorType>
-    <IndicatorName>TRAILATRBAND(50,2.75,-2.75,MA,3)</IndicatorName>
-    <EventName>LongEntry</EventName>
+    <IndicatorName>TRENDBODY(30)</IndicatorName>
+    <EventName>CloudUp</EventName>
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>
-      <Duration>Bar_3</Duration>
-      <LineBreak>3</LineBreak>
+      <Duration>Bar_12</Duration>
+      <LineBreak>0</LineBreak>
     </BarDuration>
     <IndicatorType>CLOUD</IndicatorType>
-    <IndicatorName>TRAILATRBAND(50,2.75,-2.75,MA,3)</IndicatorName>
-    <EventName>ShortEntry</EventName>
+    <IndicatorName>TRENDBODY(30)</IndicatorName>
+    <EventName>CloudUp</EventName>
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>
-      <Duration>Bar_3</Duration>
-      <LineBreak>3</LineBreak>
+      <Duration>Bar_12</Duration>
+      <LineBreak>1</LineBreak>
     </BarDuration>
-    <IndicatorType>INDICATOR</IndicatorType>
-    <IndicatorName>HIGHEST(20)</IndicatorName>
-    <EventName>NewHigh</EventName>
+    <IndicatorType>TRAILSTOP</IndicatorType>
+    <IndicatorName>TRAILCUPHANDLE(6,false)</IndicatorName>
+    <EventName>BrokenUp</EventName>
   </StockAlertDef>
-	<StockAlertDef>
-		<BarDuration>
-      <Duration>Bar_12</Duration>
-      <LineBreak>3</LineBreak>
-		</BarDuration>
-		<IndicatorType>CLOUD</IndicatorType>
-		<IndicatorName>TRAILATRBAND(50,2.75,-2.75,MA,3)</IndicatorName>
-		<EventName>LongEntry</EventName>
-	</StockAlertDef>
-	<StockAlertDef>
-		<BarDuration>
-      <Duration>Bar_12</Duration>
-      <LineBreak>3</LineBreak>
-		</BarDuration>
-		<IndicatorType>CLOUD</IndicatorType>
-		<IndicatorName>TRAILATRBAND(50,2.75,-2.75,MA,3)</IndicatorName>
-		<EventName>ShortEntry</EventName>
-	</StockAlertDef>
 </ArrayOfStockAlertDef>
