@@ -1403,6 +1403,9 @@
   <StockAnalysisItem StockName="AD.CAC40">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="ADBench" HasDrawings="False" HasComments="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_BOND_BTP">
+    <StockAnalysis Excluded="False" FollowUp="False" Theme="__Palmares_INT" HasDrawings="False" HasComments="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_COM_COCOA">
     <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="True">
       <DrawingItems BarDuration="Bar_48">
