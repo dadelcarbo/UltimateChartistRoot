@@ -28,6 +28,60 @@
       <Value>58.29</Value>
       <Fee>2.5</Fee>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>3</Id>
+      <Date>2021-02-08T14:19:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>TURBO_CARREFOUR LONG X2</StockName>
+      <Qty>9</Qty>
+      <Value>53.64</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>4</Id>
+      <Date>2021-02-05T12:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>TURBO_COFFEE LONG X5</StockName>
+      <Qty>36</Qty>
+      <Value>7.31</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5</Id>
+      <Date>2021-02-08T08:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>TURBO_TESLA SHORT X5</StockName>
+      <Qty>300</Qty>
+      <Value>1.391</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>6</Id>
+      <Date>2021-02-04T15:06:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>TURBO_BRENT SHORT X3</StockName>
+      <Qty>200</Qty>
+      <Value>2.724</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>7</Id>
+      <Date>2021-02-08T14:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>TURBO_BRENT SHORT X3</StockName>
+      <Qty>200</Qty>
+      <Value>2.54</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>8</Id>
+      <Date>2021-02-08T15:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>TURBO_NASDAQ PUT 13750</StockName>
+      <Qty>80</Qty>
+      <Value>0.97</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -44,8 +98,7 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Indicator>TRAILSTOP|TRAILHLBODY(12)</Indicator>
-      <ExitDate
-        xsi:nil="true" />
+      <ExitDate>2021-02-08T15:00:00</ExitDate>
       <IsShort>false</IsShort>
       <Leverage>1</Leverage>
     </StockPosition>
@@ -63,8 +116,7 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Indicator>TRAILSTOP|TRAILHLBODY(12)</Indicator>
-      <ExitDate
-        xsi:nil="true" />
+      <ExitDate>2021-02-08T08:00:00</ExitDate>
       <IsShort>false</IsShort>
       <Leverage>1</Leverage>
     </StockPosition>
@@ -83,16 +135,64 @@
       </BarDuration>
       <EntryComment>Rebond court terme</EntryComment>
       <Indicator>TRAILSTOP|TRAILHLBODY(12)</Indicator>
+      <ExitDate>2021-02-08T14:19:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>TURBO_CARREFOUR LONG X2</StockName>
+      <EntryQty>15</EntryQty>
+      <EntryValue>-8.868001</EntryValue>
+      <EntryDate>2021-02-08T14:19:00</EntryDate>
+      <Stop>0</Stop>
       <ExitDate
         xsi:nil="true" />
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>4</Id>
+      <StockName>TURBO_COFFEE LONG X5</StockName>
+      <EntryQty>36</EntryQty>
+      <EntryValue>7.3794446</EntryValue>
+      <EntryDate>2021-02-05T12:00:00</EntryDate>
+      <Stop>6.75</Stop>
+      <BarDuration>
+        <Duration>Bar_12</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>6</Id>
+      <StockName>TURBO_BRENT SHORT X3</StockName>
+      <EntryQty>200</EntryQty>
+      <EntryValue>2.7365</EntryValue>
+      <EntryDate>2021-02-04T15:06:00</EntryDate>
+      <Stop>2.3445</Stop>
+      <BarDuration>
+        <Duration>Bar_12</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
+      <ExitDate>2021-02-08T14:00:00</ExitDate>
       <IsShort>false</IsShort>
       <Leverage>1</Leverage>
     </StockPosition>
   </Positions>
   <Name>@SaxoTitre</Name>
   <InitialBalance>2000</InitialBalance>
-  <Balance>1647.76</Balance>
-  <MaxNbPositions>10</MaxNbPositions>
+  <Balance>1344.94006</Balance>
   <MaxRisk>0.05</MaxRisk>
   <IsSimu>false</IsSimu>
+  <MaxPositions>10</MaxPositions>
 </StockPortfolio>

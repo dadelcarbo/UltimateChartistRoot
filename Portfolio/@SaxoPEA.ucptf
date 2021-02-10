@@ -10,6 +10,33 @@
       <Value>0.1055</Value>
       <Fee>2.5</Fee>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>1</Id>
+      <Date>2021-02-08T09:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>INT_ARCELOR</StockName>
+      <Qty>50</Qty>
+      <Value>19.016</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>2</Id>
+      <Date>2021-02-08T09:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>INT_ERAMET</StockName>
+      <Qty>20</Qty>
+      <Value>48.15</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>3</Id>
+      <Date>2021-02-08T09:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>INT_AGROGENERATION</StockName>
+      <Qty>5600</Qty>
+      <Value>0.1725</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -32,10 +59,67 @@
       <IsShort>false</IsShort>
       <Leverage>1</Leverage>
     </StockPosition>
+    <StockPosition>
+      <Id>1</Id>
+      <StockName>INT_ARCELOR</StockName>
+      <EntryQty>50</EntryQty>
+      <EntryValue>19.0660019</EntryValue>
+      <EntryDate>2021-02-08T09:00:00</EntryDate>
+      <Stop>18</Stop>
+      <BarDuration>
+        <Duration>Bar_12</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>2</Id>
+      <StockName>INT_ERAMET</StockName>
+      <EntryQty>20</EntryQty>
+      <EntryValue>48.275</EntryValue>
+      <EntryDate>2021-02-08T09:00:00</EntryDate>
+      <Stop>45.4</Stop>
+      <BarDuration>
+        <Duration>Bar_12</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>3</Id>
+      <StockName>INT_AGROGENERATION</StockName>
+      <EntryQty>5600</EntryQty>
+      <EntryValue>0.172946423</EntryValue>
+      <EntryDate>2021-02-08T09:00:00</EntryDate>
+      <Stop>0.15255</Stop>
+      <BarDuration>
+        <Duration>Bar_12</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
   </Positions>
   <Name>@SaxoPEA</Name>
   <InitialBalance>15000</InitialBalance>
-  <Balance>15000</Balance>
+  <Balance>12112.7</Balance>
   <MaxRisk>0.02</MaxRisk>
   <IsSimu>false</IsSimu>
   <MaxPositions>10</MaxPositions>
