@@ -46,6 +46,15 @@
       <Value>11.72</Value>
       <Fee>2.5</Fee>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5</Id>
+      <Date>2021-02-11T10:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>TURBO_NASDAQ PUT 14950</StockName>
+      <Qty>42</Qty>
+      <Value>10.54</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -139,15 +148,14 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
-      <ExitDate
-        xsi:nil="true" />
+      <ExitDate>2021-02-11T10:00:00</ExitDate>
       <IsShort>false</IsShort>
       <Leverage>1</Leverage>
     </StockPosition>
   </Positions>
   <Name>@SaxoPEA</Name>
   <InitialBalance>15000</InitialBalance>
-  <Balance>11617.96</Balance>
+  <Balance>12058.14</Balance>
   <MaxRisk>0.02</MaxRisk>
   <IsSimu>false</IsSimu>
   <MaxPositions>10</MaxPositions>

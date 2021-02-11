@@ -30,6 +30,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UltimateChartistRoot", "Ult
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Themes", "Themes", "{2884C3A9-C2C5-413D-8C6D-85134266BF9F}"
 	ProjectSection(SolutionItems) = preProject
+		themes\___Box.thm = themes\___Box.thm
 		themes\__Alert1.thm = themes\__Alert1.thm
 		themes\__Alert2.thm = themes\__Alert2.thm
 		themes\__Empty.thm = themes\__Empty.thm
