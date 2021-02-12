@@ -3,7 +3,7 @@
   <StockAlertDef>
     <BarDuration>
       <Duration>Daily</Duration>
-      <LineBreak>3</LineBreak>
+      <LineBreak>1</LineBreak>
     </BarDuration>
     <IndicatorType>CLOUD</IndicatorType>
     <IndicatorName>TRAILATRBAND(20,2.5,-2.5,MA,3)</IndicatorName>
@@ -12,7 +12,7 @@
   <StockAlertDef>
     <BarDuration>
       <Duration>Daily</Duration>
-      <LineBreak>0</LineBreak>
+      <LineBreak>1</LineBreak>
     </BarDuration>
     <IndicatorType>INDICATOR</IndicatorType>
     <IndicatorName>GUPPY(3,5,8,10,12,15,30,35,40,45,50,60)</IndicatorName>
@@ -21,15 +21,16 @@
   <StockAlertDef>
     <BarDuration>
       <Duration>Daily</Duration>
+      <LineBreak>1</LineBreak>
     </BarDuration>
-    <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILCUPHANDLE(4,false)</IndicatorName>
+    <IndicatorType>AUTODRAWING</IndicatorType>
+    <IndicatorName>CUPHANDLE(4,false)</IndicatorName>
     <EventName>BrokenUp</EventName>
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>
       <Duration>Daily</Duration>
-      <LineBreak>3</LineBreak>
+      <LineBreak>1</LineBreak>
     </BarDuration>
     <IndicatorType>INDICATOR</IndicatorType>
     <IndicatorName>HIGHEST(20)</IndicatorName>

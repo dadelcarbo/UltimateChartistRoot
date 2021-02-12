@@ -92,7 +92,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Themes", "Themes", "{2884C3
 		themes\TrendHL.thm = themes\TrendHL.thm
 		themes\TrendLine.thm = themes\TrendLine.thm
 		themes\TrendLineHL.thm = themes\TrendLineHL.thm
-		themes\WEDGE.thm = themes\WEDGE.thm
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FilteredStrategies", "FilteredStrategies", "{B39A472A-69C2-40F6-8886-F7F1DCAAB58C}"

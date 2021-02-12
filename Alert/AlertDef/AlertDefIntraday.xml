@@ -32,8 +32,8 @@
       <Duration>Bar_12</Duration>
       <LineBreak>1</LineBreak>
     </BarDuration>
-    <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILCUPHANDLE(6,false)</IndicatorName>
+    <IndicatorType>AUTODRAWING</IndicatorType>
+    <IndicatorName>CUPHANDLE(6,false)</IndicatorName>
     <EventName>BrokenUp</EventName>
   </StockAlertDef>
 </ArrayOfStockAlertDef>

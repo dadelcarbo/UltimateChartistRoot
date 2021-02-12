@@ -38,8 +38,8 @@
     <BarDuration>
       <Duration>Weekly</Duration>
     </BarDuration>
-    <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILCUPHANDLE(4,false)</IndicatorName>
+    <IndicatorType>AUTODRAWING</IndicatorType>
+    <IndicatorName>CUPHANDLE(4,false)</IndicatorName>
     <EventName>BrokenUp</EventName>
   </StockAlertDef>
 </ArrayOfStockAlertDef>
