@@ -30,4 +30,19 @@
     <IndicatorName>TRAILHLBODY(12)</IndicatorName>
     <EventName>BrokenUp</EventName>
   </StockAlertDef>
+  <StockAlertDef>
+    <CreationDate>2021-02-12T11:15:53.3430905+01:00</CreationDate>
+    <StockName>INT_BX4</StockName>
+    <PriceTrigger>0</PriceTrigger>
+    <TriggerBrokenUp>false</TriggerBrokenUp>
+    <BarDuration>
+      <Duration>Bar_12</Duration>
+      <Smoothing>1</Smoothing>
+      <LineBreak>0</LineBreak>
+      <HeikinAshi>false</HeikinAshi>
+    </BarDuration>
+    <IndicatorType>TRAILSTOP</IndicatorType>
+    <IndicatorName>TRAILHLBODY(30)</IndicatorName>
+    <EventName>BrokenUp</EventName>
+  </StockAlertDef>
 </ArrayOfStockAlertDef>

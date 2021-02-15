@@ -11,7 +11,7 @@
   <StockAlertDef>
     <BarDuration>
       <Duration>Monthly</Duration>
-      <LineBreak>3</LineBreak>
+      <LineBreak>1</LineBreak>
     </BarDuration>
     <IndicatorType>INDICATOR</IndicatorType>
     <IndicatorName>TRUE(3)</IndicatorName>
@@ -22,7 +22,7 @@
       <Duration>Monthly</Duration>
     </BarDuration>
     <IndicatorType>AUTODRAWING</IndicatorType>
-    <IndicatorName>CUPHANDLE(4,false)</IndicatorName>
+    <IndicatorName>CUPHANDLE(4,false,4)</IndicatorName>
     <EventName>BrokenUp</EventName>
   </StockAlertDef>
 </ArrayOfStockAlertDef>

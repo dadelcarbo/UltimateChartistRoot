@@ -55,6 +55,24 @@
       <Value>10.54</Value>
       <Fee>2.5</Fee>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>6</Id>
+      <Date>2021-02-15T16:20:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>TURBO_RENAULT SHORT X5</StockName>
+      <Qty>100</Qty>
+      <Value>3.96</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>7</Id>
+      <Date>2021-02-15T09:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>INT_NOVACYT</StockName>
+      <Qty>109</Qty>
+      <Value>9.09</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -152,10 +170,49 @@
       <IsShort>false</IsShort>
       <Leverage>1</Leverage>
     </StockPosition>
+    <StockPosition>
+      <Id>6</Id>
+      <StockName>TURBO_RENAULT SHORT X5</StockName>
+      <EntryQty>100</EntryQty>
+      <EntryValue>3.985</EntryValue>
+      <EntryDate>2021-02-15T16:20:00</EntryDate>
+      <Stop>3.54779983</Stop>
+      <BarDuration>
+        <Duration>Bar_12</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <EntryComment>CAC at highs and Renault underperforming. Very tight STOP</EntryComment>
+      <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>7</Id>
+      <StockName>INT_NOVACYT</StockName>
+      <EntryQty>109</EntryQty>
+      <EntryValue>9.112936</EntryValue>
+      <EntryDate>2021-02-15T09:00:00</EntryDate>
+      <Stop>8.6</Stop>
+      <BarDuration>
+        <Duration>Bar_12</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
   </Positions>
   <Name>@SaxoPEA</Name>
   <InitialBalance>15000</InitialBalance>
-  <Balance>12058.14</Balance>
+  <Balance>10666.33</Balance>
   <MaxRisk>0.02</MaxRisk>
   <IsSimu>false</IsSimu>
   <MaxPositions>10</MaxPositions>

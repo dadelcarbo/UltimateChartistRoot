@@ -1,1906 +1,632 @@
 <?xml version="1.0"?>
 <StockAnalysisList>
-  <StockAnalysisItem StockName="Argentina">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Daily">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1404.46741</X>
-              <Y>28.51809</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1405.46741</X>
-              <Y>28.51809</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="AIR FRANCE - KLM">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Weekly">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>430</X>
-              <Y>11.945</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>431</X>
-              <Y>11.945</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="ALSTOM">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Weekly">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>698.8922</X>
-              <Y>30.0998154</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>699.8922</X>
-              <Y>30.0998154</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="BENETEAU">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Daily">
-        <StockDrawingItems>
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>4939</X>
-              <Y>12.17</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>4992</X>
-              <Y>10.74</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="BIOMERIEUX">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Daily">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>3991.712</X>
-              <Y>97.1349258</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>3992.712</X>
-              <Y>97.1349258</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+  <StockAnalysisItem StockName="ARTOIS NOM.">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="CAMBODGE NOM.">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="CARREFOUR">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Daily">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2718.241</X>
-              <Y>14.7873507</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2719.241</X>
-              <Y>14.7873507</Y>
-            </PointF>
-            <Pen>2:255:0:0:0:Solid</Pen>
-          </Line2D>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2757.56</X>
-              <Y>13.1197405</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2758.56</X>
-              <Y>13.1197405</Y>
-            </PointF>
-            <Pen>2:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="ENGIE">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Monthly">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>133.673569</X>
-              <Y>11.1077213</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>134.673569</X>
-              <Y>11.1077213</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FROMAGERIES BEL">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="ILIAD">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Weekly">
-        <StockDrawingItems>
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>776</X>
-              <Y>131.5</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>805</X>
-              <Y>104.8</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>107.524223</X>
-              <Y>84.51729</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>108.524223</X>
-              <Y>84.51729</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-          <CupHandle2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>757</X>
-              <Y>137.7</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>847</X>
-              <Y>137.7</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </CupHandle2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="MONCEY (FIN.) NOM.">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="UNIBEL">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ALTAREIT">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="APRIL">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="ARGAN">
-    <StockAnalysis Excluded="False" FollowUp="True" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BACCARAT">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BLUE SOLUTIONS">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ECA">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="ERYTECH PHARMA">
-    <StockAnalysis Excluded="False" FollowUp="True" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="EXPLOSIFS PROD.CHI.PF">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FERM.CAS.MUN.CANNE">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FIDUCIAL REAL ESTATE">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FREY">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GALIMMO">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GROUPE EPC">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GROUPE FLO">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GROUPE GORGE">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="INNATE PHARMA">
-    <StockAnalysis Excluded="False" FollowUp="True" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="LAFUMA">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="LEBON">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="MALTERIES FCO-BEL.">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="MERSEN">
-    <StockAnalysis Excluded="False" FollowUp="True" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="NEXTSTAGE">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="POXEL">
-    <StockAnalysis Excluded="False" FollowUp="True" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ROBERTET CDV 87">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ROBERTET CI">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SOFRAGI">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="ABIVAX">
-    <StockAnalysis Excluded="False" FollowUp="True" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="ADOCIA">
-    <StockAnalysis Excluded="False" FollowUp="True" Theme="" HasDrawings="False" HasComments="False" />
+  <StockAnalysisItem StockName="ADC SIIC">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="AFONE">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="AUGROS COSMETICS">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BARBARA BUI">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BLEECKER">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BUSINESS ET DECIS.">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="CARPINIENNE PART.">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="CFI">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="COHERIS">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="COURTOIS">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="CROSSWOOD">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="DEDALUS FRANCE">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ELECT. MADAGASCAR">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="EURASIA FONCIERE INV.">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="EVERGREEN (EX: DIGIGRAM)">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="EXACOMPTA CLAIREF.">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FAUVET GIREL">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FIN.ETANG BERRE">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FIN.ETANG BERRE PF">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GROUPE CIFE">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GROUPE IRD">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GROUPE JAJ">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="GROUPE PIZZORNO ENVIRONNEMENT">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Weekly">
-        <StockDrawingItems>
-          <CupHandle2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>696</X>
-              <Y>16.45</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>775</X>
-              <Y>16.45</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </CupHandle2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="HOTELS DE PARIS">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INTEXA">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ITS GROUP">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="LA FONCIERE VERTE">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="LYSOGENE">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ORCHESTRA-PREMAMAN">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="PROACTIS SA">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SOCIETE FRANCAISE DE CASINOS">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SODIFRANCE">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SODITECH ING.">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="TAYNINH">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="TIPIAK">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="VERNEUIL PARTICIP.">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="VISIODENT">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="YMAGIS">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="1000MERCIS">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="AMOEBA BIOCIDE">
-    <StockAnalysis Excluded="False" FollowUp="True" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Weekly">
-        <StockDrawingItems>
-          <CupHandle2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>216</X>
-              <Y>1.178</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>247</X>
-              <Y>1.178</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </CupHandle2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+  <StockAnalysisItem StockName="ADA">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BERNARD LOISEAU">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BOURRELIER GROUP">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="CESAR">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="COFIDUR">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="CYBERGUN">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="DEVERNOIS">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ENTREPARTICULIERS.COM">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ENTREPRENDRE">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="EUROFINS CEREP">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="EVOLIS">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FILAE">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GROUPE TERA">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GROUPIMO">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="HARVEST">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="I2S">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="IMMERSION">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INSTALLUX">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="INTEGRAGEN">
-    <StockAnalysis Excluded="False" FollowUp="True" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="IVALIS">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="LES HOTELS BAVEREZ">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="M2I">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="MEDIAN TECHNOLOGIES">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Weekly">
-        <StockDrawingItems>
-          <CupHandle2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>392</X>
-              <Y>2.06</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>465</X>
-              <Y>2.06</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </CupHandle2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="MICROWAVE VISION">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Weekly">
-        <StockDrawingItems>
-          <CupHandle2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>473</X>
-              <Y>10.3</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>654</X>
-              <Y>10.3</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </CupHandle2D>
-          <CupHandle2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>348</X>
-              <Y>7.81</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>405</X>
-              <Y>7.81</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </CupHandle2D>
-          <CupHandle2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>317</X>
-              <Y>8.35</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>413</X>
-              <Y>8.35</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </CupHandle2D>
-          <CupHandle2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>675</X>
-              <Y>12.55</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>719</X>
-              <Y>12.55</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </CupHandle2D>
-          <CupHandle2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>764</X>
-              <Y>21</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>774</X>
-              <Y>21</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </CupHandle2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="MINT">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="NSC GROUPE">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="O2I BSA">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="OBER">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="ONCODESIGN">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Weekly">
-        <StockDrawingItems>
-          <CupHandle2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>202</X>
-              <Y>12.6</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>315</X>
-              <Y>12.6</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </CupHandle2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="OSMOZIS">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="OXATIS">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SERMA TECHNOLOGIES">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SI PARTICIPATIONS">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="SPINEWAY">
-    <StockAnalysis Excluded="False" FollowUp="True" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="STRADIM ESPAC.FIN.">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="STREAMWIDE">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SUPERSONIC IMAGINE">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="TRAQUEUR">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="TRILOGIQ">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="TRONICS MICROSYSTEMS">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="TTI">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="TXCOM">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="U10 CORP.">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="VERGNET">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Weekly">
-        <StockDrawingItems>
-          <CupHandle2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>613</X>
-              <Y>0.285</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>628</X>
-              <Y>0.285</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>0</X>
-              <Y>0</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </CupHandle2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="VIALIFE">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="WE.CONNECT">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Daily">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>151.170715</X>
-              <Y>14.2062521</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>152.170715</X>
-              <Y>14.2062521</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="WEBORAMA">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ABO GROUP ENVIRONME">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ACCENTIS">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ANTARES CERT">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BASILIX CERT">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BEAULIEU-AV. CERT">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BELGIAN RESOURCES &amp;">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BELUGA">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="CAMPINE">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="CO.BR.HA">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="DIEGEM KENNEDYCERT">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="DISTRI-LAND CERT">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="EMAKINA GROUP (D)">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="EVADIX">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FOUNTAIN">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GROWNERS">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Weekly">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>25.1578922</X>
-              <Y>2.29947257</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>26.1578922</X>
-              <Y>2.29947257</Y>
-            </PointF>
-            <Pen>2:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="IEP INVEST">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="NEUFCOUR-FIN.">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="NEWTREE (D)">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="PNS">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Weekly">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>17.32009</X>
-              <Y>2.48175144</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>18.32009</X>
-              <Y>2.48175144</Y>
-            </PointF>
-            <Pen>2:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="REALCO">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Weekly">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>186.7141</X>
-              <Y>25.0021362</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>187.7141</X>
-              <Y>25.0021362</Y>
-            </PointF>
-            <Pen>2:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ROSIER">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Weekly">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>361.618256</X>
-              <Y>109.780334</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>362.618256</X>
-              <Y>109.780334</Y>
-            </PointF>
-            <Pen>2:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SABCA">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Weekly">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>255.487274</X>
-              <Y>25.2324429</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>256.487274</X>
-              <Y>25.2324429</Y>
-            </PointF>
-            <Pen>2:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SCHEERD.V KERCHOVE">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SUCRAF A ET B">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="UI LEARNING">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="WOL. EXTENS. CERT">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="WOL. SHOPPING CERT">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ZENITEL">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ZENOBE GRAMME CERT">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="1STE NEDERLANDSCHE ">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BEVER HOLDING">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="KIADIS">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Weekly">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>31.7410564</X>
-              <Y>6.582661</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>32.74106</X>
-              <Y>6.582661</Y>
-            </PointF>
-            <Pen>2:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="NEW SOURCES ENERGY ">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Weekly">
-        <StockDrawingItems>
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>185.190765</X>
-              <Y>0.140200973</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>186.190765</X>
-              <Y>0.140200973</Y>
-            </PointF>
-            <Pen>2:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ORANJEWOUD A">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="PORCELEYNE FLES">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="VALUE8 NV">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="7C SOLARPARKEN AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ACCENTRO REAL ESTATE AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="AUDI AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BAYWA AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BERENTZEN-GRUPPE AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BIOTEST AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BRAIN BIOTECHNOLOGY RESEARCH &amp; INFORMATION NETWORK">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="CENIT AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="DATA MODUL AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="DEAG DEUTSCHE ENTER">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Weekly">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>47.5368576</X>
-              <Y>5.257416</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>48.5368576</X>
-              <Y>5.257416</Y>
-            </PointF>
-            <Pen>2:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="DEMIRE REAL ESTATE ">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Weekly">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>31.6039925</X>
-              <Y>4.507349</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>32.6039925</X>
-              <Y>4.507349</Y>
-            </PointF>
-            <Pen>2:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="EINHELL GERMANY AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ENERGIEKONTOR AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="EPIGENOMICS AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="EUROMICRON AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FIRST SENSOR AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FORMYCON AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Daily">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>56.2829475</X>
-              <Y>66.04136</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>57.2829475</X>
-              <Y>66.04136</Y>
-            </PointF>
-            <Pen>2:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FRANCOTYP-POSTALIA ">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GESCO AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GIGASET AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GK SOFTWARE AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GOLD BULLION SECURITIES LTD">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INVISION AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="MEDION AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="MOBOTIX AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="MOLOGEN AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="PROGRESS-WERK OBERK">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SCHWEIZER ELECTRONI">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SYZYGY AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Weekly">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>28.9154854</X>
-              <Y>10.2909184</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>29.9154854</X>
-              <Y>10.2909184</Y>
-            </PointF>
-            <Pen>2:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="TELEGATE AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Weekly">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>21.7728271</X>
-              <Y>1.68350935</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>22.7728271</X>
-              <Y>1.68350935</Y>
-            </PointF>
-            <Pen>2:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="UZIN UTZ AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="VILLEROY &amp; BOCH AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Weekly">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>193.592865</X>
-              <Y>12.7019777</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>194.592865</X>
-              <Y>12.7019777</Y>
-            </PointF>
-            <Pen>2:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="VISCOM AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="VITA 34 AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="VOLTABOX AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="WESTGRUND AG">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="WINDELN.DE SE">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BE">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BIANCAMANO SPA">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="CORTICEIRA AMORIM">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Weekly">
-        <StockDrawingItems>
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>354.3358</X>
-              <Y>11.7954721</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>355.3358</X>
-              <Y>11.7954721</Y>
-            </PointF>
-            <Pen>2:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="IMOB.C GRAO PARA">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="LISGRAFICA">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="MEDIA CAPITAL">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="OREY ANTUNES ESC.">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="REDITUS,SGPS">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SPORTING">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="TOYOTA CAETANO">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="VAA VISTA ALEGRE">
-    <StockAnalysis Excluded="True" FollowUp="False" Theme="" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="CAC40GR">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Daily">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2484.496</X>
-              <Y>14547.5176</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2485.496</X>
-              <Y>14547.5176</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Line2D>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2473.71045</X>
-              <Y>11995.4648</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2474.71045</X>
-              <Y>11995.4648</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="CAC40NR">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Daily">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1627.71912</X>
-              <Y>9869.235</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1628.71912</X>
-              <Y>9869.235</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BEAR/BULL Log Ratio">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="BullBearRatio" HasDrawings="False" HasComments="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="Lyxor STOXX600 Automobiles &amp; Parts">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Monthly">
-        <StockDrawingItems RefDate="01/11/2007 00:00:00" RefDateIndex="13">
-          <CupHandle2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>25</X>
-              <Y>25.2</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>44</X>
-              <Y>25.2</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>34</X>
-              <Y>25.2</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>40</X>
-              <Y>20.08</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>29</X>
-              <Y>14.56</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </CupHandle2D>
-          <CupHandle2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>13</X>
-              <Y>38.09</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>79</X>
-              <Y>38.09</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>57</X>
-              <Y>38.09</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>60</X>
-              <Y>23.67</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>29</X>
-              <Y>14.56</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </CupHandle2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
+    <StockAnalysis Excluded="False" Theme="BullBearRatio" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="AD.CAC40">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="ADBench" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="False" Theme="ADBench" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_BOND_BTP">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="__Palmares_INT" HasDrawings="False" HasComments="False" />
+    <StockAnalysis Excluded="False" Theme="__Palmares_INT" HasDrawings="False"/>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_COM_COCOA">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="True">
-      <DrawingItems BarDuration="Bar_48">
-        <StockDrawingItems RefDate="04/01/2021 10:45:00" RefDateIndex="321">
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>321.248474</X>
-              <Y>2640.61816</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>378</X>
-              <Y>2567.84766</Y>
-            </PointF>
-            <Pen>2:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>322.8426</X>
-              <Y>2475.927</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>323.8426</X>
-              <Y>2475.927</Y>
-            </PointF>
-            <Pen>2:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-        </StockDrawingItems>
-      </DrawingItems>
-      <Comments>
-        <Comment Date="25/03/2020 15:54:59" Value="Achat Speculatif aprés forte baisse. Pas de signal court terme particulier" />
-      </Comments>
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_COM_COPPER">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
-      <Comments>
-        <Comment Date="02/04/2020 14:35:00" Value="Achat sur repli aprés passage du cloud" />
-      </Comments>
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_COM_GOLD">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
-      <Comments>
-        <Comment Date="06/05/2020 13:00:00" Value="Short sur Bar_3 bearish cloud trend" />
-      </Comments>
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_COM_NATURAL_GAS">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Bar_12">
-        <StockDrawingItems RefDate="27/05/2020 10:35:00" RefDateIndex="1997">
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1997</X>
-              <Y>1.973</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2260</X>
-              <Y>1.824</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1950</X>
-              <Y>1.82415211</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2213</X>
-              <Y>1.67515206</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-        </StockDrawingItems>
-      </DrawingItems>
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_COM_OIL_CRUDE">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
-      <Comments>
-        <Comment Date="30/03/2020 10:40:00" Value="Achat à l'approche des 20€ en vue d'un rebond technique. Pas de signal mais une vaorisation trés failble. " />
-        <Comment Date="08/04/2020 17:10:00" Value="renforcement de position sur échec de sorti du cloud par le bas." />
-      </Comments>
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_COM_SILVER">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Bar_12">
-        <StockDrawingItems RefDate="15/06/2020 14:00:00" RefDateIndex="2444">
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2444</X>
-              <Y>17.032</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2635</X>
-              <Y>17.497</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-        </StockDrawingItems>
-      </DrawingItems>
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_COM_SUGAR">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="True">
-      <DrawingItems BarDuration="Bar_12">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>891</X>
-              <Y>11.62</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>892</X>
-              <Y>11.62</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-      <Comments>
-        <Comment Date="22/04/2020 12:25:00" Value="Moyenage à la baisse ! Ereur à na pas faire il faudra jouer le stop serré.&#xD;&#xA;Position prise à la faveur du rebond sur le pétrole qui pourrait tirer les autres commodities. TrailEMA positif" />
-      </Comments>
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_FX_EURJPY">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
-      <Comments>
-        <Comment Date="22/04/2020 12:25:00" Value="Higher low on Trail HL. Specualtion sur baisse du JPY face à l'EUR (même signal sur USD/JPY)" />
-      </Comments>
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_FX_EURUSD">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="True">
-      <DrawingItems BarDuration="Bar_3">
-        <StockDrawingItems RefDate="22/06/2020 01:30:00" RefDateIndex="10605">
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>10821</X>
-              <Y>1.13280773</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>10897</X>
-              <Y>1.12700772</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>10605</X>
-              <Y>1.11685</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>10727</X>
-              <Y>1.1257</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-      <Comments>
-        <Comment Date="15/05/2020 09:00:00" Value="Achat sur Cup And Handle break up" />
-      </Comments>
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_FX_USDJPY">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
-      <Comments>
-        <Comment Date="08/04/2020 17:25:00" Value="Fin de rebond technique" />
-      </Comments>
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_IND_CAC40">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Bar_6">
-        <StockDrawingItems RefDate="22/05/2020 10:00:00" RefDateIndex="2275">
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2116.67969</X>
-              <Y>4368.92529</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2117.67969</X>
-              <Y>4368.92529</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_IND_DAX30">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="TLB_3D">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1452.13147</X>
-              <Y>11836.1416</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1453.13147</X>
-              <Y>11836.1416</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-      <DrawingItems BarDuration="Bar_12">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1394.408</X>
-              <Y>12981.791</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1395.408</X>
-              <Y>12981.791</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Line2D>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1345.77808</X>
-              <Y>11681.0752</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1346.77808</X>
-              <Y>11681.0752</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Line2D>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1348.33752</X>
-              <Y>12265.07</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1349.33752</X>
-              <Y>12265.07</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_IND_NASDAQ100">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="True">
-      <DrawingItems BarDuration="Daily">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>22134.916</X>
-              <Y>9239.039</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>22135.916</X>
-              <Y>9239.039</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-      <DrawingItems BarDuration="Bar_12">
-        <StockDrawingItems>
-          <Line2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2425.638</X>
-              <Y>10285.7754</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>2426.638</X>
-              <Y>10285.7754</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </Line2D>
-        </StockDrawingItems>
-      </DrawingItems>
-      <DrawingItems BarDuration="Bar_48">
-        <StockDrawingItems RefDate="21/04/2020 16:00:00" RefDateIndex="347">
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>347</X>
-              <Y>8344</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>458</X>
-              <Y>8847.75</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>328</X>
-              <Y>8957.043</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>439</X>
-              <Y>9460.793</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-        </StockDrawingItems>
-      </DrawingItems>
-      <Comments>
-        <Comment Date="05/05/2020 17:00:00" Value="SHort en contre tendance court terme en vue d'une reprise de la correction commencée  30/04" />
-      </Comments>
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_IND_SP500">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
-      <Comments>
-        <Comment Date="09/04/2020 16:35:00" Value="Position short indice en vue d'un repli aprés hausse &quot;exagérée&quot;. Les annonces de la FED e BCE sont maintenant pricée. Un pull back serait bien venu avant le déconfinement et la reprise de l'économie.&#xD;&#xA;Reco Loic Abadie.&#xD;&#xA;Indicateur de sentiment pas encore en excés d'optimisme. Peu-être un trade sur PEA un peu trop tôt." />
-      </Comments>
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="INT_ARCELOR">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Bar_12">
-        <StockDrawingItems>
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>827</X>
-              <Y>8.963</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>828</X>
-              <Y>8.963</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="INT_AXA">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Bar_12">
-        <StockDrawingItems>
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>849</X>
-              <Y>18.31</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>850</X>
-              <Y>18.31</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-        </StockDrawingItems>
-      </DrawingItems>
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_BIOMERIEUX">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
-      <Comments>
-        <Comment Date="21/04/2020 09:30:00" Value="Trade trés légérement perdnt alors qu'il n'y avait aucun signal de vente. Panique du à la baisse du CAC." />
-      </Comments>
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="INT_BX4">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Bar_12">
-        <StockDrawingItems RefDate="15/06/2020 09:15:00" RefDateIndex="501">
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>501</X>
-              <Y>3.583</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>574</X>
-              <Y>3.336</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-        </StockDrawingItems>
-      </DrawingItems>
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_CAPGEMINI">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
-      <Comments>
-        <Comment Date="15/05/2020 10:30:00" Value="Buy on Cup and handle BAR_6" />
-      </Comments>
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_CGG">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="True">
-      <DrawingItems BarDuration="Bar_12">
-        <StockDrawingItems RefDate="16/06/2020 14:00:00" RefDateIndex="867">
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>867</X>
-              <Y>1.194</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>916</X>
-              <Y>1.089</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-        </StockDrawingItems>
-      </DrawingItems>
-      <Comments>
-        <Comment Date="22/04/2020 15:00:00" Value="Achat sur rebond du pétrole" />
-      </Comments>
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="INT_L'OREAL">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="False">
-      <DrawingItems BarDuration="Bar_12">
-        <StockDrawingItems RefDate="15/06/2020 10:00:00" RefDateIndex="839">
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>839</X>
-              <Y>255.1</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>910</X>
-              <Y>274.7</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>846.87146</X>
-              <Y>264.2363</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>917.87146</X>
-              <Y>283.8363</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-        </StockDrawingItems>
-      </DrawingItems>
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_TOTAL">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
-      <Comments>
-        <Comment Date="22/04/2020 15:00:00" Value="Achat sur rebond du pétrole" />
-      </Comments>
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_US_NETFLIX">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="True" HasComments="True">
-      <DrawingItems BarDuration="Bar_12">
-        <StockDrawingItems RefDate="04/06/2020 16:30:00" RefDateIndex="615">
-          <CupHandle2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>615</X>
-              <Y>420.04</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>635</X>
-              <Y>420.04</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>627</X>
-              <Y>420.04</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>629</X>
-              <Y>408.85</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>621</X>
-              <Y>406.56</Y>
-            </PointF>
-            <Pen>1:255:0:0:0:Solid</Pen>
-          </CupHandle2D>
-        </StockDrawingItems>
-      </DrawingItems>
-      <Comments>
-        <Comment Date="22/04/2020 16:10:00" Value="Short after LH and in the cloud. Perharps a bit of a rush trade. Netflix publication occured it seems to be priced already. Targeting , shorted only 100€ instead of 600.a 5 to 10 % pull back, retesting previous all time highs. Counter trend trade." />
-        <Comment Date="23/04/2020 15:50:00" Value="Increase short position after missing full size trade theday before." />
-      </Comments>
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_US_TESLA">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
-      <Comments>
-        <Comment Date="08/04/2020 16:30:00" Value="Short, echec sur résistance." />
-      </Comments>
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_VINCI">
-    <StockAnalysis Excluded="False" FollowUp="False" Theme="" HasDrawings="False" HasComments="True">
-      <Comments>
-        <Comment Date="15/05/2020 10:30:00" Value="Achat sur CUP Handle BAR_6" />
-      </Comments>
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
     </StockAnalysis>
   </StockAnalysisItem>
 </StockAnalysisList>

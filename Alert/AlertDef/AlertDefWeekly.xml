@@ -4,42 +4,8 @@
     <BarDuration>
       <Duration>Weekly</Duration>
     </BarDuration>
-    <IndicatorType>INDICATOR</IndicatorType>
-    <IndicatorName>GUPPY(3,5,8,10,12,15,30,35,40,45,50,60)</IndicatorName>
-    <EventName>BullCrossing</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Weekly</Duration>
-      <LineBreak>1</LineBreak>
-    </BarDuration>
-    <IndicatorType>INDICATOR</IndicatorType>
-    <IndicatorName>HIGHEST(20)</IndicatorName>
-    <EventName>NewHigh</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Weekly</Duration>
-      <LineBreak>1</LineBreak>
-    </BarDuration>
-    <IndicatorType>INDICATOR</IndicatorType>
-    <IndicatorName>TRUE(3)</IndicatorName>
-    <EventName>HigherLow</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Weekly</Duration>
-    </BarDuration>
-    <IndicatorType>INDICATOR</IndicatorType>
-    <IndicatorName>GUPPY(3,5,8,10,12,15,30,35,40,45,50,60)</IndicatorName>
-    <EventName>BullStart</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Weekly</Duration>
-    </BarDuration>
     <IndicatorType>AUTODRAWING</IndicatorType>
-    <IndicatorName>CUPHANDLE(4,false)</IndicatorName>
+    <IndicatorName>CUPHANDLE(6,false,12)</IndicatorName>
     <EventName>BrokenUp</EventName>
   </StockAlertDef>
 </ArrayOfStockAlertDef>

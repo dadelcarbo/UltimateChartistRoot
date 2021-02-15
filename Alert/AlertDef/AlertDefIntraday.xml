@@ -11,15 +11,6 @@
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>
-      <Duration>Bar_3</Duration>
-      <LineBreak>1</LineBreak>
-    </BarDuration>
-    <IndicatorType>CLOUD</IndicatorType>
-    <IndicatorName>TRENDBODY(30)</IndicatorName>
-    <EventName>CloudUp</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
       <Duration>Bar_12</Duration>
       <LineBreak>0</LineBreak>
     </BarDuration>
@@ -30,10 +21,9 @@
   <StockAlertDef>
     <BarDuration>
       <Duration>Bar_12</Duration>
-      <LineBreak>1</LineBreak>
     </BarDuration>
     <IndicatorType>AUTODRAWING</IndicatorType>
-    <IndicatorName>CUPHANDLE(6,false)</IndicatorName>
+    <IndicatorName>CUPHANDLE(6,false,12)</IndicatorName>
     <EventName>BrokenUp</EventName>
   </StockAlertDef>
 </ArrayOfStockAlertDef>

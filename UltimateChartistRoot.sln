@@ -151,6 +151,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AlertDef", "AlertDef", "{07
 		Alert\AlertDef\AlertDefDaily.xml = Alert\AlertDef\AlertDefDaily.xml
 		Alert\AlertDef\AlertDefIntraday.xml = Alert\AlertDef\AlertDefIntraday.xml
 		Alert\AlertDef\AlertDefMonthly.xml = Alert\AlertDef\AlertDefMonthly.xml
+		Alert\AlertDef\AlertDefUserDefined.xml = Alert\AlertDef\AlertDefUserDefined.xml
 		Alert\AlertDef\AlertDefWeekly.xml = Alert\AlertDef\AlertDefWeekly.xml
 	EndProjectSection
 EndProject

@@ -82,6 +82,15 @@
       <Value>0.97</Value>
       <Fee>2.5</Fee>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>9</Id>
+      <Date>2021-02-12T09:50:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>TURBO_NASDAQ PUT 14950</StockName>
+      <Qty>45</Qty>
+      <Value>10.71</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -188,10 +197,29 @@
       <IsShort>false</IsShort>
       <Leverage>1</Leverage>
     </StockPosition>
+    <StockPosition>
+      <Id>9</Id>
+      <StockName>TURBO_NASDAQ PUT 14950</StockName>
+      <EntryQty>45</EntryQty>
+      <EntryValue>10.7655554</EntryValue>
+      <EntryDate>2021-02-12T09:50:00</EntryDate>
+      <Stop>9.665999</Stop>
+      <BarDuration>
+        <Duration>Bar_12</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
   </Positions>
   <Name>@SaxoTitre</Name>
   <InitialBalance>2000</InitialBalance>
-  <Balance>1344.94006</Balance>
+  <Balance>860.490051</Balance>
   <MaxRisk>0.05</MaxRisk>
   <IsSimu>false</IsSimu>
   <MaxPositions>10</MaxPositions>
