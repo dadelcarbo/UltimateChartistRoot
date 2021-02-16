@@ -73,6 +73,15 @@
       <Value>9.09</Value>
       <Fee>2.5</Fee>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>8</Id>
+      <Date>2021-02-16T09:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>INT_NOVACYT</StockName>
+      <Qty>109</Qty>
+      <Value>9.01</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -204,15 +213,14 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
-      <ExitDate
-        xsi:nil="true" />
+      <ExitDate>2021-02-16T09:00:00</ExitDate>
       <IsShort>false</IsShort>
       <Leverage>1</Leverage>
     </StockPosition>
   </Positions>
   <Name>@SaxoPEA</Name>
   <InitialBalance>15000</InitialBalance>
-  <Balance>10666.33</Balance>
+  <Balance>11645.92</Balance>
   <MaxRisk>0.02</MaxRisk>
   <IsSimu>false</IsSimu>
   <MaxPositions>10</MaxPositions>
