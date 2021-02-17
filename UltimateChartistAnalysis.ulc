@@ -1,632 +1,564 @@
 <?xml version="1.0"?>
 <StockAnalysisList>
   <StockAnalysisItem StockName="ARTOIS NOM.">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="CAMBODGE NOM.">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FROMAGERIES BEL">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="MONCEY (FIN.) NOM.">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="UNIBEL">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ALTAREIT">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="APRIL">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BACCARAT">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BLUE SOLUTIONS">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ECA">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="EXPLOSIFS PROD.CHI.PF">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FERM.CAS.MUN.CANNE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FIDUCIAL REAL ESTATE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FREY">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GALIMMO">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GROUPE EPC">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GROUPE FLO">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GROUPE GORGE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="LAFUMA">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="LEBON">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="MALTERIES FCO-BEL.">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="NEXTSTAGE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ROBERTET CDV 87">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ROBERTET CI">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SOFRAGI">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ADC SIIC">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="AFONE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="AUGROS COSMETICS">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BARBARA BUI">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BLEECKER">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BUSINESS ET DECIS.">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="CARPINIENNE PART.">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="CFI">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="COHERIS">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="COURTOIS">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="CROSSWOOD">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="DEDALUS FRANCE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ELECT. MADAGASCAR">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="EURASIA FONCIERE INV.">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="EXACOMPTA CLAIREF.">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FAUVET GIREL">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FIN.ETANG BERRE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FIN.ETANG BERRE PF">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GROUPE CIFE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GROUPE IRD">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GROUPE JAJ">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="HOTELS DE PARIS">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INTEXA">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ITS GROUP">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="LA FONCIERE VERTE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="LYSOGENE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ORCHESTRA-PREMAMAN">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="PROACTIS SA">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SOCIETE FRANCAISE DE CASINOS">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SODIFRANCE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SODITECH ING.">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="TAYNINH">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="TIPIAK">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="VERNEUIL PARTICIP.">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="VISIODENT">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="YMAGIS">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="1000MERCIS">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ADA">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BERNARD LOISEAU">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BOURRELIER GROUP">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="CESAR">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="COFIDUR">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="CYBERGUN">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="DEVERNOIS">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ENTREPARTICULIERS.COM">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ENTREPRENDRE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="EUROFINS CEREP">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="EVOLIS">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FILAE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GROUPE TERA">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GROUPIMO">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="HARVEST">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="I2S">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="IMMERSION">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INSTALLUX">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="IVALIS">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="LES HOTELS BAVEREZ">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="M2I">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="MINT">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="NSC GROUPE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="O2I BSA">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="OBER">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="OSMOZIS">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="OXATIS">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SERMA TECHNOLOGIES">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SI PARTICIPATIONS">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="STRADIM ESPAC.FIN.">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="STREAMWIDE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SUPERSONIC IMAGINE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="TRAQUEUR">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="TRILOGIQ">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="TRONICS MICROSYSTEMS">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="TTI">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="TXCOM">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="U10 CORP.">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="VIALIFE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="WEBORAMA">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ABO GROUP ENVIRONME">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ACCENTIS">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ANTARES CERT">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BASILIX CERT">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BEAULIEU-AV. CERT">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BELGIAN RESOURCES &amp;">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BELUGA">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="CAMPINE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="CO.BR.HA">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="DIEGEM KENNEDYCERT">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="DISTRI-LAND CERT">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="EMAKINA GROUP (D)">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="EVADIX">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FOUNTAIN">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GROWNERS">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="IEP INVEST">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="NEUFCOUR-FIN.">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="NEWTREE (D)">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="PNS">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="REALCO">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ROSIER">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SABCA">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SCHEERD.V KERCHOVE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SUCRAF A ET B">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="UI LEARNING">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="WOL. EXTENS. CERT">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="WOL. SHOPPING CERT">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ZENITEL">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ZENOBE GRAMME CERT">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="1STE NEDERLANDSCHE ">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BEVER HOLDING">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="KIADIS">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ORANJEWOUD A">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="PORCELEYNE FLES">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="VALUE8 NV">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="7C SOLARPARKEN AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ACCENTRO REAL ESTATE AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="AUDI AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BAYWA AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BERENTZEN-GRUPPE AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BIOTEST AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BRAIN BIOTECHNOLOGY RESEARCH &amp; INFORMATION NETWORK">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="CENIT AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="DATA MODUL AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="DEAG DEUTSCHE ENTER">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="DEMIRE REAL ESTATE ">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="EINHELL GERMANY AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ENERGIEKONTOR AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="EPIGENOMICS AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="EUROMICRON AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FIRST SENSOR AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FORMYCON AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FRANCOTYP-POSTALIA ">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GESCO AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GIGASET AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GK SOFTWARE AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="GOLD BULLION SECURITIES LTD">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="INVISION AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="MEDION AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="MOBOTIX AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="MOLOGEN AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="PROGRESS-WERK OBERK">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SCHWEIZER ELECTRONI">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SYZYGY AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="TELEGATE AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="UZIN UTZ AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="VILLEROY &amp; BOCH AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="VISCOM AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="VITA 34 AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="VOLTABOX AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="WESTGRUND AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="WINDELN.DE SE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BIANCAMANO SPA">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="IMOB.C GRAO PARA">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="LISGRAFICA">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="MEDIA CAPITAL">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="OREY ANTUNES ESC.">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="REDITUS,SGPS">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SPORTING">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="TOYOTA CAETANO">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="VAA VISTA ALEGRE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False"/>
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BEAR/BULL Log Ratio">
-    <StockAnalysis Excluded="False" Theme="BullBearRatio" HasDrawings="False"/>
+    <StockAnalysis Excluded="False" Theme="BullBearRatio" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="AD.CAC40">
-    <StockAnalysis Excluded="False" Theme="ADBench" HasDrawings="False"/>
+    <StockAnalysis Excluded="False" Theme="ADBench" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_BOND_BTP">
-    <StockAnalysis Excluded="False" Theme="__Palmares_INT" HasDrawings="False"/>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_COM_COCOA">
-    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_COM_COPPER">
-    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_COM_GOLD">
-    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_COM_OIL_CRUDE">
-    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_COM_SUGAR">
-    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_FX_EURJPY">
-    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_FX_EURUSD">
-    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_FX_USDJPY">
-    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_IND_NASDAQ100">
-    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_IND_SP500">
-    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="INT_BIOMERIEUX">
-    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="INT_CAPGEMINI">
-    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="INT_CGG">
-    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="INT_TOTAL">
-    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="INT_US_NETFLIX">
-    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="INT_US_TESLA">
-    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
-    </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="INT_VINCI">
-    <StockAnalysis Excluded="False" Theme="" HasDrawings="False">
-    </StockAnalysis>
+    <StockAnalysis Excluded="False" Theme="__Palmares_INT" HasDrawings="False" />
   </StockAnalysisItem>
 </StockAnalysisList>

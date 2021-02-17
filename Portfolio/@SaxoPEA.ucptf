@@ -82,6 +82,15 @@
       <Value>9.01</Value>
       <Fee>2.5</Fee>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>9</Id>
+      <Date>2021-02-17T16:10:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>INT_BX4</StockName>
+      <Qty>1300</Qty>
+      <Value>2.0815</Value>
+      <Fee>5</Fee>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -217,10 +226,29 @@
       <IsShort>false</IsShort>
       <Leverage>1</Leverage>
     </StockPosition>
+    <StockPosition>
+      <Id>9</Id>
+      <StockName>INT_BX4</StockName>
+      <EntryQty>1300</EntryQty>
+      <EntryValue>2.08534622</EntryValue>
+      <EntryDate>2021-02-17T16:10:00</EntryDate>
+      <Stop>2.02</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
   </Positions>
   <Name>@SaxoPEA</Name>
   <InitialBalance>15000</InitialBalance>
-  <Balance>11645.92</Balance>
+  <Balance>8934.97</Balance>
   <MaxRisk>0.02</MaxRisk>
   <IsSimu>false</IsSimu>
   <MaxPositions>10</MaxPositions>
