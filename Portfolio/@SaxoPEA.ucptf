@@ -91,6 +91,24 @@
       <Value>2.0815</Value>
       <Fee>5</Fee>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>10</Id>
+      <Date>2021-02-22T14:20:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>INT_NEOEN</StockName>
+      <Qty>18</Qty>
+      <Value>51.2</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>11</Id>
+      <Date>2021-02-22T16:20:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>INT_NEOEN</StockName>
+      <Qty>18</Qty>
+      <Value>49.8</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -245,10 +263,29 @@
       <IsShort>false</IsShort>
       <Leverage>1</Leverage>
     </StockPosition>
+    <StockPosition>
+      <Id>10</Id>
+      <StockName>INT_NEOEN</StockName>
+      <EntryQty>18</EntryQty>
+      <EntryValue>51.33889</EntryValue>
+      <EntryDate>2021-02-22T14:20:00</EntryDate>
+      <Stop>49.8</Stop>
+      <BarDuration>
+        <Duration>Bar_12</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <EntryComment>Anticipate signal</EntryComment>
+      <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
+      <ExitDate>2021-02-22T16:20:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
   </Positions>
   <Name>@SaxoPEA</Name>
   <InitialBalance>15000</InitialBalance>
-  <Balance>8934.97</Balance>
+  <Balance>8904.77</Balance>
   <MaxRisk>0.02</MaxRisk>
   <IsSimu>false</IsSimu>
   <MaxPositions>10</MaxPositions>

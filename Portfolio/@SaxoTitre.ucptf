@@ -118,6 +118,15 @@
       <Value>2.151</Value>
       <Fee>2.5</Fee>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>13</Id>
+      <Date>2021-02-10T16:35:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>TURBO_TESLA SHORT X5</StockName>
+      <Qty>200</Qty>
+      <Value>1.78</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -285,10 +294,29 @@
       <IsShort>false</IsShort>
       <Leverage>1</Leverage>
     </StockPosition>
+    <StockPosition>
+      <Id>13</Id>
+      <StockName>TURBO_TESLA SHORT X5</StockName>
+      <EntryQty>200</EntryQty>
+      <EntryValue>1.7925</EntryValue>
+      <EntryDate>2021-02-10T16:35:00</EntryDate>
+      <Stop>1.6164</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
   </Positions>
   <Name>@SaxoTitre</Name>
   <InitialBalance>2000</InitialBalance>
-  <Balance>453.245056</Balance>
+  <Balance>94.7450562</Balance>
   <MaxRisk>0.05</MaxRisk>
   <IsSimu>false</IsSimu>
   <MaxPositions>10</MaxPositions>
