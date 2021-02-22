@@ -100,6 +100,24 @@
       <Value>2.139</Value>
       <Fee>2.5</Fee>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>11</Id>
+      <Date>2021-02-18T08:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>TURBO_BRENT SHORT X3</StockName>
+      <Qty>155</Qty>
+      <Value>1.97</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>12</Id>
+      <Date>2021-02-19T11:55:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>TURBO_BRENT SHORT X3</StockName>
+      <Qty>155</Qty>
+      <Value>2.151</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -116,7 +134,7 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Indicator>TRAILSTOP|TRAILHLBODY(12)</Indicator>
-      <ExitDate>2021-02-08T15:00:00</ExitDate>
+      <ExitDate>2021-02-19T11:55:00</ExitDate>
       <IsShort>false</IsShort>
       <Leverage>1</Leverage>
     </StockPosition>
@@ -240,6 +258,28 @@
       </BarDuration>
       <EntryComment>Achat avant signal du à la correction qui commence sur les indices US.</EntryComment>
       <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
+      <ExitDate>2021-02-18T08:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>TURBO_BRENT SHORT X3</StockName>
+      <EntryQty>355</EntryQty>
+      <EntryValue>0.344929516</EntryValue>
+      <EntryDate>2021-02-18T08:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-02-19T11:55:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>TURBO_BRENT SHORT X3</StockName>
+      <EntryQty>200</EntryQty>
+      <EntryValue>0.344929516</EntryValue>
+      <EntryDate>2021-02-19T11:55:00</EntryDate>
+      <Stop>0</Stop>
       <ExitDate
         xsi:nil="true" />
       <IsShort>false</IsShort>
@@ -248,7 +288,7 @@
   </Positions>
   <Name>@SaxoTitre</Name>
   <InitialBalance>2000</InitialBalance>
-  <Balance>430.190063</Balance>
+  <Balance>453.245056</Balance>
   <MaxRisk>0.05</MaxRisk>
   <IsSimu>false</IsSimu>
   <MaxPositions>10</MaxPositions>
