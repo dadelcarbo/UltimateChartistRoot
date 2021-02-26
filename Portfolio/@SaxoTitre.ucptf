@@ -127,6 +127,15 @@
       <Value>1.78</Value>
       <Fee>2.5</Fee>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>14</Id>
+      <Date>2021-02-09T19:40:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>TURBO_COFFEE LONG X5</StockName>
+      <Qty>36</Qty>
+      <Value>6.8</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -210,8 +219,7 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
-      <ExitDate
-        xsi:nil="true" />
+      <ExitDate>2021-02-09T19:40:00</ExitDate>
       <IsShort>false</IsShort>
       <Leverage>1</Leverage>
     </StockPosition>
@@ -316,7 +324,7 @@
   </Positions>
   <Name>@SaxoTitre</Name>
   <InitialBalance>2000</InitialBalance>
-  <Balance>94.7450562</Balance>
+  <Balance>337.045044</Balance>
   <MaxRisk>0.05</MaxRisk>
   <IsSimu>false</IsSimu>
   <MaxPositions>10</MaxPositions>

@@ -586,6 +586,44 @@
   <StockAnalysisItem StockName="FUT_BOND_BTP">
     <StockAnalysis Excluded="False" Theme="__Palmares_INT" HasDrawings="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_COM_OIL_BRENT">
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
+      <DrawingItems BarDuration="Bar_12">
+        <StockDrawingItems RefDate="24/02/2021 08:00:00" RefDateIndex="3339">
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>3294.80737</X>
+              <Y>65.68917</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>3295.80737</X>
+              <Y>65.68917</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </Line2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_IND_CAC40">
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
+      <DrawingItems BarDuration="Bar_3">
+        <StockDrawingItems RefDate="21/01/2021 09:00:00" RefDateIndex="6924">
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>6924.71826</X>
+              <Y>5659.211</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>7399.239</X>
+              <Y>5451.76172</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </Line2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="INT_CARREFOUR">
     <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
       <DrawingItems BarDuration="Bar_12">
