@@ -21,7 +21,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UltimateChartistRoot", "Ult
 		InvestingIntradayDownload.user.cfg = InvestingIntradayDownload.user.cfg
 		InvestingTickers.cfg = InvestingTickers.cfg
 		RatioIndicator.txt = RatioIndicator.txt
-		RydexDownload.cfg = RydexDownload.cfg
 		SentimentTrader_DATA_URL.xlsx = SentimentTrader_DATA_URL.xlsx
 		SocGenIntradayDownload.user.cfg = SocGenIntradayDownload.user.cfg
 		UltimateChartistAnalysis.ulc = UltimateChartistAnalysis.ulc
