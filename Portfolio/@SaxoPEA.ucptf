@@ -109,6 +109,60 @@
       <Value>49.8</Value>
       <Fee>2.5</Fee>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>12</Id>
+      <Date>2021-03-03T09:05:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>INT_BX4</StockName>
+      <Qty>1300</Qty>
+      <Value>2.022</Value>
+      <Fee>5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>13</Id>
+      <Date>2021-02-18T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>AGROGENERATION</StockName>
+      <Qty>9400</Qty>
+      <Value>0.183</Value>
+      <Fee>5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>14</Id>
+      <Date>2021-02-18T09:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>INT_AGROGENERATION</StockName>
+      <Qty>5600</Qty>
+      <Value>0.1705</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>15</Id>
+      <Date>2021-02-09T09:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>INT_ARCELOR</StockName>
+      <Qty>50</Qty>
+      <Value>19.34</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>16</Id>
+      <Date>2021-02-16T14:30:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>INT_ERAMET</StockName>
+      <Qty>20</Qty>
+      <Value>49.3</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>17</Id>
+      <Date>2021-02-24T19:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>TURBO_RENAULT SHORT X5</StockName>
+      <Qty>100</Qty>
+      <Value>5.1</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -126,8 +180,7 @@
       </BarDuration>
       <EntryComment>New High</EntryComment>
       <Indicator>TRAILSTOP|TRAILHLBODY(12)</Indicator>
-      <ExitDate
-        xsi:nil="true" />
+      <ExitDate>2021-02-18T00:00:00</ExitDate>
       <IsShort>false</IsShort>
       <Leverage>1</Leverage>
     </StockPosition>
@@ -145,8 +198,7 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
-      <ExitDate
-        xsi:nil="true" />
+      <ExitDate>2021-02-09T09:00:00</ExitDate>
       <IsShort>false</IsShort>
       <Leverage>1</Leverage>
     </StockPosition>
@@ -164,8 +216,7 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
-      <ExitDate
-        xsi:nil="true" />
+      <ExitDate>2021-02-16T14:30:00</ExitDate>
       <IsShort>false</IsShort>
       <Leverage>1</Leverage>
     </StockPosition>
@@ -183,8 +234,7 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
-      <ExitDate
-        xsi:nil="true" />
+      <ExitDate>2021-02-18T09:00:00</ExitDate>
       <IsShort>false</IsShort>
       <Leverage>1</Leverage>
     </StockPosition>
@@ -221,8 +271,7 @@
       </BarDuration>
       <EntryComment>CAC at highs and Renault underperforming. Very tight STOP</EntryComment>
       <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
-      <ExitDate
-        xsi:nil="true" />
+      <ExitDate>2021-02-24T19:00:00</ExitDate>
       <IsShort>false</IsShort>
       <Leverage>1</Leverage>
     </StockPosition>
@@ -258,8 +307,7 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
-      <ExitDate
-        xsi:nil="true" />
+      <ExitDate>2021-03-03T09:05:00</ExitDate>
       <IsShort>false</IsShort>
       <Leverage>1</Leverage>
     </StockPosition>
@@ -285,7 +333,7 @@
   </Positions>
   <Name>@SaxoPEA</Name>
   <InitialBalance>15000</InitialBalance>
-  <Balance>8904.77</Balance>
+  <Balance>16651.37</Balance>
   <MaxRisk>0.02</MaxRisk>
   <IsSimu>false</IsSimu>
   <MaxPositions>10</MaxPositions>
