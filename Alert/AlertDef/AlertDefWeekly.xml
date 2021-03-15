@@ -8,4 +8,12 @@
     <IndicatorName>CUPHANDLE(6,false,12)</IndicatorName>
     <EventName>BrokenUp</EventName>
   </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>
+      <Duration>Bar_12</Duration>
+    </BarDuration>
+    <IndicatorType>INDICATOR</IndicatorType>
+    <IndicatorName>BBEX(50,1.25,-1.25,EMA)</IndicatorName>
+    <EventName>FirstBodyAboveBand</EventName>
+  </StockAlertDef>
 </ArrayOfStockAlertDef>

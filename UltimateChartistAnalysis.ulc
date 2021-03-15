@@ -55,6 +55,25 @@
   <StockAnalysisItem StockName="BACCARAT">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="CEGEDIM">
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
+      <DrawingItems BarDuration="Daily">
+        <StockDrawingItems>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>5301.409</X>
+              <Y>24.8155689</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>5302.409</X>
+              <Y>24.8155689</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </Line2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="ECA">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
