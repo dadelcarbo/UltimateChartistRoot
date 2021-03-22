@@ -10,7 +10,7 @@
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>
-      <Duration>Bar_12</Duration>
+      <Duration>Weekly</Duration>
     </BarDuration>
     <IndicatorType>INDICATOR</IndicatorType>
     <IndicatorName>BBEX(50,1.25,-1.25,EMA)</IndicatorName>

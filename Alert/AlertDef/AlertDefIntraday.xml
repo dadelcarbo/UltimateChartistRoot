@@ -6,7 +6,7 @@
       <LineBreak>0</LineBreak>
     </BarDuration>
     <IndicatorType>CLOUD</IndicatorType>
-    <IndicatorName>TRENDBODY(30)</IndicatorName>
+    <IndicatorName>TRENDBODY(50)</IndicatorName>
     <EventName>CloudUp</EventName>
   </StockAlertDef>
   <StockAlertDef>
@@ -24,5 +24,16 @@
     <IndicatorType>INDICATOR</IndicatorType>
     <IndicatorName>BBEX(50,1.25,-1.25,EMA)</IndicatorName>
     <EventName>FirstBodyAboveBand</EventName>
-  </StockAlertDef>  
+  </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>
+      <Duration>Bar_12</Duration>
+      <Smoothing>1</Smoothing>
+      <LineBreak>0</LineBreak>
+      <HeikinAshi>false</HeikinAshi>
+    </BarDuration>
+    <IndicatorType>INDICATOR</IndicatorType>
+    <IndicatorName>HIGHEST(52)</IndicatorName>
+    <EventName>NewHigh</EventName>
+  </StockAlertDef>
 </ArrayOfStockAlertDef>
