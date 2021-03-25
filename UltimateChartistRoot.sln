@@ -156,6 +156,20 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AlertDef", "AlertDef", "{07
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AlertLog", "AlertLog", "{4C593634-1FD8-481E-A565-73D9EBF8F887}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Formation", "Formation", "{2E0C0A73-0FBB-46A0-B58D-CB72BA373804}"
+	ProjectSection(SolutionItems) = preProject
+		Formation\BackTestResults.xlsx = Formation\BackTestResults.xlsx
+		Formation\BackTestResults_Intraday_TF.xlsx = Formation\BackTestResults_Intraday_TF.xlsx
+		Formation\BackTestResults_Monthly_TF.xlsx = Formation\BackTestResults_Monthly_TF.xlsx
+		Formation\BackTestResults_Weekly_TF.xlsx = Formation\BackTestResults_Weekly_TF.xlsx
+		Formation\CompoundInterest.xlsx = Formation\CompoundInterest.xlsx
+		Formation\CupHandle_Weekly.xlsx = Formation\CupHandle_Weekly.xlsx
+		Formation\Formation Bourse.pptx = Formation\Formation Bourse.pptx
+		Formation\Formation Bourse_Benoit.pptx = Formation\Formation Bourse_Benoit.pptx
+		Formation\TradeRisk.xlsx = Formation\TradeRisk.xlsx
+		Formation\VariationInMonth.xlsx = Formation\VariationInMonth.xlsx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -171,6 +185,7 @@ Global
 		{67B0D179-5378-4BB1-A155-58600F7DACEC} = {1C7888FD-6579-4E34-A96B-ADCF2BC8AB8C}
 		{07757D98-B606-4FDD-9BF0-D4947BEB6440} = {67B0D179-5378-4BB1-A155-58600F7DACEC}
 		{4C593634-1FD8-481E-A565-73D9EBF8F887} = {67B0D179-5378-4BB1-A155-58600F7DACEC}
+		{2E0C0A73-0FBB-46A0-B58D-CB72BA373804} = {1C7888FD-6579-4E34-A96B-ADCF2BC8AB8C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {739F75DB-2139-48D8-A612-E8AB77F3CF0F}
