@@ -1,321 +1,1809 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<StockPortfolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StockPortfolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <TradeOperations>
     <StockTradeOperation>
       <Id>0</Id>
-      <Date>2021-01-13T09:00:00</Date>
+      <Date>2021-01-04T00:00:00</Date>
       <OperationType>Buy</OperationType>
-      <StockName>TURBO_NASDAQ PUT 13750</StockName>
+      <StockName>Tesla Inc. LEV Short 5x Open (SOG)</StockName>
+      <Qty>100</Qty>
+      <Value>5.72</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>1</Id>
+      <Date>2021-01-04T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Tesla Inc. LEV Short 5x Open (SOG)</StockName>
+      <Qty>100</Qty>
+      <Value>4.97</Value>
+      <Fee>2.4</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>2</Id>
+      <Date>2021-01-04T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Tesla Inc. LEV Short 5x Open (SOG)</StockName>
+      <Qty>100</Qty>
+      <Value>5.09</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>3</Id>
+      <Date>2021-01-05T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Lyxor S&amp;P 500 Daily (-2x) Inverse UCITS ETF</StockName>
+      <Qty>76</Qty>
+      <Value>13.05</Value>
+      <Fee>2.73</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>4</Id>
+      <Date>2021-01-06T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Tesla Inc. LEV Short 5x Open (SOG)</StockName>
+      <Qty>100</Qty>
+      <Value>4.49</Value>
+      <Fee>2.4</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5</Id>
+      <Date>2021-01-13T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
       <Qty>80</Qty>
       <Value>7</Value>
       <Fee>2.5</Fee>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>1</Id>
-      <Date>2021-01-13T15:46:00</Date>
+      <Id>6</Id>
+      <Date>2021-01-13T00:00:00</Date>
       <OperationType>Buy</OperationType>
-      <StockName>TURBO_TESLA SHORT X5</StockName>
+      <StockName>Tesla Inc. LEV Short 5x Open (SOG)</StockName>
       <Qty>300</Qty>
-      <Value>1.811</Value>
+      <Value>1.81</Value>
+      <Fee>2.8</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>7</Id>
+      <Date>2021-01-20T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Lyxor S&amp;P 500 Daily (-2x) Inverse UCITS ETF</StockName>
+      <Qty>76</Qty>
+      <Value>12.31</Value>
+      <Fee>2.42</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>8</Id>
+      <Date>2021-01-20T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <Qty>120</Qty>
+      <Value>4.59</Value>
       <Fee>2.5</Fee>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>2</Id>
-      <Date>2021-01-21T13:15:00</Date>
+      <Id>9</Id>
+      <Date>2021-01-21T00:00:00</Date>
       <OperationType>Buy</OperationType>
-      <StockName>TURBO_CARREFOUR LONG X2</StockName>
+      <StockName>Carrefour LEV Long 2x Open (SOG)</StockName>
       <Qty>6</Qty>
       <Value>58.29</Value>
       <Fee>2.5</Fee>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>3</Id>
-      <Date>2021-02-08T14:19:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>TURBO_CARREFOUR LONG X2</StockName>
-      <Qty>9</Qty>
-      <Value>53.64</Value>
+      <Id>10</Id>
+      <Date>2021-01-22T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Carrefour LEV Long 2x Open (SOG)</StockName>
+      <Qty>6</Qty>
+      <Value>55.77</Value>
       <Fee>2.5</Fee>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>4</Id>
-      <Date>2021-02-05T12:00:00</Date>
+      <Id>11</Id>
+      <Date>2021-01-22T00:00:00</Date>
       <OperationType>Buy</OperationType>
-      <StockName>TURBO_COFFEE LONG X5</StockName>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <Qty>100</Qty>
+      <Value>3.32</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>12</Id>
+      <Date>2021-01-25T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Tesla Inc. LEV Short 5x Open (SOG)</StockName>
+      <Qty>300</Qty>
+      <Value>1.62</Value>
+      <Fee>1.9</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>13</Id>
+      <Date>2021-01-25T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <Qty>250</Qty>
+      <Value>2.01</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>14</Id>
+      <Date>2021-01-25T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <Qty>250</Qty>
+      <Value>3.68</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>15</Id>
+      <Date>2021-01-27T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Tesla Inc. LEV Short 5x Open (SOG)</StockName>
+      <Qty>320</Qty>
+      <Value>1.59</Value>
+      <Fee>1.86</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>16</Id>
+      <Date>2021-01-27T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <Qty>100</Qty>
+      <Value>5.07</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>17</Id>
+      <Date>2021-01-27T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Tesla Inc. LEV Short 5x Open (SOG)</StockName>
+      <Qty>280</Qty>
+      <Value>1.44</Value>
+      <Fee>3.62</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>18</Id>
+      <Date>2021-01-28T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <Qty>50</Qty>
+      <Value>7.05</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>19</Id>
+      <Date>2021-02-01T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <Qty>250</Qty>
+      <Value>6.04</Value>
+      <Fee>5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>20</Id>
+      <Date>2021-02-01T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Tesla Inc. LEV Short 5x Open (SOG)</StockName>
+      <Qty>600</Qty>
+      <Value>1.96</Value>
+      <Fee>4.4</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>21</Id>
+      <Date>2021-02-01T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <Qty>100</Qty>
+      <Value>4.58</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>22</Id>
+      <Date>2021-02-01T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Tesla Inc. LEV Short 5x Open (SOG)</StockName>
+      <Qty>300</Qty>
+      <Value>1.72</Value>
+      <Fee>3.1</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>23</Id>
+      <Date>2021-02-03T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <Qty>200</Qty>
+      <Value>1.93</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>24</Id>
+      <Date>2021-02-03T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <Qty>100</Qty>
+      <Value>2.53</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>25</Id>
+      <Date>2021-02-03T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <Qty>100</Qty>
+      <Value>2.85</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>26</Id>
+      <Date>2021-02-03T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <Qty>100</Qty>
+      <Value>3.16</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>27</Id>
+      <Date>2021-02-04T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Brent Crude - Jun 2021 LEV Short 3x Open (SOG)</StockName>
+      <Qty>200</Qty>
+      <Value>2.72</Value>
+      <Fee>3.3</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>28</Id>
+      <Date>2021-02-04T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>SOITEC LEV Short 5x Open (SOG)</StockName>
+      <Qty>10</Qty>
+      <Value>50.64</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>29</Id>
+      <Date>2021-02-05T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <Qty>300</Qty>
+      <Value>1.65</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>30</Id>
+      <Date>2021-02-05T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Coffee C - May 2021 LEV Long 5x Open (SOG)</StockName>
       <Qty>36</Qty>
       <Value>7.31</Value>
       <Fee>2.5</Fee>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>5</Id>
-      <Date>2021-02-08T08:00:00</Date>
+      <Id>31</Id>
+      <Date>2021-02-05T00:00:00</Date>
       <OperationType>Sell</OperationType>
-      <StockName>TURBO_TESLA SHORT X5</StockName>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <Qty>250</Qty>
+      <Value>2.15</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>32</Id>
+      <Date>2021-02-08T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Tesla Inc. LEV Short 5x Open (SOG)</StockName>
       <Qty>300</Qty>
-      <Value>1.391</Value>
+      <Value>1.39</Value>
+      <Fee>2.2</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>33</Id>
+      <Date>2021-02-08T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Brent Crude - Jun 2021 LEV Short 3x Open (SOG)</StockName>
+      <Qty>200</Qty>
+      <Value>2.55</Value>
+      <Fee>3.3</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>34</Id>
+      <Date>2021-02-08T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>SOITEC LEV Short 5x Open (SOG)</StockName>
+      <Qty>10</Qty>
+      <Value>41.65</Value>
       <Fee>2.5</Fee>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>6</Id>
-      <Date>2021-02-04T15:06:00</Date>
+      <Id>35</Id>
+      <Date>2021-02-08T00:00:00</Date>
       <OperationType>Buy</OperationType>
-      <StockName>TURBO_BRENT SHORT X3</StockName>
-      <Qty>200</Qty>
-      <Value>2.724</Value>
+      <StockName>Agrogeneration S A</StockName>
+      <Qty>5600</Qty>
+      <Value>0.17</Value>
+      <Fee>15.84</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>36</Id>
+      <Date>2021-02-08T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Carrefour LEV Long 2x Open (SOG)</StockName>
+      <Qty>9</Qty>
+      <Value>53.64</Value>
       <Fee>2.5</Fee>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>7</Id>
-      <Date>2021-02-08T14:00:00</Date>
+      <Id>37</Id>
+      <Date>2021-02-08T00:00:00</Date>
       <OperationType>Sell</OperationType>
-      <StockName>TURBO_BRENT SHORT X3</StockName>
-      <Qty>200</Qty>
-      <Value>2.54</Value>
-      <Fee>2.5</Fee>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>8</Id>
-      <Date>2021-02-08T15:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>TURBO_NASDAQ PUT 13750</StockName>
-      <Qty>80</Qty>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <Qty>250</Qty>
       <Value>0.97</Value>
       <Fee>2.5</Fee>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>9</Id>
-      <Date>2021-02-12T09:50:00</Date>
+      <Id>38</Id>
+      <Date>2021-02-09T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Carrefour LEV Long 2x Open (SOG)</StockName>
+      <Qty>9</Qty>
+      <Value>52.62</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>39</Id>
+      <Date>2021-02-09T00:00:00</Date>
       <OperationType>Buy</OperationType>
-      <StockName>TURBO_NASDAQ PUT 14950</StockName>
+      <StockName>Passat SA</StockName>
+      <Qty>136</Qty>
+      <Value>7.35</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>40</Id>
+      <Date>2021-02-09T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Passat SA</StockName>
+      <Qty>136</Qty>
+      <Value>7.28</Value>
+      <Fee>3.08</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>41</Id>
+      <Date>2021-02-09T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Brent Crude - Jun 2021 LEV Short 3x Open (SOG)</StockName>
+      <Qty>200</Qty>
+      <Value>2.5</Value>
+      <Fee>2.1</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>42</Id>
+      <Date>2021-02-10T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Agrogeneration S A</StockName>
+      <Qty>5600</Qty>
+      <Value>0.18</Value>
+      <Fee>30.1</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>43</Id>
+      <Date>2021-02-10T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Unibail-Rodamco-Westfield N LEV Long 5x Open (SOG)</StockName>
+      <Qty>200</Qty>
+      <Value>2.19</Value>
+      <Fee>2.3</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>44</Id>
+      <Date>2021-02-10T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Unibail-Rodamco-Westfield N LEV Long 5x Open (SOG)</StockName>
+      <Qty>200</Qty>
+      <Value>2.15</Value>
+      <Fee>1.9</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>45</Id>
+      <Date>2021-02-10T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Unibail-Rodamco-Westfield N LEV Long 5x Open (SOG)</StockName>
+      <Qty>200</Qty>
+      <Value>2.49</Value>
+      <Fee>3.1</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>46</Id>
+      <Date>2021-02-10T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>NASDAQ 100 Turbo BEST Put 14950 18.06.2021 (SOG)</StockName>
+      <Qty>42</Qty>
+      <Value>11.72</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>47</Id>
+      <Date>2021-02-11T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Unibail-Rodamco-Westfield N LEV Long 5x Open (SOG)</StockName>
+      <Qty>500</Qty>
+      <Value>0.71</Value>
+      <Fee>2</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>48</Id>
+      <Date>2021-02-11T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Unibail-Rodamco-Westfield N LEV Long 5x Open (SOG)</StockName>
+      <Qty>300</Qty>
+      <Value>0.65</Value>
+      <Fee>1.6</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>49</Id>
+      <Date>2021-02-11T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>NASDAQ 100 Turbo BEST Put 14950 18.06.2021 (SOG)</StockName>
+      <Qty>42</Qty>
+      <Value>10.51</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>50</Id>
+      <Date>2021-02-11T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Unibail-Rodamco-Westfield N LEV Long 5x Open (SOG)</StockName>
+      <Qty>50</Qty>
+      <Value>0.99</Value>
+      <Fee>2.4</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>51</Id>
+      <Date>2021-02-11T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Tesla Inc. LEV Short 5x Open (SOG)</StockName>
+      <Qty>200</Qty>
+      <Value>1.79</Value>
+      <Fee>1.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>52</Id>
+      <Date>2021-02-12T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Unibail-Rodamco-Westfield N LEV Long 5x Open (SOG)</StockName>
+      <Qty>1050</Qty>
+      <Value>0.82</Value>
+      <Fee>3.55</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>53</Id>
+      <Date>2021-02-12T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>NASDAQ 100 Turbo BEST Put 14950 18.06.2021 (SOG)</StockName>
       <Qty>45</Qty>
       <Value>10.71</Value>
       <Fee>2.5</Fee>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>10</Id>
-      <Date>2021-02-17T15:30:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>TURBO_BRENT SHORT X3</StockName>
-      <Qty>200</Qty>
-      <Value>2.139</Value>
-      <Fee>2.5</Fee>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>11</Id>
-      <Date>2021-02-18T08:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>TURBO_BRENT SHORT X3</StockName>
-      <Qty>155</Qty>
-      <Value>1.97</Value>
-      <Fee>2.5</Fee>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>12</Id>
-      <Date>2021-02-19T11:55:00</Date>
+      <Id>54</Id>
+      <Date>2021-02-12T00:00:00</Date>
       <OperationType>Sell</OperationType>
-      <StockName>TURBO_BRENT SHORT X3</StockName>
-      <Qty>155</Qty>
-      <Value>2.151</Value>
-      <Fee>2.5</Fee>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>13</Id>
-      <Date>2021-02-10T16:35:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>TURBO_TESLA SHORT X5</StockName>
-      <Qty>200</Qty>
-      <Value>1.78</Value>
-      <Fee>2.5</Fee>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>14</Id>
-      <Date>2021-02-09T19:40:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>TURBO_COFFEE LONG X5</StockName>
+      <StockName>Coffee C - May 2021 LEV Long 5x Open (SOG)</StockName>
       <Qty>36</Qty>
-      <Value>6.8</Value>
+      <Value>6.32</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>55</Id>
+      <Date>2021-02-12T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Brent Crude - Jun 2021 LEV Short 3x Open (SOG)</StockName>
+      <Qty>200</Qty>
+      <Value>2.22</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>56</Id>
+      <Date>2021-02-15T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Renault LEV Short 5x Open (SOG)</StockName>
+      <Qty>100</Qty>
+      <Value>3.96</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>57</Id>
+      <Date>2021-02-16T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>NASDAQ 100 Turbo BEST Put 14950 18.06.2021 (SOG)</StockName>
+      <Qty>45</Qty>
+      <Value>9.29</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>58</Id>
+      <Date>2021-02-16T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>NASDAQ 100 Turbo BEST Put 14950 18.06.2021 (SOG)</StockName>
+      <Qty>45</Qty>
+      <Value>10.3</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>59</Id>
+      <Date>2021-02-17T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Brent Crude - Jun 2021 LEV Short 3x Open (SOG)</StockName>
+      <Qty>200</Qty>
+      <Value>2.13</Value>
+      <Fee>2.9</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>60</Id>
+      <Date>2021-02-18T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Brent Crude - Jun 2021 LEV Short 3x Open (SOG)</StockName>
+      <Qty>155</Qty>
+      <Value>1.99</Value>
+      <Fee>2.03</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>61</Id>
+      <Date>2021-02-19T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Brent Crude - Jun 2021 LEV Short 3x Open (SOG)</StockName>
+      <Qty>155</Qty>
+      <Value>2.15</Value>
+      <Fee>2.19</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>62</Id>
+      <Date>2021-02-22T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Gold/US Doll Turbo BEST Call 1550 09.03.2021 (SOG)</StockName>
+      <Qty>160</Qty>
+      <Value>2.03</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>63</Id>
+      <Date>2021-02-23T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Brent Crude - Jun 2021 LEV Short 3x Open (SOG)</StockName>
+      <Qty>200</Qty>
+      <Value>1.85</Value>
+      <Fee>1.7</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>64</Id>
+      <Date>2021-02-23T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Tesla Inc. LEV Short 5x Open (SOG)</StockName>
+      <Qty>100</Qty>
+      <Value>3.5</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>65</Id>
+      <Date>2021-02-23T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Gold/US Doll Turbo BEST Call 1550 09.03.2021 (SOG)</StockName>
+      <Qty>160</Qty>
+      <Value>2.12</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>66</Id>
+      <Date>2021-02-24T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Brent Crude - Jun 2021 LEV Short 3x Open (SOG)</StockName>
+      <Qty>250</Qty>
+      <Value>1.88</Value>
+      <Fee>1.25</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>67</Id>
+      <Date>2021-02-24T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Brent Crude - Jun 2021 LEV Short 3x Open (SOG)</StockName>
+      <Qty>250</Qty>
+      <Value>1.83</Value>
+      <Fee>1.25</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>68</Id>
+      <Date>2021-02-24T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>NASDAQ 100 Turbo BEST Put 14950 18.06.2021 (SOG)</StockName>
+      <Qty>45</Qty>
+      <Value>15.32</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>69</Id>
+      <Date>2021-02-24T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Tesla Inc. LEV Short 5x Open (SOG)</StockName>
+      <Qty>100</Qty>
+      <Value>2.72</Value>
+      <Fee>2.4</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>70</Id>
+      <Date>2021-02-24T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Renault LEV Short 5x Open (SOG)</StockName>
+      <Qty>100</Qty>
+      <Value>5.04</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>71</Id>
+      <Date>2021-02-24T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Capgemini Turbo BEST Call 98 19.03.2021 (UCR)</StockName>
+      <Qty>100</Qty>
+      <Value>3.87</Value>
+      <Fee>2.2</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>72</Id>
+      <Date>2021-02-25T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Capgemini Turbo BEST Call 98 19.03.2021 (UCR)</StockName>
+      <Qty>100</Qty>
+      <Value>3.67</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>73</Id>
+      <Date>2021-03-02T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Brent Crude - Jun 2021 LEV Short 3x Open (SOG)</StockName>
+      <Qty>250</Qty>
+      <Value>2.06</Value>
+      <Fee>3</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>74</Id>
+      <Date>2021-03-02T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Henry Hub Natural Gas - May LEV Long 5x Open (SOG)</StockName>
+      <Qty>125</Qty>
+      <Value>4.05</Value>
+      <Fee>2.63</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>75</Id>
+      <Date>2021-03-02T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>NASDAQ 100 Turbo BEST Put 14950 18.06.2021 (SOG)</StockName>
+      <Qty>30</Qty>
+      <Value>14.88</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>76</Id>
+      <Date>2021-03-03T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Cocoa - May 2021 Turbo Call 1890 Open (SOG)</StockName>
+      <Qty>80</Qty>
+      <Value>6.89</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>77</Id>
+      <Date>2021-03-05T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Cocoa - May 2021 Turbo Call 1890 Open (SOG)</StockName>
+      <Qty>80</Qty>
+      <Value>6.32</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>78</Id>
+      <Date>2021-03-08T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Henry Hub Natural Gas - May LEV Long 5x Open (SOG)</StockName>
+      <Qty>175</Qty>
+      <Value>2.91</Value>
+      <Fee>1.63</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>79</Id>
+      <Date>2021-03-08T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>NASDAQ 100 Turbo BEST Put 14950 18.06.2021 (SOG)</StockName>
+      <Qty>30</Qty>
+      <Value>19.37</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>80</Id>
+      <Date>2021-03-08T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Copper - Mar 2021 LEV Long 5x Open (SOG)</StockName>
+      <Qty>17</Qty>
+      <Value>30.71</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>81</Id>
+      <Date>2021-03-09T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Copper - Mar 2021 LEV Long 5x Open (SOG)</StockName>
+      <Qty>17</Qty>
+      <Value>27.26</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>82</Id>
+      <Date>2021-03-10T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Henry Hub Natural Gas - May LEV Long 5x Open (SOG)</StockName>
+      <Qty>300</Qty>
+      <Value>2.73</Value>
+      <Fee>3.4</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>83</Id>
+      <Date>2021-03-10T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Innate Pharma SA</StockName>
+      <Qty>240</Qty>
+      <Value>3.77</Value>
+      <Fee>3.46</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>84</Id>
+      <Date>2021-03-10T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Brent Crude - Jun 2021 LEV Short 3x Open (SOG)</StockName>
+      <Qty>250</Qty>
+      <Value>1.65</Value>
+      <Fee>2.75</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>85</Id>
+      <Date>2021-03-10T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Coffee C - May 2021 Turbo Call .96 Open (SOG)</StockName>
+      <Qty>420</Qty>
+      <Value>1.32</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>86</Id>
+      <Date>2021-03-10T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Carrefour LEV Long 2x Open (SOG)</StockName>
+      <Qty>10</Qty>
+      <Value>53.67</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>87</Id>
+      <Date>2021-03-10T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Innate Pharma SA</StockName>
+      <Qty>240</Qty>
+      <Value>3.86</Value>
+      <Fee>2.98</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>88</Id>
+      <Date>2021-03-10T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Euro/US Dollar Turbo Call 1.0992 Open (SOG)</StockName>
+      <Qty>60</Qty>
+      <Value>8.91</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>89</Id>
+      <Date>2021-03-10T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Tesla Inc. Turbo BEST Put 930 19.03.2021 (SOG)</StockName>
+      <Qty>115</Qty>
+      <Value>4.99</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>90</Id>
+      <Date>2021-03-11T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Tesla Inc. Turbo BEST Put 930 19.03.2021 (SOG)</StockName>
+      <Qty>115</Qty>
+      <Value>5.27</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>91</Id>
+      <Date>2021-03-11T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Henry Hub Natural Gas - May LEV Long 5x Open (SOG)</StockName>
+      <Qty>180</Qty>
+      <Value>3.17</Value>
+      <Fee>1.6</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>92</Id>
+      <Date>2021-03-16T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Euro/US Dollar Turbo Call 1.0992 Open (SOG)</StockName>
+      <Qty>60</Qty>
+      <Value>8.76</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>93</Id>
+      <Date>2021-03-16T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Henry Hub Natural Gas - May LEV Long 5x Open (SOG)</StockName>
+      <Qty>240</Qty>
+      <Value>2.17</Value>
+      <Fee>3.46</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>94</Id>
+      <Date>2021-03-25T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Henry Hub Natural Gas - May LEV Long 5x Open (SOG)</StockName>
+      <Qty>420</Qty>
+      <Value>2.06</Value>
+      <Fee>2.92</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>95</Id>
+      <Date>2021-03-25T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>Coffee C - May 2021 Turbo Call .96 Open (SOG)</StockName>
+      <Qty>420</Qty>
+      <Value>1.13</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>96</Id>
+      <Date>2021-03-25T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Henry Hub Natural Gas - May LEV Long 5x Open (SOG)</StockName>
+      <Qty>230</Qty>
+      <Value>2.42</Value>
+      <Fee>1.35</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>97</Id>
+      <Date>2021-03-26T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>Palladium/US Dollar Turbo Call 2034 Open (SOG)</StockName>
+      <Qty>823</Qty>
+      <Value>0.68</Value>
       <Fee>2.5</Fee>
     </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
       <Id>0</Id>
-      <StockName>TURBO_NASDAQ PUT 13750</StockName>
-      <EntryQty>80</EntryQty>
-      <EntryValue>7.03125</EntryValue>
-      <EntryDate>2021-01-13T09:00:00</EntryDate>
-      <Stop>6.309</Stop>
-      <BarDuration>
-        <Duration>Bar_12</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <Indicator>TRAILSTOP|TRAILHLBODY(12)</Indicator>
-      <ExitDate>2021-02-19T11:55:00</ExitDate>
-      <IsShort>false</IsShort>
-      <Leverage>1</Leverage>
-    </StockPosition>
-    <StockPosition>
-      <Id>1</Id>
-      <StockName>TURBO_TESLA SHORT X5</StockName>
-      <EntryQty>300</EntryQty>
-      <EntryValue>1.81933331</EntryValue>
-      <EntryDate>2021-01-13T15:46:00</EntryDate>
-      <Stop>1.6758</Stop>
-      <BarDuration>
-        <Duration>Bar_12</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <Indicator>TRAILSTOP|TRAILHLBODY(12)</Indicator>
-      <ExitDate>2021-02-08T08:00:00</ExitDate>
-      <IsShort>false</IsShort>
-      <Leverage>1</Leverage>
-    </StockPosition>
-    <StockPosition>
-      <Id>2</Id>
-      <StockName>TURBO_CARREFOUR LONG X2</StockName>
-      <EntryQty>6</EntryQty>
-      <EntryValue>58.706665</EntryValue>
-      <EntryDate>2021-01-21T13:15:00</EntryDate>
-      <Stop>50.5</Stop>
-      <BarDuration>
-        <Duration>Bar_12</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <EntryComment>Rebond court terme</EntryComment>
-      <Indicator>TRAILSTOP|TRAILHLBODY(12)</Indicator>
-      <ExitDate>2021-02-08T14:19:00</ExitDate>
-      <IsShort>false</IsShort>
-      <Leverage>1</Leverage>
-    </StockPosition>
-    <StockPosition>
-      <Id>0</Id>
-      <StockName>TURBO_CARREFOUR LONG X2</StockName>
-      <EntryQty>15</EntryQty>
-      <EntryValue>-8.868001</EntryValue>
-      <EntryDate>2021-02-08T14:19:00</EntryDate>
+      <StockName>Tesla Inc. LEV Short 5x Open (SOG)</StockName>
+      <EntryQty>100</EntryQty>
+      <EntryValue>5.745</EntryValue>
+      <EntryDate>2021-01-04T00:00:00</EntryDate>
       <Stop>0</Stop>
-      <ExitDate
-        xsi:nil="true" />
-      <IsShort>false</IsShort>
-      <Leverage>1</Leverage>
-    </StockPosition>
-    <StockPosition>
-      <Id>4</Id>
-      <StockName>TURBO_COFFEE LONG X5</StockName>
-      <EntryQty>36</EntryQty>
-      <EntryValue>7.3794446</EntryValue>
-      <EntryDate>2021-02-05T12:00:00</EntryDate>
-      <Stop>6.75</Stop>
-      <BarDuration>
-        <Duration>Bar_12</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
-      <ExitDate>2021-02-09T19:40:00</ExitDate>
-      <IsShort>false</IsShort>
-      <Leverage>1</Leverage>
-    </StockPosition>
-    <StockPosition>
-      <Id>6</Id>
-      <StockName>TURBO_BRENT SHORT X3</StockName>
-      <EntryQty>200</EntryQty>
-      <EntryValue>2.7365</EntryValue>
-      <EntryDate>2021-02-04T15:06:00</EntryDate>
-      <Stop>2.3445</Stop>
-      <BarDuration>
-        <Duration>Bar_12</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
-      <ExitDate>2021-02-08T14:00:00</ExitDate>
-      <IsShort>false</IsShort>
-      <Leverage>1</Leverage>
-    </StockPosition>
-    <StockPosition>
-      <Id>9</Id>
-      <StockName>TURBO_NASDAQ PUT 14950</StockName>
-      <EntryQty>45</EntryQty>
-      <EntryValue>10.7655554</EntryValue>
-      <EntryDate>2021-02-12T09:50:00</EntryDate>
-      <Stop>9.665999</Stop>
-      <BarDuration>
-        <Duration>Bar_12</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
-      <ExitDate
-        xsi:nil="true" />
-      <IsShort>false</IsShort>
-      <Leverage>1</Leverage>
-    </StockPosition>
-    <StockPosition>
-      <Id>10</Id>
-      <StockName>TURBO_BRENT SHORT X3</StockName>
-      <EntryQty>200</EntryQty>
-      <EntryValue>2.1515</EntryValue>
-      <EntryDate>2021-02-17T15:30:00</EntryDate>
-      <Stop>2.03</Stop>
-      <BarDuration>
-        <Duration>Bar_12</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <EntryComment>Achat avant signal du à la correction qui commence sur les indices US.</EntryComment>
-      <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
-      <ExitDate>2021-02-18T08:00:00</ExitDate>
-      <IsShort>false</IsShort>
-      <Leverage>1</Leverage>
-    </StockPosition>
-    <StockPosition>
-      <Id>0</Id>
-      <StockName>TURBO_BRENT SHORT X3</StockName>
-      <EntryQty>355</EntryQty>
-      <EntryValue>0.344929516</EntryValue>
-      <EntryDate>2021-02-18T08:00:00</EntryDate>
-      <Stop>0</Stop>
-      <ExitDate>2021-02-19T11:55:00</ExitDate>
-      <IsShort>false</IsShort>
-      <Leverage>1</Leverage>
-    </StockPosition>
-    <StockPosition>
-      <Id>0</Id>
-      <StockName>TURBO_BRENT SHORT X3</StockName>
-      <EntryQty>200</EntryQty>
-      <EntryValue>0.344929516</EntryValue>
-      <EntryDate>2021-02-19T11:55:00</EntryDate>
-      <Stop>0</Stop>
-      <ExitDate
-        xsi:nil="true" />
-      <IsShort>false</IsShort>
-      <Leverage>1</Leverage>
-    </StockPosition>
-    <StockPosition>
-      <Id>13</Id>
-      <StockName>TURBO_TESLA SHORT X5</StockName>
-      <EntryQty>200</EntryQty>
-      <EntryValue>1.7925</EntryValue>
-      <EntryDate>2021-02-10T16:35:00</EntryDate>
-      <Stop>1.6164</Stop>
       <BarDuration>
         <Duration>Daily</Duration>
         <Smoothing>1</Smoothing>
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>TRAILSTOP|TRAILHLBODY(30)</Indicator>
+      <ExitDate>2021-03-25T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>2</Id>
+      <StockName>Tesla Inc. LEV Short 5x Open (SOG)</StockName>
+      <EntryQty>100</EntryQty>
+      <EntryValue>5.115</EntryValue>
+      <EntryDate>2021-01-04T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-01-06T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>3</Id>
+      <StockName>Lyxor S&amp;P 500 Daily (-2x) Inverse UCITS ETF</StockName>
+      <EntryQty>76</EntryQty>
+      <EntryValue>13.0859213</EntryValue>
+      <EntryDate>2021-01-05T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-01-20T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>5</Id>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <EntryQty>80</EntryQty>
+      <EntryValue>7.03125</EntryValue>
+      <EntryDate>2021-01-13T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-01-20T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>6</Id>
+      <StockName>Tesla Inc. LEV Short 5x Open (SOG)</StockName>
+      <EntryQty>300</EntryQty>
+      <EntryValue>1.81933331</EntryValue>
+      <EntryDate>2021-01-13T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-01-25T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <EntryQty>200</EntryQty>
+      <EntryValue>0.0459997542</EntryValue>
+      <EntryDate>2021-01-20T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-01-22T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>9</Id>
+      <StockName>Carrefour LEV Long 2x Open (SOG)</StockName>
+      <EntryQty>6</EntryQty>
+      <EntryValue>58.706665</EntryValue>
+      <EntryDate>2021-01-21T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-01-22T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <EntryQty>300</EntryQty>
+      <EntryValue>-1.08433354</EntryValue>
+      <EntryDate>2021-01-22T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-01-25T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <EntryQty>550</EntryQty>
+      <EntryValue>-1.50963652</EntryValue>
+      <EntryDate>2021-01-25T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-01-25T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <EntryQty>300</EntryQty>
+      <EntryValue>-1.50963652</EntryValue>
+      <EntryDate>2021-01-25T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-01-27T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>15</Id>
+      <StockName>Tesla Inc. LEV Short 5x Open (SOG)</StockName>
+      <EntryQty>320</EntryQty>
+      <EntryValue>1.59581256</EntryValue>
+      <EntryDate>2021-01-27T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-01-27T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <EntryQty>200</EntryQty>
+      <EntryValue>-1.50963652</EntryValue>
+      <EntryDate>2021-01-27T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-01-28T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>Tesla Inc. LEV Short 5x Open (SOG)</StockName>
+      <EntryQty>600</EntryQty>
+      <EntryValue>0.173066691</EntryValue>
+      <EntryDate>2021-01-27T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-02-01T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <EntryQty>250</EntryQty>
+      <EntryValue>-2.62770915</EntryValue>
+      <EntryDate>2021-01-28T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-02-01T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>21</Id>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <EntryQty>100</EntryQty>
+      <EntryValue>4.605</EntryValue>
+      <EntryDate>2021-02-01T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-02-03T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>22</Id>
+      <StockName>Tesla Inc. LEV Short 5x Open (SOG)</StockName>
+      <EntryQty>300</EntryQty>
+      <EntryValue>1.73033345</EntryValue>
+      <EntryDate>2021-02-01T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-02-08T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <EntryQty>300</EntryQty>
+      <EntryValue>0.24000001</EntryValue>
+      <EntryDate>2021-02-03T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-02-03T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <EntryQty>400</EntryQty>
+      <EntryValue>-0.45874998</EntryValue>
+      <EntryDate>2021-02-03T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-02-03T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <EntryQty>300</EntryQty>
+      <EntryValue>-0.45874998</EntryValue>
+      <EntryDate>2021-02-03T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-02-03T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <EntryQty>200</EntryQty>
+      <EntryValue>-0.45874998</EntryValue>
+      <EntryDate>2021-02-03T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-02-05T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>27</Id>
+      <StockName>Brent Crude - Jun 2021 LEV Short 3x Open (SOG)</StockName>
+      <EntryQty>200</EntryQty>
+      <EntryValue>2.7365</EntryValue>
+      <EntryDate>2021-02-04T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-02-08T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>28</Id>
+      <StockName>SOITEC LEV Short 5x Open (SOG)</StockName>
+      <EntryQty>10</EntryQty>
+      <EntryValue>50.89</EntryValue>
+      <EntryDate>2021-02-04T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-02-08T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <EntryQty>500</EntryQty>
+      <EntryValue>-1.17849994</EntryValue>
+      <EntryDate>2021-02-05T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-02-05T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>30</Id>
+      <StockName>Coffee C - May 2021 LEV Long 5x Open (SOG)</StockName>
+      <EntryQty>36</EntryQty>
+      <EntryValue>7.3794446</EntryValue>
+      <EntryDate>2021-02-05T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-02-12T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>NASDAQ 100 Turbo BEST Put 13750 19.03.2021 (SOG)</StockName>
+      <EntryQty>250</EntryQty>
+      <EntryValue>-1.17849994</EntryValue>
+      <EntryDate>2021-02-05T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-02-08T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>35</Id>
+      <StockName>Agrogeneration S A</StockName>
+      <EntryQty>5600</EntryQty>
+      <EntryValue>0.17282857</EntryValue>
+      <EntryDate>2021-02-08T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-02-10T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>36</Id>
+      <StockName>Carrefour LEV Long 2x Open (SOG)</StockName>
+      <EntryQty>9</EntryQty>
+      <EntryValue>53.917778</EntryValue>
+      <EntryDate>2021-02-08T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-02-09T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>39</Id>
+      <StockName>Passat SA</StockName>
+      <EntryQty>136</EntryQty>
+      <EntryValue>7.368382</EntryValue>
+      <EntryDate>2021-02-09T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-02-09T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>41</Id>
+      <StockName>Brent Crude - Jun 2021 LEV Short 3x Open (SOG)</StockName>
+      <EntryQty>200</EntryQty>
+      <EntryValue>2.5105</EntryValue>
+      <EntryDate>2021-02-09T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-02-12T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>43</Id>
+      <StockName>Unibail-Rodamco-Westfield N LEV Long 5x Open (SOG)</StockName>
+      <EntryQty>200</EntryQty>
+      <EntryValue>2.20150018</EntryValue>
+      <EntryDate>2021-02-10T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-02-10T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>45</Id>
+      <StockName>Unibail-Rodamco-Westfield N LEV Long 5x Open (SOG)</StockName>
+      <EntryQty>200</EntryQty>
+      <EntryValue>2.5055</EntryValue>
+      <EntryDate>2021-02-10T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-02-11T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>46</Id>
+      <StockName>NASDAQ 100 Turbo BEST Put 14950 18.06.2021 (SOG)</StockName>
+      <EntryQty>42</EntryQty>
+      <EntryValue>11.7795238</EntryValue>
+      <EntryDate>2021-02-10T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-02-11T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>Unibail-Rodamco-Westfield N LEV Long 5x Open (SOG)</StockName>
+      <EntryQty>700</EntryQty>
+      <EntryValue>0.205857173</EntryValue>
+      <EntryDate>2021-02-11T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-02-11T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>Unibail-Rodamco-Westfield N LEV Long 5x Open (SOG)</StockName>
+      <EntryQty>1000</EntryQty>
+      <EntryValue>-0.05249997</EntryValue>
+      <EntryDate>2021-02-11T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-02-11T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>Unibail-Rodamco-Westfield N LEV Long 5x Open (SOG)</StockName>
+      <EntryQty>1050</EntryQty>
+      <EntryValue>-0.09942854</EntryValue>
+      <EntryDate>2021-02-11T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-02-12T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>51</Id>
+      <StockName>Tesla Inc. LEV Short 5x Open (SOG)</StockName>
+      <EntryQty>200</EntryQty>
+      <EntryValue>1.7975</EntryValue>
+      <EntryDate>2021-02-11T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-02-23T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>53</Id>
+      <StockName>NASDAQ 100 Turbo BEST Put 14950 18.06.2021 (SOG)</StockName>
+      <EntryQty>45</EntryQty>
+      <EntryValue>10.7655554</EntryValue>
+      <EntryDate>2021-02-12T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-02-16T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>56</Id>
+      <StockName>Renault LEV Short 5x Open (SOG)</StockName>
+      <EntryQty>100</EntryQty>
+      <EntryValue>3.985</EntryValue>
+      <EntryDate>2021-02-15T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-02-24T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>NASDAQ 100 Turbo BEST Put 14950 18.06.2021 (SOG)</StockName>
+      <EntryQty>90</EntryQty>
+      <EntryValue>0.710000038</EntryValue>
+      <EntryDate>2021-02-16T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-02-16T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>NASDAQ 100 Turbo BEST Put 14950 18.06.2021 (SOG)</StockName>
+      <EntryQty>45</EntryQty>
+      <EntryValue>0.710000038</EntryValue>
+      <EntryDate>2021-02-16T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-02-24T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>59</Id>
+      <StockName>Brent Crude - Jun 2021 LEV Short 3x Open (SOG)</StockName>
+      <EntryQty>200</EntryQty>
+      <EntryValue>2.1445</EntryValue>
+      <EntryDate>2021-02-17T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-02-18T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>Brent Crude - Jun 2021 LEV Short 3x Open (SOG)</StockName>
+      <EntryQty>355</EntryQty>
+      <EntryValue>0.333577454</EntryValue>
+      <EntryDate>2021-02-18T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-02-19T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>Brent Crude - Jun 2021 LEV Short 3x Open (SOG)</StockName>
+      <EntryQty>200</EntryQty>
+      <EntryValue>0.333577454</EntryValue>
+      <EntryDate>2021-02-19T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-02-23T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>62</Id>
+      <StockName>Gold/US Doll Turbo BEST Call 1550 09.03.2021 (SOG)</StockName>
+      <EntryQty>160</EntryQty>
+      <EntryValue>2.045625</EntryValue>
+      <EntryDate>2021-02-22T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-02-23T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>Tesla Inc. LEV Short 5x Open (SOG)</StockName>
+      <EntryQty>100</EntryQty>
+      <EntryValue>1.7975</EntryValue>
+      <EntryDate>2021-02-23T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-02-24T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>66</Id>
+      <StockName>Brent Crude - Jun 2021 LEV Short 3x Open (SOG)</StockName>
+      <EntryQty>250</EntryQty>
+      <EntryValue>1.885</EntryValue>
+      <EntryDate>2021-02-24T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-02-24T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>Brent Crude - Jun 2021 LEV Short 3x Open (SOG)</StockName>
+      <EntryQty>500</EntryQty>
+      <EntryValue>0.0249999948</EntryValue>
+      <EntryDate>2021-02-24T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-03-02T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>71</Id>
+      <StockName>Capgemini Turbo BEST Call 98 19.03.2021 (UCR)</StockName>
+      <EntryQty>100</EntryQty>
+      <EntryValue>3.89199972</EntryValue>
+      <EntryDate>2021-02-24T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-02-25T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>Brent Crude - Jun 2021 LEV Short 3x Open (SOG)</StockName>
+      <EntryQty>250</EntryQty>
+      <EntryValue>0.0249999948</EntryValue>
+      <EntryDate>2021-03-02T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-03-10T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>74</Id>
+      <StockName>Henry Hub Natural Gas - May LEV Long 5x Open (SOG)</StockName>
+      <EntryQty>125</EntryQty>
+      <EntryValue>4.07104</EntryValue>
+      <EntryDate>2021-03-02T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-03-08T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>75</Id>
+      <StockName>NASDAQ 100 Turbo BEST Put 14950 18.06.2021 (SOG)</StockName>
+      <EntryQty>30</EntryQty>
+      <EntryValue>14.9633331</EntryValue>
+      <EntryDate>2021-03-02T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-03-08T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>76</Id>
+      <StockName>Cocoa - May 2021 Turbo Call 1890 Open (SOG)</StockName>
+      <EntryQty>80</EntryQty>
+      <EntryValue>6.92125034</EntryValue>
+      <EntryDate>2021-03-03T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-03-05T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>Henry Hub Natural Gas - May LEV Long 5x Open (SOG)</StockName>
+      <EntryQty>300</EntryQty>
+      <EntryValue>-0.006666619</EntryValue>
+      <EntryDate>2021-03-08T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-03-10T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>80</Id>
+      <StockName>Copper - Mar 2021 LEV Long 5x Open (SOG)</StockName>
+      <EntryQty>17</EntryQty>
+      <EntryValue>30.85706</EntryValue>
+      <EntryDate>2021-03-08T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-03-09T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>83</Id>
+      <StockName>Innate Pharma SA</StockName>
+      <EntryQty>240</EntryQty>
+      <EntryValue>3.78441668</EntryValue>
+      <EntryDate>2021-03-10T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-03-10T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>85</Id>
+      <StockName>Coffee C - May 2021 Turbo Call .96 Open (SOG)</StockName>
+      <EntryQty>420</EntryQty>
+      <EntryValue>1.32595241</EntryValue>
+      <EntryDate>2021-03-10T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-03-25T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>86</Id>
+      <StockName>Carrefour LEV Long 2x Open (SOG)</StockName>
+      <EntryQty>10</EntryQty>
+      <EntryValue>53.9199944</EntryValue>
+      <EntryDate>2021-03-10T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate
+        xsi:nil="true" />
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>88</Id>
+      <StockName>Euro/US Dollar Turbo Call 1.0992 Open (SOG)</StockName>
+      <EntryQty>60</EntryQty>
+      <EntryValue>8.951666</EntryValue>
+      <EntryDate>2021-03-10T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-03-16T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>89</Id>
+      <StockName>Tesla Inc. Turbo BEST Put 930 19.03.2021 (SOG)</StockName>
+      <EntryQty>115</EntryQty>
+      <EntryValue>5.011739</EntryValue>
+      <EntryDate>2021-03-10T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-03-11T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>91</Id>
+      <StockName>Henry Hub Natural Gas - May LEV Long 5x Open (SOG)</StockName>
+      <EntryQty>180</EntryQty>
+      <EntryValue>3.178889</EntryValue>
+      <EntryDate>2021-03-11T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-03-16T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>Henry Hub Natural Gas - May LEV Long 5x Open (SOG)</StockName>
+      <EntryQty>420</EntryQty>
+      <EntryValue>0.114142895</EntryValue>
+      <EntryDate>2021-03-16T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-03-25T00:00:00</ExitDate>
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>96</Id>
+      <StockName>Henry Hub Natural Gas - May LEV Long 5x Open (SOG)</StockName>
+      <EntryQty>230</EntryQty>
+      <EntryValue>2.4258697</EntryValue>
+      <EntryDate>2021-03-25T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate
+        xsi:nil="true" />
+      <IsShort>false</IsShort>
+      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>97</Id>
+      <StockName>Palladium/US Dollar Turbo Call 2034 Open (SOG)</StockName>
+      <EntryQty>823</EntryQty>
+      <EntryValue>0.6830377</EntryValue>
+      <EntryDate>2021-03-26T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
       <ExitDate
         xsi:nil="true" />
       <IsShort>false</IsShort>
@@ -323,9 +1811,10 @@
     </StockPosition>
   </Positions>
   <Name>@SaxoTitre</Name>
-  <InitialBalance>2000</InitialBalance>
-  <Balance>337.045044</Balance>
+  <SaxoAccountId>78800/719479EUR</SaxoAccountId>
+  <InitialBalance>10000</InitialBalance>
+  <Balance>8075.686</Balance>
   <MaxRisk>0.05</MaxRisk>
   <IsSimu>false</IsSimu>
-  <MaxPositions>10</MaxPositions>
+  <MaxPositions>20</MaxPositions>
 </StockPortfolio>

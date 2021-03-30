@@ -120,20 +120,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AAII", "AAII", "{AEAE9B9F-3
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Portfolio", "Portfolio", "{B6269A8B-47BA-46EA-8BE7-F07538098FF2}"
 	ProjectSection(SolutionItems) = preProject
-		Portfolio\__PEA.ucptf = Portfolio\__PEA.ucptf
+		Portfolio\@SaxoPEA.ucptf = Portfolio\@SaxoPEA.ucptf
+		Portfolio\@SaxoTitre.ucptf = Portfolio\@SaxoTitre.ucptf
 		Portfolio\__TestPortfolio.ucptf = Portfolio\__TestPortfolio.ucptf
-		Portfolio\__Titre.ucptf = Portfolio\__Titre.ucptf
-		Portfolio\_Binck_Simu_P.tlog = Portfolio\_Binck_Simu_P.tlog
-		Portfolio\_Binck_Simu_P.tptf = Portfolio\_Binck_Simu_P.tptf
-		Portfolio\Abadie.tptf = Portfolio\Abadie.tptf
-		Portfolio\AbadieLong.tptf = Portfolio\AbadieLong.tptf
-		Portfolio\BinckPEA_P.ptf = Portfolio\BinckPEA_P.ptf
-		Portfolio\BinckTitre_P.ptf = Portfolio\BinckTitre_P.ptf
-		Portfolio\Formation.tptf = Portfolio\Formation.tptf
-		Portfolio\NameMappings.xml = Portfolio\NameMappings.xml
-		Portfolio\TREND_FOLLOW_DAILY.tptf = Portfolio\TREND_FOLLOW_DAILY.tptf
-		Portfolio\TREND_FOLLOW_WEEKLY.tptf = Portfolio\TREND_FOLLOW_WEEKLY.tptf
-		Portfolio\ZoneBourse.tptf = Portfolio\ZoneBourse.tptf
+		Portfolio\_TrainingPortfolio.ucptf = Portfolio\_TrainingPortfolio.ucptf
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{11CFF281-48AC-4802-BE2B-E9FE34BB9C12}"
