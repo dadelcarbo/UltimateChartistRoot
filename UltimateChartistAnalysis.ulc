@@ -6,6 +6,9 @@
   <StockAnalysisItem StockName="CAMBODGE NOM.">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="CATERPILLAR INC">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="FROMAGERIES BEL">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
