@@ -21,7 +21,7 @@
     <PriceTrigger>0</PriceTrigger>
     <TriggerBrokenUp>false</TriggerBrokenUp>
     <BarDuration>
-      <Duration>Bar_12</Duration>
+      <Duration>H_1</Duration>
       <Smoothing>1</Smoothing>
       <LineBreak>0</LineBreak>
       <HeikinAshi>false</HeikinAshi>
@@ -36,7 +36,7 @@
     <PriceTrigger>0</PriceTrigger>
     <TriggerBrokenUp>false</TriggerBrokenUp>
     <BarDuration>
-      <Duration>Bar_12</Duration>
+      <Duration>H_1</Duration>
       <Smoothing>1</Smoothing>
       <LineBreak>0</LineBreak>
       <HeikinAshi>false</HeikinAshi>

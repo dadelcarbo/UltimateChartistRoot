@@ -2,8 +2,7 @@
 <ArrayOfStockAlertDef xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StockAlertDef>
     <BarDuration>
-      <Duration>Bar_12</Duration>
-      <LineBreak>0</LineBreak>
+      <Duration>H_1</Duration>
     </BarDuration>
     <IndicatorType>CLOUD</IndicatorType>
     <IndicatorName>TRENDBODY(50)</IndicatorName>
@@ -11,7 +10,7 @@
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>
-      <Duration>Bar_12</Duration>
+      <Duration>H_1</Duration>
     </BarDuration>
     <IndicatorType>AUTODRAWING</IndicatorType>
     <IndicatorName>CUPHANDLE(25,false,3)</IndicatorName>
@@ -19,7 +18,7 @@
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>
-      <Duration>Bar_12</Duration>
+      <Duration>H_1</Duration>
     </BarDuration>
     <IndicatorType>INDICATOR</IndicatorType>
     <IndicatorName>BBEX(50,1.25,-1.25,EMA)</IndicatorName>
@@ -27,9 +26,7 @@
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>
-      <Duration>Bar_12</Duration>
-      <Smoothing>1</Smoothing>
-      <LineBreak>0</LineBreak>
+      <Duration>H_1</Duration>
       <HeikinAshi>false</HeikinAshi>
     </BarDuration>
     <IndicatorType>INDICATOR</IndicatorType>
