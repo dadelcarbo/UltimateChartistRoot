@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStockNameMapping xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StockNameMapping>
+    <BinckName>HENRY HUB NATURAL GAS - MAY LEV LONG 5X OPEN (SOG)</BinckName>
+    <StockName>TURBO_NATURAL GAS LONG X5</StockName>
+    <Leverage>1</Leverage>
+  </StockNameMapping>
+</ArrayOfStockNameMapping>
