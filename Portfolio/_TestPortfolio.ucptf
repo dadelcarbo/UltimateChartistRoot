@@ -19,6 +19,15 @@
       <Value>0.1045</Value>
       <Fee>2.5</Fee>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>2</Id>
+      <Date>2021-05-05T11:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>INT_ATARI</StockName>
+      <Qty>10</Qty>
+      <Value>0.675</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -37,8 +46,6 @@
       <Indicator>TRAILSTOP|TRAILHLBODY(12)</Indicator>
       <ExitDate
         xsi:nil="true" />
-      <IsShort>false</IsShort>
-      <Leverage>1</Leverage>
     </StockPosition>
     <StockPosition>
       <Id>1</Id>
@@ -56,14 +63,29 @@
       <Indicator>CLOUD|TRAILATRBAND(50,2.75,-2.75,MA,3)</Indicator>
       <ExitDate
         xsi:nil="true" />
-      <IsShort>false</IsShort>
-      <Leverage>1</Leverage>
+    </StockPosition>
+    <StockPosition>
+      <Id>2</Id>
+      <StockName>INT_ATARI</StockName>
+      <EntryQty>10</EntryQty>
+      <EntryValue>0.925</EntryValue>
+      <EntryDate>2021-05-05T11:00:00</EntryDate>
+      <Stop>0.6075</Stop>
+      <BarDuration>
+        <Duration>H_1</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>TRAILSTOP|TRAILBB(50,1.75,-1.75,EMA)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
     </StockPosition>
   </Positions>
   <Name>_TestPortfolio</Name>
   <InitialBalance>10000</InitialBalance>
-  <Balance>8018.65527</Balance>
-  <MaxNbPositions>10</MaxNbPositions>
+  <Balance>8009.40527</Balance>
   <MaxRisk>0.02</MaxRisk>
   <IsSimu>false</IsSimu>
+  <MaxPositions>10</MaxPositions>
 </StockPortfolio>

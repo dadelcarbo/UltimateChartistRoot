@@ -892,6 +892,24 @@
       <Value>2.2</Value>
       <Fee>2.96</Fee>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>1996398001</Id>
+      <Date>2021-04-07T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>COFFEE C - JUL 2021 LEV LONG 5X OPEN (SOG)</StockName>
+      <Qty>85</Qty>
+      <Value>6.79</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>1996425797</Id>
+      <Date>2021-04-07T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>BRENT CRUDE - JUL 2021 LEV SHORT 3X OPEN (SOG)</StockName>
+      <Qty>280</Qty>
+      <Value>1.97</Value>
+      <Fee>1.38</Fee>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -1691,11 +1709,43 @@
       <ExitDate
         xsi:nil="true" />
     </StockPosition>
+    <StockPosition>
+      <Id>1996398001</Id>
+      <StockName>COFFEE C - JUL 2021 LEV LONG 5X OPEN (SOG)</StockName>
+      <EntryQty>85</EntryQty>
+      <EntryValue>6.819412</EntryValue>
+      <EntryDate>2021-04-07T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>1996425797</Id>
+      <StockName>BRENT CRUDE - JUL 2021 LEV SHORT 3X OPEN (SOG)</StockName>
+      <EntryQty>280</EntryQty>
+      <EntryValue>1.97492874</EntryValue>
+      <EntryDate>2021-04-07T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate
+        xsi:nil="true" />
+    </StockPosition>
   </Positions>
   <Name>@SaxoTitre</Name>
   <SaxoAccountId>78800/719479EUR</SaxoAccountId>
   <InitialBalance>3000</InitialBalance>
-  <Balance>1578.72986</Balance>
+  <Balance>446.0998</Balance>
   <MaxRisk>0.05</MaxRisk>
   <IsSimu>false</IsSimu>
   <MaxPositions>20</MaxPositions>
