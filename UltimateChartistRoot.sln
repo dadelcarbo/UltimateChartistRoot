@@ -124,8 +124,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Portfolio", "Portfolio", "{
 		Portfolio\@SaxoTitre.ucptf = Portfolio\@SaxoTitre.ucptf
 		Portfolio\__TestPortfolio.ucptf = Portfolio\__TestPortfolio.ucptf
 		Portfolio\_TrainingPortfolio.ucptf = Portfolio\_TrainingPortfolio.ucptf
-		Portfolio\Transactions_2021_Q1.xlsx = Portfolio\Transactions_2021_Q1.xlsx
-		Portfolio\Transactions_2021_Q2.xlsx = Portfolio\Transactions_2021_Q2.xlsx
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{11CFF281-48AC-4802-BE2B-E9FE34BB9C12}"
