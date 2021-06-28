@@ -64,18 +64,57 @@
   <StockAnalysisItem StockName="CEGEDIM">
     <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
       <DrawingItems BarDuration="Daily">
-        <StockDrawingItems>
-          <Line2D>
+        <StockDrawingItems RefDate="04/05/2021 00:00:00" RefDateIndex="5450">
+          <CupHandle2D>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>5301.409</X>
-              <Y>24.8155689</Y>
+              <X>5450</X>
+              <Y>25.6</Y>
             </PointF>
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>5302.409</X>
-              <Y>24.8155689</Y>
+              <X>5484</X>
+              <Y>25.6</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>5473</X>
+              <Y>25.6</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>5474</X>
+              <Y>24.35</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>5470</X>
+              <Y>23.65</Y>
             </PointF>
             <Pen>2:255:0:0:0:Solid</Pen>
-          </Line2D>
+          </CupHandle2D>
+        </StockDrawingItems>
+      </DrawingItems>
+      <DrawingItems BarDuration="Weekly">
+        <StockDrawingItems RefDate="21/10/2019 00:00:00" RefDateIndex="1033">
+          <CupHandle2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1093</X>
+              <Y>27.3</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1120</X>
+              <Y>27.3</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1097</X>
+              <Y>27.3</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1103</X>
+              <Y>22.7</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1096</X>
+              <Y>25.5</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </CupHandle2D>
         </StockDrawingItems>
       </DrawingItems>
     </StockAnalysis>
@@ -647,6 +686,103 @@
   <StockAnalysisItem StockName="VAA VISTA ALEGRE">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="CAC Mid &amp; Small">
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
+      <DrawingItems BarDuration="Daily">
+        <StockDrawingItems>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>4742.24268</X>
+              <Y>13271.2441</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>4743.24268</X>
+              <Y>13271.2441</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </Line2D>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>5393.325</X>
+              <Y>13746.8691</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>5394.325</X>
+              <Y>13746.8691</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </Line2D>
+        </StockDrawingItems>
+      </DrawingItems>
+      <DrawingItems BarDuration="Weekly">
+        <StockDrawingItems>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1064.00623</X>
+              <Y>13788.9082</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1065.00623</X>
+              <Y>13788.9082</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </Line2D>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1064.41431</X>
+              <Y>14993.8379</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1065.41431</X>
+              <Y>14993.8379</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </Line2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="SP500">
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
+      <DrawingItems BarDuration="Weekly">
+        <StockDrawingItems RefDate="31/08/2020 00:00:00" RefDateIndex="1078">
+          <HalfLine2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1077</X>
+              <Y>3569.39</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1109</X>
+              <Y>4168.44</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
+          <HalfLine2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1053</X>
+              <Y>2264.83984</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1071</X>
+              <Y>2793.44</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
+          <HalfLine2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1053</X>
+              <Y>2133.12671</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1071</X>
+              <Y>2661.72681</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="BEAR/BULL Log Ratio">
     <StockAnalysis Excluded="False" Theme="BullBearRatio" HasDrawings="False" />
   </StockAnalysisItem>
@@ -655,36 +791,5 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_BOND_BTP">
     <StockAnalysis Excluded="False" Theme="__TRAILBB" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="INT_CGG">
-    <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
-      <DrawingItems BarDuration="H_1">
-        <StockDrawingItems RefDate="19/04/2021 16:00:00" RefDateIndex="1049">
-          <CupHandle2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1049</X>
-              <Y>1.022</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1143</X>
-              <Y>1.022</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1120</X>
-              <Y>1.022</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1134</X>
-              <Y>0.954</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1084</X>
-              <Y>0.918</Y>
-            </PointF>
-            <Pen>2:255:0:0:0:Solid</Pen>
-          </CupHandle2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
   </StockAnalysisItem>
 </StockAnalysisList>
