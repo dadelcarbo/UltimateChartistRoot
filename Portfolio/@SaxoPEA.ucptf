@@ -164,12 +164,30 @@
       <Fee>0</Fee>
     </StockTradeOperation>
     <StockTradeOperation>
+      <Id>8745582</Id>
+      <Date>2021-06-04T00:00:00</Date>
+      <OperationType>Dividend</OperationType>
+      <StockName>NATIXIS</StockName>
+      <Qty>1</Qty>
+      <Value>14.4</Value>
+      <Fee>0</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
       <Id>8750585</Id>
       <Date>2021-04-23T00:00:00</Date>
       <OperationType>Dividend</OperationType>
       <StockName>CNP ASSURANCES</StockName>
       <Qty>1</Qty>
       <Value>46.4</Value>
+      <Fee>0</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>8779002</Id>
+      <Date>2021-06-04T00:00:00</Date>
+      <OperationType>Dividend</OperationType>
+      <StockName>BIC</StockName>
+      <Qty>1</Qty>
+      <Value>66.6</Value>
       <Fee>0</Fee>
     </StockTradeOperation>
     <StockTradeOperation>
@@ -766,6 +784,141 @@
       <Value>3.96</Value>
       <Fee>3.5</Fee>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>2046461252</Id>
+      <Date>2021-06-07T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>NATIXIS</StockName>
+      <Qty>240</Qty>
+      <Value>4</Value>
+      <Fee>1.78</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>2048320759</Id>
+      <Date>2021-06-09T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>METROPOLE TV</StockName>
+      <Qty>54</Qty>
+      <Value>17.46</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>2048331296</Id>
+      <Date>2021-06-09T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
+      <Qty>650</Qty>
+      <Value>1.54</Value>
+      <Fee>0.42</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>2049765024</Id>
+      <Date>2021-06-10T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>METROPOLE TV</StockName>
+      <Qty>54</Qty>
+      <Value>17.32</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>2050415636</Id>
+      <Date>2021-06-11T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>CGG</StockName>
+      <Qty>100</Qty>
+      <Value>0.93</Value>
+      <Fee>0.96</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>2050818047</Id>
+      <Date>2021-06-11T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
+      <Qty>660</Qty>
+      <Value>1.51</Value>
+      <Fee>4.88</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>2051514855</Id>
+      <Date>2021-06-14T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>CGG</StockName>
+      <Qty>900</Qty>
+      <Value>0.97</Value>
+      <Fee>-0.2</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>2053674014</Id>
+      <Date>2021-06-16T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>CGG</StockName>
+      <Qty>2000</Qty>
+      <Value>0.92</Value>
+      <Fee>11.8</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>2054977041</Id>
+      <Date>2021-06-17T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>VALLOUREC ASSENTED RIGHTS</StockName>
+      <Qty>148</Qty>
+      <Value>5.66</Value>
+      <Fee>-837.68</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>2054977416</Id>
+      <Date>2021-06-17T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>VALLOUREC ASSENTED RIGHTS</StockName>
+      <Qty>176</Qty>
+      <Value>5.66</Value>
+      <Fee>-996.16</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>2055118900</Id>
+      <Date>2021-06-17T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
+      <Qty>670</Qty>
+      <Value>1.48</Value>
+      <Fee>2.5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>2063483796</Id>
+      <Date>2021-06-29T00:00:00</Date>
+      <OperationType>Transfer</OperationType>
+      <StockName>VALLOUREC</StockName>
+      <Qty>148</Qty>
+      <Value>5.66</Value>
+      <Fee>0</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>2064300257</Id>
+      <Date>2021-06-30T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>BIC</StockName>
+      <Qty>37</Qty>
+      <Value>58.3</Value>
+      <Fee>5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>2064382157</Id>
+      <Date>2021-06-30T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>CARREFOUR</StockName>
+      <Qty>128</Qty>
+      <Value>16.53</Value>
+      <Fee>5</Fee>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>2064445292</Id>
+      <Date>2021-06-30T00:00:00</Date>
+      <OperationType>Transfer</OperationType>
+      <StockName>VALLOUREC</StockName>
+      <Qty>35</Qty>
+      <Value>5.66</Value>
+      <Fee>0</Fee>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -1114,8 +1267,7 @@
       <EntryValue>17.0370369</EntryValue>
       <EntryDate>2021-03-01T00:00:00</EntryDate>
       <Stop>0</Stop>
-      <ExitDate
-        xsi:nil="true" />
+      <ExitDate>2021-06-09T00:00:00</ExitDate>
     </StockPosition>
     <StockPosition>
       <Id>1962825930</Id>
@@ -1196,8 +1348,7 @@
       <EntryValue>48.6516228</EntryValue>
       <EntryDate>2021-03-08T00:00:00</EntryDate>
       <Stop>0</Stop>
-      <ExitDate
-        xsi:nil="true" />
+      <ExitDate>2021-06-30T00:00:00</ExitDate>
     </StockPosition>
     <StockPosition>
       <Id>1973816510</Id>
@@ -1269,8 +1420,7 @@
       <EntryValue>14.82836</EntryValue>
       <EntryDate>2021-03-24T00:00:00</EntryDate>
       <Stop>0</Stop>
-      <ExitDate
-        xsi:nil="true" />
+      <ExitDate>2021-06-30T00:00:00</ExitDate>
     </StockPosition>
     <StockPosition>
       <Id>1988671724</Id>
@@ -1416,8 +1566,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <ExitDate
-        xsi:nil="true" />
+      <ExitDate>2021-06-07T00:00:00</ExitDate>
     </StockPosition>
     <StockPosition>
       <Id>2025607702</Id>
@@ -1426,8 +1575,7 @@
       <EntryValue>0.9672023</EntryValue>
       <EntryDate>2021-05-12T00:00:00</EntryDate>
       <Stop>0</Stop>
-      <ExitDate
-        xsi:nil="true" />
+      <ExitDate>2021-06-11T00:00:00</ExitDate>
     </StockPosition>
     <StockPosition>
       <Id>2036860316</Id>
@@ -1445,11 +1593,117 @@
       <ExitDate
         xsi:nil="true" />
     </StockPosition>
+    <StockPosition>
+      <Id>2048320759</Id>
+      <StockName>METROPOLE TV</StockName>
+      <EntryQty>54</EntryQty>
+      <EntryValue>17.0370369</EntryValue>
+      <EntryDate>2021-06-09T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-06-10T00:00:00</ExitDate>
+    </StockPosition>
+    <StockPosition>
+      <Id>2048331296</Id>
+      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
+      <EntryQty>650</EntryQty>
+      <EntryValue>1.54064608</EntryValue>
+      <EntryDate>2021-06-09T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-06-11T00:00:00</ExitDate>
+    </StockPosition>
+    <StockPosition>
+      <Id>2050415636</Id>
+      <StockName>CGG</StockName>
+      <EntryQty>2900</EntryQty>
+      <EntryValue>0.9672023</EntryValue>
+      <EntryDate>2021-06-11T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-06-14T00:00:00</ExitDate>
+    </StockPosition>
+    <StockPosition>
+      <Id>2050818047</Id>
+      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
+      <EntryQty>1310</EntryQty>
+      <EntryValue>1.52893126</EntryValue>
+      <EntryDate>2021-06-11T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-06-17T00:00:00</ExitDate>
+    </StockPosition>
+    <StockPosition>
+      <Id>2051514855</Id>
+      <StockName>CGG</StockName>
+      <EntryQty>2000</EntryQty>
+      <EntryValue>0.9672023</EntryValue>
+      <EntryDate>2021-06-14T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-06-16T00:00:00</ExitDate>
+    </StockPosition>
+    <StockPosition>
+      <Id>2054977041</Id>
+      <StockName>VALLOUREC ASSENTED RIGHTS</StockName>
+      <EntryQty>148</EntryQty>
+      <EntryValue>0</EntryValue>
+      <EntryDate>2021-06-17T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-06-17T00:00:00</ExitDate>
+    </StockPosition>
+    <StockPosition>
+      <Id>2054977416</Id>
+      <StockName>VALLOUREC ASSENTED RIGHTS</StockName>
+      <EntryQty>324</EntryQty>
+      <EntryValue>0</EntryValue>
+      <EntryDate>2021-06-17T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>2055118900</Id>
+      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
+      <EntryQty>1980</EntryQty>
+      <EntryValue>1.51363635</EntryValue>
+      <EntryDate>2021-06-17T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>2063483796</Id>
+      <StockName>VALLOUREC</StockName>
+      <EntryQty>148</EntryQty>
+      <EntryValue>5.66</EntryValue>
+      <EntryDate>2021-06-29T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>2064445292</Id>
+      <StockName>VALLOUREC</StockName>
+      <EntryQty>35</EntryQty>
+      <EntryValue>5.66</EntryValue>
+      <EntryDate>2021-06-30T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate
+        xsi:nil="true" />
+    </StockPosition>
   </Positions>
   <Name>@SaxoPEA</Name>
   <SaxoAccountId>78800/775644PEA</SaxoAccountId>
   <InitialBalance>15000</InitialBalance>
-  <Balance>13364.76</Balance>
+  <Balance>20336.48</Balance>
   <MaxRisk>0.02</MaxRisk>
   <IsSimu>false</IsSimu>
   <MaxPositions>20</MaxPositions>

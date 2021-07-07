@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StockPortfolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>@SaxoTitre</Name>
+  <SaxoAccountId>78800/719479EUR</SaxoAccountId>
+  <InitialBalance>30000</InitialBalance>
+  <Balance>30000</Balance>
+  <MaxRisk>0.10</MaxRisk>
+  <IsSimu>false</IsSimu>
+  <MaxPositions>20</MaxPositions>
+</StockPortfolio>
