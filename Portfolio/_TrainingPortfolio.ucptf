@@ -36,4 +36,5 @@
   <MaxRisk>0.02</MaxRisk>
   <IsSimu>false</IsSimu>
   <MaxPositions>10</MaxPositions>
+  <CreationDate>2010-01-01T00:00:00</CreationDate>
 </StockPortfolio>
