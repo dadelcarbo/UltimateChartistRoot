@@ -9,6 +9,7 @@
       <Qty>16</Qty>
       <Value>123.3</Value>
       <Fee>5</Fee>
+      <Movement>0</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
       <Id>1</Id>
@@ -18,6 +19,7 @@
       <Qty>10</Qty>
       <Value>0.1045</Value>
       <Fee>2.5</Fee>
+      <Movement>0</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
       <Id>2</Id>
@@ -27,6 +29,37 @@
       <Qty>10</Qty>
       <Value>0.675</Value>
       <Fee>2.5</Fee>
+      <Movement>0</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>3</Id>
+      <Date>2021-07-08T16:45:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>INT_VALLOUREC</StockName>
+      <Qty>133</Qty>
+      <Value>7.36</Value>
+      <Fee>2.5</Fee>
+      <Movement>-981.38</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>4</Id>
+      <Date>2021-05-14T11:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>INT_ATARI</StockName>
+      <Qty>10</Qty>
+      <Value>0.672</Value>
+      <Fee>2.5</Fee>
+      <Movement>4.22</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5</Id>
+      <Date>2021-02-04T17:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>INT_AGROGENERATION</StockName>
+      <Qty>10</Qty>
+      <Value>0.166</Value>
+      <Fee>2.5</Fee>
+      <Movement>-0.840000033</Movement>
     </StockTradeOperation>
   </TradeOperations>
   <Positions>
@@ -61,8 +94,7 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Indicator>CLOUD|TRAILATRBAND(50,2.75,-2.75,MA,3)</Indicator>
-      <ExitDate
-        xsi:nil="true" />
+      <ExitDate>2021-02-04T17:00:00</ExitDate>
     </StockPosition>
     <StockPosition>
       <Id>2</Id>
@@ -78,13 +110,29 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Indicator>TRAILSTOP|TRAILBB(50,1.75,-1.75,EMA)</Indicator>
+      <ExitDate>2021-05-14T11:00:00</ExitDate>
+    </StockPosition>
+    <StockPosition>
+      <Id>3</Id>
+      <StockName>INT_VALLOUREC</StockName>
+      <EntryQty>133</EntryQty>
+      <EntryValue>7.378797</EntryValue>
+      <EntryDate>2021-07-08T16:45:00</EntryDate>
+      <Stop>6.624</Stop>
+      <BarDuration>
+        <Duration>Bar_3</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>TRAILSTOP|TRAILBB(50,1.75,-1.75,EMA)</Indicator>
       <ExitDate
         xsi:nil="true" />
     </StockPosition>
   </Positions>
   <Name>_TestPortfolio</Name>
   <InitialBalance>10000</InitialBalance>
-  <Balance>8009.40527</Balance>
+  <Balance>7031.406</Balance>
   <MaxRisk>0.02</MaxRisk>
   <IsSimu>false</IsSimu>
   <MaxPositions>10</MaxPositions>
