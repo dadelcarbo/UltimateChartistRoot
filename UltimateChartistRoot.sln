@@ -121,9 +121,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Portfolio", "Portfolio", "{B6269A8B-47BA-46EA-8BE7-F07538098FF2}"
 	ProjectSection(SolutionItems) = preProject
 		Portfolio\@SaxoPEA.ucptf = Portfolio\@SaxoPEA.ucptf
+		Portfolio\@SaxoPEABanon.ucptf = Portfolio\@SaxoPEABanon.ucptf
 		Portfolio\@SaxoTitre.ucptf = Portfolio\@SaxoTitre.ucptf
-		Portfolio\__TestPortfolio.ucptf = Portfolio\__TestPortfolio.ucptf
 		Portfolio\_TrainingPortfolio.ucptf = Portfolio\_TrainingPortfolio.ucptf
+		Portfolio\TF_Training.ucptf = Portfolio\TF_Training.ucptf
 		Portfolio\Transactions_13040737_2020.xlsx = Portfolio\Transactions_13040737_2020.xlsx
 		Portfolio\Transactions_13040737_2021.xlsx = Portfolio\Transactions_13040737_2021.xlsx
 	EndProjectSection
