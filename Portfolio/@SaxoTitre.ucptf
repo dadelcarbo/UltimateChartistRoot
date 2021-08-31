@@ -2916,7 +2916,7 @@
   <Name>@SaxoTitre</Name>
   <SaxoAccountId>78800/719479EUR</SaxoAccountId>
   <InitialBalance>30000</InitialBalance>
-  <Balance>26000.2969</Balance>
+  <Balance>30000</Balance>
   <MaxRisk>0.1</MaxRisk>
   <IsSimu>false</IsSimu>
   <MaxPositions>20</MaxPositions>
