@@ -278,6 +278,12 @@
   <StockAnalysisItem StockName="LYSOGENE">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="M.R.M">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="MAINSTAY MEDICAL INT.">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="MUSEE GREVIN">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
