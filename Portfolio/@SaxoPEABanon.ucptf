@@ -1,11 +1,53 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<StockPortfolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StockPortfolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TradeOperations>
+    <StockTradeOperation>
+      <Id>20210621</Id>
+      <Date>2021-06-21T00:00:00</Date>
+      <OperationType>Cash</OperationType>
+      <StockName />
+      <Qty>1</Qty>
+      <Value>10000</Value>
+      <Fee>0</Fee>
+      <Movement>10000</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>2112140852</Id>
+      <Date>2021-09-02T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>CGG</StockName>
+      <Qty>1400</Qty>
+      <Value>0.69</Value>
+      <Fee>4.73999357</Fee>
+      <Movement>-970.74</Movement>
+    </StockTradeOperation>
+  </TradeOperations>
+  <Positions>
+    <StockPosition>
+      <Id>2112140852</Id>
+      <StockName>CGG</StockName>
+      <EntryQty>1400</EntryQty>
+      <EntryValue>0.6933857</EntryValue>
+      <EntryDate>2021-09-02T00:00:00</EntryDate>
+      <Stop>0.65</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+  </Positions>
   <Name>@SaxoPEABanon</Name>
   <SaxoAccountId>95500/100550PEA</SaxoAccountId>
   <InitialBalance>10000</InitialBalance>
-  <Balance>10000</Balance>
+  <Balance>9029.26</Balance>
   <MaxRisk>0.015</MaxRisk>
+  <CreationDate>2021-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>
   <MaxPositions>20</MaxPositions>
-  <CreationDate>2021-01-01T00:00:00</CreationDate>
 </StockPortfolio>
