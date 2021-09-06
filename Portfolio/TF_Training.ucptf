@@ -1,10 +1,72 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <StockPortfolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TradeOperations>
+    <StockTradeOperation>
+      <Id>0</Id>
+      <Date>2021-08-30T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>DIC ASSET AG</StockName>
+      <Qty>60</Qty>
+      <Value>15.84</Value>
+      <Fee>2.5</Fee>
+      <Movement>-952.9</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>1</Id>
+      <Date>2021-08-30T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>GL EVENTS</StockName>
+      <Qty>60</Qty>
+      <Value>16</Value>
+      <Fee>2.5</Fee>
+      <Movement>-962.5</Movement>
+    </StockTradeOperation>
+  </TradeOperations>
+  <Positions>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>DIC ASSET AG</StockName>
+      <EntryQty>60</EntryQty>
+      <EntryValue>15.8816671</EntryValue>
+      <EntryDate>2021-08-30T00:00:00</EntryDate>
+      <Stop>14.5</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>CLOUD|EMA2(12,26)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>1</Id>
+      <StockName>GL EVENTS</StockName>
+      <EntryQty>60</EntryQty>
+      <EntryValue>16.041666</EntryValue>
+      <EntryDate>2021-08-30T00:00:00</EntryDate>
+      <Stop>13.5</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>CLOUD|EMA2(12,26)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+  </Positions>
   <Name>TF_Training</Name>
   <InitialBalance>10000</InitialBalance>
-  <Balance>10000</Balance>
+  <Balance>8084.59961</Balance>
   <MaxRisk>0.015</MaxRisk>
+  <CreationDate>2021-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>
   <MaxPositions>20</MaxPositions>
-  <CreationDate>2021-01-01T00:00:00</CreationDate>
 </StockPortfolio>
