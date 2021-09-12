@@ -1,5 +1,8 @@
 <?xml version="1.0"?>
 <StockAnalysisList>
+  <StockAnalysisItem StockName="AIR LIQUIDE">
+    <StockAnalysis Excluded="False" Theme="___FinancialWisdom" HasDrawings="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="ARTOIS NOM.">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
