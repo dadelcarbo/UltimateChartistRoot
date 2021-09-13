@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<StockPortfolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StockPortfolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <TradeOperations>
     <StockTradeOperation>
       <Id>20210621</Id>
@@ -21,15 +21,51 @@
       <Fee>4.73999357</Fee>
       <Movement>-970.74</Movement>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>2113957956</Id>
+      <Date>2021-09-06T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>CGG</StockName>
+      <Qty>1400</Qty>
+      <Value>0.6916</Value>
+      <Fee>6.70007324</Fee>
+      <Movement>917.3</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>2117285765</Id>
+      <Date>2021-09-09T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>CGG</StockName>
+      <Qty>1500</Qty>
+      <Value>0.65</Value>
+      <Fee>8.200073</Fee>
+      <Movement>-983.2</Movement>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
       <Id>2112140852</Id>
       <StockName>CGG</StockName>
       <EntryQty>1400</EntryQty>
-      <EntryValue>0.6933857</EntryValue>
+      <EntryValue>0.6916</EntryValue>
       <EntryDate>2021-09-02T00:00:00</EntryDate>
-      <Stop>0.65</Stop>
+      <Stop>0.657</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-09-06T00:00:00</ExitDate>
+      <ExitValue>0.66</ExitValue>
+    </StockPosition>
+    <StockPosition>
+      <Id>2117285765</Id>
+      <StockName>CGG</StockName>
+      <EntryQty>1500</EntryQty>
+      <EntryValue>0.6554667</EntryValue>
+      <EntryDate>2021-09-09T00:00:00</EntryDate>
+      <Stop>0.625</Stop>
       <BarDuration>
         <Duration>Daily</Duration>
         <Smoothing>1</Smoothing>
@@ -45,7 +81,7 @@
   <Name>@SaxoPEABanon</Name>
   <SaxoAccountId>95500/100550PEA</SaxoAccountId>
   <InitialBalance>10000</InitialBalance>
-  <Balance>9029.26</Balance>
+  <Balance>8963.359</Balance>
   <MaxRisk>0.015</MaxRisk>
   <CreationDate>2021-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>
