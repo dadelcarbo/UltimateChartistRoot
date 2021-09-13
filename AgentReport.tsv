@@ -1,5 +1,24 @@
 Date	Selector	Group	Duration	Agent	NbTrade	NbWinTrade	NbLostTrade	AVG Duration	Win/Loss Ratio	Win Rate	Expected Return	Expeced Return/Bar	Stop ATR	Param 1	Param2	Param3
 12/09/2021 20:42	ExpectedGainPerBar	CAC40	Monthly	ATRStop	58	20	38	47	17.7184	0.3448276	0.94182	0.01964948	2	Period: 30	Width: 2.95	
-12/09/2021 20:50	ExpectedGainPerBar	EURO_A_B	Monthly	TrailHL	339	105	234	71.44902	-0.5854431	-0.7136076	318.0064	39	0.3097345	0.938072	Period: 43	
-12/09/2021 20:51	ExpectedGainPerBar	EURO_A_B	Weekly	TrailHL	1813	702	1111	15.13248	-0.3817659	-0.7512438	430.3894	51	0.3872035	0.2373908	Period: 31	
-12/09/2021 20:52	ExpectedGainPerBar	EURO_A_B	Weekly	TrailHL2	611	112	499	347.0635	-0.94825	-0.94825	612.8702	91	0.1833061	1.003061	Period: 14	
+13/09/2021 11:28	ExpectedGainPerBar	CAC40	Weekly	ATRStop	95	28	67	65	15.12	29.47%	35.45%	0.54%	2	Period: 51	Width: 3.8	
+13/09/2021 11:31	ExpectedGainPerBar	EURO_A	Weekly	ATRStop	319	91	228	52	11.05	28.53%	22.72%	0.43%	2	Period: 55	Width: 4	
+13/09/2021 11:33	ExpectedGainPerBar	EURO_A	Weekly	ATRStop	319	91	228	52	11.05	28.53%	22.72%	0.43%	2	Period: 55	Width: 4	
+13/09/2021 11:37	ExpectedGainPerBar	EURO_B	Weekly	ATRStop	336	108	228	53	12.3	32.14%	32.47%	0.61%	2	Period: 50	Width: 2.799999	
+13/09/2021 11:39	ExpectedGainPerBar	EURO_B	Weekly	ATRStop2	370	144	226	41	9.3	38.92%	27.79%	0.67%	2	Period: 50	UpWidth: 3.850001	DownWidth: 1	
+13/09/2021 11:42	ExpectedGainPerBar	EURO_B	Weekly	ATRStop2	367	146	221	41	9.05	39.78%	27.81%	0.67%	2	Period: 50	UpWidth: 3.899999	DownWidth: 1	
+13/09/2021 11:43	ExpectedGainPerBar	EURO_B	Weekly	ATRStop2	367	146	221	41	9.05	39.78%	27.81%	0.67%	2	Period: 50	UpWidth: 3.899999	DownWidth: 1	
+13/09/2021 11:43	ExpectedGainPerBar	EURO_B	Weekly	ATRStop2	410	219	191	51	5.09	53.41%	29.89%	0.58%	0	Period: 50	UpWidth: 3.899999	DownWidth: 0.5	
+13/09/2021 13:29	ExpectedGainPerBar	EURO_A	Daily	ATRStop	1429	621	808	165	2.93	43.46%	7.73%	0.05%	0	Period: 78	Width: 4	
+13/09/2021 13:34	ExpectedGainPerBar	EURO_A	Daily	ATRStop	1656	687	969	145	3.19	41.49%	7.08%	0.05%	0	Period: 100	Width: 3	
+13/09/2021 13:37	ExpectedGainPerBar	EURO_A	Daily	ATRStop	1460	269	1191	66	11.33	18.42%	4.75%	0.07%	1.5	Period: 99	Width: 3.5	
+13/09/2021 13:39	ExpectedGainPerBar	EURO_A	Daily	ATRStop2	1580	674	906	120	2.98	42.66%	5.94%	0.05%	0	Period: 100	UpWidth: 4.5	DownWidth: 2	
+13/09/2021 13:41	ExpectedGainPerBar	EURO_A	Daily	ATRStop2	1279	219	1060	74	13.27	17.12%	5.53%	0.07%	1.5	Period: 100	UpWidth: 3.5	DownWidth: 4.5	
+13/09/2021 13:43	ExpectedGainPerBar	EURO_A	Daily	ATRStop2	1279	283	996	94	9.47	22.13%	6.52%	0.07%	2	Period: 100	UpWidth: 3.5	DownWidth: 4.5	
+13/09/2021 13:47	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	663	199	464	77	13.65	30.02%	39.03%	0.50%	2	Trigger: 20	TrailATR: 9	
+13/09/2021 13:52	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	0	0	0	0		0.00%	0.00%	0.00%	0	Trigger: 20	TrailATR: 1	
+13/09/2021 13:53	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	1646	236	1410	15	48.68	14.34%	11.25%	0.71%	0.1	Trigger: 21	TrailATR: 10	
+13/09/2021 14:01	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	772	178	594	59	20.32	23.06%	32.69%	0.55%	1.5	Trigger: 25	TrailATR: 9	
+13/09/2021 14:01	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	772	178	594	59	20.32	23.06%	32.69%	0.55%	1.5	Trigger: 25	TrailATR: 9	
+13/09/2021 14:02	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	603	145	458	57	13.38	24.05%	17.94%	0.31%	1.5	Trigger: 50	TrailATR: 9	
+13/09/2021 14:03	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	873	227	646	50	11.21	26.00%	17.84%	0.35%	1.5	Trigger: 25	TrailATR: 7	
+13/09/2021 14:04	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	722	226	496	62	8.72	31.30%	21.04%	0.34%	2	Trigger: 30	TrailATR: 7	
