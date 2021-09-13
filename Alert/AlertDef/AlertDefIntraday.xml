@@ -4,33 +4,32 @@
     <BarDuration>
       <Duration>H_1</Duration>
     </BarDuration>
-    <IndicatorType>CLOUD</IndicatorType>
-    <IndicatorName>TRENDBODY(50)</IndicatorName>
-    <EventName>CloudUp</EventName>
+    <IndicatorType>TRAILSTOP</IndicatorType>
+    <IndicatorName>TRAILHIGHESTATR(20,2,5)</IndicatorName>
+    <EventName>BrokenUp</EventName>
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>
-      <Duration>H_1</Duration>
+      <Duration>M_15</Duration>
     </BarDuration>
-    <IndicatorType>AUTODRAWING</IndicatorType>
-    <IndicatorName>CUPHANDLE(25,false,3)</IndicatorName>
+    <IndicatorType>TRAILSTOP</IndicatorType>
+    <IndicatorName>TRAILHIGHESTATR(20,2,5)</IndicatorName>
     <EventName>BrokenUp</EventName>
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>
       <Duration>H_1</Duration>
     </BarDuration>
-    <IndicatorType>INDICATOR</IndicatorType>
-    <IndicatorName>BBEX(50,1.25,-1.25,EMA)</IndicatorName>
-    <EventName>FirstBodyAboveBand</EventName>
+    <IndicatorType>TRAILSTOP</IndicatorType>
+    <IndicatorName>TRAILHIGHESTATR(20,2,5)</IndicatorName>
+    <EventName>BrokenDown</EventName>
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>
-      <Duration>H_1</Duration>
-      <HeikinAshi>false</HeikinAshi>
+      <Duration>M_15</Duration>
     </BarDuration>
-    <IndicatorType>INDICATOR</IndicatorType>
-    <IndicatorName>HIGHEST(52)</IndicatorName>
-    <EventName>NewHigh</EventName>
+    <IndicatorType>TRAILSTOP</IndicatorType>
+    <IndicatorName>TRAILHIGHESTATR(20,2,5)</IndicatorName>
+    <EventName>BrokenDown</EventName>
   </StockAlertDef>
 </ArrayOfStockAlertDef>

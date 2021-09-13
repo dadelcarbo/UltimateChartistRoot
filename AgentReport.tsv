@@ -22,3 +22,11 @@ Date	Selector	Group	Duration	Agent	NbTrade	NbWinTrade	NbLostTrade	AVG Duration	W
 13/09/2021 14:02	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	603	145	458	57	13.38	24.05%	17.94%	0.31%	1.5	Trigger: 50	TrailATR: 9	
 13/09/2021 14:03	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	873	227	646	50	11.21	26.00%	17.84%	0.35%	1.5	Trigger: 25	TrailATR: 7	
 13/09/2021 14:04	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	722	226	496	62	8.72	31.30%	21.04%	0.34%	2	Trigger: 30	TrailATR: 7	
+13/09/2021 14:34	ExpectedGainPerBar	EURO_A	Weekly	EMABODY	1249	332	917	40	15.25	26.58%	20.58%	0.50%	0	Period: 200	
+13/09/2021 14:35	ExpectedGainPerBar	EURO_A	Weekly	EMABODY	1490	334	1156	33	19.16	22.42%	17.70%	0.53%	1	Period: 200	
+13/09/2021 14:36	ExpectedGainPerBar	EURO_A	Weekly	EMABODY	1313	333	980	38	16.42	25.36%	19.70%	0.51%	1.5	Period: 200	
+13/09/2021 14:39	ExpectedGainPerBar	EURO_A	Weekly	EMA2Lines	1750	506	1244	23	5.89	28.91%	6.20%	0.26%	1.5	FastPeriod: 3	SlowPeriod: 53	
+13/09/2021 14:39	ExpectedGainPerBar	EURO_A	Weekly	EMA2Lines	1625	521	1104	28	5.11	32.06%	6.82%	0.24%	0	FastPeriod: 3	SlowPeriod: 53	
+13/09/2021 14:42	ExpectedGainPerBar	EURO_A	Weekly	EMA2Lines	1266	441	825	36	5.28	34.83%	10.34%	0.29%	0	FastPeriod: 6	SlowPeriod: 53	
+13/09/2021 14:42	ExpectedGainPerBar	EURO_A	Weekly	EMA2Lines	1338	411	927	30	6.26	30.72%	8.81%	0.29%	1.5	FastPeriod: 6	SlowPeriod: 53	
+13/09/2021 14:43	ExpectedGainPerBar	EURO_A	Weekly	EMA2Lines	1289	421	868	33	5.76	32.66%	9.60%	0.29%	2	FastPeriod: 6	SlowPeriod: 55	
