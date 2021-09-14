@@ -4,6 +4,14 @@
     <BarDuration>
       <Duration>Daily</Duration>
     </BarDuration>
+    <IndicatorType>TRAILSTOP</IndicatorType>
+    <IndicatorName>TRAILHIGHESTATR(25,2,5)</IndicatorName>
+    <EventName>BrokenUp</EventName>
+  </StockAlertDef>
+  <!--<StockAlertDef>
+    <BarDuration>
+      <Duration>Daily</Duration>
+    </BarDuration>
     <IndicatorType>CLOUD</IndicatorType>
     <IndicatorName>TRAILATRBAND(20,2.5,-2.5,MA,3)</IndicatorName>
     <EventName>LongEntry</EventName>
@@ -31,7 +39,7 @@
     <IndicatorType>INDICATOR</IndicatorType>
     <IndicatorName>HIGHEST(20)</IndicatorName>
     <EventName>NewHigh</EventName>
-  </StockAlertDef>
+  </StockAlertDef>-->
   <!--<StockAlertDef>
 		<BarDuration>
 			<Duration>LineBreak_3D</Duration>

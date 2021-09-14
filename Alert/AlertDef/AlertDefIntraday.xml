@@ -5,7 +5,7 @@
       <Duration>H_1</Duration>
     </BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILHIGHESTATR(20,2,5)</IndicatorName>
+    <IndicatorName>TRAILHIGHESTATR(25,2,5)</IndicatorName>
     <EventName>BrokenUp</EventName>
   </StockAlertDef>
   <StockAlertDef>
@@ -13,7 +13,7 @@
       <Duration>M_15</Duration>
     </BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILHIGHESTATR(20,2,5)</IndicatorName>
+    <IndicatorName>TRAILHIGHESTATR(25,2,5)</IndicatorName>
     <EventName>BrokenUp</EventName>
   </StockAlertDef>
   <StockAlertDef>
@@ -21,7 +21,7 @@
       <Duration>H_1</Duration>
     </BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILHIGHESTATR(20,2,5)</IndicatorName>
+    <IndicatorName>TRAILHIGHESTATR(25,2,5)</IndicatorName>
     <EventName>BrokenDown</EventName>
   </StockAlertDef>
   <StockAlertDef>
@@ -29,7 +29,7 @@
       <Duration>M_15</Duration>
     </BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILHIGHESTATR(20,2,5)</IndicatorName>
+    <IndicatorName>TRAILHIGHESTATR(25,2,5)</IndicatorName>
     <EventName>BrokenDown</EventName>
   </StockAlertDef>
 </ArrayOfStockAlertDef>
