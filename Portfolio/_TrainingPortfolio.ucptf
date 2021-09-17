@@ -9,6 +9,17 @@
       <Qty>300</Qty>
       <Value>3.035</Value>
       <Fee>2.5</Fee>
+      <Movement>0</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>1</Id>
+      <Date>2021-09-14T15:40:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>TURBO_NASDAQ CALL 12550</StockName>
+      <Qty>10</Qty>
+      <Value>24.88</Value>
+      <Fee>2.5</Fee>
+      <Movement>-251.299988</Movement>
     </StockTradeOperation>
   </TradeOperations>
   <Positions>
@@ -28,13 +39,34 @@
       <Indicator>TRAILSTOP|TRAILHLBODY(20)</Indicator>
       <ExitDate
         xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>1</Id>
+      <StockName>TURBO_NASDAQ CALL 12550</StockName>
+      <EntryQty>10</EntryQty>
+      <EntryValue>25.13</EntryValue>
+      <EntryDate>2021-09-14T15:40:00</EntryDate>
+      <Stop>22.3919983</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>TRAILSTOP|TRAILBB(50,1.75,-1.75,EMA)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
     </StockPosition>
   </Positions>
   <Name>_TrainingPortfolio</Name>
   <InitialBalance>10000</InitialBalance>
-  <Balance>9087</Balance>
+  <Balance>8835.7</Balance>
   <MaxRisk>0.02</MaxRisk>
+  <CreationDate>2010-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>
   <MaxPositions>10</MaxPositions>
-  <CreationDate>2010-01-01T00:00:00</CreationDate>
 </StockPortfolio>
