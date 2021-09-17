@@ -992,6 +992,6 @@
     <StockAnalysis Excluded="False" Theme="ADBench" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_BOND_BTP">
-    <StockAnalysis Excluded="False" Theme="__TRAILBB" HasDrawings="False" />
+    <StockAnalysis Excluded="False" Theme="_Alert_INT" HasDrawings="False" />
   </StockAnalysisItem>
 </StockAnalysisList>
