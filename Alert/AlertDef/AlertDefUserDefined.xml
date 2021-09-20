@@ -45,4 +45,16 @@
     <IndicatorName>TRAILHLBODY(30)</IndicatorName>
     <EventName>BrokenUp</EventName>
   </StockAlertDef>
+  <StockAlertDef>
+    <CreationDate>2021-09-17T14:59:15.5695194+02:00</CreationDate>
+    <StockName>INT_KERING</StockName>
+    <PriceTrigger>641</PriceTrigger>
+    <TriggerBrokenUp>true</TriggerBrokenUp>
+    <BarDuration>
+      <Duration>H_1</Duration>
+      <Smoothing>1</Smoothing>
+      <LineBreak>0</LineBreak>
+      <HeikinAshi>false</HeikinAshi>
+    </BarDuration>
+  </StockAlertDef>
 </ArrayOfStockAlertDef>
