@@ -57,4 +57,19 @@
       <HeikinAshi>false</HeikinAshi>
     </BarDuration>
   </StockAlertDef>
+  <StockAlertDef>
+    <CreationDate>2021-09-21T15:08:57.5336215+02:00</CreationDate>
+    <StockName>FUT_COM_PALLADIUM</StockName>
+    <PriceTrigger>0</PriceTrigger>
+    <TriggerBrokenUp>false</TriggerBrokenUp>
+    <BarDuration>
+      <Duration>H_1</Duration>
+      <Smoothing>1</Smoothing>
+      <LineBreak>0</LineBreak>
+      <HeikinAshi>false</HeikinAshi>
+    </BarDuration>
+    <IndicatorType>AUTODRAWING</IndicatorType>
+    <IndicatorName>DRAWING()</IndicatorName>
+    <EventName>ResistanceBroken</EventName>
+  </StockAlertDef>
 </ArrayOfStockAlertDef>
