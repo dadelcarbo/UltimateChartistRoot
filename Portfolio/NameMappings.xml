@@ -1,8 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfStockNameMapping xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StockNameMapping>
-    <BinckName>HENRY HUB NATURAL GAS - JUL LEV LONG 5X OPEN (SOG)</BinckName>
+    <SaxoName>HENRY HUB NATURAL GAS - JUL LEV LONG 5X OPEN (SOG)</SaxoName>
     <StockName>TURBO_NATURAL GAS LONG X5</StockName>
+    <Leverage>1</Leverage>
+  </StockNameMapping>
+  <StockNameMapping>
+    <SaxoName>MAUNA KEA TECHNOLOGIES</SaxoName>
+    <StockName>MAUNA KEA TECH</StockName>
+    <Leverage>1</Leverage>
+  </StockNameMapping>
+  <StockNameMapping>
+    <SaxoName>ADP (AEROPORTS DE PARIS)</SaxoName>
+    <StockName>ADP</StockName>
     <Leverage>1</Leverage>
   </StockNameMapping>
 </ArrayOfStockNameMapping>

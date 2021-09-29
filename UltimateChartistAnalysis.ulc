@@ -61,6 +61,9 @@
   <StockAnalysisItem StockName="UNIBEL">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="VALLOUREC DS">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="XPO LOGISTICS">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
@@ -234,9 +237,6 @@
   <StockAnalysisItem StockName="ADC SIIC">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="ADVENIS">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
   <StockAnalysisItem StockName="ANTALIS">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
@@ -289,9 +289,6 @@
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="EURASIA FONCIERE INV.">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="EXACOMPTA CLAIREF.">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FAUVET GIREL">
@@ -423,6 +420,9 @@
   <StockAnalysisItem StockName="ADA">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="ADVENIS">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="ALES GROUPE">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
@@ -463,6 +463,9 @@
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="EVOLIS">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="EXACOMPTA CLAIREF.">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FILAE">
@@ -673,195 +676,6 @@
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="VALUE8 NV">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="7C SOLARPARKEN AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="ACCENTRO REAL ESTATE AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="ADLER MODEMAERKTE A">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="ALSTRIA OFFICE REIT">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="AUDI AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="BAYWA AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="BERENTZEN-GRUPPE AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="BIOTEST AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="BRAIN BIOTECHNOLOGY RESEARCH &amp; INFORMATION NETWORK">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="CAPITAL STAGE AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="CENIT AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="CENTROTEC SUSTAINAB">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="CO.DON AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="COMDIRECT BANK AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="DATA MODUL AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="DEAG DEUTSCHE ENTER">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="DEMIRE REAL ESTATE ">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="DRILLISCH AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="EINHELL GERMANY AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="ENERGIEKONTOR AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="EPIGENOMICS AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="EUROMICRON AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="EXPEDEON AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="FIRST SENSOR AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="FORMYCON AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="FRANCOTYP-POSTALIA ">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="GESCO AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="GIGASET AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="GK SOFTWARE AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="GOLD BULLION SECURITIES LTD">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="HAMBORNER REIT AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="INNOGY SE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="INSTONE REAL ESTATE GROUP AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="INVISION AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="ISRA VISION AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="MEDION AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="MOBOTIX AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="MOLOGEN AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="MPH HEALTH CARE AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="NANOGATE AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="OSRAM LICHT AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="PROGRESS-WERK OBERK">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="QSC AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="RIB SOFTWARE AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="RINGMETALL AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="ROCKET INTERNET SE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="SCHWEIZER ELECTRONI">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="SHW AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="SYZYGY AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="TELEGATE AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="TOM TAILOR HOLDING ">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="UZIN UTZ AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="VAPIANO SE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="VILLEROY &amp; BOCH AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="VISCOM AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="VITA 34 AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="VOLTABOX AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="WESTGRUND AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="WESTWING GROUP AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="WINDELN.DE SE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="WIRECARD AG">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="BE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="BIANCAMANO SPA">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="IMOB.C GRAO PARA">

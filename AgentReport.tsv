@@ -72,3 +72,21 @@ Date	Selector	Group	Duration	Agent	NbTrade	NbWinTrade	NbLostTrade	AVG Duration	W
 19/09/2021 18:14	ExpectedGainPerBar	INTRADAY	H_1	ATRCloud	1686	418	1268	41	4.31	24.79%	0.48%	0.01%	2	Period: 100	Width: 3	
 19/09/2021 20:24	ExpectedGainPerBar	CACALL	Monthly	TrailHIGHESTATR	817	309	508	64	14.42	37.82%	171.98%	2.65%	2	Trigger: 7	TrailATR: 10	
 19/09/2021 20:31	ExpectedGainPerBar	CACALL	Weekly	TrailHIGHESTATR	3934	1040	2894	65	9.71	26.44%	30.81%	0.47%	2	Trigger: 9	TrailATR: 8	
+19/09/2021 21:13	ExpectedGainPerBar	INTRADAY	H_1	ATRCloud	3117	1008	2109	23	2.94	32.34%	0.34%	0.01%	2	Period: 38	Width: 1.75	
+19/09/2021 21:17	ExpectedGainPerBar	INTRADAY	H_1	ATRCloud	2719	764	1955	20	3.43	28.10%	0.27%	0.01%	1.5	Period: 35	Width: 2.25	
+19/09/2021 21:18	WinTradeRatio	INTRADAY	H_1	ATRCloud	3474	1046	2428	18	2.96	30.11%	0.21%	0.01%	1.5	Period: 30	Width: 1.75	
+19/09/2021 21:19	WinLossRatio	INTRADAY	H_1	ATRCloud	3332	876	2456	25	3.9	26.29%	0.31%	0.01%	1.5	Period: 60	Width: 1.5	
+19/09/2021 21:20	ExpectedGain	INTRADAY	H_1	ATRCloud	3332	876	2456	25	3.9	26.29%	0.31%	0.01%	1.5	Period: 60	Width: 1.5	
+26/09/2021 10:16	ExpectedGainPerBar	EURO_B	Weekly	TrailEMA	704	360	344	72	4.67	51.14%	34.65%	0.48%	0	Period: 62	
+26/09/2021 10:17	ExpectedGainPerBar	EURO_A_B_C	Weekly	TrailEMA	2080	1048	1032	74	4.23	50.38%	29.98%	0.40%	0	Period: 69	
+26/09/2021 10:17	ExpectedGainPerBar	EURO_A_B_C	Weekly	TrailEMA	3748	1722	2026	43	3.58	45.94%	15.83%	0.37%	0	Period: 34	
+26/09/2021 10:18	ExpectedGainPerBar	EURO_A_B_C	Weekly	TrailEMA	3362	1264	2098	36	5.11	37.60%	14.50%	0.40%	2	Period: 39	
+26/09/2021 10:18	ExpectedGainPerBar	EURO_A_B_C	Weekly	TrailEMA	3362	1173	2189	33	5.71	34.89%	13.58%	0.41%	1.75	Period: 39	
+26/09/2021 10:19	ExpectedGainPerBar	EURO_A_B_C	Weekly	TrailEMA	3362	1071	2291	30	6.38	31.86%	12.44%	0.41%	1.55	Period: 39	
+26/09/2021 10:19	ExpectedGainPerBar	EURO_A_B_C	Weekly	TrailEMA	3362	925	2437	25	7.43	27.51%	10.24%	0.40%	1.25	Period: 39	
+26/09/2021 10:20	ExpectedGainPerBar	EURO_A_B_C	Weekly	TrailEMA	3938	1013	2925	20	7.65	25.72%	8.35%	0.40%	1.05	Period: 32	
+26/09/2021 10:31	ExpectedGainPerBar	EURO_A_B_C	Weekly	TrailHL	2164	804	1360	49	7.27	37.15%	23.40%	0.47%	2	Period: 31	
+26/09/2021 17:58	ExpectedGainPerBar	EURO_A	Weekly	TrailEMACD	670	148	522	182	45.13	22.09%	146.18%	0.80%	2	LongPeriod: 12	SignalPriod: 9	
+26/09/2021 18:15	ExpectedGainPerBar	EURO_A	Weekly	TrailEMACD	1487	728	759	30	3.17	48.96%	9.88%	0.33%	0	LongPeriod: 54	SignalPriod: 5	
+26/09/2021 18:16	ExpectedGainPerBar	EURO_A	Weekly	TrailEMACD	2231	1060	1171	25	2.81	47.51%	7.80%	0.30%	0	LongPeriod: 26	SignalPriod: 10	
+26/09/2021 18:18	ExpectedGainPerBar	EURO_A	Weekly	TrailEMACD	2010	956	1054	22	2.89	47.56%	7.13%	0.32%	0	LongPeriod: 41	SignalPriod: 3	

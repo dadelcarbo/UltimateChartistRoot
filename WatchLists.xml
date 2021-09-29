@@ -1,6 +1,18 @@
 <?xml version="1.0"?>
 <ArrayOfStockWatchList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StockWatchList>
+    <Name>_Intraday</Name>
+    <StockList>
+      <string>FUT_COM_GOLD</string>
+      <string>FUT_COM_NATURAL_GAS</string>
+      <string>FUT_COM_OIL_BRENT</string>
+      <string>FUT_COM_PALLADIUM</string>
+      <string>FUT_COM_SILVER</string>
+      <string>TURBO_AMAZON LONG X2</string>
+      <string>TURBO_NETFLIX CALL</string>
+    </StockList>
+  </StockWatchList>
+  <StockWatchList>
     <Name>_LongTerm</Name>
     <StockList>
       <string>ALBIOMA</string>
@@ -103,16 +115,6 @@
       <string>MINT</string>
       <string>POXEL</string>
       <string>SPINEWAY</string>
-    </StockList>
-  </StockWatchList>
-  <StockWatchList>
-    <Name>_Intraday</Name>
-    <StockList>
-      <string>FUT_COM_GOLD</string>
-      <string>FUT_COM_NATURAL_GAS</string>
-      <string>FUT_COM_OIL_BRENT</string>
-      <string>FUT_COM_PALLADIUM</string>
-      <string>FUT_COM_SILVER</string>
     </StockList>
   </StockWatchList>
   <StockWatchList>
