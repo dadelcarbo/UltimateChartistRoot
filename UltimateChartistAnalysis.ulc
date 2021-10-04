@@ -402,9 +402,6 @@
   <StockAnalysisItem StockName="TIPIAK">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="VERNEUIL PARTICIP.">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
   <StockAnalysisItem StockName="VIDELIO">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
@@ -758,47 +755,6 @@
       </DrawingItems>
     </StockAnalysis>
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="SP500">
-    <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
-      <DrawingItems BarDuration="Weekly">
-        <StockDrawingItems RefDate="31/08/2020 00:00:00" RefDateIndex="1078">
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1077</X>
-              <Y>3569.39</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1109</X>
-              <Y>4168.44</Y>
-            </PointF>
-            <Pen>2:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1053</X>
-              <Y>2264.83984</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1071</X>
-              <Y>2793.44</Y>
-            </PointF>
-            <Pen>2:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-          <HalfLine2D>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1053</X>
-              <Y>2133.12671</Y>
-            </PointF>
-            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <X>1071</X>
-              <Y>2661.72681</Y>
-            </PointF>
-            <Pen>2:255:0:0:0:Solid</Pen>
-          </HalfLine2D>
-        </StockDrawingItems>
-      </DrawingItems>
-    </StockAnalysis>
-  </StockAnalysisItem>
   <StockAnalysisItem StockName="BEAR/BULL Log Ratio">
     <StockAnalysis Excluded="False" Theme="BullBearRatio" HasDrawings="False" />
   </StockAnalysisItem>
@@ -807,5 +763,36 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_BOND_BTP">
     <StockAnalysis Excluded="False" Theme="_Alert_INT" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_IND_NASDAQ100">
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
+      <DrawingItems BarDuration="M_5">
+        <StockDrawingItems RefDate="30/09/2021 17:40:00" RefDateIndex="20080">
+          <CupHandle2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>20080</X>
+              <Y>14770.1</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>20106</X>
+              <Y>14770.1</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>20099</X>
+              <Y>14770.1</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>20103</X>
+              <Y>14737.8</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>20088</X>
+              <Y>14707.9</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </CupHandle2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
   </StockAnalysisItem>
 </StockAnalysisList>
