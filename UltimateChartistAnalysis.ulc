@@ -12,6 +12,25 @@
   <StockAnalysisItem StockName="CATERPILLAR INC">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="DBV TECHNOLOGIES">
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
+      <DrawingItems BarDuration="Weekly">
+        <StockDrawingItems>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>498</X>
+              <Y>9.669247</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>499</X>
+              <Y>9.669247</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </Line2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="FROMAGERIES BEL">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
@@ -54,6 +73,25 @@
             </PointF>
             <Pen>2:255:0:0:0:Solid</Pen>
           </CupHandle2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="TECHNICOLOR">
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
+      <DrawingItems BarDuration="Weekly">
+        <StockDrawingItems>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1128.7262</X>
+              <Y>3.19336128</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1129.7262</X>
+              <Y>3.19336128</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </Line2D>
         </StockDrawingItems>
       </DrawingItems>
     </StockAnalysis>
@@ -229,6 +267,32 @@
           </Line2D>
         </StockDrawingItems>
       </DrawingItems>
+      <DrawingItems BarDuration="Daily">
+        <StockDrawingItems>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>530.3031</X>
+              <Y>2.977479</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>531.3031</X>
+              <Y>2.977479</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </Line2D>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>532.527832</X>
+              <Y>4.035345</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>533.527832</X>
+              <Y>4.035345</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </Line2D>
+        </StockDrawingItems>
+      </DrawingItems>
     </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ABO GROUP">
@@ -296,6 +360,36 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FAYENC.SARREGUEMI.">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="FERMENTALG">
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
+      <DrawingItems BarDuration="Weekly">
+        <StockDrawingItems>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>390.641449</X>
+              <Y>3.18596435</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>391.641449</X>
+              <Y>3.18596435</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </Line2D>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>391</X>
+              <Y>3.003105</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>392</X>
+              <Y>3.003105</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </Line2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FIDUCIAL OFFICE SOLUTIONS">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
