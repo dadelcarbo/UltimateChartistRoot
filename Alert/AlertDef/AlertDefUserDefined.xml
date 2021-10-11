@@ -1,75 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfStockAlertDef xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StockAlertDef>
-    <CreationDate>2021-01-11T14:09:57.8688089+01:00</CreationDate>
-    <StockName>ACCOR HOTELS</StockName>
+    <CreationDate>2021-10-11T09:35:06.9500661+02:00</CreationDate>
+    <StockName>FUT_IND_NASDAQ100</StockName>
     <PriceTrigger>0</PriceTrigger>
     <TriggerBrokenUp>false</TriggerBrokenUp>
     <BarDuration>
-      <Duration>Daily</Duration>
-      <Smoothing>1</Smoothing>
-      <LineBreak>0</LineBreak>
-      <HeikinAshi>false</HeikinAshi>
-    </BarDuration>
-    <IndicatorType>CLOUD</IndicatorType>
-    <IndicatorName>TRENDBODY(12)</IndicatorName>
-    <EventName>CloudUp</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <CreationDate>2021-01-19T13:43:03.0103562+01:00</CreationDate>
-    <StockName>TURBO_CARREFOUR LONG X5</StockName>
-    <PriceTrigger>0</PriceTrigger>
-    <TriggerBrokenUp>false</TriggerBrokenUp>
-    <BarDuration>
-      <Duration>H_1</Duration>
+      <Duration>M_15</Duration>
       <Smoothing>1</Smoothing>
       <LineBreak>0</LineBreak>
       <HeikinAshi>false</HeikinAshi>
     </BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILHLBODY(12)</IndicatorName>
+    <IndicatorName>TRAILEMATF(20,1,False)</IndicatorName>
     <EventName>BrokenUp</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <CreationDate>2021-02-12T11:15:53.3430905+01:00</CreationDate>
-    <StockName>INT_BX4</StockName>
-    <PriceTrigger>0</PriceTrigger>
-    <TriggerBrokenUp>false</TriggerBrokenUp>
-    <BarDuration>
-      <Duration>H_1</Duration>
-      <Smoothing>1</Smoothing>
-      <LineBreak>0</LineBreak>
-      <HeikinAshi>false</HeikinAshi>
-    </BarDuration>
-    <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILHLBODY(30)</IndicatorName>
-    <EventName>BrokenUp</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <CreationDate>2021-09-17T14:59:15.5695194+02:00</CreationDate>
-    <StockName>INT_KERING</StockName>
-    <PriceTrigger>641</PriceTrigger>
-    <TriggerBrokenUp>true</TriggerBrokenUp>
-    <BarDuration>
-      <Duration>H_1</Duration>
-      <Smoothing>1</Smoothing>
-      <LineBreak>0</LineBreak>
-      <HeikinAshi>false</HeikinAshi>
-    </BarDuration>
-  </StockAlertDef>
-  <StockAlertDef>
-    <CreationDate>2021-09-21T15:08:57.5336215+02:00</CreationDate>
-    <StockName>FUT_COM_PALLADIUM</StockName>
-    <PriceTrigger>0</PriceTrigger>
-    <TriggerBrokenUp>false</TriggerBrokenUp>
-    <BarDuration>
-      <Duration>H_1</Duration>
-      <Smoothing>1</Smoothing>
-      <LineBreak>0</LineBreak>
-      <HeikinAshi>false</HeikinAshi>
-    </BarDuration>
-    <IndicatorType>AUTODRAWING</IndicatorType>
-    <IndicatorName>DRAWING()</IndicatorName>
-    <EventName>ResistanceBroken</EventName>
   </StockAlertDef>
 </ArrayOfStockAlertDef>
