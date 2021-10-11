@@ -7,6 +7,9 @@
     <IndicatorType>TRAILSTOP</IndicatorType>
     <IndicatorName>TRAILHIGHESTATR(25,2,5)</IndicatorName>
     <EventName>BrokenUp</EventName>
+    <FilterType>INDICATOR</FilterType>
+    <FilterName>EMA(200)</FilterName>
+    <FilterEventName>PriceAbove</FilterEventName>
   </StockAlertDef>
   <!--<StockAlertDef>
     <BarDuration>

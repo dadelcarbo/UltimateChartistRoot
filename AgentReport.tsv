@@ -90,3 +90,26 @@ Date	Selector	Group	Duration	Agent	NbTrade	NbWinTrade	NbLostTrade	AVG Duration	W
 26/09/2021 18:15	ExpectedGainPerBar	EURO_A	Weekly	TrailEMACD	1487	728	759	30	3.17	48.96%	9.88%	0.33%	0	LongPeriod: 54	SignalPriod: 5	
 26/09/2021 18:16	ExpectedGainPerBar	EURO_A	Weekly	TrailEMACD	2231	1060	1171	25	2.81	47.51%	7.80%	0.30%	0	LongPeriod: 26	SignalPriod: 10	
 26/09/2021 18:18	ExpectedGainPerBar	EURO_A	Weekly	TrailEMACD	2010	956	1054	22	2.89	47.56%	7.13%	0.32%	0	LongPeriod: 41	SignalPriod: 3	
+08/10/2021 23:05	ExpectedGainPerBar	EURO_A_B	Weekly	TrailEMATF	3075	1044	2031	40	7	33.95%	15.84%	0.39%	2	Period: 54	
+08/10/2021 23:06	ExpectedGainPerBar	EURO_A_B	Weekly	TrailEMATF	2912	658	2254	27	11.73	22.60%	11.06%	0.40%	0.9999998	Period: 61	
+08/10/2021 23:07	ExpectedGainPerBar	EURO_A_B	Weekly	TrailEMATF	2412	414	1998	25	19.81	17.16%	11.28%	0.45%	0.6999997	Period: 94	
+08/10/2021 23:09	ExpectedGainPerBar	EURO_A_B	Weekly	TrailEMATF	3043	1114	1929	44	6.37	36.61%	17.29%	0.39%	0	Period: 54	
+09/10/2021 13:24	ExpectedGainPerBar	BELGIUM	Weekly	TrailEMATF	638	228	410	39	5.08	35.74%	10.08%	0.25%	0	Period: 49	
+09/10/2021 13:24	ExpectedGainPerBar	HOLLAND	Weekly	TrailEMATF	522	200	322	35	6.6	38.31%	21.33%	0.59%	0	Period: 39	
+09/10/2021 13:24	ExpectedGainPerBar	GERMANY	Weekly	TrailEMATF	0	0	0	0		0.00%	0.00%	0.00%	0	Period: 5	
+09/10/2021 13:24	ExpectedGainPerBar	GERMANY	Weekly	TrailEMATF	0	0	0	0		0.00%	0.00%	0.00%	0	Period: 5	
+09/10/2021 13:24	ExpectedGainPerBar	PORTUGAL	Weekly	TrailEMATF	372	153	219	18	46.07	41.13%	186.79%	10.30%	0	Period: 9	
+09/10/2021 13:25	ExpectedGainPerBar	PORTUGAL	Weekly	TrailEMATF	184	69	115	32	4.64	37.50%	14.75%	0.45%	0	Period: 41	
+10/10/2021 18:22	ExpectedGainPerBar	EURO_A_B_C	Weekly	TrailEMATF	3846	1369	2477	43	6.22	35.60%	16.96%	0.39%	0	Period: 54	NbATR: 0.5	
+10/10/2021 18:27	ExpectedGainPerBar	CAC40	Weekly	TrailEMATF	215	100	115	130	6.52	46.51%	49.68%	0.38%	0	Period: 74	NbATR: 3.5	
+10/10/2021 18:31	ExpectedGainPerBar	EURO_A_B	Weekly	TrailEMATF	1394	622	772	106	6.57	44.62%	45.21%	0.42%	0	Period: 74	NbATR: 3.5	
+10/10/2021 18:36	ExpectedGainPerBar	EURO_A_B	Weekly	TrailEMATF	3043	1114	1929	44	6.37	36.61%	17.29%	0.39%	0	Period: 54	NbATR: 1	
+10/10/2021 19:12	ExpectedGainPerBar	EURO_A_B	Weekly	TrailEMATF	3043	1114	1929	44	6.37	36.61%	17.29%	0.39%	0	Period: 54	NbATR: 1	
+10/10/2021 19:35	ExpectedGainPerBar	EURO_A_B_C	Weekly	TrailEMATF	1751	819	932	115	5.27	46.77%	46.43%	0.40%	0	Period: 50	NbATR: 4.75	
+10/10/2021 19:35	ExpectedGainPerBar	EURO_A_B_C	Weekly	TrailEMATF	1751	819	932	115	5.27	46.77%	46.43%	0.40%	0	Period: 50	NbATR: 4.75	
+10/10/2021 19:38	ExpectedGainPerBar	PEA	Weekly	TrailEMATF	6214	2203	4011	41	5.87	35.45%	16.98%	0.41%	0	Period: 50	NbATR: 1.1	
+10/10/2021 21:31	ExpectedGainPerBar	CACALL	Weekly	TrailEMATF	4986	1743	3243	41	5.92	34.96%	17.17%	0.41%	0	Period: 50	NbATR: 1.1	
+10/10/2021 21:31	ExpectedGainPerBar	CACALL	Weekly	TrailEMATF	3822	747	3075	26	13.58	19.54%	12.81%	0.48%	1	Period: 50	NbATR: 2	
+10/10/2021 21:32	ExpectedGainPerBar	CACALL	Weekly	TrailEMATF	4245	1387	2858	7	5.07	32.67%	3.00%	0.40%	1.639128E-08	Period: 50	NbATR: 1.6	
+10/10/2021 21:33	ExpectedGainPerBar	CACALL	Weekly	TrailEMATF	4372	1399	2973	41	6.89	32.00%	17.60%	0.43%	2	Period: 50	NbATR: 1.5	
+10/10/2021 21:33	ExpectedGainPerBar	CACALL	Weekly	TrailEMATF	4032	1069	2963	36	9.01	26.51%	15.97%	0.44%	1.5	Period: 50	NbATR: 1.8	

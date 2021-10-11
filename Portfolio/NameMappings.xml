@@ -15,4 +15,9 @@
     <StockName>ADP</StockName>
     <Leverage>1</Leverage>
   </StockNameMapping>
+  <StockNameMapping>
+    <SaxoName>LYXOR LEVERAGE CAC 40</SaxoName>
+    <StockName>LYXOR CAC 40 (2X) LEVERAGED</StockName>
+    <Leverage>1</Leverage>
+  </StockNameMapping>
 </ArrayOfStockNameMapping>
