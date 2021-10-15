@@ -1,18 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfStockAlertDef xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StockAlertDef>
-    <CreationDate>2021-10-11T09:35:06.9500661+02:00</CreationDate>
+    <CreationDate>2021-10-02T19:32:57.2478732+02:00</CreationDate>
     <StockName>FUT_IND_NASDAQ100</StockName>
-    <PriceTrigger>0</PriceTrigger>
-    <TriggerBrokenUp>false</TriggerBrokenUp>
+    <PriceTrigger>14700</PriceTrigger>
+    <TriggerBrokenUp>true</TriggerBrokenUp>
     <BarDuration>
-      <Duration>M_15</Duration>
+      <Duration>H_1</Duration>
       <Smoothing>1</Smoothing>
       <LineBreak>0</LineBreak>
       <HeikinAshi>false</HeikinAshi>
     </BarDuration>
-    <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILEMATF(20,1,False)</IndicatorName>
-    <EventName>BrokenUp</EventName>
+  </StockAlertDef>
+  <StockAlertDef>
+    <CreationDate>2021-10-12T20:30:36.7119382+02:00</CreationDate>
+    <StockName>AIR LIQUIDE</StockName>
+    <PriceTrigger>0</PriceTrigger>
+    <TriggerBrokenUp>false</TriggerBrokenUp>
+    <BarDuration>
+      <Duration>Daily</Duration>
+      <Smoothing>1</Smoothing>
+      <LineBreak>0</LineBreak>
+      <HeikinAshi>false</HeikinAshi>
+    </BarDuration>
+    <IndicatorType>CLOUD</IndicatorType>
+    <IndicatorName>EMA2(12,26)</IndicatorName>
+    <EventName>CloudUp</EventName>
   </StockAlertDef>
 </ArrayOfStockAlertDef>

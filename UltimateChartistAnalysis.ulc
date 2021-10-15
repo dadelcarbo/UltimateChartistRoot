@@ -601,9 +601,6 @@
   <StockAnalysisItem StockName="MICROWAVE VISION">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="MINT">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
   <StockAnalysisItem StockName="NSC GROUPE">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>

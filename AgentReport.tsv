@@ -113,3 +113,22 @@ Date	Selector	Group	Duration	Agent	NbTrade	NbWinTrade	NbLostTrade	AVG Duration	W
 10/10/2021 21:32	ExpectedGainPerBar	CACALL	Weekly	TrailEMATF	4245	1387	2858	7	5.07	32.67%	3.00%	0.40%	1.639128E-08	Period: 50	NbATR: 1.6	
 10/10/2021 21:33	ExpectedGainPerBar	CACALL	Weekly	TrailEMATF	4372	1399	2973	41	6.89	32.00%	17.60%	0.43%	2	Period: 50	NbATR: 1.5	
 10/10/2021 21:33	ExpectedGainPerBar	CACALL	Weekly	TrailEMATF	4032	1069	2963	36	9.01	26.51%	15.97%	0.44%	1.5	Period: 50	NbATR: 1.8	
+12/10/2021 22:45	ExpectedGainPerBar	EURO_C	Weekly	EMA2Lines	1451	378	1073	20	5.94	26.05%	7.93%	0.38%	1.5	FastPeriod: 6	SlowPeriod: 38	
+12/10/2021 22:50	ExpectedGainPerBar	EURO_C	Weekly	EMA2Lines	1926	449	1477	14	6.41	23.31%	5.70%	0.39%	0.9999998	FastPeriod: 3	SlowPeriod: 42	
+12/10/2021 22:51	ExpectedGainPerBar	EURO_C	Weekly	EMA2Lines	1836	470	1366	17	5.52	25.60%	6.16%	0.36%	1.5	FastPeriod: 3	SlowPeriod: 42	
+12/10/2021 22:52	ExpectedGainPerBar	EURO_C	Weekly	EMA2Lines	1662	429	1233	19	5.7	25.81%	6.91%	0.36%	1.5	FastPeriod: 4	SlowPeriod: 41	
+12/10/2021 22:53	ExpectedGainPerBar	EURO_C	Weekly	EMA2Lines	2164	577	1587	14	5.01	26.66%	5.60%	0.37%	1.5	FastPeriod: 5	SlowPeriod: 22	
+12/10/2021 22:55	ExpectedGainPerBar	EURO_C	Weekly	EMA2Lines	1451	378	1073	20	5.94	26.05%	7.93%	0.38%	1.5	FastPeriod: 6	SlowPeriod: 38	
+12/10/2021 22:56	ExpectedGainPerBar	SBF120	Weekly	EMA2Lines	1555	468	1087	34	8.41	30.10%	14.16%	0.41%	1.5	FastPeriod: 6	SlowPeriod: 55	
+12/10/2021 22:57	ExpectedGainPerBar	SBF120	Weekly	EMA2Lines	1818	485	1333	30	9.25	26.68%	11.83%	0.39%	1.5	FastPeriod: 3	SlowPeriod: 70	
+12/10/2021 23:01	ExpectedGainPerBar	SBF120	Weekly	EMA2Lines	1280	443	837	43	7.53	34.61%	18.40%	0.42%	2	FastPeriod: 9	SlowPeriod: 53	
+15/10/2021 16:51	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	0	0	0	0		0.00%	0.00%	0.00%	0	Trigger: 20	TrailATR: 1	
+15/10/2021 16:51	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	0	0	0	0		0.00%	0.00%	0.00%	0	Trigger: 20	TrailATR: 1	
+15/10/2021 16:51	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	0	0	0	0		0.00%	0.00%	0.00%	0	Trigger: 20	TrailATR: 1	
+15/10/2021 16:51	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	0	0	0	0		0.00%	0.00%	0.00%	0	Trigger: 20	TrailATR: 1	
+15/10/2021 16:51	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	0	0	0	0		0.00%	0.00%	0.00%	0	Trigger: 20	TrailATR: 1	
+15/10/2021 16:51	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	0	0	0	0		0.00%	0.00%	0.00%	0	Trigger: 20	TrailATR: 1	
+15/10/2021 16:52	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	0	0	0	0		0.00%	0.00%	0.00%	0	Trigger: 20	TrailATR: 1	
+15/10/2021 16:52	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	0	0	0	0		0.00%	0.00%	0.00%	0	Trigger: 20	TrailATR: 1	
+15/10/2021 16:52	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	0	0	0	0		0.00%	0.00%	0.00%	0	Trigger: 20	TrailATR: 1	
+15/10/2021 16:54	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	1411	269	1142	48	26.97	19.06%	28.07%	0.58%	1	Trigger: 20	TrailATR: 8	
