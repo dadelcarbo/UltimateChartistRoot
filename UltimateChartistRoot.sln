@@ -163,6 +163,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Formation", "Formation", "{
 		Formation\VariationInMonth.xlsx = Formation\VariationInMonth.xlsx
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Palmares", "Palmares", "{7688D27C-5E0C-494A-B8D0-7F94E6FD98F4}"
+	ProjectSection(SolutionItems) = preProject
+		Palmares\_Default.xml = Palmares\_Default.xml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -179,6 +184,7 @@ Global
 		{07757D98-B606-4FDD-9BF0-D4947BEB6440} = {67B0D179-5378-4BB1-A155-58600F7DACEC}
 		{4C593634-1FD8-481E-A565-73D9EBF8F887} = {67B0D179-5378-4BB1-A155-58600F7DACEC}
 		{2E0C0A73-0FBB-46A0-B58D-CB72BA373804} = {1C7888FD-6579-4E34-A96B-ADCF2BC8AB8C}
+		{7688D27C-5E0C-494A-B8D0-7F94E6FD98F4} = {1C7888FD-6579-4E34-A96B-ADCF2BC8AB8C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {739F75DB-2139-48D8-A612-E8AB77F3CF0F}

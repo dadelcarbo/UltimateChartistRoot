@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PalmaresSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FilterSettings />
+  <BarDuration>
+    <Duration>Daily</Duration>
+    <Smoothing>1</Smoothing>
+    <LineBreak>0</LineBreak>
+    <HeikinAshi>false</HeikinAshi>
+  </BarDuration>
+  <Indicator1>MANSFIELD(100,CAC40)</Indicator1>
+  <Indicator2>HIGHEST(20)</Indicator2>
+  <Indicator3>STOKFBODY(20)</Indicator3>
+  <Stop>TRAILEMATF(20,1,False)</Stop>
+</PalmaresSettings>

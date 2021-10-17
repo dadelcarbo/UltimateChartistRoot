@@ -132,3 +132,5 @@ Date	Selector	Group	Duration	Agent	NbTrade	NbWinTrade	NbLostTrade	AVG Duration	W
 15/10/2021 16:52	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	0	0	0	0		0.00%	0.00%	0.00%	0	Trigger: 20	TrailATR: 1	
 15/10/2021 16:52	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	0	0	0	0		0.00%	0.00%	0.00%	0	Trigger: 20	TrailATR: 1	
 15/10/2021 16:54	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	1411	269	1142	48	26.97	19.06%	28.07%	0.58%	1	Trigger: 20	TrailATR: 8	
+15/10/2021 17:10	ExpectedGainPerBar	CAC40	Weekly	TrailHIGHESTATR	315	46	269	55	19.71	14.60%	11.79%	0.21%	0.9999998	Trigger: 35	TrailATR: 9.999999	
+15/10/2021 17:14	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	1624	426	1198	23	8.36	26.23%	7.48%	0.32%	0.9999998	Trigger: 44	TrailATR: 3.7	
