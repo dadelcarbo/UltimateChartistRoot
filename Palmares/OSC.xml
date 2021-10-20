@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<PalmaresSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<PalmaresSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <FilterSettings />
   <BarDuration>
-    <Duration>Daily</Duration>
+    <Duration>Weekly</Duration>
     <Smoothing>1</Smoothing>
     <LineBreak>0</LineBreak>
     <HeikinAshi>false</HeikinAshi>
   </BarDuration>
-  <Indicator1>MANSFIELD(100,CAC40)</Indicator1>
+  <Indicator1>OSC(20,50,True)</Indicator1>
   <Indicator2>HIGHEST(20)</Indicator2>
   <Indicator3>STOKFBODY(20)</Indicator3>
-  <Stop>TRAILHIGHESTATR(20,1.5,4)</Stop>
+  <Stop>TRAILEMA(20)</Stop>
 </PalmaresSettings>
