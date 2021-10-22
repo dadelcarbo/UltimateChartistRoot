@@ -34,6 +34,58 @@
   <StockAnalysisItem StockName="ARTOIS NOM.">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="BOIRON">
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
+      <DrawingItems BarDuration="Weekly">
+        <StockDrawingItems>
+          <HalfLine2D>
+            <PointF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+              <X>1114.147</X>
+              <Y>40.5431366</Y>
+            </PointF>
+            <PointF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+              <X>1115.147</X>
+              <Y>40.5431366</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
+          <HalfLine2D>
+            <PointF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+              <X>1079.59131</X>
+              <Y>43.7984962</Y>
+            </PointF>
+            <PointF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+              <X>1080.59131</X>
+              <Y>43.7984962</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="FINANCIERE ODET">
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
+      <DrawingItems BarDuration="Weekly">
+        <StockDrawingItems RefDate="12/03/2018 00:00:00" RefDateIndex="938">
+          <HalfLine2D>
+            <PointF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+              <X>938</X>
+              <Y>1090</Y>
+            </PointF>
+            <PointF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+              <X>995</X>
+              <Y>926</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="ILIAD">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="BASSAC">
     <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
       <DrawingItems BarDuration="Weekly">
@@ -107,6 +159,25 @@
             </PointF>
             <Pen>1:255:0:0:0:Solid</Pen>
           </CupHandle2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="ADOCIA">
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
+      <DrawingItems BarDuration="Weekly">
+        <StockDrawingItems>
+          <HalfLine2D>
+            <PointF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+              <X>489</X>
+              <Y>10</Y>
+            </PointF>
+            <PointF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+              <X>490</X>
+              <Y>10</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
         </StockDrawingItems>
       </DrawingItems>
     </StockAnalysis>
@@ -188,6 +259,25 @@
             </PointF>
             <Pen>1:255:0:0:0:Solid</Pen>
           </HalfLine2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="ADEUNIS">
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
+      <DrawingItems BarDuration="Weekly">
+        <StockDrawingItems>
+          <Line2D>
+            <PointF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+              <X>126.58754</X>
+              <Y>3.34416342</Y>
+            </PointF>
+            <PointF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+              <X>127.58754</X>
+              <Y>3.34416342</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </Line2D>
         </StockDrawingItems>
       </DrawingItems>
     </StockAnalysis>

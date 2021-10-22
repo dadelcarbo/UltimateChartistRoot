@@ -105,17 +105,152 @@
   <StockAnalysisItem StockName="XPO LOGISTICS">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="AB SCIENCE">
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
+      <DrawingItems BarDuration="Daily">
+        <StockDrawingItems>
+          <HalfLine2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2912.08423</X>
+              <Y>13.7086821</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>2913.08423</X>
+              <Y>13.7086821</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="AGTA RECORD">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="AKKA TECHNOLOGIES">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="ALPES (COMPAGNIE)">
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
+      <DrawingItems BarDuration="Daily">
+        <StockDrawingItems RefDate="26/08/2021 00:00:00" RefDateIndex="5529">
+          <CupHandle2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>5557</X>
+              <Y>14.82</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>5569</X>
+              <Y>14.82</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>5561</X>
+              <Y>14.82</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>5566</X>
+              <Y>14.3</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>5559</X>
+              <Y>14.12</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </CupHandle2D>
+          <CupHandle2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>5529</X>
+              <Y>13.88</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>5541</X>
+              <Y>13.88</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>5531</X>
+              <Y>13.88</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>5537</X>
+              <Y>13.3</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>5530</X>
+              <Y>13.66</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </CupHandle2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="ALTAMIR">
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
+      <DrawingItems BarDuration="Weekly">
+        <StockDrawingItems RefDate="15/03/2021 00:00:00" RefDateIndex="1104">
+          <CupHandle2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1104</X>
+              <Y>24.55</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1135</X>
+              <Y>24.55</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1130</X>
+              <Y>24.55</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1132</X>
+              <Y>23.8</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1126</X>
+              <Y>22.815</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </CupHandle2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="ALTAREIT">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="APRIL">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="ARGAN">
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
+      <DrawingItems BarDuration="Weekly">
+        <StockDrawingItems RefDate="07/09/2020 00:00:00" RefDateIndex="689">
+          <CupHandle2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>689</X>
+              <Y>88.6</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>725</X>
+              <Y>88.6</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>710</X>
+              <Y>88.6</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>718</X>
+              <Y>79.7</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>701</X>
+              <Y>77</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </CupHandle2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BACCARAT">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
