@@ -1,12 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<PalmaresSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <FilterSettings />
+<PalmaresSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FilterSettings>
+    <FilterSetting>
+      <SelectedDistinctValues />
+      <ColumnUniqueName>Stop</ColumnUniqueName>
+      <DisplayName>Stop</DisplayName>
+      <Filter1>
+        <Operator>IsNotEqualTo</Operator>
+        <Value xsi:type="xsd:float">NaN</Value>
+        <IsCaseSensitive>false</IsCaseSensitive>
+      </Filter1>
+      <FieldFilterLogicalOperator>And</FieldFilterLogicalOperator>
+    </FilterSetting>
+    <FilterSetting>
+      <SelectedDistinctValues />
+      <ColumnUniqueName>Indicator1</ColumnUniqueName>
+      <DisplayName>MANSFIELD</DisplayName>
+      <Filter1>
+        <Operator>IsGreaterThan</Operator>
+        <Value xsi:type="xsd:float">0.25</Value>
+        <IsCaseSensitive>false</IsCaseSensitive>
+      </Filter1>
+      <FieldFilterLogicalOperator>And</FieldFilterLogicalOperator>
+    </FilterSetting>
+    <FilterSetting>
+      <SelectedDistinctValues />
+      <ColumnUniqueName>Indicator3</ColumnUniqueName>
+      <DisplayName>STOKFBODY</DisplayName>
+      <Filter1>
+        <Operator>IsGreaterThan</Operator>
+        <Value xsi:type="xsd:float">0.5</Value>
+        <IsCaseSensitive>false</IsCaseSensitive>
+      </Filter1>
+      <FieldFilterLogicalOperator>And</FieldFilterLogicalOperator>
+    </FilterSetting>
+  </FilterSettings>
   <BarDuration>
     <Duration>Daily</Duration>
     <Smoothing>1</Smoothing>
     <LineBreak>0</LineBreak>
     <HeikinAshi>false</HeikinAshi>
   </BarDuration>
+  <Group>PEA</Group>
   <Indicator1>MANSFIELD(100,CAC40)</Indicator1>
   <Indicator2>HIGHEST(20)</Indicator2>
   <Indicator3>STOKFBODY(20)</Indicator3>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PalmaresSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FilterSettings>
+  </FilterSettings>
+  <BarDuration>
+    <Duration>Weekly</Duration>
+    <Smoothing>1</Smoothing>
+    <LineBreak>0</LineBreak>
+    <HeikinAshi>false</HeikinAshi>
+  </BarDuration>
+  <Group>PEA</Group>
+  <Indicator1 />
+  <Indicator2 />
+  <Indicator3 />
+  <Stop>TRAILHIGHESTATR(20,1.5,4)</Stop>
+</PalmaresSettings>

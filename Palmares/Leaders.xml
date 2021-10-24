@@ -3,6 +3,17 @@
   <FilterSettings>
     <FilterSetting>
       <SelectedDistinctValues />
+      <ColumnUniqueName>Indicator1</ColumnUniqueName>
+      <DisplayName>ROR</DisplayName>
+      <Filter1>
+        <Operator>IsGreaterThan</Operator>
+        <Value xsi:type="xsd:float">0.25</Value>
+        <IsCaseSensitive>false</IsCaseSensitive>
+      </Filter1>
+      <FieldFilterLogicalOperator>And</FieldFilterLogicalOperator>
+    </FilterSetting>
+    <FilterSetting>
+      <SelectedDistinctValues />
       <ColumnUniqueName>Stop</ColumnUniqueName>
       <DisplayName>Stop</DisplayName>
       <Filter1>
@@ -14,19 +25,8 @@
     </FilterSetting>
     <FilterSetting>
       <SelectedDistinctValues />
-      <ColumnUniqueName>Indicator1</ColumnUniqueName>
-      <DisplayName>MANSFIELD</DisplayName>
-      <Filter1>
-        <Operator>IsGreaterThan</Operator>
-        <Value xsi:type="xsd:float">0.25</Value>
-        <IsCaseSensitive>false</IsCaseSensitive>
-      </Filter1>
-      <FieldFilterLogicalOperator>And</FieldFilterLogicalOperator>
-    </FilterSetting>
-    <FilterSetting>
-      <SelectedDistinctValues />
       <ColumnUniqueName>Indicator3</ColumnUniqueName>
-      <DisplayName>STOKFBODY</DisplayName>
+      <DisplayName>VOLMONEY</DisplayName>
       <Filter1>
         <Operator>IsGreaterThan</Operator>
         <Value xsi:type="xsd:float">0.5</Value>
@@ -42,8 +42,8 @@
     <HeikinAshi>false</HeikinAshi>
   </BarDuration>
   <Group>PEA</Group>
-  <Indicator1>MANSFIELD(100,CAC40)</Indicator1>
-  <Indicator2>HIGHEST(20)</Indicator2>
-  <Indicator3>STOKFBODY(20)</Indicator3>
-  <Stop>TRAILHIGHESTATR(20,1.5,4)</Stop>
+  <Indicator1>ROR(50)</Indicator1>
+  <Indicator2>ROD(15)</Indicator2>
+  <Indicator3>VOLMONEY()</Indicator3>
+  <Stop>TRAILATRBAND(15,1.5,-1.5,EMA)</Stop>
 </PalmaresSettings>
