@@ -4,6 +4,18 @@
     <BarDuration>
       <Duration>Weekly</Duration>
     </BarDuration>
+    <IndicatorType>INDICATOR</IndicatorType>
+    <IndicatorName>TOPEMA(0,9,1)</IndicatorName>
+    <EventName>ResistanceBroken</EventName>
+    <FilterType>TRAILSTOP</FilterType>
+    <FilterName>TRAILATRBAND(30,1.5,-1.5,XMA)</FilterName>
+    <FilterEventName>Bullish</FilterEventName>
+  </StockAlertDef>
+
+  <!--<StockAlertDef>
+    <BarDuration>
+      <Duration>Weekly</Duration>
+    </BarDuration>
     <IndicatorType>AUTODRAWING</IndicatorType>
     <IndicatorName>CUPHANDLE(6,false,12)</IndicatorName>
     <EventName>BrokenUp</EventName>
@@ -15,5 +27,5 @@
     <IndicatorType>INDICATOR</IndicatorType>
     <IndicatorName>BBEX(50,1.25,-1.25,EMA)</IndicatorName>
     <EventName>FirstBodyAboveBand</EventName>
-  </StockAlertDef>
+  </StockAlertDef>-->
 </ArrayOfStockAlertDef>

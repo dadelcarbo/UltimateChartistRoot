@@ -2,6 +2,18 @@
 <ArrayOfStockAlertDef xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StockAlertDef>
     <BarDuration>
+      <Duration>H1</Duration>
+    </BarDuration>
+    <IndicatorType>INDICATOR</IndicatorType>
+    <IndicatorName>TOPEMA(0,9,1)</IndicatorName>
+    <EventName>ResistanceBroken</EventName>
+    <FilterType>TRAILSTOP</FilterType>
+    <FilterName>TRAILATRBAND(30,1.5,-1.5,XMA)</FilterName>
+    <FilterEventName>Bullish</FilterEventName>
+  </StockAlertDef>
+
+  <StockAlertDef>
+    <BarDuration>
       <Duration>H_1</Duration>
     </BarDuration>
     <IndicatorType>TRAILSTOP</IndicatorType>
