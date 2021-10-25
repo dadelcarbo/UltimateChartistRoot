@@ -2,7 +2,7 @@
 <ArrayOfStockAlertDef xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StockAlertDef>
     <BarDuration>
-      <Duration>H1</Duration>
+      <Duration>H_1</Duration>
     </BarDuration>
     <IndicatorType>INDICATOR</IndicatorType>
     <IndicatorName>TOPEMA(0,9,1)</IndicatorName>
