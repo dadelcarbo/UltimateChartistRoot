@@ -8,7 +8,7 @@
     <IndicatorName>TOPEMA(0,9,1)</IndicatorName>
     <EventName>ResistanceBroken</EventName>
     <FilterType>TRAILSTOP</FilterType>
-    <FilterName>TRAILATRBAND(30,1.5,-1.5,XMA)</FilterName>
+    <FilterName>TRAILATR(30,1.5,-1.5,XMA)</FilterName>
     <FilterEventName>Bullish</FilterEventName>
   </StockAlertDef>
 

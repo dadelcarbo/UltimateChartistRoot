@@ -70,7 +70,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>CLOUD|TRAILATRBAND(50,2.75,-2.75,MA,3)</Indicator>
+      <Indicator>CLOUD|TRAILATR(50,2.75,-2.75,MA,3)</Indicator>
       <EndDate
         xsi:nil="true" />
     </StockTradeLogEntry>
@@ -88,7 +88,7 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <EntryComment>Bounce close to close to moving average</EntryComment>
-      <Indicator>CLOUD|TRAILATRBAND(50,2.75,-2.75,MA,3)</Indicator>
+      <Indicator>CLOUD|TRAILATR(50,2.75,-2.75,MA,3)</Indicator>
       <EndDate
         xsi:nil="true" />
     </StockTradeLogEntry>
@@ -105,7 +105,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>CLOUD|TRAILATRBAND(50,2.75,-2.75,MA,3)</Indicator>
+      <Indicator>CLOUD|TRAILATR(50,2.75,-2.75,MA,3)</Indicator>
       <EndDate>2020-12-09T17:25:00</EndDate>
     </StockTradeLogEntry>
     <StockTradeLogEntry>
@@ -121,7 +121,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>CLOUD|TRAILATRBAND(50,2.75,-2.75,MA,3)</Indicator>
+      <Indicator>CLOUD|TRAILATR(50,2.75,-2.75,MA,3)</Indicator>
       <EndDate
         xsi:nil="true" />
     </StockTradeLogEntry>

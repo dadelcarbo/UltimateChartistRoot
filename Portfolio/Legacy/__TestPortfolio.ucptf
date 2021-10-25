@@ -52,7 +52,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>CLOUD|TRAILATRBAND(50,2.75,-2.75,MA,3)</Indicator>
+      <Indicator>CLOUD|TRAILATR(50,2.75,-2.75,MA,3)</Indicator>
       <ExitDate>9999-12-31T23:59:59.9999999</ExitDate>
       <IsShort>false</IsShort>
       <Leverage>1</Leverage>
@@ -70,7 +70,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>CLOUD|TRAILATRBAND(50,2.75,-2.75,MA,3)</Indicator>
+      <Indicator>CLOUD|TRAILATR(50,2.75,-2.75,MA,3)</Indicator>
       <ExitDate>9999-12-31T23:59:59.9999999</ExitDate>
       <IsShort>false</IsShort>
       <Leverage>1</Leverage>
@@ -88,7 +88,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>CLOUD|TRAILATRBAND(50,2.75,-2.75,MA,3)</Indicator>
+      <Indicator>CLOUD|TRAILATR(50,2.75,-2.75,MA,3)</Indicator>
       <ExitDate>9999-12-31T23:59:59.9999999</ExitDate>
       <IsShort>false</IsShort>
       <Leverage>1</Leverage>

@@ -16,7 +16,7 @@
       <Duration>Daily</Duration>
     </BarDuration>
     <IndicatorType>CLOUD</IndicatorType>
-    <IndicatorName>TRAILATRBAND(20,2.5,-2.5,MA,3)</IndicatorName>
+    <IndicatorName>TRAILATR(20,2.5,-2.5,MA,3)</IndicatorName>
     <EventName>LongEntry</EventName>
   </StockAlertDef>
   <StockAlertDef>

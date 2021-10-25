@@ -45,5 +45,5 @@
   <Indicator1>ROR(50)</Indicator1>
   <Indicator2>ROD(15)</Indicator2>
   <Indicator3>VOLMONEY()</Indicator3>
-  <Stop>TRAILATRBAND(15,1.5,-1.5,EMA)</Stop>
+  <Stop>TRAILATR(15,1.5,-1.5,EMA)</Stop>
 </PalmaresSettings>
