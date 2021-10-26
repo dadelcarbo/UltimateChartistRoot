@@ -27,4 +27,19 @@
     <IndicatorName>EMA2(12,26)</IndicatorName>
     <EventName>CloudUp</EventName>
   </StockAlertDef>
+  <StockAlertDef>
+    <CreationDate>2021-10-26T08:17:41.2221863+02:00</CreationDate>
+    <StockName>FUT_IND_CAC40</StockName>
+    <PriceTrigger>0</PriceTrigger>
+    <TriggerBrokenUp>false</TriggerBrokenUp>
+    <BarDuration>
+      <Duration>H_1</Duration>
+      <Smoothing>1</Smoothing>
+      <LineBreak>0</LineBreak>
+      <HeikinAshi>false</HeikinAshi>
+    </BarDuration>
+    <IndicatorType>CLOUD</IndicatorType>
+    <IndicatorName>TRAILATR(30,2,-2,EMA,6)</IndicatorName>
+    <EventName>CloudDown</EventName>
+  </StockAlertDef>
 </ArrayOfStockAlertDef>
