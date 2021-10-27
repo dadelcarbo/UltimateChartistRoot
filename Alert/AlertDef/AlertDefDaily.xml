@@ -4,60 +4,16 @@
     <BarDuration>
       <Duration>Daily</Duration>
     </BarDuration>
-    <IndicatorType>TRAILSTOP</IndicatorType>
-    <IndicatorName>TRAILHIGHESTATR(25,2,5)</IndicatorName>
-    <EventName>BrokenUp</EventName>
-    <FilterType>INDICATOR</FilterType>
-    <FilterName>EMA(200)</FilterName>
-    <FilterEventName>PriceAbove</FilterEventName>
+    <IndicatorType>CLOUD</IndicatorType>
+    <IndicatorName>TRAILATR(30,2,-2,EMA,6)</IndicatorName>
+    <EventName>CloudUp</EventName>
   </StockAlertDef>
-  <!--<StockAlertDef>
+  <StockAlertDef>
     <BarDuration>
       <Duration>Daily</Duration>
     </BarDuration>
     <IndicatorType>CLOUD</IndicatorType>
-    <IndicatorName>TRAILATR(20,2.5,-2.5,MA,3)</IndicatorName>
-    <EventName>LongEntry</EventName>
+    <IndicatorName>TRAILATR(30,2,-2,EMA,6)</IndicatorName>
+    <EventName>Long Reentry</EventName>
   </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Daily</Duration>
-    </BarDuration>
-    <IndicatorType>INDICATOR</IndicatorType>
-    <IndicatorName>GUPPY(3,5,8,10,12,15,30,35,40,45,50,60)</IndicatorName>
-    <EventName>BullCrossing</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Daily</Duration>
-    </BarDuration>
-    <IndicatorType>AUTODRAWING</IndicatorType>
-    <IndicatorName>CUPHANDLE(6,false,12)</IndicatorName>
-    <EventName>BrokenUp</EventName>
-  </StockAlertDef>
-  <StockAlertDef>
-    <BarDuration>
-      <Duration>Daily</Duration>
-    </BarDuration>
-    <IndicatorType>INDICATOR</IndicatorType>
-    <IndicatorName>HIGHEST(20)</IndicatorName>
-    <EventName>NewHigh</EventName>
-  </StockAlertDef>-->
-  <!--<StockAlertDef>
-		<BarDuration>
-			<Duration>LineBreak_3D</Duration>
-		</BarDuration>
-		<IndicatorType>INDICATOR</IndicatorType>
-		<IndicatorName>TRUE(3)</IndicatorName>
-		<EventName>HigherLow</EventName>
-	</StockAlertDef>
-	<StockAlertDef>
-		<BarDuration>
-			<Duration>Daily</Duration>
-		</BarDuration>
-		<IndicatorType>INDICATOR</IndicatorType>
-		<IndicatorName>GUPPY(3,5,8,10,12,15,30,35,40,45,50,60)</IndicatorName>
-		<EventName>BullStart</EventName>
-	</StockAlertDef>
-  -->
 </ArrayOfStockAlertDef>

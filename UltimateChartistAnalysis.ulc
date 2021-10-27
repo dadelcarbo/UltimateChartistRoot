@@ -1099,6 +1099,9 @@
   <StockAnalysisItem StockName="AD.CAC40">
     <StockAnalysis Excluded="False" Theme="ADBench" HasDrawings="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="FUT_BOND_EURO">
+    <StockAnalysis Excluded="False" Theme="___TRAILATR" HasDrawings="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_IND_NASDAQ100">
     <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
       <DrawingItems BarDuration="M_5">
