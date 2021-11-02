@@ -169,3 +169,8 @@ Date	Selector	Group	Duration	Agent	NbTrade	NbWinTrade	NbLostTrade	AVG Duration	W
 22/10/2021 23:57	ExpectedGainPerBar	EURO_A	Weekly	SAR	815	152	663	147	47.77	18.65%	78.70%	0.54%	0.9999998	Speed: 0.014	
 23/10/2021 00:05	ExpectedGainPerBar	EURO_A	Weekly	SAR	815	152	663	147	47.77	18.65%	78.70%	0.54%	0.9999998	Speed: 0.014	
 23/10/2021 00:16	ExpectedGainPerBar	SBF120	Daily	SAR	1071	145	926	480	36.04	13.54%	52.01%	0.11%	2.5	Speed: 0.016	
+28/10/2021 13:28	ExpectedGainPerBar	CAC40	Weekly	ATRCloud	50	22	28	15	4.04	44.00%	7.12%	0.47%	2	Period: 14	Width: 3	
+28/10/2021 13:41	ExpectedGainPerBar	EURO_A	Weekly	ATRReentry	964	321	643	69	8.22	33.30%	22.37%	0.32%	2	Period: 60	Width: 3	
+28/10/2021 13:50	ExpectedGainPerBar	EURO_A	Weekly	ATRReentry	799	255	544	78	10.41	31.91%	26.25%	0.34%	2	Period: 29	Width: 4	
+28/10/2021 13:53	ExpectedGainPerBar	EURO_A_B_C	Weekly	ATRReentry	4153	992	3161	25	11.37	23.89%	10.89%	0.42%	0.9999998	Period: 29	Width: 1	
+28/10/2021 13:56	ExpectedGainPerBar	EURO_A_B_C	Weekly	ATRReentry	3366	1061	2305	35	8.01	31.52%	14.57%	0.42%	1.5	Period: 28	Width: 1	

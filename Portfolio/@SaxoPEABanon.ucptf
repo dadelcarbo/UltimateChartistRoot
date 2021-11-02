@@ -101,6 +101,96 @@
       <Fee>5.459961</Fee>
       <Movement>-990.46</Movement>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5000389055</Id>
+      <Date>2021-09-27T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>MAUNA KEA TECH</StockName>
+      <Qty>800</Qty>
+      <Value>1.12</Value>
+      <Fee>4.09997559</Fee>
+      <Movement>891.9</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5003627444</Id>
+      <Date>2021-09-30T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>SMCP</StockName>
+      <Qty>170</Qty>
+      <Value>7.21</Value>
+      <Fee>5.84997559</Fee>
+      <Movement>1219.85</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5004207728</Id>
+      <Date>2021-09-30T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>LYXOR CAC 40 (2X) LEVERAGED</StockName>
+      <Qty>100</Qty>
+      <Value>28.06</Value>
+      <Fee>5</Fee>
+      <Movement>-2811</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5005249526</Id>
+      <Date>2021-10-01T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>LYXOR CAC 40 (2X) LEVERAGED</StockName>
+      <Qty>100</Qty>
+      <Value>27.53</Value>
+      <Fee>5</Fee>
+      <Movement>-2758</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5011379614</Id>
+      <Date>2021-10-06T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>LYXOR CAC 40 (2X) LEVERAGED</StockName>
+      <Qty>100</Qty>
+      <Value>27.13</Value>
+      <Fee>5.5</Fee>
+      <Movement>2707.5</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5013369701</Id>
+      <Date>2021-10-07T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>CAPGEMINI</StockName>
+      <Qty>5</Qty>
+      <Value>179.05</Value>
+      <Fee>5.19000244</Fee>
+      <Movement>-900.44</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5022724548</Id>
+      <Date>2021-10-19T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>NEOEN</StockName>
+      <Qty>26</Qty>
+      <Value>36.44</Value>
+      <Fee>5.24005127</Fee>
+      <Movement>-952.68</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5026298525</Id>
+      <Date>2021-10-22T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>BIC</StockName>
+      <Qty>20</Qty>
+      <Value>49.56</Value>
+      <Fee>5.4699707</Fee>
+      <Movement>-996.67</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5026266980</Id>
+      <Date>2021-10-22T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>BENETEAU</StockName>
+      <Qty>70</Qty>
+      <Value>13.14</Value>
+      <Fee>2.499939</Fee>
+      <Movement>-922.3</Movement>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -166,10 +256,8 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <ExitDate
-        xsi:nil="true" />
-      <ExitValue
-        xsi:nil="true" />
+      <ExitDate>2021-09-30T00:00:00</ExitDate>
+      <ExitValue>7.21</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>2125586802</Id>
@@ -184,10 +272,8 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <ExitDate
-        xsi:nil="true" />
-      <ExitValue
-        xsi:nil="true" />
+      <ExitDate>2021-09-27T00:00:00</ExitDate>
+      <ExitValue>1.12</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>2126669723</Id>
@@ -225,11 +311,122 @@
       <ExitValue
         xsi:nil="true" />
     </StockPosition>
+    <StockPosition>
+      <Id>5004207728</Id>
+      <StockName>LYXOR CAC 40 (2X) LEVERAGED</StockName>
+      <EntryQty>100</EntryQty>
+      <EntryValue>28.11</EntryValue>
+      <EntryDate>2021-09-30T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-10-01T00:00:00</ExitDate>
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>5005249526</Id>
+      <StockName>LYXOR CAC 40 (2X) LEVERAGED</StockName>
+      <EntryQty>200</EntryQty>
+      <EntryValue>27.845</EntryValue>
+      <EntryDate>2021-10-01T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate>2021-10-06T00:00:00</ExitDate>
+      <ExitValue>27.13</ExitValue>
+    </StockPosition>
+    <StockPosition>
+      <Id>5011379614</Id>
+      <StockName>LYXOR CAC 40 (2X) LEVERAGED</StockName>
+      <EntryQty>100</EntryQty>
+      <EntryValue>27.845</EntryValue>
+      <EntryDate>2021-10-06T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>5013369701</Id>
+      <StockName>CAPGEMINI</StockName>
+      <EntryQty>5</EntryQty>
+      <EntryValue>180.088</EntryValue>
+      <EntryDate>2021-10-07T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>5022724548</Id>
+      <StockName>NEOEN</StockName>
+      <EntryQty>26</EntryQty>
+      <EntryValue>36.6415367</EntryValue>
+      <EntryDate>2021-10-19T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>5026298525</Id>
+      <StockName>BIC</StockName>
+      <EntryQty>20</EntryQty>
+      <EntryValue>49.8335</EntryValue>
+      <EntryDate>2021-10-22T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>5026266980</Id>
+      <StockName>BENETEAU</StockName>
+      <EntryQty>70</EntryQty>
+      <EntryValue>13.1757145</EntryValue>
+      <EntryDate>2021-10-22T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
   </Positions>
   <Name>@SaxoPEABanon</Name>
   <SaxoAccountId>95500/100550PEA</SaxoAccountId>
   <InitialBalance>10000</InitialBalance>
-  <Balance>4970.24951</Balance>
+  <Balance>448.409729</Balance>
   <MaxRisk>0.015</MaxRisk>
   <CreationDate>2021-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>
