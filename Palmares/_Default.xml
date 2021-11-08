@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<PalmaresSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<PalmaresSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <FilterSettings>
     <FilterSetting>
       <SelectedDistinctValues />
@@ -43,7 +43,7 @@
   </BarDuration>
   <Group>PEA</Group>
   <Indicator1>MANSFIELD(100,CAC40)</Indicator1>
-  <Indicator2>HIGHEST(20)</Indicator2>
-  <Indicator3>STOKFBODY(20)</Indicator3>
+  <Indicator2>ROR(50)</Indicator2>
+  <Indicator3>STOKFBODY(50)</Indicator3>
   <Stop>TRAILHIGHESTATR(20,1.5,4)</Stop>
 </PalmaresSettings>

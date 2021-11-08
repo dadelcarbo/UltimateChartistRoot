@@ -1,7 +1,23 @@
 <?xml version="1.0"?>
 <StockAnalysisList>
-  <StockAnalysisItem StockName="AIR LIQUIDE">
-    <StockAnalysis Excluded="False" Theme="___FinancialWisdom" HasDrawings="False" />
+  <StockAnalysisItem StockName="AIRBUS">
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
+      <DrawingItems BarDuration="Daily">
+        <StockDrawingItems>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>5580.27051</X>
+              <Y>112.757095</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>5581.27051</X>
+              <Y>112.757095</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </Line2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ARTOIS NOM.">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
@@ -33,6 +49,25 @@
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FROMAGERIES BEL">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="GTT">
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
+      <DrawingItems BarDuration="Weekly">
+        <StockDrawingItems>
+          <HalfLine2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>391</X>
+              <Y>71.9</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>392</X>
+              <Y>71.9</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
   </StockAnalysisItem>
   <StockAnalysisItem StockName="HSBC HOLDINGS">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
@@ -73,6 +108,25 @@
             </PointF>
             <Pen>2:255:0:0:0:Solid</Pen>
           </CupHandle2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="QUADIENT">
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
+      <DrawingItems BarDuration="Weekly">
+        <StockDrawingItems RefDate="07/06/2021 00:00:00" RefDateIndex="1118">
+          <HalfLine2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1118</X>
+              <Y>26.88</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1133</X>
+              <Y>24.12</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
         </StockDrawingItems>
       </DrawingItems>
     </StockAnalysis>
@@ -352,6 +406,9 @@
   <StockAnalysisItem StockName="GROUPE GORGE">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="IMMOB.DASSAULT">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="JACQUES BOGART">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
@@ -442,6 +499,17 @@
             <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
               <X>533.527832</X>
               <Y>4.035345</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </Line2D>
+          <Line2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>837.5725</X>
+              <Y>4.96698</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>838.5725</X>
+              <Y>4.96698</Y>
             </PointF>
             <Pen>2:255:0:0:0:Solid</Pen>
           </Line2D>
@@ -968,13 +1036,7 @@
   <StockAnalysisItem StockName="ROSIER">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="SABCA">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
   <StockAnalysisItem StockName="SCHEERD.V KERCHOVE">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="SUCRAF A ET B">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="UI LEARNING">

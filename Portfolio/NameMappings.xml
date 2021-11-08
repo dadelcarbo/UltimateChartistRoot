@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ArrayOfStockNameMapping xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<ArrayOfStockNameMapping xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StockNameMapping>
     <SaxoName>HENRY HUB NATURAL GAS - JUL LEV LONG 5X OPEN (SOG)</SaxoName>
     <StockName>TURBO_NATURAL GAS LONG X5</StockName>
@@ -23,6 +23,11 @@
   <StockNameMapping>
     <SaxoName>CHANTIERS BENETEAU</SaxoName>
     <StockName>BENETEAU</StockName>
+    <Leverage>1</Leverage>
+  </StockNameMapping>
+  <StockNameMapping>
+    <SaxoName>OVH GROUPE</SaxoName>
+    <StockName>OVH</StockName>
     <Leverage>1</Leverage>
   </StockNameMapping>
 </ArrayOfStockNameMapping>
