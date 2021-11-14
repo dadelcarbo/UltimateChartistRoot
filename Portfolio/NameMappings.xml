@@ -30,4 +30,9 @@
     <StockName>OVH</StockName>
     <Leverage>1</Leverage>
   </StockNameMapping>
+  <StockNameMapping>
+    <SaxoName>EUTELSAT COMMUNICATIONS</SaxoName>
+    <StockName>EUTELSAT COM.</StockName>
+    <Leverage>1</Leverage>
+  </StockNameMapping>
 </ArrayOfStockNameMapping>

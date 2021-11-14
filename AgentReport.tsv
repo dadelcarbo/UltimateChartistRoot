@@ -174,3 +174,16 @@ Date	Selector	Group	Duration	Agent	NbTrade	NbWinTrade	NbLostTrade	AVG Duration	W
 28/10/2021 13:50	ExpectedGainPerBar	EURO_A	Weekly	ATRReentry	799	255	544	78	10.41	31.91%	26.25%	0.34%	2	Period: 29	Width: 4	
 28/10/2021 13:53	ExpectedGainPerBar	EURO_A_B_C	Weekly	ATRReentry	4153	992	3161	25	11.37	23.89%	10.89%	0.42%	0.9999998	Period: 29	Width: 1	
 28/10/2021 13:56	ExpectedGainPerBar	EURO_A_B_C	Weekly	ATRReentry	3366	1061	2305	35	8.01	31.52%	14.57%	0.42%	1.5	Period: 28	Width: 1	
+12/11/2021 23:28	ExpectedGainPerBar	EURO_A	Weekly	TOPEMA	618	149	469	219	23.32	24.11%	111.21%	0.51%	2	Period: 35	
+12/11/2021 23:35	ExpectedGainPerBar	EURO_A	Weekly	TOPEMA	2237	902	1335	33	4.12	40.32%	10.04%	0.30%	2	Period: 35	
+12/11/2021 23:36	ExpectedGainPerBar	EURO_B	Weekly	TOPEMA	1388	543	845	34	5.12	39.12%	14.23%	0.41%	2	Period: 39	
+12/11/2021 23:37	ExpectedGainPerBar	EURO_B	Weekly	TOPEMA	1088	404	684	42	6.68	37.13%	19.11%	0.45%	2	Period: 57	
+12/11/2021 23:37	ExpectedGainPerBar	EURO_B	Weekly	TOPEMA	1088	404	684	42	6.68	37.13%	19.11%	0.45%	2	Period: 57	
+12/11/2021 23:37	ExpectedGainPerBar	EURO_B	Weekly	TOPEMA	1164	359	805	36	9.26	30.84%	17.28%	0.47%	1.5	Period: 63	
+12/11/2021 23:37	ExpectedGainPerBar	EURO_B	Weekly	TOPEMA	1267	286	981	29	15.15	22.57%	14.20%	0.48%	0.9999998	Period: 80	
+12/11/2021 23:37	ExpectedGainPerBar	EURO_B	Weekly	TOPEMA	1461	275	1186	23	19.78	18.82%	11.81%	0.50%	0.6999997	Period: 80	
+12/11/2021 23:41	ExpectedGainPerBar	EURO_C	Weekly	TOPEMA	991	172	819	18	11.87	17.36%	6.97%	0.37%	0.6999997	Period: 69	
+12/11/2021 23:43	ExpectedGainPerBar	PEA	Weekly	TOPEMA	7979	1464	6515	20	14.89	18.35%	8.95%	0.43%	0.6999997	Period: 73	
+12/11/2021 23:44	ExpectedGainPerBar	PEA	Weekly	TOPEMA	6429	1933	4496	32	7.42	30.07%	13.64%	0.42%	1.5	Period: 58	
+12/11/2021 23:51	ExpectedGainPerBar	CAC40	Monthly	TOPEMA	148	67	81	27	6.45	45.27%	33.12%	1.19%	1.5	Period: 38	
+12/11/2021 23:51	ExpectedGainPerBar	EURO_A	Monthly	TOPEMA	956	464	492	16	4.93	48.54%	26.28%	1.56%	1.5	Period: 12	

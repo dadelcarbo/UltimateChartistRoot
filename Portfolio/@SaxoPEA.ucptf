@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<StockPortfolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StockPortfolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>@SaxoPEA</Name>
   <SaxoAccountId>78800/775644PEA</SaxoAccountId>
-  <InitialBalance>15000</InitialBalance>
-  <Balance>15000</Balance>
+  <InitialBalance>10000</InitialBalance>
+  <Balance>0</Balance>
   <MaxRisk>0.02</MaxRisk>
+  <CreationDate>2015-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>
   <MaxPositions>20</MaxPositions>
-  <CreationDate>2010-01-01T00:00:00</CreationDate>
 </StockPortfolio>
