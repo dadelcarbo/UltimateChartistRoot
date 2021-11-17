@@ -245,7 +245,7 @@
       <Id>5044061866</Id>
       <Date>2021-11-15T00:00:00</Date>
       <OperationType>Buy</OperationType>
-      <StockName>GREENYARD NV</StockName>
+      <StockName>GREENYARD</StockName>
       <Qty>110</Qty>
       <Value>8.94</Value>
       <Fee>2.500061</Fee>
@@ -565,7 +565,7 @@
     </StockPosition>
     <StockPosition>
       <Id>5044061866</Id>
-      <StockName>GREENYARD NV</StockName>
+      <StockName>GREENYARD</StockName>
       <EntryQty>110</EntryQty>
       <EntryValue>8.962728</EntryValue>
       <EntryDate>2021-11-15T00:00:00</EntryDate>
