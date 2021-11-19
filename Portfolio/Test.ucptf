@@ -239,7 +239,7 @@
       <EntryDate>2021-11-11T14:45:00</EntryDate>
       <Stop>64.3950043</Stop>
       <BarDuration>
-        <Duration>M_5</Duration>
+        <Duration>H_1</Duration>
         <Smoothing>1</Smoothing>
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
