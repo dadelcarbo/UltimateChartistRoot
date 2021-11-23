@@ -5,7 +5,7 @@
       <Duration>Daily</Duration>
     </BarDuration>
     <IndicatorType>CLOUD</IndicatorType>
-    <IndicatorName>TRAILATR(30,2,-2,EMA,6)</IndicatorName>
+    <IndicatorName>TRAILATR(30,2,-1,EMA,6)</IndicatorName>
     <EventName>CloudUp</EventName>
   </StockAlertDef>
   <StockAlertDef>
@@ -13,7 +13,7 @@
       <Duration>Daily</Duration>
     </BarDuration>
     <IndicatorType>CLOUD</IndicatorType>
-    <IndicatorName>TRAILATR(30,2,-2,EMA,6)</IndicatorName>
+    <IndicatorName>TRAILATR(30,2,-1,EMA,6)</IndicatorName>
     <EventName>Long Reentry</EventName>
   </StockAlertDef>
 </ArrayOfStockAlertDef>
