@@ -271,6 +271,56 @@
       <Fee>2.5</Fee>
       <Movement>-967.5</Movement>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5046259862</Id>
+      <Date>2021-11-17T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>ADP</StockName>
+      <Qty>9</Qty>
+      <Value>115.25</Value>
+      <Fee>5</Fee>
+      <Movement>1032.25</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5046597777</Id>
+      <Date>2021-11-17T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>PASSAT</StockName>
+      <Qty>150</Qty>
+      <Value>6.58</Value>
+      <Fee>2.5</Fee>
+      <Movement>-989.5</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5046629834</Id>
+      <Date>2021-11-17T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>NEOEN</StockName>
+      <Qty>26</Qty>
+      <Value>38.02</Value>
+      <Fee>5.4699707</Fee>
+      <Movement>-993.99</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5047634736</Id>
+      <Date>2021-11-18T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>VINCI</StockName>
+      <Qty>11</Qty>
+      <Value>91.48</Value>
+      <Fee>5</Fee>
+      <Movement>1001.28</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5048948700</Id>
+      <Date>2021-11-19T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>TOTALENERGIES</StockName>
+      <Qty>25</Qty>
+      <Value>41.73</Value>
+      <Fee>5</Fee>
+      <Movement>1038.25</Movement>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -319,10 +369,8 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Indicator>TRAILATR(30,2,-2,EMA,6)</Indicator>
-      <ExitDate
-        xsi:nil="true" />
-      <ExitValue
-        xsi:nil="true" />
+      <ExitDate>2021-11-17T00:00:00</ExitDate>
+      <ExitValue>115.25</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>2125503039</Id>
@@ -370,10 +418,8 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Indicator>TRAILATR(30,2,-2,EMA,6)</Indicator>
-      <ExitDate
-        xsi:nil="true" />
-      <ExitValue
-        xsi:nil="true" />
+      <ExitDate>2021-11-18T00:00:00</ExitDate>
+      <ExitValue>91.48</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>2127638411</Id>
@@ -389,10 +435,8 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Indicator>TRAILATR(30,2,-2,EMA,6)</Indicator>
-      <ExitDate
-        xsi:nil="true" />
-      <ExitValue
-        xsi:nil="true" />
+      <ExitDate>2021-11-19T00:00:00</ExitDate>
+      <ExitValue>41.73</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>5004207728</Id>
@@ -448,7 +492,7 @@
       <EntryQty>5</EntryQty>
       <EntryValue>180.088</EntryValue>
       <EntryDate>2021-10-07T00:00:00</EntryDate>
-      <Stop>0</Stop>
+      <Stop>182</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
         <Smoothing>1</Smoothing>
@@ -499,7 +543,7 @@
       <EntryQty>70</EntryQty>
       <EntryValue>13.1757145</EntryValue>
       <EntryDate>2021-10-22T00:00:00</EntryDate>
-      <Stop>0</Stop>
+      <Stop>12.37</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
         <Smoothing>1</Smoothing>
@@ -550,7 +594,7 @@
       <EntryQty>40</EntryQty>
       <EntryValue>27.845</EntryValue>
       <EntryDate>2021-11-08T00:00:00</EntryDate>
-      <Stop>0</Stop>
+      <Stop>27.35</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
         <Smoothing>1</Smoothing>
@@ -569,7 +613,7 @@
       <EntryQty>110</EntryQty>
       <EntryValue>8.962728</EntryValue>
       <EntryDate>2021-11-15T00:00:00</EntryDate>
-      <Stop>0</Stop>
+      <Stop>8</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
         <Smoothing>1</Smoothing>
@@ -588,7 +632,45 @@
       <EntryQty>250</EntryQty>
       <EntryValue>3.87</EntryValue>
       <EntryDate>2021-11-16T00:00:00</EntryDate>
-      <Stop>0</Stop>
+      <Stop>3.3</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>TRAILATR(30,2,-2,EMA,6)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>5046597777</Id>
+      <StockName>PASSAT</StockName>
+      <EntryQty>150</EntryQty>
+      <EntryValue>6.596667</EntryValue>
+      <EntryDate>2021-11-17T00:00:00</EntryDate>
+      <Stop>5.3</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>TRAILATR(30,2,-2,EMA,6)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>5046629834</Id>
+      <StockName>NEOEN</StockName>
+      <EntryQty>26</EntryQty>
+      <EntryValue>38.2303848</EntryValue>
+      <EntryDate>2021-11-17T00:00:00</EntryDate>
+      <Stop>33.2</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
         <Smoothing>1</Smoothing>
@@ -605,7 +687,7 @@
   <Name>@SaxoPEABanon</Name>
   <SaxoAccountId>95500/100550PEA</SaxoAccountId>
   <InitialBalance>0</InitialBalance>
-  <Balance>2330.60962</Balance>
+  <Balance>3418.89966</Balance>
   <MaxRisk>0.015</MaxRisk>
   <CreationDate>2021-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>

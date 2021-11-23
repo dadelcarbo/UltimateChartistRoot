@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StockPortfolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TradeOperations>
+    <StockTradeOperation>
+      <Id>0</Id>
+      <Date>2021-11-22T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>BIOCORP</StockName>
+      <Qty>30</Qty>
+      <Value>30</Value>
+      <Fee>2.5</Fee>
+      <Movement>-902.5</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>1</Id>
+      <Date>2021-11-22T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>METABOLIC EXPLORER</StockName>
+      <Qty>125</Qty>
+      <Value>6.2</Value>
+      <Fee>2.5</Fee>
+      <Movement>-777.5</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>2</Id>
+      <Date>2021-11-22T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>GTT</StockName>
+      <Qty>14</Qty>
+      <Value>71.4</Value>
+      <Fee>2.5</Fee>
+      <Movement>-1002.10004</Movement>
+    </StockTradeOperation>
+  </TradeOperations>
+  <Positions>
+    <StockPosition>
+      <Id>0</Id>
+      <StockName>BIOCORP</StockName>
+      <EntryQty>30</EntryQty>
+      <EntryValue>30.083334</EntryValue>
+      <EntryDate>2021-11-22T00:00:00</EntryDate>
+      <Stop>27.4</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>CLOUD|TRAILATR(30,2,-2,EMA,6)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>1</Id>
+      <StockName>METABOLIC EXPLORER</StockName>
+      <EntryQty>125</EntryQty>
+      <EntryValue>6.22</EntryValue>
+      <EntryDate>2021-11-22T00:00:00</EntryDate>
+      <Stop>5.2</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>CLOUD|TRAILATR(30,2,-2,EMA,6)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>2</Id>
+      <StockName>GTT</StockName>
+      <EntryQty>14</EntryQty>
+      <EntryValue>71.5785751</EntryValue>
+      <EntryDate>2021-11-22T00:00:00</EntryDate>
+      <Stop>65.6</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>INDICATOR|TOPEMA(6)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+  </Positions>
+  <Name>@SaxoPEABenoit</Name>
+  <SaxoAccountId>95500/100000PEA</SaxoAccountId>
+  <InitialBalance>10000</InitialBalance>
+  <Balance>7317.9</Balance>
+  <MaxRisk>0.015</MaxRisk>
+  <CreationDate>2021-01-01T00:00:00</CreationDate>
+  <IsSimu>false</IsSimu>
+  <MaxPositions>20</MaxPositions>
+</StockPortfolio>
