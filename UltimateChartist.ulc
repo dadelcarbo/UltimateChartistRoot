@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StockAnalysisList>
+  <StockAnalysisItem StockName="FUT_BOND_EURO">
+    <StockAnalysis Excluded="False" Theme="___TRAILATR_INT" HasDrawings="False" />
+  </StockAnalysisItem>
+</StockAnalysisList>
