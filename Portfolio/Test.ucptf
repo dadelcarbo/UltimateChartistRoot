@@ -123,16 +123,46 @@
     </StockTradeOperation>
     <StockTradeOperation>
       <Id>12</Id>
-      <Date>2021-11-22T12:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>INT_QUANTUM GENOMICS</StockName>
+      <Date>2021-11-24T16:40:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>TURBO_TESLA LONG X2</StockName>
       <Qty>10</Qty>
-      <Value>4.26</Value>
-      <Fee>2.5</Fee>
-      <Movement>40.1000023</Movement>
+      <Value>272.73</Value>
+      <Fee>5</Fee>
+      <Movement>-2732.3</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
       <Id>13</Id>
+      <Date>2021-11-18T17:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>INT_INNATE PHARMA</StockName>
+      <Qty>10</Qty>
+      <Value>4.43</Value>
+      <Fee>2.5</Fee>
+      <Movement>41.8</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>14</Id>
+      <Date>2021-11-24T16:40:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>INT_US_TESLA</StockName>
+      <Qty>10</Qty>
+      <Value>1108.43</Value>
+      <Fee>5</Fee>
+      <Movement>-11089.3008</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>15</Id>
+      <Date>2021-11-22T10:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>INT_QUANTUM GENOMICS</StockName>
+      <Qty>10</Qty>
+      <Value>4.24</Value>
+      <Fee>2.5</Fee>
+      <Movement>39.8999977</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>16</Id>
       <Date>2021-11-19T12:00:00</Date>
       <OperationType>Sell</OperationType>
       <StockName>INT_ERAMET</StockName>
@@ -142,14 +172,14 @@
       <Movement>687</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>14</Id>
-      <Date>2021-11-24T09:00:00</Date>
+      <Id>17</Id>
+      <Date>2021-11-23T17:00:00</Date>
       <OperationType>Buy</OperationType>
       <StockName>INT_ERAMET</StockName>
       <Qty>10</Qty>
-      <Value>73.05</Value>
+      <Value>72.3</Value>
       <Fee>2.5</Fee>
-      <Movement>-733</Movement>
+      <Movement>-725.5</Movement>
     </StockTradeOperation>
   </TradeOperations>
   <Positions>
@@ -218,8 +248,8 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Indicator>CLOUD|TRAILATR(30,2,-2,EMA,6)</Indicator>
-      <ExitDate>2021-11-22T12:00:00</ExitDate>
-      <ExitValue>4.26</ExitValue>
+      <ExitDate>2021-11-22T10:00:00</ExitDate>
+      <ExitValue>4.24</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>7</Id>
@@ -235,10 +265,8 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Indicator>CLOUD|TRAILATR(30,2,-2,EMA,6)</Indicator>
-      <ExitDate
-        xsi:nil="true" />
-      <ExitValue
-        xsi:nil="true" />
+      <ExitDate>2021-11-18T17:00:00</ExitDate>
+      <ExitValue>4.43</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>8</Id>
@@ -294,14 +322,52 @@
       <ExitValue>68.95</ExitValue>
     </StockPosition>
     <StockPosition>
+      <Id>12</Id>
+      <StockName>TURBO_TESLA LONG X2</StockName>
+      <EntryQty>10</EntryQty>
+      <EntryValue>273.23</EntryValue>
+      <EntryDate>2021-11-24T16:40:00</EntryDate>
+      <Stop>245.457</Stop>
+      <BarDuration>
+        <Duration>H_1</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>INDICATOR|TOPEMA(6)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
       <Id>14</Id>
+      <StockName>INT_US_TESLA</StockName>
+      <EntryQty>10</EntryQty>
+      <EntryValue>1108.93</EntryValue>
+      <EntryDate>2021-11-24T16:40:00</EntryDate>
+      <Stop>997.587036</Stop>
+      <BarDuration>
+        <Duration>H_1</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>CLOUD|TRAILATR(30,2,-2,EMA,6)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>17</Id>
       <StockName>INT_ERAMET</StockName>
       <EntryQty>10</EntryQty>
-      <EntryValue>73.3</EntryValue>
-      <EntryDate>2021-11-24T09:00:00</EntryDate>
-      <Stop>65.745</Stop>
+      <EntryValue>72.55</EntryValue>
+      <EntryDate>2021-11-23T17:00:00</EntryDate>
+      <Stop>65.07</Stop>
       <BarDuration>
-        <Duration>Daily</Duration>
+        <Duration>H_1</Duration>
         <Smoothing>1</Smoothing>
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
@@ -316,7 +382,7 @@
   <Name>Test</Name>
   <SaxoAccountId>78800/719479EUR</SaxoAccountId>
   <InitialBalance>100000</InitialBalance>
-  <Balance>101825.906</Balance>
+  <Balance>88053.4</Balance>
   <MaxRisk>0.1</MaxRisk>
   <CreationDate>2010-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>
