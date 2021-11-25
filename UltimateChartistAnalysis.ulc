@@ -1364,4 +1364,35 @@
       </DrawingItems>
     </StockAnalysis>
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="INT_NOVACYT">
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
+      <DrawingItems BarDuration="H_1">
+        <StockDrawingItems RefDate="18/11/2021 11:00:00" RefDateIndex="1292">
+          <CupHandle2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1292</X>
+              <Y>3.644</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1328</X>
+              <Y>3.644</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1308</X>
+              <Y>3.644</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1318</X>
+              <Y>3.407</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>1299</X>
+              <Y>3.043</Y>
+            </PointF>
+            <Pen>2:255:0:0:0:Solid</Pen>
+          </CupHandle2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
 </StockAnalysisList>

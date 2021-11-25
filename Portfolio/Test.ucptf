@@ -121,6 +121,36 @@
       <Fee>2.5</Fee>
       <Movement>-718.5</Movement>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>12</Id>
+      <Date>2021-11-22T12:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>INT_QUANTUM GENOMICS</StockName>
+      <Qty>10</Qty>
+      <Value>4.26</Value>
+      <Fee>2.5</Fee>
+      <Movement>40.1000023</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>13</Id>
+      <Date>2021-11-19T12:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>INT_ERAMET</StockName>
+      <Qty>10</Qty>
+      <Value>68.95</Value>
+      <Fee>2.5</Fee>
+      <Movement>687</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>14</Id>
+      <Date>2021-11-24T09:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>INT_ERAMET</StockName>
+      <Qty>10</Qty>
+      <Value>73.05</Value>
+      <Fee>2.5</Fee>
+      <Movement>-733</Movement>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -188,10 +218,8 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Indicator>CLOUD|TRAILATR(30,2,-2,EMA,6)</Indicator>
-      <ExitDate
-        xsi:nil="true" />
-      <ExitValue
-        xsi:nil="true" />
+      <ExitDate>2021-11-22T12:00:00</ExitDate>
+      <ExitValue>4.26</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>7</Id>
@@ -262,6 +290,23 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Indicator>CLOUD|TRAILATR(30,2,-2,EMA,6)</Indicator>
+      <ExitDate>2021-11-19T12:00:00</ExitDate>
+      <ExitValue>68.95</ExitValue>
+    </StockPosition>
+    <StockPosition>
+      <Id>14</Id>
+      <StockName>INT_ERAMET</StockName>
+      <EntryQty>10</EntryQty>
+      <EntryValue>73.3</EntryValue>
+      <EntryDate>2021-11-24T09:00:00</EntryDate>
+      <Stop>65.745</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Indicator>CLOUD|TRAILATR(30,2,-2,EMA,6)</Indicator>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -271,7 +316,7 @@
   <Name>Test</Name>
   <SaxoAccountId>78800/719479EUR</SaxoAccountId>
   <InitialBalance>100000</InitialBalance>
-  <Balance>101831.805</Balance>
+  <Balance>101825.906</Balance>
   <MaxRisk>0.1</MaxRisk>
   <CreationDate>2010-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>
