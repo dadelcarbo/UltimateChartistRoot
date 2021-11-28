@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<StockPortfolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StockPortfolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <TradeOperations>
     <StockTradeOperation>
       <Id>0</Id>
@@ -46,7 +46,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>CLOUD|TRAILATR(30,2,-2,EMA,6)</Indicator>
+      <Theme>TRAILATR</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -65,7 +65,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>CLOUD|TRAILATR(30,2,-2,EMA,6)</Indicator>
+      <Theme>TRAILATR</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -84,7 +84,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>INDICATOR|TOPEMA(6)</Indicator>
+      <Theme>TOPEMA</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue

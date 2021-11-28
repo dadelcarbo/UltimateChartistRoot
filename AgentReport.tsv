@@ -187,3 +187,19 @@ Date	Selector	Group	Duration	Agent	NbTrade	NbWinTrade	NbLostTrade	AVG Duration	W
 12/11/2021 23:44	ExpectedGainPerBar	PEA	Weekly	TOPEMA	6429	1933	4496	32	7.42	30.07%	13.64%	0.42%	1.5	Period: 58	
 12/11/2021 23:51	ExpectedGainPerBar	CAC40	Monthly	TOPEMA	148	67	81	27	6.45	45.27%	33.12%	1.19%	1.5	Period: 38	
 12/11/2021 23:51	ExpectedGainPerBar	EURO_A	Monthly	TOPEMA	956	464	492	16	4.93	48.54%	26.28%	1.56%	1.5	Period: 12	
+27/11/2021 08:49	ExpectedGainPerBar	CAC40	Monthly	ATRCloud	15	10	5	18	9.87	66.67%	75.66%	4.10%	2	Period: 18	Width: 3.3	
+27/11/2021 08:56	ExpectedGainPerBar	EURO_A	Weekly	TOPEMA	2512	1046	1466	15	2.52	41.64%	3.21%	0.21%	2	Period: 26	
+27/11/2021 09:01	ExpectedGainPerBar	EURO_A	Weekly	ATRStop	492	177	315	49	5.41	35.98%	12.48%	0.25%	2	Period: 25	Width: 3.5625	
+27/11/2021 09:01	ExpectedGainPerBar	EURO_A	Weekly	ATRStop	492	175	317	48	5.48	35.57%	12.14%	0.25%	2	Period: 28	Width: 3.5	
+27/11/2021 09:02	ExpectedGainPerBar	EURO_A	Weekly	ATRStop	1531	636	895	30	3.06	41.54%	6.60%	0.21%	4	Period: 23	Width: 1	
+27/11/2021 09:06	ExpectedGainPerBar	EURO_A	Weekly	ATRStop2	1343	575	768	24	3.04	42.81%	5.78%	0.23%	0	Period: 33	UpWidth: 2	DownWidth: 0	
+27/11/2021 09:16	ExpectedGainPerBar	EURO_A	Weekly	ATRStop2	955	384	571	35	3.94	40.21%	8.76%	0.25%	2	Period: 35	UpWidth: 2	DownWidth: 1	
+27/11/2021 09:23	ExpectedGainPerBar	EURO_A	Weekly	ATRStop2	979	407	572	27	3.63	41.57%	7.19%	0.26%	2	Period: 31	UpWidth: 2.75	DownWidth: 0.375	
+27/11/2021 09:24	ExpectedGainPerBar	EURO_A	Weekly	ATRStop2	1092	456	636	23	3.38	41.76%	6.01%	0.25%	2	Period: 31	UpWidth: 2.75	DownWidth: 0.0375	
+27/11/2021 09:25	ExpectedGainPerBar	EURO_B	Weekly	ATRStop2	785	290	495	23	4.27	36.94%	7.90%	0.34%	2	Period: 31	UpWidth: 3	DownWidth: 0.05	
+27/11/2021 09:29	ExpectedGainPerBar	EURO_B	Weekly	ATRStop2	689	259	430	28	4.91	37.59%	11.00%	0.39%	2	Period: 31	UpWidth: 3	DownWidth: 0.5	
+27/11/2021 09:29	ExpectedGainPerBar	EURO_A	Weekly	ATRStop2	979	407	572	27	3.63	41.57%	7.19%	0.26%	2	Period: 31	UpWidth: 2.75	DownWidth: 0.375	
+27/11/2021 09:30	ExpectedGainPerBar	EURO_A_B_C	Weekly	ATRStop2	2260	845	1415	27	3.97	37.39%	8.16%	0.30%	2	Period: 31	UpWidth: 2.75	DownWidth: 0.5	
+27/11/2021 22:17	ExpectedGainPerBar	CAC40	Monthly	ATRCloud	15	10	5	18	9.87	66.67%	75.66%	4.10%	2	Period: 18	Width: 3.3	
+27/11/2021 22:57	ExpectedGainPerBar	EURO_A	Weekly	TOPEMA	2512	1046	1466	15	2.52	41.64%	3.21%	0.21%	2	Period: 26	
+27/11/2021 23:00	ExpectedGainPerBar	EURO_C	Weekly	TOPEMA	1220	418	802	14	2.36	34.26%	1.58%	0.11%	2	Period: 33	

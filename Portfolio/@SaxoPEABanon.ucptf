@@ -331,6 +331,36 @@
       <Fee>5</Fee>
       <Movement>1031.5</Movement>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5052822720</Id>
+      <Date>2021-11-24T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>ERAMET</StockName>
+      <Qty>13</Qty>
+      <Value>73.05</Value>
+      <Fee>5.34997559</Fee>
+      <Movement>-955</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5052988827</Id>
+      <Date>2021-11-24T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>NOVACYT</StockName>
+      <Qty>270</Qty>
+      <Value>3.64</Value>
+      <Fee>3.039978</Fee>
+      <Movement>-985.84</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5053361793</Id>
+      <Date>2021-11-24T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>AXA</StockName>
+      <Qty>39</Qty>
+      <Value>25.6</Value>
+      <Fee>5.5</Fee>
+      <Movement>-1003.9</Movement>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -378,7 +408,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>TRAILATR(30,2,-2,EMA,6)</Indicator>
+      <Theme>TRAILATR</Theme>
       <ExitDate>2021-11-17T00:00:00</ExitDate>
       <ExitValue>115.25</ExitValue>
     </StockPosition>
@@ -427,7 +457,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>TRAILATR(30,2,-2,EMA,6)</Indicator>
+      <Theme>TRAILATR</Theme>
       <ExitDate>2021-11-18T00:00:00</ExitDate>
       <ExitValue>91.48</ExitValue>
     </StockPosition>
@@ -444,7 +474,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>TRAILATR(30,2,-2,EMA,6)</Indicator>
+      <Theme>TRAILATR</Theme>
       <ExitDate>2021-11-19T00:00:00</ExitDate>
       <ExitValue>41.73</ExitValue>
     </StockPosition>
@@ -502,14 +532,14 @@
       <EntryQty>5</EntryQty>
       <EntryValue>180.088</EntryValue>
       <EntryDate>2021-10-07T00:00:00</EntryDate>
-      <Stop>182</Stop>
+      <Stop>169</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
         <Smoothing>1</Smoothing>
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>TRAILATR(30,2,-2,EMA,6)</Indicator>
+      <Theme>TRAILATR</Theme>
       <ExitDate>2021-11-23T00:00:00</ExitDate>
       <ExitValue>207.3</ExitValue>
     </StockPosition>
@@ -558,7 +588,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>TRAILATR(30,2,-2,EMA,6)</Indicator>
+      <Theme>TRAILATR</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -609,7 +639,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>TRAILATR(30,2,-2,EMA,6)</Indicator>
+      <Theme>TRAILATR</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -628,7 +658,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>TRAILATR(30,2,-2,EMA,6)</Indicator>
+      <Theme>TRAILATR</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -647,7 +677,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>TRAILATR(30,2,-2,EMA,6)</Indicator>
+      <Theme>TRAILATR</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -666,7 +696,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>TRAILTOPEMA(6)</Indicator>
+      <Theme>TOPEMA</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -685,7 +715,64 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>TRAILTOPEMA(6)</Indicator>
+      <Theme>TOPEMA</Theme>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>5052822720</Id>
+      <StockName>ERAMET</StockName>
+      <EntryQty>13</EntryQty>
+      <EntryValue>73.46154</EntryValue>
+      <EntryDate>2021-11-24T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>TOPEMA</Theme>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>5052988827</Id>
+      <StockName>NOVACYT</StockName>
+      <EntryQty>270</EntryQty>
+      <EntryValue>3.65125942</EntryValue>
+      <EntryDate>2021-11-24T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>TOPEMA</Theme>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>5053361793</Id>
+      <StockName>AXA</StockName>
+      <EntryQty>39</EntryQty>
+      <EntryValue>25.7410259</EntryValue>
+      <EntryDate>2021-11-24T00:00:00</EntryDate>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>TRAILATR</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -695,8 +782,8 @@
   <Name>@SaxoPEABanon</Name>
   <SaxoAccountId>95500/100550PEA</SaxoAccountId>
   <InitialBalance>0</InitialBalance>
-  <Balance>4450.39941</Balance>
-  <MaxRisk>0.015</MaxRisk>
+  <Balance>1505.6593</Balance>
+  <MaxRisk>0.0125</MaxRisk>
   <CreationDate>2021-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>
   <MaxPositions>20</MaxPositions>
