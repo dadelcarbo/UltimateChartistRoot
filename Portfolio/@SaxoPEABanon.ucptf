@@ -658,7 +658,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Theme>TRAILATR</Theme>
+      <Theme>TOPEMA</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue

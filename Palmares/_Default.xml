@@ -1,6 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<PalmaresSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <FilterSettings />
+<PalmaresSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FilterSettings>
+    <FilterSetting>
+      <SelectedDistinctValues />
+      <ColumnUniqueName>Volume</ColumnUniqueName>
+      <DisplayName>Volume M€</DisplayName>
+      <Filter1>
+        <Operator>IsGreaterThan</Operator>
+        <Value xsi:type="xsd:float">0.2</Value>
+        <IsCaseSensitive>false</IsCaseSensitive>
+      </Filter1>
+      <FieldFilterLogicalOperator>And</FieldFilterLogicalOperator>
+    </FilterSetting>
+  </FilterSettings>
   <BarDuration>
     <Duration>Daily</Duration>
     <Smoothing>1</Smoothing>
@@ -11,5 +23,5 @@
   <Indicator1>MANSFIELD(100,CAC40)</Indicator1>
   <Indicator2>ROR(50)</Indicator2>
   <Indicator3>STOKFBODY(50)</Indicator3>
-  <Stop>TRAILHIGHESTATR(20,1.5,4)</Stop>
+  <Stop>TRAILATR(30,2.75,-0.5,EMA,6)</Stop>
 </PalmaresSettings>

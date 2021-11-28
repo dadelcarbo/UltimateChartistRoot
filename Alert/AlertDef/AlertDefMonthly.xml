@@ -5,7 +5,8 @@
       <Duration>Monthly</Duration>
     </BarDuration>
     <IndicatorType>INDICATOR</IndicatorType>
-    <IndicatorName>HIGHEST(6)</IndicatorName>
+    <IndicatorName>TOPEMA(6)</IndicatorName>
     <EventName>NewHigh</EventName>
+    <Theme>TOPEMA</Theme>
   </StockAlertDef>
 </ArrayOfStockAlertDef>

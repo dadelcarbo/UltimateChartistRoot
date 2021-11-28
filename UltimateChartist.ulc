@@ -1,6 +1,93 @@
 <?xml version="1.0"?>
 <StockAnalysisList>
-  <StockAnalysisItem StockName="FUT_BOND_EURO">
-    <StockAnalysis Excluded="False" Theme="___TRAILATR_INT" HasDrawings="False" />
+  <StockAnalysisItem StockName="FERM.CAS.MUN.CANNE">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="FIDUCIAL REAL ESTATE">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="FIDUCIAL OFFICE SOLUTIONS">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="FINANCIERE MARJOS">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="GROUPE IRD">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="MEDIA 6">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="SAINT JEAN GROUPE">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="SOCIETE FRANCAISE DE CASINOS">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="TIPIAK">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="ENCRES DUBUIT">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="EURASIA GROUPE">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="H20 INNOVATION">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="HAMILTON GLOBAL OPPORTUNITIES">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="MEDIA MAKER SPA">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="QUADPACK">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="SAPMER">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="SEIF SPA">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="STRADIM ESPAC.FIN.">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="TTI">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="TXCOM">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="BASILIX CERT">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="BEAULIEU-AV. CERT">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="BELUGA">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="BONE THERAPEUTICS S">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="NEWTREE (D)">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="PNS">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="WOL. EXTENS. CERT">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="WOL. SHOPPING CERT">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="IMOB.C GRAO PARA">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
+  <StockAnalysisItem StockName="LISGRAFICA">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
 </StockAnalysisList>
