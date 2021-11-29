@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfStockAlertDef xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StockAlertDef>
+    <Theme>TRAILATR</Theme>
+    <Group>NONE</Group>
     <CreationDate>2021-10-02T19:32:57.2478732+02:00</CreationDate>
     <StockName>FUT_IND_NASDAQ100</StockName>
     <PriceTrigger>14700</PriceTrigger>
@@ -11,9 +13,10 @@
       <LineBreak>0</LineBreak>
       <HeikinAshi>false</HeikinAshi>
     </BarDuration>
-    <Theme>TRAILATR</Theme>
   </StockAlertDef>
   <StockAlertDef>
+    <Theme>TRAILATR</Theme>
+    <Group>NONE</Group>
     <CreationDate>2021-10-12T20:30:36.7119382+02:00</CreationDate>
     <StockName>AIR LIQUIDE</StockName>
     <PriceTrigger>0</PriceTrigger>
@@ -27,9 +30,10 @@
     <IndicatorType>CLOUD</IndicatorType>
     <IndicatorName>EMA2(12,26)</IndicatorName>
     <EventName>CloudUp</EventName>
-    <Theme>TRAILATR</Theme>
   </StockAlertDef>
   <StockAlertDef>
+    <Theme>TRAILATR</Theme>
+    <Group>NONE</Group>
     <CreationDate>2021-10-26T08:17:41.2221863+02:00</CreationDate>
     <StockName>FUT_IND_CAC40</StockName>
     <PriceTrigger>0</PriceTrigger>
@@ -43,9 +47,10 @@
     <IndicatorType>CLOUD</IndicatorType>
     <IndicatorName>TRAILATR(30,2,-2,EMA,6)</IndicatorName>
     <EventName>CloudDown</EventName>
-    <Theme>TRAILATR</Theme>
   </StockAlertDef>
   <StockAlertDef>
+    <Theme>TRAILATR</Theme>
+    <Group>NONE</Group>
     <CreationDate>2021-10-27T14:22:18.1090113+02:00</CreationDate>
     <StockName>INT_INNATE PHARMA</StockName>
     <PriceTrigger>0</PriceTrigger>
@@ -56,6 +61,21 @@
       <LineBreak>0</LineBreak>
       <HeikinAshi>false</HeikinAshi>
     </BarDuration>
-    <Theme>TRAILATR</Theme>
+  </StockAlertDef>
+  <StockAlertDef>
+    <Group>NONE</Group>
+    <CreationDate>2021-11-29T11:03:47.2217982+01:00</CreationDate>
+    <StockName>ESKER</StockName>
+    <PriceTrigger>0</PriceTrigger>
+    <TriggerBrokenUp>false</TriggerBrokenUp>
+    <BarDuration>
+      <Duration>Daily</Duration>
+      <Smoothing>1</Smoothing>
+      <LineBreak>0</LineBreak>
+      <HeikinAshi>false</HeikinAshi>
+    </BarDuration>
+    <IndicatorType>CLOUD</IndicatorType>
+    <IndicatorName>TRAILATR(30,2.75,-0.5,EMA,6)</IndicatorName>
+    <EventName>Long Reentry</EventName>
   </StockAlertDef>
 </ArrayOfStockAlertDef>

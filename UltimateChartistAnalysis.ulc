@@ -1106,6 +1106,9 @@
   <StockAnalysisItem StockName="BELUGA">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="BONE THERAPEUTICS S">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="CAMPINE">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
@@ -1179,9 +1182,6 @@
   <StockAnalysisItem StockName="WOL. SHOPPING CERT">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="ZENITEL">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
   <StockAnalysisItem StockName="ZENOBE GRAMME CERT">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
@@ -1189,9 +1189,6 @@
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="BEVER HOLDING">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="KIADIS">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="ORANJEWOUD A">
@@ -1212,13 +1209,7 @@
   <StockAnalysisItem StockName="MEDIA CAPITAL">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
-  <StockAnalysisItem StockName="OREY ANTUNES ESC.">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
   <StockAnalysisItem StockName="REDITUS,SGPS">
-    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="SONAE IND.SGPS">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="SPORTING">
@@ -1285,15 +1276,6 @@
         </StockDrawingItems>
       </DrawingItems>
     </StockAnalysis>
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="BEAR/BULL Log Ratio">
-    <StockAnalysis Excluded="False" Theme="BullBearRatio" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="AD.CAC40">
-    <StockAnalysis Excluded="False" Theme="ADBench" HasDrawings="False" />
-  </StockAnalysisItem>
-  <StockAnalysisItem StockName="FUT_BOND_EURO">
-    <StockAnalysis Excluded="False" Theme="___TRAILATR" HasDrawings="False" />
   </StockAnalysisItem>
   <StockAnalysisItem StockName="FUT_IND_NASDAQ100">
     <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
