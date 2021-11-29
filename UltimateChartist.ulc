@@ -1,5 +1,8 @@
 <?xml version="1.0"?>
 <StockAnalysisList>
+  <StockAnalysisItem StockName="BRASSERIE CAMEROUN">
+    <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
+  </StockAnalysisItem>
   <StockAnalysisItem StockName="FERM.CAS.MUN.CANNE">
     <StockAnalysis Excluded="True" Theme="" HasDrawings="False" />
   </StockAnalysisItem>

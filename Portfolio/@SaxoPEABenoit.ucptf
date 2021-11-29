@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<StockPortfolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StockPortfolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <TradeOperations>
     <StockTradeOperation>
       <Id>0</Id>
@@ -31,6 +31,16 @@
       <Fee>2.5</Fee>
       <Movement>-1002.10004</Movement>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>3</Id>
+      <Date>2021-11-29T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>SOFINA</StockName>
+      <Qty>2</Qty>
+      <Value>406.8</Value>
+      <Fee>2.5</Fee>
+      <Movement>-816.1</Movement>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -39,14 +49,14 @@
       <EntryQty>30</EntryQty>
       <EntryValue>30.083334</EntryValue>
       <EntryDate>2021-11-22T00:00:00</EntryDate>
-      <Stop>27.4</Stop>
+      <Stop>27.68</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
         <Smoothing>1</Smoothing>
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Theme>TRAILATR</Theme>
+      <Theme>TOPEMA</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -90,11 +100,31 @@
       <ExitValue
         xsi:nil="true" />
     </StockPosition>
+    <StockPosition>
+      <Id>3</Id>
+      <StockName>SOFINA</StockName>
+      <EntryQty>2</EntryQty>
+      <EntryValue>408.05</EntryValue>
+      <EntryDate>2021-11-29T00:00:00</EntryDate>
+      <Stop>382</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <EntryComment>Entrée sur Long Reentry</EntryComment>
+      <Theme>TRAILATR</Theme>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
   </Positions>
   <Name>@SaxoPEABenoit</Name>
   <SaxoAccountId>95500/100000PEA</SaxoAccountId>
   <InitialBalance>10000</InitialBalance>
-  <Balance>7317.9</Balance>
+  <Balance>6501.8</Balance>
   <MaxRisk>0.015</MaxRisk>
   <CreationDate>2021-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>
