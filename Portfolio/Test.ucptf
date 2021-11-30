@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<StockPortfolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StockPortfolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <TradeOperations>
     <StockTradeOperation>
       <Id>0</Id>
@@ -191,6 +191,16 @@
       <Fee>2.5</Fee>
       <Movement>-898.5</Movement>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>19</Id>
+      <Date>2021-11-26T17:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>INT_ABIONYX PHARMA</StockName>
+      <Qty>4061</Qty>
+      <Value>2.5</Value>
+      <Fee>5</Fee>
+      <Movement>-10157.5</Movement>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -199,6 +209,7 @@
       <EntryQty>10</EntryQty>
       <EntryValue>158.4303</EntryValue>
       <EntryDate>2016-07-25T00:00:00</EntryDate>
+      <TrailStop>142.137268</TrailStop>
       <Stop>142.137268</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -215,6 +226,7 @@
       <EntryQty>10</EntryQty>
       <EntryValue>67.19</EntryValue>
       <EntryDate>2015-03-02T00:00:00</EntryDate>
+      <TrailStop>60.2460022</TrailStop>
       <Stop>60.2460022</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -231,6 +243,7 @@
       <EntryQty>10</EntryQty>
       <EntryValue>68.82</EntryValue>
       <EntryDate>2016-04-11T00:00:00</EntryDate>
+      <TrailStop>61.7129974</TrailStop>
       <Stop>61.7129974</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -247,6 +260,7 @@
       <EntryQty>10</EntryQty>
       <EntryValue>4.78</EntryValue>
       <EntryDate>2021-11-17T14:00:00</EntryDate>
+      <TrailStop>4.077</TrailStop>
       <Stop>4.077</Stop>
       <BarDuration>
         <Duration>H_1</Duration>
@@ -263,6 +277,7 @@
       <EntryQty>10</EntryQty>
       <EntryValue>4.93</EntryValue>
       <EntryDate>2021-11-16T16:00:00</EntryDate>
+      <TrailStop>4.212</TrailStop>
       <Stop>4.212</Stop>
       <BarDuration>
         <Duration>H_1</Duration>
@@ -279,6 +294,7 @@
       <EntryQty>10</EntryQty>
       <EntryValue>38.19</EntryValue>
       <EntryDate>2021-11-17T12:00:00</EntryDate>
+      <TrailStop>34.146</TrailStop>
       <Stop>34.146</Stop>
       <BarDuration>
         <Duration>H_1</Duration>
@@ -297,6 +313,7 @@
       <EntryQty>10</EntryQty>
       <EntryValue>71.8</EntryValue>
       <EntryDate>2021-11-11T14:45:00</EntryDate>
+      <TrailStop>64.3950043</TrailStop>
       <Stop>64.3950043</Stop>
       <BarDuration>
         <Duration>H_1</Duration>
@@ -313,6 +330,7 @@
       <EntryQty>10</EntryQty>
       <EntryValue>71.85</EntryValue>
       <EntryDate>2021-11-18T14:10:00</EntryDate>
+      <TrailStop>64.4399948</TrailStop>
       <Stop>64.4399948</Stop>
       <BarDuration>
         <Duration>Daily</Duration>
@@ -329,6 +347,7 @@
       <EntryQty>10</EntryQty>
       <EntryValue>273.23</EntryValue>
       <EntryDate>2021-11-24T16:40:00</EntryDate>
+      <TrailStop>245.457</TrailStop>
       <Stop>245.457</Stop>
       <BarDuration>
         <Duration>H_1</Duration>
@@ -347,6 +366,7 @@
       <EntryQty>10</EntryQty>
       <EntryValue>1108.93</EntryValue>
       <EntryDate>2021-11-24T16:40:00</EntryDate>
+      <TrailStop>997.587036</TrailStop>
       <Stop>997.587036</Stop>
       <BarDuration>
         <Duration>H_1</Duration>
@@ -365,6 +385,7 @@
       <EntryQty>10</EntryQty>
       <EntryValue>72.55</EntryValue>
       <EntryDate>2021-11-23T17:00:00</EntryDate>
+      <TrailStop>65.07</TrailStop>
       <Stop>65.07</Stop>
       <BarDuration>
         <Duration>H_1</Duration>
@@ -383,7 +404,28 @@
       <EntryQty>40</EntryQty>
       <EntryValue>22.4625</EntryValue>
       <EntryDate>2021-11-30T15:00:00</EntryDate>
+      <TrailStop>21.24</TrailStop>
       <Stop>21.24</Stop>
+      <BarDuration>
+        <Duration>H_1</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>TRAILATR_INT</Theme>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>19</Id>
+      <StockName>INT_ABIONYX PHARMA</StockName>
+      <EntryQty>4061</EntryQty>
+      <EntryValue>2.50123119</EntryValue>
+      <EntryDate>2021-11-26T17:00:00</EntryDate>
+      <TrailStop>2.25</TrailStop>
+      <Stop>2.25</Stop>
       <BarDuration>
         <Duration>H_1</Duration>
         <Smoothing>1</Smoothing>
@@ -400,7 +442,7 @@
   <Name>Test</Name>
   <SaxoAccountId>78800/719479EUR</SaxoAccountId>
   <InitialBalance>100000</InitialBalance>
-  <Balance>87154.9</Balance>
+  <Balance>76997.4</Balance>
   <MaxRisk>0.1</MaxRisk>
   <CreationDate>2010-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>

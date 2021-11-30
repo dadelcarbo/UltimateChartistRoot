@@ -369,6 +369,7 @@
       <EntryQty>1400</EntryQty>
       <EntryValue>0.6933857</EntryValue>
       <EntryDate>2021-09-02T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
       <Stop>0</Stop>
       <BarDuration>
         <Duration>Daily</Duration>
@@ -385,6 +386,7 @@
       <EntryQty>1500</EntryQty>
       <EntryValue>0.6554667</EntryValue>
       <EntryDate>2021-09-09T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
       <Stop>0</Stop>
       <BarDuration>
         <Duration>Daily</Duration>
@@ -401,6 +403,7 @@
       <EntryQty>9</EntryQty>
       <EntryValue>107.347778</EntryValue>
       <EntryDate>2021-09-21T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
       <Stop>0</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -418,6 +421,7 @@
       <EntryQty>170</EntryQty>
       <EntryValue>6.069412</EntryValue>
       <EntryDate>2021-09-21T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
       <Stop>0</Stop>
       <BarDuration>
         <Duration>Daily</Duration>
@@ -434,6 +438,7 @@
       <EntryQty>800</EntryQty>
       <EntryValue>1.24512494</EntryValue>
       <EntryDate>2021-09-21T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
       <Stop>0</Stop>
       <BarDuration>
         <Duration>Daily</Duration>
@@ -450,6 +455,7 @@
       <EntryQty>11</EntryQty>
       <EntryValue>89.76545</EntryValue>
       <EntryDate>2021-09-22T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
       <Stop>0</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -467,6 +473,7 @@
       <EntryQty>25</EntryQty>
       <EntryValue>39.6184</EntryValue>
       <EntryDate>2021-09-23T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
       <Stop>0</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -484,6 +491,7 @@
       <EntryQty>100</EntryQty>
       <EntryValue>28.11</EntryValue>
       <EntryDate>2021-09-30T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
       <Stop>0</Stop>
       <BarDuration>
         <Duration>Daily</Duration>
@@ -500,6 +508,7 @@
       <EntryQty>200</EntryQty>
       <EntryValue>27.845</EntryValue>
       <EntryDate>2021-10-01T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
       <Stop>0</Stop>
       <BarDuration>
         <Duration>Daily</Duration>
@@ -516,6 +525,7 @@
       <EntryQty>100</EntryQty>
       <EntryValue>27.845</EntryValue>
       <EntryDate>2021-10-06T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
       <Stop>0</Stop>
       <BarDuration>
         <Duration>Daily</Duration>
@@ -532,6 +542,7 @@
       <EntryQty>5</EntryQty>
       <EntryValue>180.088</EntryValue>
       <EntryDate>2021-10-07T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
       <Stop>169</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -549,6 +560,7 @@
       <EntryQty>26</EntryQty>
       <EntryValue>36.6415367</EntryValue>
       <EntryDate>2021-10-19T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
       <Stop>0</Stop>
       <BarDuration>
         <Duration>Daily</Duration>
@@ -565,6 +577,7 @@
       <EntryQty>20</EntryQty>
       <EntryValue>49.8335</EntryValue>
       <EntryDate>2021-10-22T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
       <Stop>0</Stop>
       <BarDuration>
         <Duration>Daily</Duration>
@@ -581,6 +594,7 @@
       <EntryQty>70</EntryQty>
       <EntryValue>13.1757145</EntryValue>
       <EntryDate>2021-10-22T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
       <Stop>12.24</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -600,6 +614,7 @@
       <EntryQty>70</EntryQty>
       <EntryValue>27.845</EntryValue>
       <EntryDate>2021-11-01T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
       <Stop>0</Stop>
       <BarDuration>
         <Duration>Daily</Duration>
@@ -616,6 +631,7 @@
       <EntryQty>200</EntryQty>
       <EntryValue>5.0105</EntryValue>
       <EntryDate>2021-11-02T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
       <Stop>0</Stop>
       <BarDuration>
         <Duration>Daily</Duration>
@@ -632,6 +648,7 @@
       <EntryQty>40</EntryQty>
       <EntryValue>27.845</EntryValue>
       <EntryDate>2021-11-08T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
       <Stop>27.95</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -651,6 +668,7 @@
       <EntryQty>110</EntryQty>
       <EntryValue>8.962728</EntryValue>
       <EntryDate>2021-11-15T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
       <Stop>8.1</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -670,6 +688,7 @@
       <EntryQty>250</EntryQty>
       <EntryValue>3.87</EntryValue>
       <EntryDate>2021-11-16T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
       <Stop>3.3</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -689,6 +708,7 @@
       <EntryQty>150</EntryQty>
       <EntryValue>6.596667</EntryValue>
       <EntryDate>2021-11-17T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
       <Stop>5.6</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -708,6 +728,7 @@
       <EntryQty>26</EntryQty>
       <EntryValue>38.2303848</EntryValue>
       <EntryDate>2021-11-17T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
       <Stop>33.9</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -727,6 +748,7 @@
       <EntryQty>13</EntryQty>
       <EntryValue>73.46154</EntryValue>
       <EntryDate>2021-11-24T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
       <Stop>65.75</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -746,6 +768,7 @@
       <EntryQty>270</EntryQty>
       <EntryValue>3.65125942</EntryValue>
       <EntryDate>2021-11-24T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
       <Stop>4.55</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -765,6 +788,7 @@
       <EntryQty>39</EntryQty>
       <EntryValue>25.7410259</EntryValue>
       <EntryDate>2021-11-24T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
       <Stop>23.5</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
