@@ -581,7 +581,7 @@
       <EntryQty>70</EntryQty>
       <EntryValue>13.1757145</EntryValue>
       <EntryDate>2021-10-22T00:00:00</EntryDate>
-      <Stop>12.37</Stop>
+      <Stop>12.24</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
         <Smoothing>1</Smoothing>
@@ -632,7 +632,7 @@
       <EntryQty>40</EntryQty>
       <EntryValue>27.845</EntryValue>
       <EntryDate>2021-11-08T00:00:00</EntryDate>
-      <Stop>27.35</Stop>
+      <Stop>27.95</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
         <Smoothing>1</Smoothing>
@@ -651,7 +651,7 @@
       <EntryQty>110</EntryQty>
       <EntryValue>8.962728</EntryValue>
       <EntryDate>2021-11-15T00:00:00</EntryDate>
-      <Stop>8</Stop>
+      <Stop>8.1</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
         <Smoothing>1</Smoothing>
@@ -689,7 +689,7 @@
       <EntryQty>150</EntryQty>
       <EntryValue>6.596667</EntryValue>
       <EntryDate>2021-11-17T00:00:00</EntryDate>
-      <Stop>5.3</Stop>
+      <Stop>5.6</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
         <Smoothing>1</Smoothing>
@@ -708,7 +708,7 @@
       <EntryQty>26</EntryQty>
       <EntryValue>38.2303848</EntryValue>
       <EntryDate>2021-11-17T00:00:00</EntryDate>
-      <Stop>33.2</Stop>
+      <Stop>33.9</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
         <Smoothing>1</Smoothing>
@@ -727,7 +727,7 @@
       <EntryQty>13</EntryQty>
       <EntryValue>73.46154</EntryValue>
       <EntryDate>2021-11-24T00:00:00</EntryDate>
-      <Stop>0</Stop>
+      <Stop>65.75</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
         <Smoothing>1</Smoothing>
@@ -746,7 +746,7 @@
       <EntryQty>270</EntryQty>
       <EntryValue>3.65125942</EntryValue>
       <EntryDate>2021-11-24T00:00:00</EntryDate>
-      <Stop>0</Stop>
+      <Stop>4.55</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
         <Smoothing>1</Smoothing>
@@ -765,7 +765,7 @@
       <EntryQty>39</EntryQty>
       <EntryValue>25.7410259</EntryValue>
       <EntryDate>2021-11-24T00:00:00</EntryDate>
-      <Stop>0</Stop>
+      <Stop>23.5</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
         <Smoothing>1</Smoothing>

@@ -181,6 +181,16 @@
       <Fee>2.5</Fee>
       <Movement>-725.5</Movement>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>18</Id>
+      <Date>2021-11-30T15:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>INT_MCPHY ENERGY</StockName>
+      <Qty>40</Qty>
+      <Value>22.4</Value>
+      <Fee>2.5</Fee>
+      <Movement>-898.5</Movement>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -196,7 +206,6 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>TRAILSTOP|TRAILHIGHESTATR(30,1.5,4)</Indicator>
       <ExitDate>2018-10-01T00:00:00</ExitDate>
       <ExitValue>429.1</ExitValue>
     </StockPosition>
@@ -213,7 +222,6 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>TRAILSTOP|TRAILHIGHESTATR(30,1.5,4)</Indicator>
       <ExitDate>2015-08-10T00:00:00</ExitDate>
       <ExitValue>60.97</ExitValue>
     </StockPosition>
@@ -230,7 +238,6 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>TRAILSTOP|TRAILHIGHESTATR(30,1.5,4)</Indicator>
       <ExitDate>2018-10-01T00:00:00</ExitDate>
       <ExitValue>109.9</ExitValue>
     </StockPosition>
@@ -247,7 +254,6 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>CLOUD|TRAILATR(30,2,-2,EMA,6)</Indicator>
       <ExitDate>2021-11-22T10:00:00</ExitDate>
       <ExitValue>4.24</ExitValue>
     </StockPosition>
@@ -264,7 +270,6 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>CLOUD|TRAILATR(30,2,-2,EMA,6)</Indicator>
       <ExitDate>2021-11-18T17:00:00</ExitDate>
       <ExitValue>4.43</ExitValue>
     </StockPosition>
@@ -274,14 +279,13 @@
       <EntryQty>10</EntryQty>
       <EntryValue>38.19</EntryValue>
       <EntryDate>2021-11-17T12:00:00</EntryDate>
-      <Stop>34.1459961</Stop>
+      <Stop>34.146</Stop>
       <BarDuration>
         <Duration>H_1</Duration>
         <Smoothing>1</Smoothing>
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>CLOUD|TRAILATR(30,2,-2,EMA,6)</Indicator>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -300,7 +304,6 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>CLOUD|TRAILATR(30,2,-2,EMA,6)</Indicator>
       <ExitDate>2021-11-18T09:10:00</ExitDate>
       <ExitValue>70.7</ExitValue>
     </StockPosition>
@@ -317,7 +320,6 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>CLOUD|TRAILATR(30,2,-2,EMA,6)</Indicator>
       <ExitDate>2021-11-19T12:00:00</ExitDate>
       <ExitValue>68.95</ExitValue>
     </StockPosition>
@@ -334,7 +336,6 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>INDICATOR|TOPEMA(6)</Indicator>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -353,7 +354,6 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>CLOUD|TRAILATR(30,2,-2,EMA,6)</Indicator>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -372,7 +372,25 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Indicator>CLOUD|TRAILATR(30,2,-2,EMA,6)</Indicator>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>18</Id>
+      <StockName>INT_MCPHY ENERGY</StockName>
+      <EntryQty>40</EntryQty>
+      <EntryValue>22.4625</EntryValue>
+      <EntryDate>2021-11-30T15:00:00</EntryDate>
+      <Stop>21.24</Stop>
+      <BarDuration>
+        <Duration>H_1</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>TRAILATR_INT</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -382,7 +400,7 @@
   <Name>Test</Name>
   <SaxoAccountId>78800/719479EUR</SaxoAccountId>
   <InitialBalance>100000</InitialBalance>
-  <Balance>88053.4</Balance>
+  <Balance>87154.9</Balance>
   <MaxRisk>0.1</MaxRisk>
   <CreationDate>2010-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>
