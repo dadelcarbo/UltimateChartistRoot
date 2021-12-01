@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<StockPortfolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StockPortfolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <TradeOperations>
     <StockTradeOperation>
       <Id>0</Id>
@@ -201,6 +201,36 @@
       <Fee>5</Fee>
       <Movement>-10157.5</Movement>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>20</Id>
+      <Date>2021-11-30T21:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>INT_US_TESLA</StockName>
+      <Qty>10</Qty>
+      <Value>1144.76</Value>
+      <Fee>5</Fee>
+      <Movement>11442.6</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>21</Id>
+      <Date>2021-11-30T15:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>TURBO_AMAZON LONG X2</StockName>
+      <Qty>252</Qty>
+      <Value>46.45</Value>
+      <Fee>5</Fee>
+      <Movement>-11710.4</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>22</Id>
+      <Date>2021-12-01T14:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>INT_GAUSSIN</StockName>
+      <Qty>125</Qty>
+      <Value>7.83</Value>
+      <Fee>2.5</Fee>
+      <Movement>-981.25</Movement>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -302,6 +332,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
+      <Theme>TOPEMA</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -374,10 +405,8 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <ExitDate
-        xsi:nil="true" />
-      <ExitValue
-        xsi:nil="true" />
+      <ExitDate>2021-11-30T21:00:00</ExitDate>
+      <ExitValue>1144.76</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>17</Id>
@@ -393,6 +422,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
+      <Theme>TOPEMA</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -412,7 +442,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Theme>TRAILATR_INT</Theme>
+      <Theme>TOPEMA</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -438,11 +468,51 @@
       <ExitValue
         xsi:nil="true" />
     </StockPosition>
+    <StockPosition>
+      <Id>21</Id>
+      <StockName>TURBO_AMAZON LONG X2</StockName>
+      <EntryQty>252</EntryQty>
+      <EntryValue>46.46984</EntryValue>
+      <EntryDate>2021-11-30T15:00:00</EntryDate>
+      <TrailStop>41.805</TrailStop>
+      <Stop>41.805</Stop>
+      <BarDuration>
+        <Duration>H_1</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>TOPEMA</Theme>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>22</Id>
+      <StockName>INT_GAUSSIN</StockName>
+      <EntryQty>125</EntryQty>
+      <EntryValue>7.85</EntryValue>
+      <EntryDate>2021-12-01T14:00:00</EntryDate>
+      <TrailStop>7.047</TrailStop>
+      <Stop>7.047</Stop>
+      <BarDuration>
+        <Duration>H_1</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>TOPEMA</Theme>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
   </Positions>
   <Name>Test</Name>
   <SaxoAccountId>78800/719479EUR</SaxoAccountId>
   <InitialBalance>100000</InitialBalance>
-  <Balance>76997.4</Balance>
+  <Balance>75748.35</Balance>
   <MaxRisk>0.1</MaxRisk>
   <CreationDate>2010-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>

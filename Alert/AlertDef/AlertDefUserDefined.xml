@@ -78,4 +78,20 @@
     <IndicatorName>TRAILATR(30,2.75,-0.5,EMA,6)</IndicatorName>
     <EventName>Long Reentry</EventName>
   </StockAlertDef>
+  <StockAlertDef>
+    <Group>NONE</Group>
+    <CreationDate>2021-12-01T14:39:11.6294738+01:00</CreationDate>
+    <StockName>VALNEVA</StockName>
+    <PriceTrigger>0</PriceTrigger>
+    <TriggerBrokenUp>false</TriggerBrokenUp>
+    <BarDuration>
+      <Duration>Weekly</Duration>
+      <Smoothing>1</Smoothing>
+      <LineBreak>0</LineBreak>
+      <HeikinAshi>false</HeikinAshi>
+    </BarDuration>
+    <IndicatorType>CLOUD</IndicatorType>
+    <IndicatorName>TRAILATR(30,2.75,-0.5,EMA,6)</IndicatorName>
+    <EventName>Long Reentry</EventName>
+  </StockAlertDef>
 </ArrayOfStockAlertDef>
