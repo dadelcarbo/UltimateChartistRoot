@@ -8,5 +8,6 @@
     <IndicatorName>TOPEMA(6)</IndicatorName>
     <EventName>NewHigh</EventName>
     <Theme>TOPEMA</Theme>
+    <Title>TOPEMA NewHigh</Title>
   </StockAlertDef>
 </ArrayOfStockAlertDef>

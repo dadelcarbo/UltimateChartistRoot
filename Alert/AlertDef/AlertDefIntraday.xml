@@ -8,6 +8,7 @@
     <IndicatorName>TRAILATR(60,3,-1.25,EMA,6)</IndicatorName>
     <EventName>CloudUp</EventName>
     <Theme>TRAILATR_INT</Theme>
+    <Title>TRAILATR CloudUp</Title>
   </StockAlertDef>
   <StockAlertDef>
     <BarDuration>
@@ -17,5 +18,6 @@
     <IndicatorName>TRAILATR(60,3,-1.25,EMA,6)</IndicatorName>
     <EventName>Long Reentry</EventName>
     <Theme>TRAILATR_INT</Theme>
+    <Title>TRAILATR Long Reentry</Title>
   </StockAlertDef>
 </ArrayOfStockAlertDef>
