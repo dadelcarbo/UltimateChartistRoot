@@ -69,8 +69,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Portfolio", "Portfolio", "{
 		Portfolio\Legacy\__PEA.ucptf = Portfolio\Legacy\__PEA.ucptf
 		Portfolio\Legacy\__TestPortfolio.ucptf = Portfolio\Legacy\__TestPortfolio.ucptf
 		Portfolio\Legacy\__Titre.ucptf = Portfolio\Legacy\__Titre.ucptf
-		Portfolio\_TrainingPortfolio.ucptf = Portfolio\_TrainingPortfolio.ucptf
-		Portfolio\TF_Training.ucptf = Portfolio\TF_Training.ucptf
 		Portfolio\Transactions_13040737_2020.xlsx = Portfolio\Transactions_13040737_2020.xlsx
 		Portfolio\Transactions_13040737_2021.xlsx = Portfolio\Transactions_13040737_2021.xlsx
 	EndProjectSection
