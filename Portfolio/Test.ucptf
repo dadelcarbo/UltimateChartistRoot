@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<StockPortfolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StockPortfolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <TradeOperations>
     <StockTradeOperation>
       <Id>0</Id>
@@ -230,6 +230,66 @@
       <Value>7.83</Value>
       <Fee>2.5</Fee>
       <Movement>-981.25</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>23</Id>
+      <Date>2021-11-12T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>ARAMIS GROUP</StockName>
+      <Qty>455</Qty>
+      <Value>16.8</Value>
+      <Fee>5</Fee>
+      <Movement>-7648.99951</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>24</Id>
+      <Date>2021-11-24T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>ARAMIS GROUP</StockName>
+      <Qty>455</Qty>
+      <Value>18.28</Value>
+      <Fee>5</Fee>
+      <Movement>8312.4</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>25</Id>
+      <Date>2021-09-09T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>ARAMIS GROUP</StockName>
+      <Qty>390</Qty>
+      <Value>19.58</Value>
+      <Fee>5</Fee>
+      <Movement>-7641.2</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>26</Id>
+      <Date>2021-09-22T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>ARAMIS GROUP</StockName>
+      <Qty>390</Qty>
+      <Value>17.68</Value>
+      <Fee>5</Fee>
+      <Movement>6890.2</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>27</Id>
+      <Date>2021-11-09T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>ACCOR HOTELS</StockName>
+      <Qty>228</Qty>
+      <Value>33.16</Value>
+      <Fee>5</Fee>
+      <Movement>-7565.48</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>28</Id>
+      <Date>2021-11-22T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>ACCOR HOTELS</StockName>
+      <Qty>228</Qty>
+      <Value>29.12</Value>
+      <Fee>5</Fee>
+      <Movement>6634.36035</Movement>
     </StockTradeOperation>
   </TradeOperations>
   <Positions>
@@ -508,11 +568,65 @@
       <ExitValue
         xsi:nil="true" />
     </StockPosition>
+    <StockPosition>
+      <Id>23</Id>
+      <StockName>ARAMIS GROUP</StockName>
+      <EntryQty>455</EntryQty>
+      <EntryValue>16.8109875</EntryValue>
+      <EntryDate>2021-11-12T00:00:00</EntryDate>
+      <TrailStop>16</TrailStop>
+      <Stop>16</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>__Empty</Theme>
+      <ExitDate>2021-11-24T00:00:00</ExitDate>
+      <ExitValue>18.28</ExitValue>
+    </StockPosition>
+    <StockPosition>
+      <Id>25</Id>
+      <StockName>ARAMIS GROUP</StockName>
+      <EntryQty>390</EntryQty>
+      <EntryValue>19.5928211</EntryValue>
+      <EntryDate>2021-09-09T00:00:00</EntryDate>
+      <TrailStop>17.622</TrailStop>
+      <Stop>17.622</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>__Empty</Theme>
+      <ExitDate>2021-09-22T00:00:00</ExitDate>
+      <ExitValue>17.68</ExitValue>
+    </StockPosition>
+    <StockPosition>
+      <Id>27</Id>
+      <StockName>ACCOR HOTELS</StockName>
+      <EntryQty>228</EntryQty>
+      <EntryValue>33.18193</EntryValue>
+      <EntryDate>2021-11-09T00:00:00</EntryDate>
+      <TrailStop>32</TrailStop>
+      <Stop>32</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>__Empty</Theme>
+      <ExitDate>2021-11-22T00:00:00</ExitDate>
+      <ExitValue>29.12</ExitValue>
+    </StockPosition>
   </Positions>
   <Name>Test</Name>
   <SaxoAccountId>78800/719479EUR</SaxoAccountId>
   <InitialBalance>100000</InitialBalance>
-  <Balance>75748.35</Balance>
+  <Balance>74729.63</Balance>
   <MaxRisk>0.1</MaxRisk>
   <CreationDate>2010-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>

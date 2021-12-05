@@ -203,3 +203,69 @@ Date	Selector	Group	Duration	Agent	NbTrade	NbWinTrade	NbLostTrade	AVG Duration	W
 27/11/2021 22:17	ExpectedGainPerBar	CAC40	Monthly	ATRCloud	15	10	5	18	9.87	66.67%	75.66%	4.10%	2	Period: 18	Width: 3.3	
 27/11/2021 22:57	ExpectedGainPerBar	EURO_A	Weekly	TOPEMA	2512	1046	1466	15	2.52	41.64%	3.21%	0.21%	2	Period: 26	
 27/11/2021 23:00	ExpectedGainPerBar	EURO_C	Weekly	TOPEMA	1220	418	802	14	2.36	34.26%	1.58%	0.11%	2	Period: 33	
+02/12/2021 23:09	ExpectedGainPerBar	EURO_A	Weekly	TOPEMA	1748	705	1043	24	2.98	40.33%	5.21%	0.21%	2	Period: 24	
+02/12/2021 23:10	ExpectedGainPerBar	EURO_A	Weekly	TOPEMA	1950	531	1419	18	5.31	27.23%	4.00%	0.21%	1	Period: 30	
+02/12/2021 23:10	ExpectedGainPerBar	EURO_A	Weekly	TOPEMA	1570	534	1036	25	4.05	34.01%	5.39%	0.21%	1.5	Period: 33	
+02/12/2021 23:10	ExpectedGainPerBar	EURO_A	Weekly	TOPEMA	1521	651	870	29	2.86	42.80%	6.23%	0.21%	3	Period: 27	
+02/12/2021 23:10	ExpectedGainPerBar	EURO_A	Weekly	TOPEMA	1384	591	793	32	2.97	42.70%	6.89%	0.21%	0	Period: 30	
+02/12/2021 23:20	ExpectedGainPerBar	EURO_A	Weekly	TOPEMAReentry	2064	1390	674	12	.87	67.34%	2.49%	0.20%	0	Period: 10	
+02/12/2021 23:21	ExpectedGainPerBar	EURO_A	Weekly	TOPEMAReentry	2063	1347	716	11	.92	65.29%	2.33%	0.20%	0	Period: 7	
+02/12/2021 23:25	ExpectedGainPerBar	EURO_A	Weekly	TOPEMAReentry	982	432	550	30	2.82	43.99%	6.22%	0.20%	0	Period: 27	
+02/12/2021 23:31	ExpectedGainPerBar	EURO_A	Monthly	TOPEMAReentry	277	145	132	17	4.06	52.35%	20.88%	1.16%	0	Period: 14	
+02/12/2021 23:31	ExpectedGainPerBar	EURO_A	Weekly	TOPEMAReentry	982	432	550	30	2.82	43.99%	6.22%	0.20%	0	Period: 27	
+02/12/2021 23:52	ExpectedGainPerBar	EURO_A	Weekly	TOPEMAReentry	1255	529	726	21	2.73	42.15%	4.37%	0.21%	2	Period: 19	
+02/12/2021 23:52	ExpectedGainPerBar	EURO_A	Weekly	TOPEMA	1748	705	1043	24	2.98	40.33%	5.21%	0.21%	2	Period: 24	
+02/12/2021 23:52	ExpectedGainPerBar	EURO_A	Weekly	TFMansfield	4967	2080	2887	7	2.07	41.88%	1.57%	0.20%	2	Period: 20	
+02/12/2021 23:53	ExpectedGainPerBar	EURO_A	Weekly	TFMansfield	3132	1289	1843	12	2.95	41.16%	3.45%	0.27%	2	Period: 50	
+02/12/2021 23:55	ExpectedGainPerBar	EURO_A	Weekly	RSI	32	20	12	2	1.58	62.50%	4.12%	2.06%	0	Period: 20	BuyLevel: 10	SellLevel: 50	
+02/12/2021 23:56	ExpectedGainPerBar	EURO_A	Weekly	RSI	32	20	12	2	1.58	62.50%	4.12%	2.06%	0	Period: 20	BuyLevel: 10	SellLevel: 50	
+02/12/2021 23:58	ExpectedGainPerBar	EURO_A	Weekly	RSI	32	20	12	2	1.58	62.50%	4.12%	2.06%	2	Period: 20	BuyLevel: 10	SellLevel: 50	
+02/12/2021 23:59	ExpectedGainPerBar	EURO_A	Weekly	RSI	32	20	12	1	1.29	62.50%	3.56%	1.81%	1.5	Period: 20	BuyLevel: 10	SellLevel: 50	
+02/12/2021 23:59	ExpectedGainPerBar	EURO_A	Weekly	RSI	32	20	12	1	1.14	62.50%	3.15%	1.71%	0.9999998	Period: 20	BuyLevel: 10	SellLevel: 50	
+03/12/2021 00:01	ExpectedGainPerBar	EURO_A	Weekly	STOKFBODY	913	111	802	58	31.5	12.16%	16.61%	0.28%	0.9999998	Period: 26	BearTrigger: 0	
+03/12/2021 00:03	ExpectedGainPerBar	EURO_A	Weekly	HIGHLOWBARS	1125	507	618	26	2.64	45.07%	5.60%	0.22%	0	Period1: 30	Period2: 9	
+03/12/2021 00:07	ExpectedGainPerBar	EURO_A	Weekly	FW	648	266	382	18	2.4	41.05%	3.10%	0.17%	2	FastPeriod: 12	SlowPeriod: 26	
+03/12/2021 00:15	ExpectedGainPerBar	EURO_A	Weekly	EMAOSC	1062	287	775	46	9.06	27.02%	13.79%	0.29%	1.5	FastPeriod: 25	SlowPeriod: 50	
+03/12/2021 00:15	ExpectedGainPerBar	EURO_A	Weekly	EMAOSC	578	250	328	91	4.68	43.25%	24.78%	0.27%	0	FastPeriod: 25	SlowPeriod: 50	
+03/12/2021 00:17	ExpectedGainPerBar	EURO_A	Weekly	EMAMonthly	1074	349	725	43	5.97	32.50%	10.56%	0.24%	0	Period: 98	
+03/12/2021 00:19	ExpectedGainPerBar	EURO_A	Weekly	EMACD	1161	527	634	30	2.52	45.39%	6.28%	0.20%	0	FastPeriod: 27	SlowPeriod: 35	
+03/12/2021 00:21	ExpectedGainPerBar	EURO_A	Weekly	CupHandle	442	245	197	25	2.39	55.43%	7.45%	0.29%	0	Period: 23	TrailPeriod: 4	
+03/12/2021 00:22	ExpectedGainPerBar	EURO_A	Weekly	BBTF	1676	649	1027	26	3.35	38.72%	5.83%	0.22%	0	Period: 30	BBWidth: 0.5	
+03/12/2021 00:24	ExpectedGainPerBar	EURO_A	Weekly	ATRReentry	347	152	195	115	4.79	43.80%	29.33%	0.25%	0	Period: 30	Width: 4	
+03/12/2021 00:26	ExpectedGainPerBar	EURO_A	Weekly	ATRCloud	777	364	413	34	3.01	46.85%	8.12%	0.23%	0	Period: 44	Width: 2.5	
+03/12/2021 00:28	ExpectedGainPerBar	EURO_A	Weekly	ATRStop2	829	370	459	32	2.87	44.63%	6.82%	0.21%	0	Period: 30	UpWidth: 3	DownWidth: 0.5	
+03/12/2021 00:30	ExpectedGainPerBar	EURO_A	Weekly	TrailPercent	1390	580	810	36	2.59	41.73%	6.36%	0.18%	0	Percent: 0.1571429	
+03/12/2021 00:30	ExpectedGainPerBar	EURO_A	Weekly	TrailPercent	955	389	566	53	2.96	40.73%	9.39%	0.18%	0	Percent: 0.2	
+03/12/2021 00:30	ExpectedGainPerBar	EURO_A	Weekly	TrailPercent	1909	809	1100	25	2.41	42.38%	4.77%	0.18%	0	Percent: 0.125	
+03/12/2021 00:32	ExpectedGainPerBar	EURO_A	Weekly	TrailHL	634	293	341	62	2.67	46.21%	11.84%	0.19%	0	Period: 30	
+03/12/2021 00:33	ExpectedGainPerBar	EURO_A	Weekly	TrailHL2	409	191	218	118	3.85	46.70%	26.55%	0.22%	0	Period: 6	
+03/12/2021 00:33	ExpectedGainPerBar	EURO_A	Weekly	TrailHLBody	709	327	382	57	2.99	46.12%	12.72%	0.22%	0	Period: 31	
+03/12/2021 00:35	ExpectedGainPerBar	EURO_A	Weekly	TrailHLBody2	835	370	465	56	3.09	44.31%	12.03%	0.21%	0	PeriodUp: 31	PeriodDown: 19	
+03/12/2021 00:35	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	0	0	0	0		0.00%	0.00%	0.00%	0	Trigger: 20	TrailATR: 1	
+03/12/2021 00:38	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	0	0	0	0		0.00%	0.00%	0.00%	0	Trigger: 30	TrailATR: 1	
+03/12/2021 00:41	ExpectedGainPerBar	EURO_A	Weekly	TrailEMA	1253	577	676	34	2.6	46.05%	7.27%	0.21%	0	Period: 27	
+03/12/2021 00:42	ExpectedGainPerBar	EURO_A	Weekly	TrailEMA	1184	205	979	12	9.61	17.31%	2.85%	0.23%	0.5	Period: 30	
+03/12/2021 00:42	ExpectedGainPerBar	EURO_A	Weekly	TrailEMA	1184	258	926	15	7.11	21.79%	3.49%	0.23%	0.75	Period: 30	
+03/12/2021 00:42	ExpectedGainPerBar	EURO_A	Weekly	TrailEMA	1184	303	881	18	5.74	25.59%	3.99%	0.22%	0.95	Period: 30	
+03/12/2021 00:45	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	0	0	0	0		0.00%	0.00%	0.00%	0	Trigger: 20	TrailATR: 1	
+03/12/2021 00:50	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	771	132	639	44	16.71	17.12%	11.34%	0.25%	0.9999998	Trigger: 30	TrailATR: 9	
+03/12/2021 00:50	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	1004	114	890	27	29.24	11.35%	7.41%	0.27%	0.4999997	Trigger: 30	TrailATR: 9	
+03/12/2021 00:50	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	2099	401	1698	6	8.23	19.10%	1.73%	0.26%	0.2999997	Trigger: 30	TrailATR: 2	
+03/12/2021 00:50	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	573	159	414	75	9.27	27.75%	19.87%	0.26%	2	Trigger: 30	TrailATR: 9	
+03/12/2021 00:51	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	1080	398	682	40	5.7	36.85%	8.16%	0.20%	0	Trigger: 30	TrailATR: 9	
+03/12/2021 00:51	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	1509	218	1291	13	21.12	14.45%	3.71%	0.27%	0.1	Trigger: 30	TrailATR: 7	
+03/12/2021 00:51	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	1719	262	1457	9	13.75	15.24%	2.14%	0.22%	0.1	Trigger: 30	TrailATR: 5	
+03/12/2021 00:52	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	899	336	563	39	4.02	37.37%	8.60%	0.22%	2	Trigger: 30	TrailATR: 4	
+03/12/2021 00:52	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHESTATR	899	336	563	39	4.02	37.37%	8.60%	0.22%	2	Trigger: 30	TrailATR: 4	
+03/12/2021 00:54	ExpectedGainPerBar	EURO_A	Weekly	TrailHIGHEST	1145	521	624	26	2.68	45.50%	5.88%	0.22%	0	Trigger: 35	Period: 8	
+05/12/2021 03:30	ExpectedGainPerBar	EURO_A	Weekly	MYFW	10	4	6	19	6.82	40.00%	14.31%	0.73%	0	Period: 7	
+05/12/2021 03:32	ExpectedGainPerBar	EURO_A	Weekly	MYFW	10	4	6	33	7.5	40.00%	24.06%	0.71%	2	Period: 23	
+05/12/2021 03:32	ExpectedGainPerBar	EURO_A	Weekly	MYFW	10	4	6	19	6.82	40.00%	14.31%	0.73%	0	Period: 7	
+05/12/2021 03:37	ExpectedGainPerBar	CAC40	Daily	MYFW	4	2	2	82	4.42	50.00%	10.18%	0.12%	0	Period: 27	
+05/12/2021 03:41	ExpectedGainPerBar	CAC40	Daily	MYFW	4	2	2	82	4.42	50.00%	10.18%	0.12%	0	Period: 27	
+05/12/2021 03:45	ExpectedGainPerBar	CAC40	Weekly	MYFW	4	1	3	22	5.53	25.00%	2.11%	0.09%	0	Period: 11	
+05/12/2021 03:56	ExpectedGainPerBar	CAC40	Weekly	MYFW	4	1	3	22	5.53	25.00%	2.11%	0.09%	0	Period: 11	
+05/12/2021 03:59	ExpectedGainPerBar	CAC40	Weekly	MYFW	240	111	129	35	2.5	46.25%	6.99%	0.20%	0	Period: 24	
+05/12/2021 13:44	ExpectedGainPerBar	CAC40	Weekly	MYFW	240	111	129	35	2.5	46.25%	6.99%	0.20%	0	Period: 24	
+05/12/2021 14:00	ExpectedGainPerBar	CAC40	Weekly	MYFW	240	111	129	35	2.5	46.25%	6.99%	0.20%	0	Period: 24	
+05/12/2021 14:15	ExpectedGainPerBar	CAC40	Weekly	MYFW	246	105	141	33	3.02	42.68%	6.39%	0.19%	0	Period: 39	

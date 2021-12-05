@@ -2,1066 +2,6 @@
 <StockPortfolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <TradeOperations>
     <StockTradeOperation>
-      <Id>1880842029</Id>
-      <Date>2020-11-30T00:00:00</Date>
-      <OperationType>Transfer</OperationType>
-      <StockName>TECHNICOLOR</StockName>
-      <Qty>880</Qty>
-      <Value>1.26</Value>
-      <Fee>0</Fee>
-      <Movement>0</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1880966299</Id>
-      <Date>2020-11-30T00:00:00</Date>
-      <OperationType>Transfer</OperationType>
-      <StockName>LYXOR S&amp;P 500 (-2X) INVERSE</StockName>
-      <Qty>200</Qty>
-      <Value>15.7</Value>
-      <Fee>0</Fee>
-      <Movement>0</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1881075675</Id>
-      <Date>2020-11-30T00:00:00</Date>
-      <OperationType>Transfer</OperationType>
-      <StockName>EKINOPS</StockName>
-      <Qty>162</Qty>
-      <Value>6.15</Value>
-      <Fee>0</Fee>
-      <Movement>0</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1881146087</Id>
-      <Date>2020-11-30T00:00:00</Date>
-      <OperationType>Transfer</OperationType>
-      <StockName>KERLINK</StockName>
-      <Qty>563</Qty>
-      <Value>3.55</Value>
-      <Fee>0</Fee>
-      <Movement>0</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1881150891</Id>
-      <Date>2020-11-30T00:00:00</Date>
-      <OperationType>Transfer</OperationType>
-      <StockName>VALLOUREC</StockName>
-      <Qty>112</Qty>
-      <Value>15.38</Value>
-      <Fee>0</Fee>
-      <Movement>0</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1881162729</Id>
-      <Date>2020-11-30T00:00:00</Date>
-      <OperationType>Transfer</OperationType>
-      <StockName>EOS IMAGING</StockName>
-      <Qty>1140</Qty>
-      <Value>1.75</Value>
-      <Fee>0</Fee>
-      <Movement>0</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1889465225</Id>
-      <Date>2020-12-09T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>VALLOUREC</StockName>
-      <Qty>35</Qty>
-      <Value>28.46</Value>
-      <Fee>2.5</Fee>
-      <Movement>993.6</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1889470901</Id>
-      <Date>2020-12-09T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>TECHNICOLOR</StockName>
-      <Qty>530</Qty>
-      <Value>1.89</Value>
-      <Fee>5.15002441</Fee>
-      <Movement>996.55</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1893766607</Id>
-      <Date>2020-12-15T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>TECHNICOLOR</StockName>
-      <Qty>350</Qty>
-      <Value>1.66</Value>
-      <Fee>1.72998047</Fee>
-      <Movement>579.27</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1893997122</Id>
-      <Date>2020-12-15T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>VALLOUREC</StockName>
-      <Qty>77</Qty>
-      <Value>27.7</Value>
-      <Fee>5.380127</Fee>
-      <Movement>2127.52</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1893997265</Id>
-      <Date>2020-12-15T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>EKINOPS</StockName>
-      <Qty>162</Qty>
-      <Value>6.57</Value>
-      <Fee>5.000122</Fee>
-      <Movement>1059.34</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1893997359</Id>
-      <Date>2020-12-15T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>EOS IMAGING</StockName>
-      <Qty>1140</Qty>
-      <Value>1.73</Value>
-      <Fee>7.2800293</Fee>
-      <Movement>1964.92</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1893997459</Id>
-      <Date>2020-12-15T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>KERLINK</StockName>
-      <Qty>563</Qty>
-      <Value>3.59</Value>
-      <Fee>4.999878</Fee>
-      <Movement>2016.17</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1910476265</Id>
-      <Date>2021-01-07T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>AGROGENERATION</StockName>
-      <Qty>9400</Qty>
-      <Value>0.11</Value>
-      <Fee>-39.7999878</Fee>
-      <Movement>-994.2</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1914294823</Id>
-      <Date>2021-01-12T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>LYXOR S&amp;P 500 (-2X) INVERSE</StockName>
-      <Qty>80</Qty>
-      <Value>12.37</Value>
-      <Fee>2.74005127</Fee>
-      <Movement>-992.34</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1925735955</Id>
-      <Date>2021-01-25T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>CARREFOUR</StockName>
-      <Qty>67</Qty>
-      <Value>14.8</Value>
-      <Fee>5.129944</Fee>
-      <Movement>-996.73</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1928478118</Id>
-      <Date>2021-01-27T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>CARREFOUR</StockName>
-      <Qty>67</Qty>
-      <Value>14.27</Value>
-      <Fee>2.830017</Fee>
-      <Movement>953.26</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1928537627</Id>
-      <Date>2021-01-27T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>LYXOR S&amp;P 500 (-2X) INVERSE</StockName>
-      <Qty>172</Qty>
-      <Value>12.38</Value>
-      <Fee>5.33984375</Fee>
-      <Movement>-2134.7</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1940458366</Id>
-      <Date>2021-02-05T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>LYXOR S&amp;P 500 (-2X) INVERSE</StockName>
-      <Qty>300</Qty>
-      <Value>11.99</Value>
-      <Fee>5.2800293</Fee>
-      <Movement>3591.72</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1941947166</Id>
-      <Date>2021-02-08T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>AGROGENERATION</StockName>
-      <Qty>5600</Qty>
-      <Value>0.18</Value>
-      <Fee>-19.9000854</Fee>
-      <Movement>-988.1</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1942156331</Id>
-      <Date>2021-02-08T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>LYXOR S&amp;P 500 (-2X) INVERSE</StockName>
-      <Qty>300</Qty>
-      <Value>11.77</Value>
-      <Fee>5.000244</Fee>
-      <Movement>3526</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1941836275</Id>
-      <Date>2021-02-08T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>ARCELORMITTAL</StockName>
-      <Qty>50</Qty>
-      <Value>19.02</Value>
-      <Fee>2.29998779</Fee>
-      <Movement>-953.3</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1941871096</Id>
-      <Date>2021-02-08T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>ERAMET</StockName>
-      <Qty>20</Qty>
-      <Value>48.6</Value>
-      <Fee>5.419983</Fee>
-      <Movement>-977.42</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1945325585</Id>
-      <Date>2021-02-10T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
-      <Qty>1350</Qty>
-      <Value>2.18</Value>
-      <Fee>9.050049</Fee>
-      <Movement>-2952.05</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1946043558</Id>
-      <Date>2021-02-11T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>ARCELORMITTAL</StockName>
-      <Qty>50</Qty>
-      <Value>18.92</Value>
-      <Fee>2.70001221</Fee>
-      <Movement>943.3</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1947851691</Id>
-      <Date>2021-02-12T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
-      <Qty>1350</Qty>
-      <Value>2.14</Value>
-      <Fee>7.01977539</Fee>
-      <Movement>-2896.02</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1947293540</Id>
-      <Date>2021-02-12T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>ERAMET</StockName>
-      <Qty>20</Qty>
-      <Value>50.08</Value>
-      <Fee>5.040039</Fee>
-      <Movement>996.56</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1948447224</Id>
-      <Date>2021-02-15T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>NOVACYT</StockName>
-      <Qty>109</Qty>
-      <Value>9.09</Value>
-      <Fee>2.5</Fee>
-      <Movement>-993.31</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1948461136</Id>
-      <Date>2021-02-15T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>TF1</StockName>
-      <Qty>120</Qty>
-      <Value>7.35</Value>
-      <Fee>5.15002441</Fee>
-      <Movement>-887.15</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1949053395</Id>
-      <Date>2021-02-16T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>NOVACYT</StockName>
-      <Qty>109</Qty>
-      <Value>8.99</Value>
-      <Fee>2.5</Fee>
-      <Movement>977.41</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1951252232</Id>
-      <Date>2021-02-17T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>TF1</StockName>
-      <Qty>120</Qty>
-      <Value>7.45</Value>
-      <Fee>3.09997559</Fee>
-      <Movement>890.9</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1951152110</Id>
-      <Date>2021-02-17T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
-      <Qty>1300</Qty>
-      <Value>2.08</Value>
-      <Fee>6.300049</Fee>
-      <Movement>-2710.3</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1952108311</Id>
-      <Date>2021-02-18T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>AGROGENERATION</StockName>
-      <Qty>15000</Qty>
-      <Value>0.16</Value>
-      <Fee>-68.02002</Fee>
-      <Movement>2468.02</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1955055490</Id>
-      <Date>2021-02-22T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>NEOEN</StockName>
-      <Qty>18</Qty>
-      <Value>51.2</Value>
-      <Fee>2.499939</Fee>
-      <Movement>-924.1</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1955242702</Id>
-      <Date>2021-02-22T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>NEOEN</StockName>
-      <Qty>18</Qty>
-      <Value>49.8</Value>
-      <Fee>2.499939</Fee>
-      <Movement>893.9</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1959515938</Id>
-      <Date>2021-02-25T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>METROPOLE TV</StockName>
-      <Qty>54</Qty>
-      <Value>16.82</Value>
-      <Fee>5.22003174</Fee>
-      <Movement>-913.5</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1959258108</Id>
-      <Date>2021-02-25T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>BIOPHYTIS</StockName>
-      <Qty>688</Qty>
-      <Value>1.37</Value>
-      <Fee>-0.25</Fee>
-      <Movement>-942.31</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1959480841</Id>
-      <Date>2021-02-25T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>ADVICENNE</StockName>
-      <Qty>61</Qty>
-      <Value>14.85</Value>
-      <Fee>2.499939</Fee>
-      <Movement>-908.35</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1961554237</Id>
-      <Date>2021-02-26T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>COMPAGNIE D'ENTREPRISES CFE</StockName>
-      <Qty>10</Qty>
-      <Value>89.2</Value>
-      <Fee>2.5</Fee>
-      <Movement>-894.5</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1961241819</Id>
-      <Date>2021-02-26T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>AURES TECHNOLOGIES</StockName>
-      <Qty>33</Qty>
-      <Value>27.2</Value>
-      <Fee>2.499939</Fee>
-      <Movement>-900.1</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1962796726</Id>
-      <Date>2021-03-01T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>METROPOLE TV</StockName>
-      <Qty>54</Qty>
-      <Value>17.06</Value>
-      <Fee>5.26001</Fee>
-      <Movement>-926.5</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1962825930</Id>
-      <Date>2021-03-01T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
-      <Qty>1450</Qty>
-      <Value>2.07</Value>
-      <Fee>12.25</Fee>
-      <Movement>2989.25</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1965437024</Id>
-      <Date>2021-03-03T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>CGG</StockName>
-      <Qty>907</Qty>
-      <Value>1.01</Value>
-      <Fee>5.669983</Fee>
-      <Movement>-921.74</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1965467508</Id>
-      <Date>2021-03-03T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
-      <Qty>1450</Qty>
-      <Value>2.02</Value>
-      <Fee>3.55004883</Fee>
-      <Movement>2925.45</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1965538011</Id>
-      <Date>2021-03-03T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>NAVYA</StockName>
-      <Qty>200</Qty>
-      <Value>3.54</Value>
-      <Fee>1.5</Fee>
-      <Movement>-709.5</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1965746543</Id>
-      <Date>2021-03-03T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>BIOPHYTIS</StockName>
-      <Qty>688</Qty>
-      <Value>1.26</Value>
-      <Fee>1.11999512</Fee>
-      <Movement>865.76</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1968864033</Id>
-      <Date>2021-03-05T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>ADVICENNE</StockName>
-      <Qty>61</Qty>
-      <Value>13.55</Value>
-      <Fee>2.5</Fee>
-      <Movement>824.05</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1970616107</Id>
-      <Date>2021-03-08T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>BIC</StockName>
-      <Qty>18</Qty>
-      <Value>49.08</Value>
-      <Fee>5.14996338</Fee>
-      <Movement>-888.59</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1971421168</Id>
-      <Date>2021-03-08T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
-      <Qty>1100</Qty>
-      <Value>1.98</Value>
-      <Fee>1.26000977</Fee>
-      <Movement>2176.74</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1972887370</Id>
-      <Date>2021-03-09T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>NAVYA</StockName>
-      <Qty>200</Qty>
-      <Value>3.19</Value>
-      <Fee>3.5</Fee>
-      <Movement>634.5</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1973816510</Id>
-      <Date>2021-03-10T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>INNATE PHARMA</StockName>
-      <Qty>240</Qty>
-      <Value>3.8</Value>
-      <Fee>2.5</Fee>
-      <Movement>-914.5</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1975264151</Id>
-      <Date>2021-03-11T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>CARREFOUR</StockName>
-      <Qty>64</Qty>
-      <Value>14.62</Value>
-      <Fee>5.30999756</Fee>
-      <Movement>-940.99</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1979332444</Id>
-      <Date>2021-03-16T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>CGG</StockName>
-      <Qty>900</Qty>
-      <Value>1.11</Value>
-      <Fee>1.59997559</Fee>
-      <Movement>-1000.6</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1978814398</Id>
-      <Date>2021-03-16T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>AGROGENERATION</StockName>
-      <Qty>4700</Qty>
-      <Value>0.19</Value>
-      <Fee>11.9000244</Fee>
-      <Movement>-904.9</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1981289704</Id>
-      <Date>2021-03-18T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>CGG</StockName>
-      <Qty>850</Qty>
-      <Value>1.18</Value>
-      <Fee>5.89996338</Fee>
-      <Movement>997.1</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1984784257</Id>
-      <Date>2021-03-23T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>COMPAGNIE D'ENTREPRISES CFE</StockName>
-      <Qty>10</Qty>
-      <Value>84.3</Value>
-      <Fee>2.5</Fee>
-      <Movement>840.5</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1985941417</Id>
-      <Date>2021-03-24T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>CARREFOUR</StockName>
-      <Qty>64</Qty>
-      <Value>14.87</Value>
-      <Fee>5.35998535</Fee>
-      <Movement>-957.04</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1988671724</Id>
-      <Date>2021-03-26T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>DGB GROUP</StockName>
-      <Qty>560</Qty>
-      <Value>1.64</Value>
-      <Fee>2.500061</Fee>
-      <Movement>-920.9</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1988545319</Id>
-      <Date>2021-03-26T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>AGROGENERATION</StockName>
-      <Qty>4700</Qty>
-      <Value>0.17</Value>
-      <Fee>11.9000244</Fee>
-      <Movement>787.1</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1989869640</Id>
-      <Date>2021-03-29T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>CNP ASSURANCES</StockName>
-      <Qty>58</Qty>
-      <Value>16.36</Value>
-      <Fee>5.34997559</Fee>
-      <Movement>-954.23</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1990695330</Id>
-      <Date>2021-03-30T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>DGB GROUP</StockName>
-      <Qty>560</Qty>
-      <Value>1.77</Value>
-      <Fee>2.5</Fee>
-      <Movement>988.7</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>1992567037</Id>
-      <Date>2021-04-01T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>AURES TECHNOLOGIES</StockName>
-      <Qty>33</Qty>
-      <Value>23.6</Value>
-      <Fee>2.5</Fee>
-      <Movement>776.3</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2007964353</Id>
-      <Date>2021-04-21T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>CNP ASSURANCES</StockName>
-      <Qty>62</Qty>
-      <Value>14.7</Value>
-      <Fee>5.2300415</Fee>
-      <Movement>-916.63</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2010051958</Id>
-      <Date>2021-04-23T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>CGG</StockName>
-      <Qty>1023</Qty>
-      <Value>0.92</Value>
-      <Fee>4.13995361</Fee>
-      <Movement>-945.3</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2015453558</Id>
-      <Date>2021-04-30T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>VALLOUREC</StockName>
-      <Qty>36</Qty>
-      <Value>27.26</Value>
-      <Fee>2.5</Fee>
-      <Movement>-983.86</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2017639390</Id>
-      <Date>2021-05-04T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>CGG</StockName>
-      <Qty>1000</Qty>
-      <Value>0.99</Value>
-      <Fee>3.90002441</Fee>
-      <Movement>986.1</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2017694914</Id>
-      <Date>2021-05-04T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
-      <Qty>1250</Qty>
-      <Value>1.74</Value>
-      <Fee>2.5</Fee>
-      <Movement>-2177.5</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2018650177</Id>
-      <Date>2021-05-05T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>ATARI</StockName>
-      <Qty>1400</Qty>
-      <Value>0.68</Value>
-      <Fee>1.09997559</Fee>
-      <Movement>-953.1</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2018580803</Id>
-      <Date>2021-05-05T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
-      <Qty>1250</Qty>
-      <Value>1.7</Value>
-      <Fee>0</Fee>
-      <Movement>2125</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2018856885</Id>
-      <Date>2021-05-05T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>INNATE PHARMA</StockName>
-      <Qty>240</Qty>
-      <Value>3.45</Value>
-      <Fee>2.02001953</Fee>
-      <Movement>825.98</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2023555935</Id>
-      <Date>2021-05-11T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>VALLOUREC</StockName>
-      <Qty>36</Qty>
-      <Value>30.72</Value>
-      <Fee>4.999878</Fee>
-      <Movement>1100.92</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2023521686</Id>
-      <Date>2021-05-11T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>ATARI</StockName>
-      <Qty>500</Qty>
-      <Value>0.77</Value>
-      <Fee>1.42999268</Fee>
-      <Movement>383.57</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2025607702</Id>
-      <Date>2021-05-12T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>CGG</StockName>
-      <Qty>1100</Qty>
-      <Value>0.91</Value>
-      <Fee>-1.460022</Fee>
-      <Movement>-999.54</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2025157551</Id>
-      <Date>2021-05-12T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>*DELISTED 20210721 (NATIXIS)</StockName>
-      <Qty>240</Qty>
-      <Value>4.14</Value>
-      <Fee>4.2800293</Fee>
-      <Movement>-997.88</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2026307952</Id>
-      <Date>2021-05-13T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>ATARI</StockName>
-      <Qty>900</Qty>
-      <Value>0.7</Value>
-      <Fee>6.09997559</Fee>
-      <Movement>623.9</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2036860316</Id>
-      <Date>2021-05-25T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>QUANTUM GENOMICS</StockName>
-      <Qty>250</Qty>
-      <Value>3.96</Value>
-      <Fee>3.5</Fee>
-      <Movement>-993.5</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2046461252</Id>
-      <Date>2021-06-07T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>*DELISTED 20210721 (NATIXIS)</StockName>
-      <Qty>240</Qty>
-      <Value>4</Value>
-      <Fee>1.7800293</Fee>
-      <Movement>958.22</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2048320759</Id>
-      <Date>2021-06-09T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>METROPOLE TV</StockName>
-      <Qty>54</Qty>
-      <Value>17.46</Value>
-      <Fee>2.499939</Fee>
-      <Movement>940.34</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2048331296</Id>
-      <Date>2021-06-09T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
-      <Qty>650</Qty>
-      <Value>1.54</Value>
-      <Fee>0.4199829</Fee>
-      <Movement>-1001.42</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2049765024</Id>
-      <Date>2021-06-10T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>METROPOLE TV</StockName>
-      <Qty>54</Qty>
-      <Value>17.32</Value>
-      <Fee>2.499939</Fee>
-      <Movement>932.78</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2050415636</Id>
-      <Date>2021-06-11T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>CGG</StockName>
-      <Qty>100</Qty>
-      <Value>0.93</Value>
-      <Fee>0.9599991</Fee>
-      <Movement>92.04</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2050818047</Id>
-      <Date>2021-06-11T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
-      <Qty>660</Qty>
-      <Value>1.51</Value>
-      <Fee>4.880005</Fee>
-      <Movement>-1001.48</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2051514855</Id>
-      <Date>2021-06-14T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>CGG</StockName>
-      <Qty>900</Qty>
-      <Value>0.97</Value>
-      <Fee>-0.2000122</Fee>
-      <Movement>873.2</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2053674014</Id>
-      <Date>2021-06-16T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>CGG</StockName>
-      <Qty>2000</Qty>
-      <Value>0.92</Value>
-      <Fee>11.8000488</Fee>
-      <Movement>1828.2</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2055118900</Id>
-      <Date>2021-06-17T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
-      <Qty>670</Qty>
-      <Value>1.48</Value>
-      <Fee>2.499939</Fee>
-      <Movement>-994.1</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2063483796</Id>
-      <Date>2021-06-29T00:00:00</Date>
-      <OperationType>Transfer</OperationType>
-      <StockName>VALLOUREC</StockName>
-      <Qty>148</Qty>
-      <Value>5.66</Value>
-      <Fee>0</Fee>
-      <Movement>0</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2064445292</Id>
-      <Date>2021-06-30T00:00:00</Date>
-      <OperationType>Transfer</OperationType>
-      <StockName>VALLOUREC</StockName>
-      <Qty>35</Qty>
-      <Value>5.66</Value>
-      <Fee>0</Fee>
-      <Movement>0</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2064300257</Id>
-      <Date>2021-06-30T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>BIC</StockName>
-      <Qty>37</Qty>
-      <Value>58.3</Value>
-      <Fee>4.999756</Fee>
-      <Movement>2152.1</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2064382157</Id>
-      <Date>2021-06-30T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>CARREFOUR</StockName>
-      <Qty>128</Qty>
-      <Value>16.53</Value>
-      <Fee>5</Fee>
-      <Movement>2110.84</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>20210630</Id>
-      <Date>2021-06-30T00:00:00</Date>
-      <OperationType>Cash</OperationType>
-      <StockName />
-      <Qty>1</Qty>
-      <Value>798.06</Value>
-      <Fee>0</Fee>
-      <Movement>798.06</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2065766210</Id>
-      <Date>2021-07-02T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>ATOS</StockName>
-      <Qty>18</Qty>
-      <Value>52.86</Value>
-      <Fee>5.35003662</Fee>
-      <Movement>-956.83</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2070457183</Id>
-      <Date>2021-07-08T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>VALLOUREC</StockName>
-      <Qty>133</Qty>
-      <Value>7.36</Value>
-      <Fee>2.5</Fee>
-      <Movement>-981.38</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2069786267</Id>
-      <Date>2021-07-08T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>ATOS</StockName>
-      <Qty>18</Qty>
-      <Value>51.68</Value>
-      <Fee>2.5</Fee>
-      <Movement>927.74</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2073069710</Id>
-      <Date>2021-07-12T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>QUANTUM GENOMICS</StockName>
-      <Qty>250</Qty>
-      <Value>3.8</Value>
-      <Fee>3</Fee>
-      <Movement>-953</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2073238897</Id>
-      <Date>2021-07-12T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
-      <Qty>1980</Qty>
-      <Value>1.53</Value>
-      <Fee>2.619873</Fee>
-      <Movement>3026.78</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2077562974</Id>
-      <Date>2021-07-16T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>QUANTUM GENOMICS</StockName>
-      <Qty>250</Qty>
-      <Value>3.92</Value>
-      <Fee>1.5</Fee>
-      <Movement>978.5</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2081319639</Id>
-      <Date>2021-07-21T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>QUANTUM GENOMICS</StockName>
-      <Qty>250</Qty>
-      <Value>3.98</Value>
-      <Fee>3</Fee>
-      <Movement>-998</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2081893753</Id>
-      <Date>2021-07-22T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>APERAM</StockName>
-      <Qty>20</Qty>
-      <Value>48.62</Value>
-      <Fee>2.500061</Fee>
-      <Movement>-974.9</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2082281045</Id>
-      <Date>2021-07-22T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>SOITEC</StockName>
-      <Qty>5</Qty>
-      <Value>194.4</Value>
-      <Fee>5.419983</Fee>
-      <Movement>-977.42</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2081851127</Id>
-      <Date>2021-07-22T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>REALITES SCA</StockName>
-      <Qty>35</Qty>
-      <Value>28.4</Value>
-      <Fee>2.5</Fee>
-      <Movement>-996.5</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2082695867</Id>
-      <Date>2021-07-23T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>VALLOUREC</StockName>
-      <Qty>125</Qty>
-      <Value>7.77</Value>
-      <Fee>2.5</Fee>
-      <Movement>-973.75</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2082689452</Id>
-      <Date>2021-07-23T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>CGG</StockName>
-      <Qty>1600</Qty>
-      <Value>0.61</Value>
-      <Fee>2.5</Fee>
-      <Movement>-978.5</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2084733272</Id>
-      <Date>2021-07-27T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>SOITEC</StockName>
-      <Qty>5</Qty>
-      <Value>195.9</Value>
-      <Fee>2.5</Fee>
-      <Movement>977</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2087802811</Id>
-      <Date>2021-07-30T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>APERAM</StockName>
-      <Qty>20</Qty>
-      <Value>53.52</Value>
-      <Fee>5</Fee>
-      <Movement>1065.4</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2097386939</Id>
-      <Date>2021-08-12T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>REALITES SCA</StockName>
-      <Qty>35</Qty>
-      <Value>25.19</Value>
-      <Fee>2.35003662</Fee>
-      <Movement>879.3</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2112081189</Id>
-      <Date>2021-09-02T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>CGG</StockName>
-      <Qty>1400</Qty>
-      <Value>0.68</Value>
-      <Fee>5.85998535</Fee>
-      <Movement>-957.86</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
       <Id>2114089981</Id>
       <Date>2021-09-06T00:00:00</Date>
       <OperationType>Buy</OperationType>
@@ -1102,16 +42,6 @@
       <Movement>-1382.12</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>20210915</Id>
-      <Date>2021-09-15T00:00:00</Date>
-      <OperationType>Cash</OperationType>
-      <StockName />
-      <Qty>1</Qty>
-      <Value>1000</Value>
-      <Fee>0</Fee>
-      <Movement>1000</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
       <Id>2121755121</Id>
       <Date>2021-09-16T00:00:00</Date>
       <OperationType>Sell</OperationType>
@@ -1142,16 +72,6 @@
       <Movement>1331</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>2124489880</Id>
-      <Date>2021-09-20T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>CGG</StockName>
-      <Qty>3000</Qty>
-      <Value>0.59</Value>
-      <Fee>-8.200073</Fee>
-      <Movement>1778.2</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
       <Id>2124490338</Id>
       <Date>2021-09-20T00:00:00</Date>
       <OperationType>Sell</OperationType>
@@ -1162,34 +82,14 @@
       <Movement>869.1</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>2124490037</Id>
-      <Date>2021-09-20T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>CNP ASSURANCES</StockName>
-      <Qty>120</Qty>
-      <Value>13.12</Value>
-      <Fee>5.59997559</Fee>
-      <Movement>1568.8</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2124490621</Id>
-      <Date>2021-09-20T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>VALLOUREC</StockName>
-      <Qty>475</Qty>
-      <Value>6.59</Value>
-      <Fee>5</Fee>
-      <Movement>3125.25</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2124490767</Id>
-      <Date>2021-09-20T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>QUANTUM GENOMICS</StockName>
-      <Qty>500</Qty>
-      <Value>4.74</Value>
-      <Fee>5</Fee>
-      <Movement>2365</Movement>
+      <Id>2125624340</Id>
+      <Date>2021-09-21T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>ENGIE</StockName>
+      <Qty>80</Qty>
+      <Value>11.85</Value>
+      <Fee>5.340027</Fee>
+      <Movement>-953.34</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
       <Id>2125748232</Id>
@@ -1200,16 +100,6 @@
       <Value>54.3</Value>
       <Fee>5.27001953</Fee>
       <Movement>-928.37</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>2125624340</Id>
-      <Date>2021-09-21T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>ENGIE</StockName>
-      <Qty>80</Qty>
-      <Value>11.85</Value>
-      <Fee>5.340027</Fee>
-      <Movement>-953.34</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
       <Id>2128825280</Id>
@@ -1252,16 +142,6 @@
       <Movement>-2801</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>5005402268</Id>
-      <Date>2021-10-01T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>NEOEN</StockName>
-      <Qty>28</Qty>
-      <Value>35.5</Value>
-      <Fee>5.47998047</Fee>
-      <Movement>-999.48</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
       <Id>5005094925</Id>
       <Date>2021-10-01T00:00:00</Date>
       <OperationType>Buy</OperationType>
@@ -1280,6 +160,16 @@
       <Value>27.3</Value>
       <Fee>5</Fee>
       <Movement>-2735</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5005402268</Id>
+      <Date>2021-10-01T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>NEOEN</StockName>
+      <Qty>28</Qty>
+      <Value>35.5</Value>
+      <Fee>5.47998047</Fee>
+      <Movement>-999.48</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
       <Id>5008511539</Id>
@@ -1352,16 +242,6 @@
       <Movement>-989.23</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>5022706560</Id>
-      <Date>2021-10-19T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>BENETEAU</StockName>
-      <Qty>70</Qty>
-      <Value>13.4</Value>
-      <Fee>2.5</Fee>
-      <Movement>-940.5</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
       <Id>5025290232</Id>
       <Date>2021-10-21T00:00:00</Date>
       <OperationType>Buy</OperationType>
@@ -1370,16 +250,6 @@
       <Value>4.98</Value>
       <Fee>1.70001221</Fee>
       <Movement>-997.7</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>5026233714</Id>
-      <Date>2021-10-22T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>TRIGANO</StockName>
-      <Qty>6</Qty>
-      <Value>162.1</Value>
-      <Fee>5.419983</Fee>
-      <Movement>-978.02</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
       <Id>5025972390</Id>
@@ -1412,14 +282,14 @@
       <Movement>967.5</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>5027816649</Id>
-      <Date>2021-10-25T00:00:00</Date>
+      <Id>5026233714</Id>
+      <Date>2021-10-22T00:00:00</Date>
       <OperationType>Buy</OperationType>
-      <StockName>BENETEAU</StockName>
-      <Qty>70</Qty>
-      <Value>13.28</Value>
-      <Fee>2.5</Fee>
-      <Movement>-932.1</Movement>
+      <StockName>TRIGANO</StockName>
+      <Qty>6</Qty>
+      <Value>162.1</Value>
+      <Fee>5.419983</Fee>
+      <Movement>-978.02</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
       <Id>5029440016</Id>
@@ -1442,6 +312,16 @@
       <Movement>-981.23</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
+      <Id>5034146610</Id>
+      <Date>2021-11-02T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>BIOMERIEUX</StockName>
+      <Qty>9</Qty>
+      <Value>110.8</Value>
+      <Fee>5.48999</Fee>
+      <Movement>-1002.69</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
       <Id>5033801638</Id>
       <Date>2021-11-02T00:00:00</Date>
       <OperationType>Buy</OperationType>
@@ -1462,14 +342,14 @@
       <Movement>971.52</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>5034146610</Id>
-      <Date>2021-11-02T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>BIOMERIEUX</StockName>
-      <Qty>9</Qty>
-      <Value>110.8</Value>
-      <Fee>5.48999</Fee>
-      <Movement>-1002.69</Movement>
+      <Id>5034798996</Id>
+      <Date>2021-11-03T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>NEOEN</StockName>
+      <Qty>27</Qty>
+      <Value>38.34</Value>
+      <Fee>5</Fee>
+      <Movement>1030.18</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
       <Id>5034855080</Id>
@@ -1480,16 +360,6 @@
       <Value>21.55</Value>
       <Fee>2.500061</Fee>
       <Movement>-972.25</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>5034798996</Id>
-      <Date>2021-11-03T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>NEOEN</StockName>
-      <Qty>27</Qty>
-      <Value>38.34</Value>
-      <Fee>5</Fee>
-      <Movement>1030.18</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
       <Id>5037534837</Id>
@@ -1512,16 +382,6 @@
       <Movement>932.15</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>5038419363</Id>
-      <Date>2021-11-08T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>INNATE PHARMA</StockName>
-      <Qty>200</Qty>
-      <Value>4.77</Value>
-      <Fee>3.29998779</Fee>
-      <Movement>950.7</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
       <Id>5038439576</Id>
       <Date>2021-11-08T00:00:00</Date>
       <OperationType>Sell</OperationType>
@@ -1530,6 +390,16 @@
       <Value>25.28</Value>
       <Fee>5</Fee>
       <Movement>1006.2</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5038419363</Id>
+      <Date>2021-11-08T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>INNATE PHARMA</StockName>
+      <Qty>200</Qty>
+      <Value>4.77</Value>
+      <Fee>3.29998779</Fee>
+      <Movement>950.7</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
       <Id>5039046721</Id>
@@ -1542,16 +412,6 @@
       <Movement>977.6</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>5039493760</Id>
-      <Date>2021-11-09T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>FERMENTALG</StockName>
-      <Qty>300</Qty>
-      <Value>3.23</Value>
-      <Fee>2.5</Fee>
-      <Movement>-971.5</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
       <Id>5039519075</Id>
       <Date>2021-11-09T00:00:00</Date>
       <OperationType>Buy</OperationType>
@@ -1562,6 +422,16 @@
       <Movement>-995.29</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
+      <Id>5039493760</Id>
+      <Date>2021-11-09T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>FERMENTALG</StockName>
+      <Qty>300</Qty>
+      <Value>3.23</Value>
+      <Fee>2.5</Fee>
+      <Movement>-971.5</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
       <Id>5040625467</Id>
       <Date>2021-11-10T00:00:00</Date>
       <OperationType>Buy</OperationType>
@@ -1570,16 +440,6 @@
       <Value>27.61</Value>
       <Fee>2.34997559</Fee>
       <Movement>-996.31</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>5040705703</Id>
-      <Date>2021-11-10T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>BENETEAU</StockName>
-      <Qty>70</Qty>
-      <Value>13.84</Value>
-      <Fee>2.5</Fee>
-      <Movement>966.3</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
       <Id>5042018068</Id>
@@ -1602,14 +462,14 @@
       <Movement>-968.69</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>5043167399</Id>
+      <Id>5042990739</Id>
       <Date>2021-11-12T00:00:00</Date>
       <OperationType>Buy</OperationType>
-      <StockName>VALNEVA</StockName>
-      <Qty>45</Qty>
-      <Value>21.36</Value>
-      <Fee>2.5</Fee>
-      <Movement>-963.7</Movement>
+      <StockName>AGROGENERATION</StockName>
+      <Qty>3500</Qty>
+      <Value>0.26</Value>
+      <Fee>-11.9199219</Fee>
+      <Movement>-898.08</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
       <Id>5042994279</Id>
@@ -1622,16 +482,6 @@
       <Movement>978.14</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>5042990739</Id>
-      <Date>2021-11-12T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>AGROGENERATION</StockName>
-      <Qty>3500</Qty>
-      <Value>0.26</Value>
-      <Fee>-11.9199219</Fee>
-      <Movement>-898.08</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
       <Id>5043291588</Id>
       <Date>2021-11-12T00:00:00</Date>
       <OperationType>Sell</OperationType>
@@ -1640,6 +490,16 @@
       <Value>3.1</Value>
       <Fee>4</Fee>
       <Movement>926</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5043167399</Id>
+      <Date>2021-11-12T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>VALNEVA</StockName>
+      <Qty>45</Qty>
+      <Value>21.36</Value>
+      <Fee>2.5</Fee>
+      <Movement>-963.7</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
       <Id>5043957916</Id>
@@ -1652,16 +512,6 @@
       <Movement>872.5</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>5043946638</Id>
-      <Date>2021-11-15T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>GREENYARD</StockName>
-      <Qty>110</Qty>
-      <Value>8.82</Value>
-      <Fee>2.500061</Fee>
-      <Movement>-972.7</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
       <Id>5044309478</Id>
       <Date>2021-11-15T00:00:00</Date>
       <OperationType>Buy</OperationType>
@@ -1672,14 +522,14 @@
       <Movement>-962.5</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>5045137989</Id>
-      <Date>2021-11-16T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>EUTELSAT COM.</StockName>
-      <Qty>78</Qty>
-      <Value>12.25</Value>
-      <Fee>2.89001465</Fee>
-      <Movement>952.61</Movement>
+      <Id>5043946638</Id>
+      <Date>2021-11-15T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>GREENYARD</StockName>
+      <Qty>110</Qty>
+      <Value>8.82</Value>
+      <Fee>2.500061</Fee>
+      <Movement>-972.7</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
       <Id>5045151868</Id>
@@ -1692,16 +542,6 @@
       <Movement>900</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>5045213958</Id>
-      <Date>2021-11-16T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>BIC</StockName>
-      <Qty>19</Qty>
-      <Value>49.76</Value>
-      <Fee>2.499939</Fee>
-      <Movement>942.94</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
       <Id>5045202180</Id>
       <Date>2021-11-16T00:00:00</Date>
       <OperationType>Sell</OperationType>
@@ -1712,14 +552,24 @@
       <Movement>1130</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>5045493846</Id>
+      <Id>5045213958</Id>
       <Date>2021-11-16T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>NEOEN</StockName>
-      <Qty>26</Qty>
-      <Value>37.82</Value>
-      <Fee>5.450012</Fee>
-      <Movement>-988.77</Movement>
+      <OperationType>Sell</OperationType>
+      <StockName>BIC</StockName>
+      <Qty>19</Qty>
+      <Value>49.76</Value>
+      <Fee>2.499939</Fee>
+      <Movement>942.94</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5045137989</Id>
+      <Date>2021-11-16T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>EUTELSAT COM.</StockName>
+      <Qty>78</Qty>
+      <Value>12.25</Value>
+      <Fee>2.89001465</Fee>
+      <Movement>952.61</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
       <Id>5045522940</Id>
@@ -1732,6 +582,16 @@
       <Movement>-920.9</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
+      <Id>5045493846</Id>
+      <Date>2021-11-16T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>NEOEN</StockName>
+      <Qty>26</Qty>
+      <Value>37.82</Value>
+      <Fee>5.450012</Fee>
+      <Movement>-988.77</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
       <Id>5046585430</Id>
       <Date>2021-11-17T00:00:00</Date>
       <OperationType>Buy</OperationType>
@@ -1742,16 +602,6 @@
       <Movement>-1001.74</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>5047509417</Id>
-      <Date>2021-11-18T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>VOYAGEURS DU MONDE</StockName>
-      <Qty>11</Qty>
-      <Value>89</Value>
-      <Fee>2.5</Fee>
-      <Movement>976.5</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
       <Id>5047360807</Id>
       <Date>2021-11-18T00:00:00</Date>
       <OperationType>Buy</OperationType>
@@ -1760,6 +610,16 @@
       <Value>32.9</Value>
       <Fee>2.499939</Fee>
       <Movement>-989.5</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5047509417</Id>
+      <Date>2021-11-18T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>VOYAGEURS DU MONDE</StockName>
+      <Qty>11</Qty>
+      <Value>89</Value>
+      <Fee>2.5</Fee>
+      <Movement>976.5</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
       <Id>5048665242</Id>
@@ -1782,16 +642,6 @@
       <Movement>926.78</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>5051307512</Id>
-      <Date>2021-11-23T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>TRIGANO</StockName>
-      <Qty>6</Qty>
-      <Value>150.23</Value>
-      <Fee>2.47998047</Fee>
-      <Movement>898.9</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
       <Id>5051520943</Id>
       <Date>2021-11-23T00:00:00</Date>
       <OperationType>Buy</OperationType>
@@ -1812,6 +662,26 @@
       <Movement>-992.46</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
+      <Id>5051307512</Id>
+      <Date>2021-11-23T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>TRIGANO</StockName>
+      <Qty>6</Qty>
+      <Value>150.23</Value>
+      <Fee>2.47998047</Fee>
+      <Movement>898.9</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5053434148</Id>
+      <Date>2021-11-24T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>ABIONYX PHARMA</StockName>
+      <Qty>380</Qty>
+      <Value>2.62</Value>
+      <Fee>2.5</Fee>
+      <Movement>-998.1</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
       <Id>5053033220</Id>
       <Date>2021-11-24T00:00:00</Date>
       <OperationType>Buy</OperationType>
@@ -1820,6 +690,16 @@
       <Value>25.74</Value>
       <Fee>5.42999268</Fee>
       <Movement>-983.55</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5052999446</Id>
+      <Date>2021-11-24T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>CAPGEMINI</StockName>
+      <Qty>5</Qty>
+      <Value>201.4</Value>
+      <Fee>5</Fee>
+      <Movement>1002</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
       <Id>5052814761</Id>
@@ -1842,34 +722,14 @@
       <Movement>-949.3</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>5052999446</Id>
-      <Date>2021-11-24T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>CAPGEMINI</StockName>
-      <Qty>5</Qty>
-      <Value>201.4</Value>
-      <Fee>5</Fee>
-      <Movement>1002</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
-      <Id>5053434148</Id>
-      <Date>2021-11-24T00:00:00</Date>
-      <OperationType>Buy</OperationType>
-      <StockName>ABIONYX PHARMA</StockName>
-      <Qty>380</Qty>
-      <Value>2.62</Value>
-      <Fee>2.5</Fee>
-      <Movement>-998.1</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
       <Id>5054161187</Id>
       <Date>2021-11-25T00:00:00</Date>
       <OperationType>Buy</OperationType>
       <StockName>BENETEAU</StockName>
       <Qty>70</Qty>
-      <Value>13.62</Value>
-      <Fee>2.500061</Fee>
-      <Movement>-955.9</Movement>
+      <Value>13.48</Value>
+      <Fee>2.80004883</Fee>
+      <Movement>-946.4</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
       <Id>5054147154</Id>
@@ -1892,16 +752,6 @@
       <Movement>865</Movement>
     </StockTradeOperation>
     <StockTradeOperation>
-      <Id>5054562601</Id>
-      <Date>2021-11-26T00:00:00</Date>
-      <OperationType>Sell</OperationType>
-      <StockName>BENETEAU</StockName>
-      <Qty>70</Qty>
-      <Value>12.72</Value>
-      <Fee>2.5</Fee>
-      <Movement>887.9</Movement>
-    </StockTradeOperation>
-    <StockTradeOperation>
       <Id>5055383051</Id>
       <Date>2021-11-26T00:00:00</Date>
       <OperationType>Sell</OperationType>
@@ -1911,1156 +761,88 @@
       <Fee>5</Fee>
       <Movement>1173.58</Movement>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5058473675</Id>
+      <Date>2021-11-29T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>ERAMET</StockName>
+      <Qty>13</Qty>
+      <Value>67.4</Value>
+      <Fee>2.5</Fee>
+      <Movement>873.7</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5060181171</Id>
+      <Date>2021-11-30T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>MCPHY ENERGY</StockName>
+      <Qty>40</Qty>
+      <Value>22.4</Value>
+      <Fee>2.5</Fee>
+      <Movement>-898.5</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5061844774</Id>
+      <Date>2021-12-01T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>ABIONYX PHARMA</StockName>
+      <Qty>380</Qty>
+      <Value>2.98</Value>
+      <Fee>6.64001465</Fee>
+      <Movement>1125.76</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5061627395</Id>
+      <Date>2021-12-01T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>GAUSSIN</StockName>
+      <Qty>125</Qty>
+      <Value>7.83</Value>
+      <Fee>2.5</Fee>
+      <Movement>-981.25</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5061672902</Id>
+      <Date>2021-12-01T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>INNATE PHARMA</StockName>
+      <Qty>210</Qty>
+      <Value>4.63</Value>
+      <Fee>2.91992188</Fee>
+      <Movement>-975.22</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5061654365</Id>
+      <Date>2021-12-01T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>MCPHY ENERGY</StockName>
+      <Qty>40</Qty>
+      <Value>22.84</Value>
+      <Fee>2.5</Fee>
+      <Movement>-916.1</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5063936685</Id>
+      <Date>2021-12-02T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>GAUSSIN</StockName>
+      <Qty>125</Qty>
+      <Value>7.51</Value>
+      <Fee>2.25</Fee>
+      <Movement>936.5</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5066077569</Id>
+      <Date>2021-12-03T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>VALNEVA</StockName>
+      <Qty>45</Qty>
+      <Value>24.56</Value>
+      <Fee>5</Fee>
+      <Movement>1100.2</Movement>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
-    <StockPosition>
-      <Id>1880842029</Id>
-      <StockName>TECHNICOLOR</StockName>
-      <EntryQty>880</EntryQty>
-      <EntryValue>1.26</EntryValue>
-      <EntryDate>2020-11-30T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <ExitDate>2020-12-09T00:00:00</ExitDate>
-      <ExitValue>1.89</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1880966299</Id>
-      <StockName>LYXOR S&amp;P 500 (-2X) INVERSE</StockName>
-      <EntryQty>200</EntryQty>
-      <EntryValue>15.7</EntryValue>
-      <EntryDate>2020-11-30T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <ExitDate>2021-01-12T00:00:00</ExitDate>
-      <ExitValue>14.758357</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1881075675</Id>
-      <StockName>EKINOPS</StockName>
-      <EntryQty>162</EntryQty>
-      <EntryValue>6.15</EntryValue>
-      <EntryDate>2020-11-30T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <ExitDate>2020-12-15T00:00:00</ExitDate>
-      <ExitValue>6.57</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1881146087</Id>
-      <StockName>KERLINK</StockName>
-      <EntryQty>563</EntryQty>
-      <EntryValue>3.55</EntryValue>
-      <EntryDate>2020-11-30T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <ExitDate>2020-12-15T00:00:00</ExitDate>
-      <ExitValue>3.59</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1881150891</Id>
-      <StockName>VALLOUREC</StockName>
-      <EntryQty>112</EntryQty>
-      <EntryValue>15.38</EntryValue>
-      <EntryDate>2020-11-30T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <ExitDate>2020-12-09T00:00:00</ExitDate>
-      <ExitValue>28.46</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1881162729</Id>
-      <StockName>EOS IMAGING</StockName>
-      <EntryQty>1140</EntryQty>
-      <EntryValue>1.75</EntryValue>
-      <EntryDate>2020-11-30T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <ExitDate>2020-12-15T00:00:00</ExitDate>
-      <ExitValue>1.73</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1889465225</Id>
-      <StockName>VALLOUREC</StockName>
-      <EntryQty>77</EntryQty>
-      <EntryValue>15.38</EntryValue>
-      <EntryDate>2020-12-09T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <ExitDate>2020-12-15T00:00:00</ExitDate>
-      <ExitValue>27.7</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1889470901</Id>
-      <StockName>TECHNICOLOR</StockName>
-      <EntryQty>350</EntryQty>
-      <EntryValue>1.26</EntryValue>
-      <EntryDate>2020-12-09T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <ExitDate>2020-12-15T00:00:00</ExitDate>
-      <ExitValue>1.66</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1910476265</Id>
-      <StockName>AGROGENERATION</StockName>
-      <EntryQty>9400</EntryQty>
-      <EntryValue>0.105765961</EntryValue>
-      <EntryDate>2021-01-07T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-02-08T00:00:00</ExitDate>
-      <ExitValue>0.132153332</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1914294823</Id>
-      <StockName>LYXOR S&amp;P 500 (-2X) INVERSE</StockName>
-      <EntryQty>280</EntryQty>
-      <EntryValue>14.758357</EntryValue>
-      <EntryDate>2021-01-12T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <ExitDate>2021-01-27T00:00:00</ExitDate>
-      <ExitValue>13.8651333</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1925735955</Id>
-      <StockName>CARREFOUR</StockName>
-      <EntryQty>67</EntryQty>
-      <EntryValue>14.8765669</EntryValue>
-      <EntryDate>2021-01-25T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-01-27T00:00:00</ExitDate>
-      <ExitValue>14.27</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1928537627</Id>
-      <StockName>LYXOR S&amp;P 500 (-2X) INVERSE</StockName>
-      <EntryQty>452</EntryQty>
-      <EntryValue>13.8651333</EntryValue>
-      <EntryDate>2021-01-27T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <ExitDate>2021-02-05T00:00:00</ExitDate>
-      <ExitValue>11.99</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1940458366</Id>
-      <StockName>LYXOR S&amp;P 500 (-2X) INVERSE</StockName>
-      <EntryQty>152</EntryQty>
-      <EntryValue>13.8651333</EntryValue>
-      <EntryDate>2021-02-05T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <ExitDate>2021-02-08T00:00:00</ExitDate>
-      <ExitValue>11.77</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1941947166</Id>
-      <StockName>AGROGENERATION</StockName>
-      <EntryQty>15000</EntryQty>
-      <EntryValue>0.132153332</EntryValue>
-      <EntryDate>2021-02-08T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-02-18T00:00:00</ExitDate>
-      <ExitValue>0.16</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1942156331</Id>
-      <StockName>LYXOR S&amp;P 500 (-2X) INVERSE</StockName>
-      <EntryQty>-148</EntryQty>
-      <EntryValue>13.8651333</EntryValue>
-      <EntryDate>2021-02-08T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <ExitDate
-        xsi:nil="true" />
-      <ExitValue
-        xsi:nil="true" />
-    </StockPosition>
-    <StockPosition>
-      <Id>1941836275</Id>
-      <StockName>ARCELORMITTAL</StockName>
-      <EntryQty>50</EntryQty>
-      <EntryValue>19.066</EntryValue>
-      <EntryDate>2021-02-08T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-02-11T00:00:00</ExitDate>
-      <ExitValue>18.92</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1941871096</Id>
-      <StockName>ERAMET</StockName>
-      <EntryQty>20</EntryQty>
-      <EntryValue>48.871</EntryValue>
-      <EntryDate>2021-02-08T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-02-12T00:00:00</ExitDate>
-      <ExitValue>50.08</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1945325585</Id>
-      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
-      <EntryQty>1350</EntryQty>
-      <EntryValue>2.18670368</EntryValue>
-      <EntryDate>2021-02-10T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-02-12T00:00:00</ExitDate>
-      <ExitValue>2.165952</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1947851691</Id>
-      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
-      <EntryQty>2700</EntryQty>
-      <EntryValue>2.165952</EntryValue>
-      <EntryDate>2021-02-12T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-02-17T00:00:00</ExitDate>
-      <ExitValue>2.13959265</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1948447224</Id>
-      <StockName>NOVACYT</StockName>
-      <EntryQty>109</EntryQty>
-      <EntryValue>9.112936</EntryValue>
-      <EntryDate>2021-02-15T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-02-16T00:00:00</ExitDate>
-      <ExitValue>8.99</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1948461136</Id>
-      <StockName>TF1</StockName>
-      <EntryQty>120</EntryQty>
-      <EntryValue>7.39291668</EntryValue>
-      <EntryDate>2021-02-15T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-02-17T00:00:00</ExitDate>
-      <ExitValue>7.45</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1951152110</Id>
-      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
-      <EntryQty>4000</EntryQty>
-      <EntryValue>2.13959265</EntryValue>
-      <EntryDate>2021-02-17T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-03-01T00:00:00</ExitDate>
-      <ExitValue>2.07</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1955055490</Id>
-      <StockName>NEOEN</StockName>
-      <EntryQty>18</EntryQty>
-      <EntryValue>51.3388863</EntryValue>
-      <EntryDate>2021-02-22T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-02-22T00:00:00</ExitDate>
-      <ExitValue>49.8</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1959515938</Id>
-      <StockName>METROPOLE TV</StockName>
-      <EntryQty>54</EntryQty>
-      <EntryValue>16.916666</EntryValue>
-      <EntryDate>2021-02-25T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-03-01T00:00:00</ExitDate>
-      <ExitValue>17.0370369</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1959258108</Id>
-      <StockName>BIOPHYTIS</StockName>
-      <EntryQty>688</EntryQty>
-      <EntryValue>1.36963665</EntryValue>
-      <EntryDate>2021-02-25T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-03-03T00:00:00</ExitDate>
-      <ExitValue>1.26</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1959480841</Id>
-      <StockName>ADVICENNE</StockName>
-      <EntryQty>61</EntryQty>
-      <EntryValue>14.8909836</EntryValue>
-      <EntryDate>2021-02-25T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-03-05T00:00:00</ExitDate>
-      <ExitValue>13.55</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1961554237</Id>
-      <StockName>COMPAGNIE D'ENTREPRISES CFE</StockName>
-      <EntryQty>10</EntryQty>
-      <EntryValue>89.45</EntryValue>
-      <EntryDate>2021-02-26T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-03-23T00:00:00</ExitDate>
-      <ExitValue>84.3</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1961241819</Id>
-      <StockName>AURES TECHNOLOGIES</StockName>
-      <EntryQty>33</EntryQty>
-      <EntryValue>27.2757568</EntryValue>
-      <EntryDate>2021-02-26T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-04-01T00:00:00</ExitDate>
-      <ExitValue>23.6</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1962796726</Id>
-      <StockName>METROPOLE TV</StockName>
-      <EntryQty>108</EntryQty>
-      <EntryValue>17.0370369</EntryValue>
-      <EntryDate>2021-03-01T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-06-09T00:00:00</ExitDate>
-      <ExitValue>17.46</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1962825930</Id>
-      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
-      <EntryQty>2550</EntryQty>
-      <EntryValue>2.13959265</EntryValue>
-      <EntryDate>2021-03-01T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-03-03T00:00:00</ExitDate>
-      <ExitValue>2.02</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1965437024</Id>
-      <StockName>CGG</StockName>
-      <EntryQty>907</EntryQty>
-      <EntryValue>1.01625133</EntryValue>
-      <EntryDate>2021-03-03T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-03-16T00:00:00</ExitDate>
-      <ExitValue>1.06382942</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1965467508</Id>
-      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
-      <EntryQty>1100</EntryQty>
-      <EntryValue>2.13959265</EntryValue>
-      <EntryDate>2021-03-03T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-03-08T00:00:00</ExitDate>
-      <ExitValue>1.98</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1965538011</Id>
-      <StockName>NAVYA</StockName>
-      <EntryQty>200</EntryQty>
-      <EntryValue>3.5475</EntryValue>
-      <EntryDate>2021-03-03T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-03-09T00:00:00</ExitDate>
-      <ExitValue>3.19</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1970616107</Id>
-      <StockName>BIC</StockName>
-      <EntryQty>18</EntryQty>
-      <EntryValue>49.36611</EntryValue>
-      <EntryDate>2021-03-08T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-06-30T00:00:00</ExitDate>
-      <ExitValue>58.3</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1973816510</Id>
-      <StockName>INNATE PHARMA</StockName>
-      <EntryQty>240</EntryQty>
-      <EntryValue>3.8104167</EntryValue>
-      <EntryDate>2021-03-10T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-05-05T00:00:00</ExitDate>
-      <ExitValue>3.45</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1975264151</Id>
-      <StockName>CARREFOUR</StockName>
-      <EntryQty>64</EntryQty>
-      <EntryValue>14.7029686</EntryValue>
-      <EntryDate>2021-03-11T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-03-24T00:00:00</ExitDate>
-      <ExitValue>14.82836</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1979332444</Id>
-      <StockName>CGG</StockName>
-      <EntryQty>1807</EntryQty>
-      <EntryValue>1.06382942</EntryValue>
-      <EntryDate>2021-03-16T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-03-18T00:00:00</ExitDate>
-      <ExitValue>1.18</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1978814398</Id>
-      <StockName>AGROGENERATION</StockName>
-      <EntryQty>4700</EntryQty>
-      <EntryValue>0.192531914</EntryValue>
-      <EntryDate>2021-03-16T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-03-26T00:00:00</ExitDate>
-      <ExitValue>0.17</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1981289704</Id>
-      <StockName>CGG</StockName>
-      <EntryQty>957</EntryQty>
-      <EntryValue>1.06382942</EntryValue>
-      <EntryDate>2021-03-18T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-04-23T00:00:00</ExitDate>
-      <ExitValue>0.991608441</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1985941417</Id>
-      <StockName>CARREFOUR</StockName>
-      <EntryQty>128</EntryQty>
-      <EntryValue>14.82836</EntryValue>
-      <EntryDate>2021-03-24T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-06-30T00:00:00</ExitDate>
-      <ExitValue>16.53</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1988671724</Id>
-      <StockName>DGB GROUP</StockName>
-      <EntryQty>560</EntryQty>
-      <EntryValue>1.64446437</EntryValue>
-      <EntryDate>2021-03-26T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-03-30T00:00:00</ExitDate>
-      <ExitValue>1.77</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>1989869640</Id>
-      <StockName>CNP ASSURANCES</StockName>
-      <EntryQty>58</EntryQty>
-      <EntryValue>16.4522419</EntryValue>
-      <EntryDate>2021-03-29T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-04-21T00:00:00</ExitDate>
-      <ExitValue>15.5905008</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2007964353</Id>
-      <StockName>CNP ASSURANCES</StockName>
-      <EntryQty>120</EntryQty>
-      <EntryValue>15.5905008</EntryValue>
-      <EntryDate>2021-04-21T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-09-20T00:00:00</ExitDate>
-      <ExitValue>13.12</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2010051958</Id>
-      <StockName>CGG</StockName>
-      <EntryQty>1980</EntryQty>
-      <EntryValue>0.991608441</EntryValue>
-      <EntryDate>2021-04-23T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-05-04T00:00:00</ExitDate>
-      <ExitValue>0.99</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2015453558</Id>
-      <StockName>VALLOUREC</StockName>
-      <EntryQty>36</EntryQty>
-      <EntryValue>27.3294449</EntryValue>
-      <EntryDate>2021-04-30T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-05-11T00:00:00</ExitDate>
-      <ExitValue>30.72</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2017639390</Id>
-      <StockName>CGG</StockName>
-      <EntryQty>980</EntryQty>
-      <EntryValue>0.991608441</EntryValue>
-      <EntryDate>2021-05-04T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-05-12T00:00:00</ExitDate>
-      <ExitValue>0.9477482</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2017694914</Id>
-      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
-      <EntryQty>1250</EntryQty>
-      <EntryValue>1.742</EntryValue>
-      <EntryDate>2021-05-04T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-05-05T00:00:00</ExitDate>
-      <ExitValue>1.7</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2018650177</Id>
-      <StockName>ATARI</StockName>
-      <EntryQty>1400</EntryQty>
-      <EntryValue>0.6807857</EntryValue>
-      <EntryDate>2021-05-05T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-05-11T00:00:00</ExitDate>
-      <ExitValue>0.77</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2023521686</Id>
-      <StockName>ATARI</StockName>
-      <EntryQty>900</EntryQty>
-      <EntryValue>0.6807857</EntryValue>
-      <EntryDate>2021-05-11T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-05-13T00:00:00</ExitDate>
-      <ExitValue>0.7</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2025607702</Id>
-      <StockName>CGG</StockName>
-      <EntryQty>2080</EntryQty>
-      <EntryValue>0.9477482</EntryValue>
-      <EntryDate>2021-05-12T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-06-11T00:00:00</ExitDate>
-      <ExitValue>0.93</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2025157551</Id>
-      <StockName>*DELISTED 20210721 (NATIXIS)</StockName>
-      <EntryQty>240</EntryQty>
-      <EntryValue>4.15783358</EntryValue>
-      <EntryDate>2021-05-12T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-06-07T00:00:00</ExitDate>
-      <ExitValue>4</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2036860316</Id>
-      <StockName>QUANTUM GENOMICS</StockName>
-      <EntryQty>250</EntryQty>
-      <EntryValue>3.974</EntryValue>
-      <EntryDate>2021-05-25T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-07-12T00:00:00</ExitDate>
-      <ExitValue>3.893</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2048320759</Id>
-      <StockName>METROPOLE TV</StockName>
-      <EntryQty>54</EntryQty>
-      <EntryValue>17.0370369</EntryValue>
-      <EntryDate>2021-06-09T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-06-10T00:00:00</ExitDate>
-      <ExitValue>17.32</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2048331296</Id>
-      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
-      <EntryQty>650</EntryQty>
-      <EntryValue>1.54064608</EntryValue>
-      <EntryDate>2021-06-09T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-06-11T00:00:00</ExitDate>
-      <ExitValue>1.52893126</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2050415636</Id>
-      <StockName>CGG</StockName>
-      <EntryQty>1980</EntryQty>
-      <EntryValue>0.9477482</EntryValue>
-      <EntryDate>2021-06-11T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-06-14T00:00:00</ExitDate>
-      <ExitValue>0.97</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2050818047</Id>
-      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
-      <EntryQty>1310</EntryQty>
-      <EntryValue>1.52893126</EntryValue>
-      <EntryDate>2021-06-11T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-06-17T00:00:00</ExitDate>
-      <ExitValue>1.51363635</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2051514855</Id>
-      <StockName>CGG</StockName>
-      <EntryQty>1080</EntryQty>
-      <EntryValue>0.9477482</EntryValue>
-      <EntryDate>2021-06-14T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-06-16T00:00:00</ExitDate>
-      <ExitValue>0.92</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2053674014</Id>
-      <StockName>CGG</StockName>
-      <EntryQty>-920</EntryQty>
-      <EntryValue>0.9477482</EntryValue>
-      <EntryDate>2021-06-16T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-07-23T00:00:00</ExitDate>
-      <ExitValue>0.156723022</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2055118900</Id>
-      <StockName>LYXOR CAC 40 (-2X) INVERSE</StockName>
-      <EntryQty>1980</EntryQty>
-      <EntryValue>1.51363635</EntryValue>
-      <EntryDate>2021-06-17T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-07-12T00:00:00</ExitDate>
-      <ExitValue>1.53</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2063483796</Id>
-      <StockName>VALLOUREC</StockName>
-      <EntryQty>148</EntryQty>
-      <EntryValue>5.66</EntryValue>
-      <EntryDate>2021-06-29T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <ExitDate>2021-06-30T00:00:00</ExitDate>
-      <ExitValue
-        xsi:nil="true" />
-    </StockPosition>
-    <StockPosition>
-      <Id>2064445292</Id>
-      <StockName>VALLOUREC</StockName>
-      <EntryQty>183</EntryQty>
-      <EntryValue>5.66000032</EntryValue>
-      <EntryDate>2021-06-30T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <ExitDate>2021-07-08T00:00:00</ExitDate>
-      <ExitValue>6.38341761</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2064300257</Id>
-      <StockName>BIC</StockName>
-      <EntryQty>-19</EntryQty>
-      <EntryValue>49.36611</EntryValue>
-      <EntryDate>2021-06-30T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-11-11T00:00:00</ExitDate>
-      <ExitValue>INF</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2065766210</Id>
-      <StockName>ATOS</StockName>
-      <EntryQty>18</EntryQty>
-      <EntryValue>53.1572227</EntryValue>
-      <EntryDate>2021-07-02T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-07-08T00:00:00</ExitDate>
-      <ExitValue>51.68</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2070457183</Id>
-      <StockName>VALLOUREC</StockName>
-      <EntryQty>316</EntryQty>
-      <EntryValue>6.38341761</EntryValue>
-      <EntryDate>2021-07-08T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <ExitDate>2021-07-23T00:00:00</ExitDate>
-      <ExitValue>6.782109</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2073069710</Id>
-      <StockName>QUANTUM GENOMICS</StockName>
-      <EntryQty>500</EntryQty>
-      <EntryValue>3.893</EntryValue>
-      <EntryDate>2021-07-12T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-07-16T00:00:00</ExitDate>
-      <ExitValue>3.92</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2077562974</Id>
-      <StockName>QUANTUM GENOMICS</StockName>
-      <EntryQty>250</EntryQty>
-      <EntryValue>3.893</EntryValue>
-      <EntryDate>2021-07-16T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-07-21T00:00:00</ExitDate>
-      <ExitValue>3.9425</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2081319639</Id>
-      <StockName>QUANTUM GENOMICS</StockName>
-      <EntryQty>500</EntryQty>
-      <EntryValue>3.9425</EntryValue>
-      <EntryDate>2021-07-21T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-09-20T00:00:00</ExitDate>
-      <ExitValue>4.74</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2081893753</Id>
-      <StockName>APERAM</StockName>
-      <EntryQty>20</EntryQty>
-      <EntryValue>48.7450027</EntryValue>
-      <EntryDate>2021-07-22T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-07-30T00:00:00</ExitDate>
-      <ExitValue>53.52</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2082281045</Id>
-      <StockName>SOITEC</StockName>
-      <EntryQty>5</EntryQty>
-      <EntryValue>195.484</EntryValue>
-      <EntryDate>2021-07-22T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-07-27T00:00:00</ExitDate>
-      <ExitValue>195.9</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2081851127</Id>
-      <StockName>REALITES SCA</StockName>
-      <EntryQty>35</EntryQty>
-      <EntryValue>28.4714279</EntryValue>
-      <EntryDate>2021-07-22T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-08-12T00:00:00</ExitDate>
-      <ExitValue>25.19</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2082695867</Id>
-      <StockName>VALLOUREC</StockName>
-      <EntryQty>441</EntryQty>
-      <EntryValue>6.782109</EntryValue>
-      <EntryDate>2021-07-23T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <ExitDate>2021-09-20T00:00:00</ExitDate>
-      <ExitValue>6.59</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2082689452</Id>
-      <StockName>CGG</StockName>
-      <EntryQty>680</EntryQty>
-      <EntryValue>0.156723022</EntryValue>
-      <EntryDate>2021-07-23T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-09-02T00:00:00</ExitDate>
-      <ExitValue>0.511746</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2112081189</Id>
-      <StockName>CGG</StockName>
-      <EntryQty>2080</EntryQty>
-      <EntryValue>0.511746</EntryValue>
-      <EntryDate>2021-09-02T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-09-20T00:00:00</ExitDate>
-      <ExitValue>0.59</ExitValue>
-    </StockPosition>
     <StockPosition>
       <Id>2114089981</Id>
       <StockName>ARKEMA</StockName>
@@ -3130,11 +912,11 @@
       <ExitValue>66.8</ExitValue>
     </StockPosition>
     <StockPosition>
-      <Id>2124489880</Id>
-      <StockName>CGG</StockName>
-      <EntryQty>-920</EntryQty>
-      <EntryValue>0.511746</EntryValue>
-      <EntryDate>2021-09-20T00:00:00</EntryDate>
+      <Id>2125624340</Id>
+      <StockName>ENGIE</StockName>
+      <EntryQty>80</EntryQty>
+      <EntryValue>11.91675</EntryValue>
+      <EntryDate>2021-09-21T00:00:00</EntryDate>
       <TrailStop>0</TrailStop>
       <Stop>0</Stop>
       <BarDuration>
@@ -3143,21 +925,8 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <ExitDate
-        xsi:nil="true" />
-      <ExitValue
-        xsi:nil="true" />
-    </StockPosition>
-    <StockPosition>
-      <Id>2124490621</Id>
-      <StockName>VALLOUREC</StockName>
-      <EntryQty>-34</EntryQty>
-      <EntryValue>6.782109</EntryValue>
-      <EntryDate>2021-09-20T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <ExitDate>2021-09-24T00:00:00</ExitDate>
-      <ExitValue>6.886361</ExitValue>
+      <ExitDate>2021-09-30T00:00:00</ExitDate>
+      <ExitValue>11.45</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>2125748232</Id>
@@ -3177,11 +946,11 @@
       <ExitValue>53.7</ExitValue>
     </StockPosition>
     <StockPosition>
-      <Id>2125624340</Id>
-      <StockName>ENGIE</StockName>
-      <EntryQty>80</EntryQty>
-      <EntryValue>11.91675</EntryValue>
-      <EntryDate>2021-09-21T00:00:00</EntryDate>
+      <Id>2128825280</Id>
+      <StockName>VALLOUREC</StockName>
+      <EntryQty>400</EntryQty>
+      <EntryValue>6.8775</EntryValue>
+      <EntryDate>2021-09-24T00:00:00</EntryDate>
       <TrailStop>0</TrailStop>
       <Stop>0</Stop>
       <BarDuration>
@@ -3190,17 +959,6 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <ExitDate>2021-09-30T00:00:00</ExitDate>
-      <ExitValue>11.45</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>2128825280</Id>
-      <StockName>VALLOUREC</StockName>
-      <EntryQty>366</EntryQty>
-      <EntryValue>6.886361</EntryValue>
-      <EntryDate>2021-09-24T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
       <ExitDate>2021-10-06T00:00:00</ExitDate>
       <ExitValue>7.09</ExitValue>
     </StockPosition>
@@ -3220,23 +978,6 @@
       </BarDuration>
       <ExitDate>2021-10-01T00:00:00</ExitDate>
       <ExitValue>27.68</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>5005402268</Id>
-      <StockName>NEOEN</StockName>
-      <EntryQty>28</EntryQty>
-      <EntryValue>35.695713</EntryValue>
-      <EntryDate>2021-10-01T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-10-04T00:00:00</ExitDate>
-      <ExitValue>35.22</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>5005094925</Id>
@@ -3273,6 +1014,23 @@
       <ExitValue>27.55</ExitValue>
     </StockPosition>
     <StockPosition>
+      <Id>5005402268</Id>
+      <StockName>NEOEN</StockName>
+      <EntryQty>28</EntryQty>
+      <EntryValue>35.695713</EntryValue>
+      <EntryDate>2021-10-01T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-10-04T00:00:00</ExitDate>
+      <ExitValue>35.22</ExitValue>
+    </StockPosition>
+    <StockPosition>
       <Id>5009895473</Id>
       <StockName>VOYAGEURS DU MONDE</StockName>
       <EntryQty>11</EntryQty>
@@ -3288,19 +1046,6 @@
       </BarDuration>
       <ExitDate>2021-11-18T00:00:00</ExitDate>
       <ExitValue>89</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>5012080905</Id>
-      <StockName>VALLOUREC</StockName>
-      <EntryQty>-34</EntryQty>
-      <EntryValue>6.886361</EntryValue>
-      <EntryDate>2021-10-06T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <ExitDate
-        xsi:nil="true" />
-      <ExitValue
-        xsi:nil="true" />
     </StockPosition>
     <StockPosition>
       <Id>5013360519</Id>
@@ -3354,23 +1099,6 @@
       <ExitValue>38.34</ExitValue>
     </StockPosition>
     <StockPosition>
-      <Id>5022706560</Id>
-      <StockName>BENETEAU</StockName>
-      <EntryQty>70</EntryQty>
-      <EntryValue>13.4357147</EntryValue>
-      <EntryDate>2021-10-19T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-10-25T00:00:00</ExitDate>
-      <ExitValue>13.3757143</ExitValue>
-    </StockPosition>
-    <StockPosition>
       <Id>5025290232</Id>
       <StockName>INNATE PHARMA</StockName>
       <EntryQty>200</EntryQty>
@@ -3386,23 +1114,6 @@
       </BarDuration>
       <ExitDate>2021-10-22T00:00:00</ExitDate>
       <ExitValue>4.85</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>5026233714</Id>
-      <StockName>TRIGANO</StockName>
-      <EntryQty>6</EntryQty>
-      <EntryValue>163.003342</EntryValue>
-      <EntryDate>2021-10-22T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-11-23T00:00:00</ExitDate>
-      <ExitValue>150.23</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>5025972390</Id>
@@ -3427,25 +1138,26 @@
       <EntryQty>57</EntryQty>
       <EntryValue>16.9201756</EntryValue>
       <EntryDate>2021-10-22T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
+      <TrailStop>17.5</TrailStop>
+      <Stop>14.5</Stop>
       <BarDuration>
-        <Duration>Daily</Duration>
+        <Duration>Weekly</Duration>
         <Smoothing>1</Smoothing>
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
+      <Theme>TRAILATR</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
         xsi:nil="true" />
     </StockPosition>
     <StockPosition>
-      <Id>5027816649</Id>
-      <StockName>BENETEAU</StockName>
-      <EntryQty>140</EntryQty>
-      <EntryValue>13.3757143</EntryValue>
-      <EntryDate>2021-10-25T00:00:00</EntryDate>
+      <Id>5026233714</Id>
+      <StockName>TRIGANO</StockName>
+      <EntryQty>6</EntryQty>
+      <EntryValue>163.003342</EntryValue>
+      <EntryDate>2021-10-22T00:00:00</EntryDate>
       <TrailStop>0</TrailStop>
       <Stop>0</Stop>
       <BarDuration>
@@ -3454,8 +1166,8 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <ExitDate>2021-11-10T00:00:00</ExitDate>
-      <ExitValue>13.84</ExitValue>
+      <ExitDate>2021-11-23T00:00:00</ExitDate>
+      <ExitValue>150.23</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>5029988732</Id>
@@ -3473,6 +1185,23 @@
       </BarDuration>
       <ExitDate>2021-11-08T00:00:00</ExitDate>
       <ExitValue>25.28</ExitValue>
+    </StockPosition>
+    <StockPosition>
+      <Id>5034146610</Id>
+      <StockName>BIOMERIEUX</StockName>
+      <EntryQty>9</EntryQty>
+      <EntryValue>111.41</EntryValue>
+      <EntryDate>2021-11-02T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-11-05T00:00:00</ExitDate>
+      <ExitValue>105.8</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>5033801638</Id>
@@ -3509,23 +1238,6 @@
       <ExitValue>32.67</ExitValue>
     </StockPosition>
     <StockPosition>
-      <Id>5034146610</Id>
-      <StockName>BIOMERIEUX</StockName>
-      <EntryQty>9</EntryQty>
-      <EntryValue>111.41</EntryValue>
-      <EntryDate>2021-11-02T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-11-05T00:00:00</ExitDate>
-      <ExitValue>105.8</ExitValue>
-    </StockPosition>
-    <StockPosition>
       <Id>5034855080</Id>
       <StockName>OVH</StockName>
       <EntryQty>45</EntryQty>
@@ -3560,23 +1272,6 @@
       <ExitValue>30.22</ExitValue>
     </StockPosition>
     <StockPosition>
-      <Id>5039493760</Id>
-      <StockName>FERMENTALG</StockName>
-      <EntryQty>300</EntryQty>
-      <EntryValue>3.23833323</EntryValue>
-      <EntryDate>2021-11-09T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-11-12T00:00:00</ExitDate>
-      <ExitValue>3.1</ExitValue>
-    </StockPosition>
-    <StockPosition>
       <Id>5039519075</Id>
       <StockName>EUTELSAT COM.</StockName>
       <EntryQty>78</EntryQty>
@@ -3594,6 +1289,23 @@
       <ExitValue>12.25</ExitValue>
     </StockPosition>
     <StockPosition>
+      <Id>5039493760</Id>
+      <StockName>FERMENTALG</StockName>
+      <EntryQty>300</EntryQty>
+      <EntryValue>3.23833323</EntryValue>
+      <EntryDate>2021-11-09T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-11-12T00:00:00</ExitDate>
+      <ExitValue>3.1</ExitValue>
+    </StockPosition>
+    <StockPosition>
       <Id>5040625467</Id>
       <StockName>CHARGEURS</StockName>
       <EntryQty>36</EntryQty>
@@ -3609,23 +1321,6 @@
       </BarDuration>
       <ExitDate>2021-11-12T00:00:00</ExitDate>
       <ExitValue>27.24</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>5040705703</Id>
-      <StockName>BENETEAU</StockName>
-      <EntryQty>70</EntryQty>
-      <EntryValue>13.3757143</EntryValue>
-      <EntryDate>2021-11-10T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-11-25T00:00:00</ExitDate>
-      <ExitValue>13.5157137</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>5042018068</Id>
@@ -3647,8 +1342,8 @@
     <StockPosition>
       <Id>5042025228</Id>
       <StockName>BIC</StockName>
-      <EntryQty>0</EntryQty>
-      <EntryValue>INF</EntryValue>
+      <EntryQty>19</EntryQty>
+      <EntryValue>50.9836845</EntryValue>
       <EntryDate>2021-11-11T00:00:00</EntryDate>
       <TrailStop>0</TrailStop>
       <Stop>0</Stop>
@@ -3660,23 +1355,6 @@
       </BarDuration>
       <ExitDate>2021-11-16T00:00:00</ExitDate>
       <ExitValue>49.76</ExitValue>
-    </StockPosition>
-    <StockPosition>
-      <Id>5043167399</Id>
-      <StockName>VALNEVA</StockName>
-      <EntryQty>45</EntryQty>
-      <EntryValue>21.415556</EntryValue>
-      <EntryDate>2021-11-12T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-11-24T00:00:00</ExitDate>
-      <ExitValue>21.2555561</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>5042990739</Id>
@@ -3696,11 +1374,11 @@
       <ExitValue>0.25</ExitValue>
     </StockPosition>
     <StockPosition>
-      <Id>5043946638</Id>
-      <StockName>GREENYARD</StockName>
-      <EntryQty>110</EntryQty>
-      <EntryValue>8.842728</EntryValue>
-      <EntryDate>2021-11-15T00:00:00</EntryDate>
+      <Id>5043167399</Id>
+      <StockName>VALNEVA</StockName>
+      <EntryQty>45</EntryQty>
+      <EntryValue>21.415556</EntryValue>
+      <EntryDate>2021-11-12T00:00:00</EntryDate>
       <TrailStop>0</TrailStop>
       <Stop>0</Stop>
       <BarDuration>
@@ -3709,10 +1387,8 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <ExitDate
-        xsi:nil="true" />
-      <ExitValue
-        xsi:nil="true" />
+      <ExitDate>2021-11-24T00:00:00</ExitDate>
+      <ExitValue>21.2555561</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>5044309478</Id>
@@ -3732,38 +1408,20 @@
       <ExitValue>3.47</ExitValue>
     </StockPosition>
     <StockPosition>
-      <Id>5045213958</Id>
-      <StockName>BIC</StockName>
-      <EntryQty>-19</EntryQty>
-      <EntryValue>INF</EntryValue>
-      <EntryDate>2021-11-16T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
+      <Id>5043946638</Id>
+      <StockName>GREENYARD</StockName>
+      <EntryQty>110</EntryQty>
+      <EntryValue>8.842728</EntryValue>
+      <EntryDate>2021-11-15T00:00:00</EntryDate>
+      <TrailStop>8.25</TrailStop>
+      <Stop>8.25</Stop>
       <BarDuration>
-        <Duration>Daily</Duration>
+        <Duration>Weekly</Duration>
         <Smoothing>1</Smoothing>
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <ExitDate
-        xsi:nil="true" />
-      <ExitValue
-        xsi:nil="true" />
-    </StockPosition>
-    <StockPosition>
-      <Id>5045493846</Id>
-      <StockName>NEOEN</StockName>
-      <EntryQty>26</EntryQty>
-      <EntryValue>38.0296173</EntryValue>
-      <EntryDate>2021-11-16T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
+      <Theme>TRAILATR</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -3785,6 +1443,26 @@
       </BarDuration>
       <ExitDate>2021-11-19T00:00:00</ExitDate>
       <ExitValue>4.3</ExitValue>
+    </StockPosition>
+    <StockPosition>
+      <Id>5045493846</Id>
+      <StockName>NEOEN</StockName>
+      <EntryQty>26</EntryQty>
+      <EntryValue>38.0296173</EntryValue>
+      <EntryDate>2021-11-16T00:00:00</EntryDate>
+      <TrailStop>33.4</TrailStop>
+      <Stop>33.4</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>TRAILATR</Theme>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
     </StockPosition>
     <StockPosition>
       <Id>5046585430</Id>
@@ -3809,14 +1487,15 @@
       <EntryQty>30</EntryQty>
       <EntryValue>32.9833336</EntryValue>
       <EntryDate>2021-11-18T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
+      <TrailStop>33</TrailStop>
+      <Stop>30.5</Stop>
       <BarDuration>
-        <Duration>Daily</Duration>
+        <Duration>Weekly</Duration>
         <Smoothing>1</Smoothing>
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
+      <Theme>TRAILATR</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -3828,14 +1507,15 @@
       <EntryQty>60</EntryQty>
       <EntryValue>16.2701664</EntryValue>
       <EntryDate>2021-11-23T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
+      <TrailStop>14.5</TrailStop>
+      <Stop>14.5</Stop>
       <BarDuration>
-        <Duration>Daily</Duration>
+        <Duration>Weekly</Duration>
         <Smoothing>1</Smoothing>
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
+      <Theme>TOPEMA</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -3847,24 +1527,25 @@
       <EntryQty>100</EntryQty>
       <EntryValue>9.924601</EntryValue>
       <EntryDate>2021-11-23T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
+      <TrailStop>9.1</TrailStop>
+      <Stop>9.1</Stop>
       <BarDuration>
-        <Duration>Daily</Duration>
+        <Duration>Weekly</Duration>
         <Smoothing>1</Smoothing>
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
+      <Theme>TRAILATR</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
         xsi:nil="true" />
     </StockPosition>
     <StockPosition>
-      <Id>5053033220</Id>
-      <StockName>AXA</StockName>
-      <EntryQty>38</EntryQty>
-      <EntryValue>25.8828945</EntryValue>
+      <Id>5053434148</Id>
+      <StockName>ABIONYX PHARMA</StockName>
+      <EntryQty>380</EntryQty>
+      <EntryValue>2.62657881</EntryValue>
       <EntryDate>2021-11-24T00:00:00</EntryDate>
       <TrailStop>0</TrailStop>
       <Stop>0</Stop>
@@ -3874,6 +1555,24 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
+      <ExitDate>2021-12-01T00:00:00</ExitDate>
+      <ExitValue>2.98</ExitValue>
+    </StockPosition>
+    <StockPosition>
+      <Id>5053033220</Id>
+      <StockName>AXA</StockName>
+      <EntryQty>38</EntryQty>
+      <EntryValue>25.8828945</EntryValue>
+      <EntryDate>2021-11-24T00:00:00</EntryDate>
+      <TrailStop>23.5</TrailStop>
+      <Stop>23.5</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>TRAILATR</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -3893,10 +1592,8 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <ExitDate
-        xsi:nil="true" />
-      <ExitValue
-        xsi:nil="true" />
+      <ExitDate>2021-11-29T00:00:00</ExitDate>
+      <ExitValue>67.4</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>5052899404</Id>
@@ -3916,40 +1613,24 @@
       <ExitValue>23.52</ExitValue>
     </StockPosition>
     <StockPosition>
-      <Id>5053434148</Id>
-      <StockName>ABIONYX PHARMA</StockName>
-      <EntryQty>380</EntryQty>
-      <EntryValue>2.62657881</EntryValue>
-      <EntryDate>2021-11-24T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
+      <Id>5054161187</Id>
+      <StockName>BENETEAU</StockName>
+      <EntryQty>70</EntryQty>
+      <EntryValue>13.52</EntryValue>
+      <EntryDate>2021-11-25T00:00:00</EntryDate>
+      <TrailStop>12.5</TrailStop>
+      <Stop>12.5</Stop>
       <BarDuration>
-        <Duration>Daily</Duration>
+        <Duration>Weekly</Duration>
         <Smoothing>1</Smoothing>
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
+      <Theme>TRAILATR</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
         xsi:nil="true" />
-    </StockPosition>
-    <StockPosition>
-      <Id>5054161187</Id>
-      <StockName>BENETEAU</StockName>
-      <EntryQty>140</EntryQty>
-      <EntryValue>13.5157137</EntryValue>
-      <EntryDate>2021-11-25T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
-      <BarDuration>
-        <Duration>Daily</Duration>
-        <Smoothing>1</Smoothing>
-        <LineBreak>0</LineBreak>
-        <HeikinAshi>false</HeikinAshi>
-      </BarDuration>
-      <ExitDate>2021-11-26T00:00:00</ExitDate>
-      <ExitValue>12.72</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>5054147154</Id>
@@ -3965,17 +1646,15 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <ExitDate
-        xsi:nil="true" />
-      <ExitValue
-        xsi:nil="true" />
+      <ExitDate>2021-12-03T00:00:00</ExitDate>
+      <ExitValue>24.56</ExitValue>
     </StockPosition>
     <StockPosition>
-      <Id>5054562601</Id>
-      <StockName>BENETEAU</StockName>
-      <EntryQty>70</EntryQty>
-      <EntryValue>13.5157137</EntryValue>
-      <EntryDate>2021-11-26T00:00:00</EntryDate>
+      <Id>5060181171</Id>
+      <StockName>MCPHY ENERGY</StockName>
+      <EntryQty>40</EntryQty>
+      <EntryValue>22.4625</EntryValue>
+      <EntryDate>2021-11-30T00:00:00</EntryDate>
       <TrailStop>0</TrailStop>
       <Stop>0</Stop>
       <BarDuration>
@@ -3984,6 +1663,61 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
+      <ExitDate>2021-12-01T00:00:00</ExitDate>
+      <ExitValue>22.6824989</ExitValue>
+    </StockPosition>
+    <StockPosition>
+      <Id>5061627395</Id>
+      <StockName>GAUSSIN</StockName>
+      <EntryQty>125</EntryQty>
+      <EntryValue>7.85</EntryValue>
+      <EntryDate>2021-12-01T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-12-02T00:00:00</ExitDate>
+      <ExitValue>7.51</ExitValue>
+    </StockPosition>
+    <StockPosition>
+      <Id>5061672902</Id>
+      <StockName>INNATE PHARMA</StockName>
+      <EntryQty>210</EntryQty>
+      <EntryValue>4.64390469</EntryValue>
+      <EntryDate>2021-12-01T00:00:00</EntryDate>
+      <TrailStop>4</TrailStop>
+      <Stop>4</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>TRAILATR</Theme>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>5061654365</Id>
+      <StockName>MCPHY ENERGY</StockName>
+      <EntryQty>80</EntryQty>
+      <EntryValue>22.6824989</EntryValue>
+      <EntryDate>2021-12-01T00:00:00</EntryDate>
+      <TrailStop>20.3</TrailStop>
+      <Stop>20.3</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>TOPEMA</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -3992,10 +1726,10 @@
   </Positions>
   <Name>@SaxoPEA</Name>
   <SaxoAccountId>78800/775644PEA</SaxoAccountId>
-  <InitialBalance>10000</InitialBalance>
-  <Balance>7871.28955</Balance>
-  <MaxRisk>0.02</MaxRisk>
-  <CreationDate>2015-01-01T00:00:00</CreationDate>
+  <InitialBalance>15000</InitialBalance>
+  <Balance>4667.588</Balance>
+  <MaxRisk>0.015</MaxRisk>
+  <CreationDate>2021-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>
   <MaxPositions>20</MaxPositions>
 </StockPortfolio>

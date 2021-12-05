@@ -20,4 +20,14 @@
     <Theme>TRAILATR</Theme>
     <Title>TRAILATR Long Reentry</Title>
   </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>
+      <Duration>Weekly</Duration>
+    </BarDuration>
+    <IndicatorType>INDICATOR</IndicatorType>
+    <IndicatorName>TOPEMA(12)</IndicatorName>
+    <EventName>ResistanceBroken</EventName>
+    <Theme>TOPEMA</Theme>
+    <Title>TOPEMA Resistance Broken</Title>
+  </StockAlertDef>
 </ArrayOfStockAlertDef>

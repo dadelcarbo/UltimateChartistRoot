@@ -361,6 +361,76 @@
       <Fee>5.5</Fee>
       <Movement>-1003.9</Movement>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5058490628</Id>
+      <Date>2021-11-29T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>NOVACYT</StockName>
+      <Qty>135</Qty>
+      <Value>5.52</Value>
+      <Fee>2.5</Fee>
+      <Movement>742.7</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5059839960</Id>
+      <Date>2021-11-30T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>DECEUNINCK</StockName>
+      <Qty>250</Qty>
+      <Value>3.38</Value>
+      <Fee>2.5</Fee>
+      <Movement>842.5</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5059730709</Id>
+      <Date>2021-11-30T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>LYXOR CAC 40 (2X) LEVERAGED</StockName>
+      <Qty>40</Qty>
+      <Value>29.4</Value>
+      <Fee>5</Fee>
+      <Movement>1171</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5061866925</Id>
+      <Date>2021-12-01T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>SMCP</StockName>
+      <Qty>125</Qty>
+      <Value>7.78</Value>
+      <Fee>2.5</Fee>
+      <Movement>-975</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5061235910</Id>
+      <Date>2021-12-01T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>NOVACYT</StockName>
+      <Qty>135</Qty>
+      <Value>4.48</Value>
+      <Fee>2.57000732</Fee>
+      <Movement>602.23</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5064442204</Id>
+      <Date>2021-12-02T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>LYXOR CAC 40 (2X) LEVERAGED</StockName>
+      <Qty>33</Qty>
+      <Value>30.19</Value>
+      <Fee>2.5</Fee>
+      <Movement>-998.77</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5064852320</Id>
+      <Date>2021-12-02T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>LYXOR CAC 40 (2X) LEVERAGED</StockName>
+      <Qty>33</Qty>
+      <Value>30.2</Value>
+      <Fee>2.33996582</Fee>
+      <Movement>-998.94</Movement>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -542,7 +612,7 @@
       <EntryQty>5</EntryQty>
       <EntryValue>180.088</EntryValue>
       <EntryDate>2021-10-07T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
+      <TrailStop>169</TrailStop>
       <Stop>169</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -594,7 +664,7 @@
       <EntryQty>70</EntryQty>
       <EntryValue>13.1757145</EntryValue>
       <EntryDate>2021-10-22T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
+      <TrailStop>12.24</TrailStop>
       <Stop>12.24</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -648,7 +718,7 @@
       <EntryQty>40</EntryQty>
       <EntryValue>27.845</EntryValue>
       <EntryDate>2021-11-08T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
+      <TrailStop>27.95</TrailStop>
       <Stop>27.95</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -657,10 +727,8 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Theme>TRAILATR</Theme>
-      <ExitDate
-        xsi:nil="true" />
-      <ExitValue
-        xsi:nil="true" />
+      <ExitDate>2021-11-30T00:00:00</ExitDate>
+      <ExitValue>29.4</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>5044061866</Id>
@@ -668,7 +736,7 @@
       <EntryQty>110</EntryQty>
       <EntryValue>8.962728</EntryValue>
       <EntryDate>2021-11-15T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
+      <TrailStop>8.1</TrailStop>
       <Stop>8.1</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -688,7 +756,7 @@
       <EntryQty>250</EntryQty>
       <EntryValue>3.87</EntryValue>
       <EntryDate>2021-11-16T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
+      <TrailStop>3.3</TrailStop>
       <Stop>3.3</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -697,10 +765,8 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Theme>TRAILATR</Theme>
-      <ExitDate
-        xsi:nil="true" />
-      <ExitValue
-        xsi:nil="true" />
+      <ExitDate>2021-11-30T00:00:00</ExitDate>
+      <ExitValue>3.38</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>5046597777</Id>
@@ -708,7 +774,7 @@
       <EntryQty>150</EntryQty>
       <EntryValue>6.596667</EntryValue>
       <EntryDate>2021-11-17T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
+      <TrailStop>5.6</TrailStop>
       <Stop>5.6</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -728,7 +794,7 @@
       <EntryQty>26</EntryQty>
       <EntryValue>38.2303848</EntryValue>
       <EntryDate>2021-11-17T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
+      <TrailStop>33.9</TrailStop>
       <Stop>33.9</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -748,7 +814,7 @@
       <EntryQty>13</EntryQty>
       <EntryValue>73.46154</EntryValue>
       <EntryDate>2021-11-24T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
+      <TrailStop>65.75</TrailStop>
       <Stop>65.75</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -768,7 +834,7 @@
       <EntryQty>270</EntryQty>
       <EntryValue>3.65125942</EntryValue>
       <EntryDate>2021-11-24T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
+      <TrailStop>4.55</TrailStop>
       <Stop>4.55</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -777,10 +843,8 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Theme>TOPEMA</Theme>
-      <ExitDate
-        xsi:nil="true" />
-      <ExitValue
-        xsi:nil="true" />
+      <ExitDate>2021-11-29T00:00:00</ExitDate>
+      <ExitValue>5.52</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>5053361793</Id>
@@ -788,7 +852,7 @@
       <EntryQty>39</EntryQty>
       <EntryValue>25.7410259</EntryValue>
       <EntryDate>2021-11-24T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
+      <TrailStop>23.5</TrailStop>
       <Stop>23.5</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -802,11 +866,84 @@
       <ExitValue
         xsi:nil="true" />
     </StockPosition>
+    <StockPosition>
+      <Id>5058490628</Id>
+      <StockName>NOVACYT</StockName>
+      <EntryQty>135</EntryQty>
+      <EntryValue>3.65125942</EntryValue>
+      <EntryDate>2021-11-29T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
+      <Stop>4.55</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>TOPEMA</Theme>
+      <ExitDate>2021-12-01T00:00:00</ExitDate>
+      <ExitValue>4.48</ExitValue>
+    </StockPosition>
+    <StockPosition>
+      <Id>5061866925</Id>
+      <StockName>SMCP</StockName>
+      <EntryQty>125</EntryQty>
+      <EntryValue>7.8</EntryValue>
+      <EntryDate>2021-12-01T00:00:00</EntryDate>
+      <TrailStop>6.8</TrailStop>
+      <Stop>6.8</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>5064442204</Id>
+      <StockName>LYXOR CAC 40 (2X) LEVERAGED</StockName>
+      <EntryQty>33</EntryQty>
+      <EntryValue>30.2657585</EntryValue>
+      <EntryDate>2021-12-02T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate>2021-12-02T00:00:00</ExitDate>
+      <ExitValue>30.2683334</ExitValue>
+    </StockPosition>
+    <StockPosition>
+      <Id>5064852320</Id>
+      <StockName>LYXOR CAC 40 (2X) LEVERAGED</StockName>
+      <EntryQty>66</EntryQty>
+      <EntryValue>30.2683334</EntryValue>
+      <EntryDate>2021-12-02T00:00:00</EntryDate>
+      <TrailStop>28.6</TrailStop>
+      <Stop>28.6</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
   </Positions>
   <Name>@SaxoPEABanon</Name>
   <SaxoAccountId>95500/100550PEA</SaxoAccountId>
   <InitialBalance>0</InitialBalance>
-  <Balance>1505.6593</Balance>
+  <Balance>1891.37939</Balance>
   <MaxRisk>0.0125</MaxRisk>
   <CreationDate>2021-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>
