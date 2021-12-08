@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<StockPortfolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StockPortfolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <TradeOperations>
     <StockTradeOperation>
       <Id>20210621</Id>
@@ -460,6 +460,16 @@
       <Value>5.71</Value>
       <Fee>2.44000816</Fee>
       <Movement>854.06</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5067554751</Id>
+      <Date>2021-12-06T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>FERMENTALG</StockName>
+      <Qty>300</Qty>
+      <Value>3.09</Value>
+      <Fee>1</Fee>
+      <Movement>-928</Movement>
     </StockTradeOperation>
   </TradeOperations>
   <Positions>
@@ -987,11 +997,31 @@
       <ExitValue
         xsi:nil="true" />
     </StockPosition>
+    <StockPosition>
+      <Id>5067554751</Id>
+      <StockName>FERMENTALG</StockName>
+      <EntryQty>300</EntryQty>
+      <EntryValue>3.09333324</EntryValue>
+      <EntryDate>2021-12-06T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>TOPEMA</Theme>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
   </Positions>
   <Name>@SaxoPEABanon</Name>
   <SaxoAccountId>95500/100550PEA</SaxoAccountId>
   <InitialBalance>0</InitialBalance>
-  <Balance>2649.31934</Balance>
+  <Balance>1721.31934</Balance>
   <MaxRisk>0.0125</MaxRisk>
   <CreationDate>2021-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>

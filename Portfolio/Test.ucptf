@@ -301,6 +301,36 @@
       <Fee>5</Fee>
       <Movement>-9288.75</Movement>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>30</Id>
+      <Date>2021-12-01T09:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>INT_ABIONYX PHARMA</StockName>
+      <Qty>4061</Qty>
+      <Value>3.06</Value>
+      <Fee>5</Fee>
+      <Movement>12421.66</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>31</Id>
+      <Date>2021-12-02T09:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>INT_GAUSSIN</StockName>
+      <Qty>125</Qty>
+      <Value>7.74</Value>
+      <Fee>2.5</Fee>
+      <Movement>965</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>32</Id>
+      <Date>2021-12-08T15:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>INT_GAUSSIN</StockName>
+      <Qty>1178</Qty>
+      <Value>8.808</Value>
+      <Fee>5</Fee>
+      <Movement>-10380.8232</Movement>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -533,10 +563,8 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Theme>TRAILATR_INT</Theme>
-      <ExitDate
-        xsi:nil="true" />
-      <ExitValue
-        xsi:nil="true" />
+      <ExitDate>2021-12-01T09:00:00</ExitDate>
+      <ExitValue>3.06</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>21</Id>
@@ -573,10 +601,8 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Theme>TOPEMA</Theme>
-      <ExitDate
-        xsi:nil="true" />
-      <ExitValue
-        xsi:nil="true" />
+      <ExitDate>2021-12-02T09:00:00</ExitDate>
+      <ExitValue>7.74</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>23</Id>
@@ -652,11 +678,31 @@
       <ExitValue
         xsi:nil="true" />
     </StockPosition>
+    <StockPosition>
+      <Id>32</Id>
+      <StockName>INT_GAUSSIN</StockName>
+      <EntryQty>1178</EntryQty>
+      <EntryValue>8.812243</EntryValue>
+      <EntryDate>2021-12-08T15:00:00</EntryDate>
+      <TrailStop>7.92719936</TrailStop>
+      <Stop>7.92719936</Stop>
+      <BarDuration>
+        <Duration>H_1</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>TRAILATR_INT</Theme>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
   </Positions>
   <Name>Test</Name>
   <SaxoAccountId>78800/719479EUR</SaxoAccountId>
   <InitialBalance>100000</InitialBalance>
-  <Balance>65440.8828</Balance>
+  <Balance>68446.73</Balance>
   <MaxRisk>0.1</MaxRisk>
   <CreationDate>2010-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>

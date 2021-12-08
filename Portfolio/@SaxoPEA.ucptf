@@ -841,6 +841,76 @@
       <Fee>5</Fee>
       <Movement>1100.2</Movement>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5067674697</Id>
+      <Date>2021-12-06T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>MCPHY ENERGY</StockName>
+      <Qty>40</Qty>
+      <Value>21.16</Value>
+      <Fee>2.5</Fee>
+      <Movement>843.9</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5067679719</Id>
+      <Date>2021-12-06T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>MCPHY ENERGY</StockName>
+      <Qty>40</Qty>
+      <Value>21.06</Value>
+      <Fee>2.499939</Fee>
+      <Movement>839.9</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5067929428</Id>
+      <Date>2021-12-06T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>2CRSI</StockName>
+      <Qty>200</Qty>
+      <Value>4.82</Value>
+      <Fee>2.499939</Fee>
+      <Movement>-966.5</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5067583805</Id>
+      <Date>2021-12-06T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>FERMENTALG</StockName>
+      <Qty>300</Qty>
+      <Value>3.07</Value>
+      <Fee>1</Fee>
+      <Movement>-922</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5068179457</Id>
+      <Date>2021-12-06T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>INNATE PHARMA</StockName>
+      <Qty>240</Qty>
+      <Value>4.12</Value>
+      <Fee>2.02001953</Fee>
+      <Movement>-990.82</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5067950086</Id>
+      <Date>2021-12-06T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>VISIATIV</StockName>
+      <Qty>37</Qty>
+      <Value>26.8</Value>
+      <Fee>2.5</Fee>
+      <Movement>-994.1</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5069964214</Id>
+      <Date>2021-12-07T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>SOLOCAL GROUP</StockName>
+      <Qty>800</Qty>
+      <Value>1.17</Value>
+      <Fee>0.2600708</Fee>
+      <Movement>-936.26</Movement>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -1421,7 +1491,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Theme>TRAILATR</Theme>
+      <Theme>TOPEMA</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -1535,7 +1605,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <Theme>TRAILATR</Theme>
+      <Theme>TOPEMA</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -1698,10 +1768,8 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Theme>TRAILATR</Theme>
-      <ExitDate
-        xsi:nil="true" />
-      <ExitValue
-        xsi:nil="true" />
+      <ExitDate>2021-12-06T00:00:00</ExitDate>
+      <ExitValue>4.368978</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>5061654365</Id>
@@ -1718,6 +1786,122 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Theme>TOPEMA</Theme>
+      <ExitDate>2021-12-06T00:00:00</ExitDate>
+      <ExitValue>21.16</ExitValue>
+    </StockPosition>
+    <StockPosition>
+      <Id>5067674697</Id>
+      <StockName>MCPHY ENERGY</StockName>
+      <EntryQty>40</EntryQty>
+      <EntryValue>22.6824989</EntryValue>
+      <EntryDate>2021-12-06T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
+      <Stop>20.3</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>TOPEMA</Theme>
+      <ExitDate>2021-12-06T00:00:00</ExitDate>
+      <ExitValue>21.06</ExitValue>
+    </StockPosition>
+    <StockPosition>
+      <Id>5067929428</Id>
+      <StockName>2CRSI</StockName>
+      <EntryQty>200</EntryQty>
+      <EntryValue>4.8325</EntryValue>
+      <EntryDate>2021-12-06T00:00:00</EntryDate>
+      <TrailStop>4.3</TrailStop>
+      <Stop>4.3</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>TOPEMA</Theme>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>5067583805</Id>
+      <StockName>FERMENTALG</StockName>
+      <EntryQty>300</EntryQty>
+      <EntryValue>3.07333326</EntryValue>
+      <EntryDate>2021-12-06T00:00:00</EntryDate>
+      <TrailStop>2.9</TrailStop>
+      <Stop>2.9</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>TOPEMA</Theme>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>5068179457</Id>
+      <StockName>INNATE PHARMA</StockName>
+      <EntryQty>450</EntryQty>
+      <EntryValue>4.368978</EntryValue>
+      <EntryDate>2021-12-06T00:00:00</EntryDate>
+      <TrailStop>4</TrailStop>
+      <Stop>4</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>TRAILATR</Theme>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>5067950086</Id>
+      <StockName>VISIATIV</StockName>
+      <EntryQty>37</EntryQty>
+      <EntryValue>26.8675671</EntryValue>
+      <EntryDate>2021-12-06T00:00:00</EntryDate>
+      <TrailStop>24.6</TrailStop>
+      <Stop>24</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>TRAILATR</Theme>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>5069964214</Id>
+      <StockName>SOLOCAL GROUP</StockName>
+      <EntryQty>800</EntryQty>
+      <EntryValue>1.170325</EntryValue>
+      <EntryDate>2021-12-07T00:00:00</EntryDate>
+      <TrailStop>1.1</TrailStop>
+      <Stop>1.1</Stop>
+      <BarDuration>
+        <Duration>Daily</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>TOPEMA</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -1727,7 +1911,7 @@
   <Name>@SaxoPEA</Name>
   <SaxoAccountId>78800/775644PEA</SaxoAccountId>
   <InitialBalance>15000</InitialBalance>
-  <Balance>4667.588</Balance>
+  <Balance>1541.70776</Balance>
   <MaxRisk>0.015</MaxRisk>
   <CreationDate>2021-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>
