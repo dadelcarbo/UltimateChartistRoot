@@ -41,6 +41,16 @@
       <Fee>2.5</Fee>
       <Movement>-816.1</Movement>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>4</Id>
+      <Date>2021-12-06T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>CATANA GROUP</StockName>
+      <Qty>100</Qty>
+      <Value>6.45</Value>
+      <Fee>2.5</Fee>
+      <Movement>-647.5</Movement>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -49,7 +59,7 @@
       <EntryQty>30</EntryQty>
       <EntryValue>30.083334</EntryValue>
       <EntryDate>2021-11-22T00:00:00</EntryDate>
-      <TrailStop>27.68</TrailStop>
+      <TrailStop>26.9</TrailStop>
       <Stop>27.68</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -124,11 +134,32 @@
       <ExitValue
         xsi:nil="true" />
     </StockPosition>
+    <StockPosition>
+      <Id>4</Id>
+      <StockName>CATANA GROUP</StockName>
+      <EntryQty>100</EntryQty>
+      <EntryValue>6.475</EntryValue>
+      <EntryDate>2021-12-06T00:00:00</EntryDate>
+      <TrailStop>5.52</TrailStop>
+      <Stop>5.52</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <EntryComment>Plus haut historique</EntryComment>
+      <Theme>TOPEMA</Theme>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
   </Positions>
   <Name>@SaxoPEABenoit</Name>
   <SaxoAccountId>95500/100000PEA</SaxoAccountId>
   <InitialBalance>10000</InitialBalance>
-  <Balance>6501.8</Balance>
+  <Balance>5854.3</Balance>
   <MaxRisk>0.015</MaxRisk>
   <CreationDate>2021-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>

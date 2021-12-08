@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<StockPortfolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StockPortfolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <TradeOperations>
     <StockTradeOperation>
       <Id>20210621</Id>
@@ -431,6 +431,36 @@
       <Fee>2.33996582</Fee>
       <Movement>-998.94</Movement>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5067984683</Id>
+      <Date>2021-12-06T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>2CRSI</StockName>
+      <Qty>200</Qty>
+      <Value>4.86</Value>
+      <Fee>2.4999733</Fee>
+      <Movement>-974.5</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5067524228</Id>
+      <Date>2021-12-06T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>NEOEN</StockName>
+      <Qty>26</Qty>
+      <Value>33.88</Value>
+      <Fee>2.500023</Fee>
+      <Movement>878.38</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5068249783</Id>
+      <Date>2021-12-06T00:00:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>PASSAT</StockName>
+      <Qty>150</Qty>
+      <Value>5.71</Value>
+      <Fee>2.44000816</Fee>
+      <Movement>854.06</Movement>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -783,10 +813,8 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Theme>TOPEMA</Theme>
-      <ExitDate
-        xsi:nil="true" />
-      <ExitValue
-        xsi:nil="true" />
+      <ExitDate>2021-12-06T00:00:00</ExitDate>
+      <ExitValue>5.71</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>5046629834</Id>
@@ -803,10 +831,8 @@
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
       <Theme>TOPEMA</Theme>
-      <ExitDate
-        xsi:nil="true" />
-      <ExitValue
-        xsi:nil="true" />
+      <ExitDate>2021-12-06T00:00:00</ExitDate>
+      <ExitValue>33.88</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>5052822720</Id>
@@ -872,7 +898,7 @@
       <EntryQty>135</EntryQty>
       <EntryValue>3.65125942</EntryValue>
       <EntryDate>2021-11-29T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
+      <TrailStop>4.55</TrailStop>
       <Stop>4.55</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
@@ -898,6 +924,7 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
+      <Theme>TRAILATR</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -934,6 +961,27 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
+      <Theme>TOPEMA</Theme>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
+    <StockPosition>
+      <Id>5067984683</Id>
+      <StockName>2CRSI</StockName>
+      <EntryQty>200</EntryQty>
+      <EntryValue>4.8725</EntryValue>
+      <EntryDate>2021-12-06T00:00:00</EntryDate>
+      <TrailStop>0</TrailStop>
+      <Stop>0</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>TOPEMA</Theme>
       <ExitDate
         xsi:nil="true" />
       <ExitValue
@@ -943,7 +991,7 @@
   <Name>@SaxoPEABanon</Name>
   <SaxoAccountId>95500/100550PEA</SaxoAccountId>
   <InitialBalance>0</InitialBalance>
-  <Balance>1891.37939</Balance>
+  <Balance>2649.31934</Balance>
   <MaxRisk>0.0125</MaxRisk>
   <CreationDate>2021-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>
