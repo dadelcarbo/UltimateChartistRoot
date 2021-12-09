@@ -23,5 +23,5 @@ license.dat
 *.suo
 /data2
 .vs
-/CommentReport_20200227
 /Formation/~$PortfolioRequirement.xlsx
+/Portfolio/*.html

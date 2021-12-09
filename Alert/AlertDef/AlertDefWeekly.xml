@@ -24,6 +24,16 @@
     <BarDuration>
       <Duration>Weekly</Duration>
     </BarDuration>
+    <IndicatorType>TRAILSTOP</IndicatorType>
+    <IndicatorName>TRAILHIGHESTATR(20,0.5,2)</IndicatorName>
+    <EventName>BrokenUp</EventName>
+    <Theme>HIGHESTATR</Theme>
+    <Title>TRAILHIGHESTATR(20,0.5,2) BrokenUp</Title>
+  </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>
+      <Duration>Weekly</Duration>
+    </BarDuration>
     <IndicatorType>INDICATOR</IndicatorType>
     <IndicatorName>TOPEMA(12)</IndicatorName>
     <EventName>ResistanceBroken</EventName>
