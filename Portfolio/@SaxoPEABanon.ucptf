@@ -1006,7 +1006,7 @@
       <TrailStop>0</TrailStop>
       <Stop>0</Stop>
       <BarDuration>
-        <Duration>Daily</Duration>
+        <Duration>Weekly</Duration>
         <Smoothing>1</Smoothing>
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>

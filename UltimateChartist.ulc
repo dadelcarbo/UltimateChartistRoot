@@ -165,4 +165,23 @@
       </DrawingItems>
     </StockAnalysis>
   </StockAnalysisItem>
+  <StockAnalysisItem StockName="TURBO_AMAZON LONG X2">
+    <StockAnalysis Excluded="False" Theme="" HasDrawings="True">
+      <DrawingItems BarDuration="H_1">
+        <StockDrawingItems RefDate="19/11/2021 17:00:00" RefDateIndex="457">
+          <HalfLine2D>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>457.958038</X>
+              <Y>51.71102</Y>
+            </PointF>
+            <PointF xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>700</X>
+              <Y>44.1428261</Y>
+            </PointF>
+            <Pen>1:255:0:0:0:Solid</Pen>
+          </HalfLine2D>
+        </StockDrawingItems>
+      </DrawingItems>
+    </StockAnalysis>
+  </StockAnalysisItem>
 </StockAnalysisList>
