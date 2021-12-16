@@ -20,4 +20,14 @@
     <Theme>TRAILATR_INT</Theme>
     <Title>TRAILATR Long Reentry</Title>
   </StockAlertDef>
+  <StockAlertDef>
+    <BarDuration>
+      <Duration>H_1</Duration>
+    </BarDuration>
+    <IndicatorType>TRAILSTOP</IndicatorType>
+    <IndicatorName>TRAILHIGHESTATR(50,2.5,5)</IndicatorName>
+    <EventName>BrokenUp</EventName>
+    <Theme>HIGHESTATR_INT</Theme>
+    <Title>HIGHESTATR Break Out</Title>
+  </StockAlertDef>
 </ArrayOfStockAlertDef>
