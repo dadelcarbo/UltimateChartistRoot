@@ -1923,8 +1923,8 @@
       <EntryQty>102</EntryQty>
       <EntryValue>8.816471</EntryValue>
       <EntryDate>2021-12-08T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
+      <TrailStop>7.5</TrailStop>
+      <Stop>7.5</Stop>
       <BarDuration>
         <Duration>Daily</Duration>
         <Smoothing>1</Smoothing>

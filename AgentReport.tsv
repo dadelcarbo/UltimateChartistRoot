@@ -287,3 +287,21 @@ Date	Selector	Group	Duration	Agent	NbTrade	NbWinTrade	NbLostTrade	AVG Duration	W
 16/12/2021 16:41	ExpectedGainPerBar	EURO_A	Weekly	TrailFIBO	1485	639	846	17	2.91	43.03%	4.39%	0.25%	0	Period: 32	Ratio: 0.6666666	
 16/12/2021 16:50	ExpectedGainPerBar	PEA	Weekly	TrailFIBO	3846	1536	2310	14	2.85	39.94%	4.14%	0.28%	0	Period: 35	Ratio: 0.6999999	
 16/12/2021 16:54	ExpectedGainPerBar	PEA	Weekly	TrailFIBO	3846	1536	2310	14	2.85	39.94%	4.14%	0.28%	0	Period: 35	Ratio: 0.7	
+18/12/2021 13:15	ExpectedGainPerBar	EURO_A	Weekly	TrailPercent	883	362	521	67	3.15	41.00%	13.46%	0.20%	0	BuyPercent: 0.1	SellPercent: 0.25	
+18/12/2021 13:16	ExpectedGainPerBar	EURO_A	Weekly	TrailPercent	844	355	489	69	3.09	42.06%	13.85%	0.20%	0	BuyPercent: 0.125	SellPercent: 0.25	
+18/12/2021 13:19	ExpectedGainPerBar	EURO_B	Weekly	TrailPercent	349	147	202	26	2.69	42.12%	7.65%	0.29%	0	BuyPercent: 0.5000001	SellPercent: 0.15	
+18/12/2021 13:44	ExpectedGainPerBar	EURO_A	Weekly	BB	260	117	143	28	2.94	45.00%	6.92%	0.24%	0	Period: 30	UpWidth: 3	DownWidth: 0.3	
+18/12/2021 13:48	ExpectedGainPerBar	EURO_A	Weekly	BB	218	68	150	62	8.1	31.19%	17.69%	0.29%	2	Period: 30	UpWidth: 3	DownWidth: 2.7	
+18/12/2021 13:48	ExpectedGainPerBar	EURO_A	Weekly	BB	628	153	475	47	10.48	24.36%	14.05%	0.29%	1.5	Period: 30	UpWidth: 2.4	DownWidth: 2.7	
+18/12/2021 13:50	ExpectedGainPerBar	EURO_A	Weekly	BB	226	52	174	47	13.6	23.01%	14.43%	0.31%	1.2	Period: 30	UpWidth: 3	DownWidth: 2.7	
+18/12/2021 13:50	ExpectedGainPerBar	EURO_A	Weekly	BB	10	5	5	23	23.25	50.00%	62.00%	2.68%	1.2	Period: 30	UpWidth: 4	DownWidth: 0.1	
+18/12/2021 13:52	ExpectedGainPerBar	PEA	Weekly	BB	489	137	352	15	3.77	28.02%	4.68%	0.31%	1.2	Period: 30	UpWidth: 3.5	DownWidth: 0.3	
+19/12/2021 10:27	ExpectedGainPerBar	CAC40	Weekly	ATRCloud	15	6	9	101	53.73	40.00%	228.46%	2.24%	2	Period: 25	Width: 4	
+19/12/2021 10:29	ExpectedGainPerBar	CAC40	Weekly	ATRCloud	6	6	0	197		0.00%	280.51%	1.42%	0	Period: 20	Width: 4	
+19/12/2021 10:30	ExpectedGainPerBar	CAC40	Weekly	ATRCloud	10	9	1	262	4.01	90.00%	286.20%	1.09%	0	Period: 10	Width: 2.5	
+19/12/2021 10:31	ExpectedGainPerBar	CAC40	Weekly	ATRCloud	10	9	1	262	4.01	90.00%	286.20%	1.09%	0	Period: 10	Width: 2.5	
+19/12/2021 10:36	ExpectedGainPerBar	EURO_A	Daily	ATRCloud	14486	5415	9071	12	1.86	37.38%	0.24%	0.02%	2	Period: 5	Width: 0.5	
+19/12/2021 10:57	ExpectedGainPerBar	EURO_A	Daily	ATRCloud	36	25	11	1026	6.35	69.44%	138.13%	0.13%	0	Period: 10	Width: 3	
+19/12/2021 11:00	ExpectedGainPerBar	EURO_A	Weekly	ATRCloud	39	11	28	101	19.86	28.21%	44.87%	0.44%	2	Period: 20	Width: 4	
+19/12/2021 11:01	ExpectedGainPerBar	EURO_A	Weekly	ATRCloud	627	214	413	40	3.76	34.13%	6.81%	0.17%	2	Period: 5	Width: 1	
+19/12/2021 11:01	ExpectedGainPerBar	EURO_A	Weekly	ATRCloud	627	214	413	40	3.76	34.13%	6.81%	0.17%	2	Period: 5	Width: 1	

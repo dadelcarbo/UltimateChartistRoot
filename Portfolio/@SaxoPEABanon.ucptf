@@ -983,8 +983,8 @@
       <EntryQty>200</EntryQty>
       <EntryValue>4.8725</EntryValue>
       <EntryDate>2021-12-06T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
+      <TrailStop>4.25</TrailStop>
+      <Stop>4.25</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
         <Smoothing>1</Smoothing>
@@ -1003,8 +1003,8 @@
       <EntryQty>300</EntryQty>
       <EntryValue>3.09333324</EntryValue>
       <EntryDate>2021-12-06T00:00:00</EntryDate>
-      <TrailStop>0</TrailStop>
-      <Stop>0</Stop>
+      <TrailStop>2.75</TrailStop>
+      <Stop>2.75</Stop>
       <BarDuration>
         <Duration>Weekly</Duration>
         <Smoothing>1</Smoothing>
