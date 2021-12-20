@@ -51,6 +51,16 @@
       <Fee>2.5</Fee>
       <Movement>-647.5</Movement>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5</Id>
+      <Date>2021-12-20T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>AVANTIUM</StockName>
+      <Qty>180</Qty>
+      <Value>5.47</Value>
+      <Fee>2.5</Fee>
+      <Movement>-987.1</Movement>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -155,11 +165,31 @@
       <ExitValue
         xsi:nil="true" />
     </StockPosition>
+    <StockPosition>
+      <Id>5</Id>
+      <StockName>AVANTIUM</StockName>
+      <EntryQty>180</EntryQty>
+      <EntryValue>5.48388863</EntryValue>
+      <EntryDate>2021-12-20T00:00:00</EntryDate>
+      <TrailStop>4.82</TrailStop>
+      <Stop>4.82</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>TRAILATR</Theme>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
   </Positions>
   <Name>@SaxoPEABenoit</Name>
   <SaxoAccountId>95500/100000PEA</SaxoAccountId>
   <InitialBalance>10000</InitialBalance>
-  <Balance>5854.3</Balance>
+  <Balance>4867.19971</Balance>
   <MaxRisk>0.015</MaxRisk>
   <CreationDate>2021-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>

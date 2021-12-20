@@ -471,6 +471,16 @@
       <Fee>1</Fee>
       <Movement>-928</Movement>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>5071542184</Id>
+      <Date>2021-12-08T00:00:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>VALLOUREC</StockName>
+      <Qty>115</Qty>
+      <Value>8.35</Value>
+      <Fee>2.499939</Fee>
+      <Movement>-962.75</Movement>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -1017,11 +1027,31 @@
       <ExitValue
         xsi:nil="true" />
     </StockPosition>
+    <StockPosition>
+      <Id>5071542184</Id>
+      <StockName>VALLOUREC</StockName>
+      <EntryQty>115</EntryQty>
+      <EntryValue>8.371739</EntryValue>
+      <EntryDate>2021-12-08T00:00:00</EntryDate>
+      <TrailStop>7.97</TrailStop>
+      <Stop>7.97</Stop>
+      <BarDuration>
+        <Duration>Weekly</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>TOPEMA</Theme>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
   </Positions>
   <Name>@SaxoPEABanon</Name>
   <SaxoAccountId>95500/100550PEA</SaxoAccountId>
   <InitialBalance>0</InitialBalance>
-  <Balance>1721.31934</Balance>
+  <Balance>758.569336</Balance>
   <MaxRisk>0.0125</MaxRisk>
   <CreationDate>2021-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>
