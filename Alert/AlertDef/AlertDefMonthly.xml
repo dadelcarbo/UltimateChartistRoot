@@ -5,9 +5,9 @@
       <Duration>Monthly</Duration>
     </BarDuration>
     <IndicatorType>INDICATOR</IndicatorType>
-    <IndicatorName>TOPEMA(6)</IndicatorName>
-    <EventName>NewHigh</EventName>
+    <IndicatorName>TOPEMA(12)</IndicatorName>
+    <EventName>ResistanceBroken</EventName>
     <Theme>TOPEMA</Theme>
-    <Title>TOPEMA NewHigh</Title>
+    <Title>TOPEMA Resistance Broken</Title>
   </StockAlertDef>
 </ArrayOfStockAlertDef>

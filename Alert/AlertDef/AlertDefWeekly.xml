@@ -35,7 +35,7 @@
       <Duration>Weekly</Duration>
     </BarDuration>
     <IndicatorType>INDICATOR</IndicatorType>
-    <IndicatorName>TOPEMA(12)</IndicatorName>
+    <IndicatorName>TOPEMA(35)</IndicatorName>
     <EventName>ResistanceBroken</EventName>
     <Theme>TOPEMA</Theme>
     <Title>TOPEMA Resistance Broken</Title>
