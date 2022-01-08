@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<StockPortfolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StockPortfolio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <TradeOperations>
     <StockTradeOperation>
       <Id>0</Id>
@@ -361,6 +361,26 @@
       <Fee>5</Fee>
       <Movement>9237.588</Movement>
     </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>36</Id>
+      <Date>2021-11-26T14:10:00</Date>
+      <OperationType>Sell</OperationType>
+      <StockName>TURBO_TESLA LONG X2</StockName>
+      <Qty>10</Qty>
+      <Value>256.81</Value>
+      <Fee>5</Fee>
+      <Movement>2563.1</Movement>
+    </StockTradeOperation>
+    <StockTradeOperation>
+      <Id>37</Id>
+      <Date>2022-01-06T16:30:00</Date>
+      <OperationType>Buy</OperationType>
+      <StockName>TURBO_TESLA LONG X2</StockName>
+      <Qty>3</Qty>
+      <Value>228.51</Value>
+      <Fee>2.5</Fee>
+      <Movement>-688.029968</Movement>
+    </StockTradeOperation>
   </TradeOperations>
   <Positions>
     <StockPosition>
@@ -516,10 +536,8 @@
         <LineBreak>0</LineBreak>
         <HeikinAshi>false</HeikinAshi>
       </BarDuration>
-      <ExitDate
-        xsi:nil="true" />
-      <ExitValue
-        xsi:nil="true" />
+      <ExitDate>2021-11-26T14:10:00</ExitDate>
+      <ExitValue>256.81</ExitValue>
     </StockPosition>
     <StockPosition>
       <Id>14</Id>
@@ -744,11 +762,31 @@
       <ExitValue
         xsi:nil="true" />
     </StockPosition>
+    <StockPosition>
+      <Id>37</Id>
+      <StockName>TURBO_TESLA LONG X2</StockName>
+      <EntryQty>3</EntryQty>
+      <EntryValue>229.343323</EntryValue>
+      <EntryDate>2022-01-06T16:30:00</EntryDate>
+      <TrailStop>213</TrailStop>
+      <Stop>213</Stop>
+      <BarDuration>
+        <Duration>M_5</Duration>
+        <Smoothing>1</Smoothing>
+        <LineBreak>0</LineBreak>
+        <HeikinAshi>false</HeikinAshi>
+      </BarDuration>
+      <Theme>TRAILATR_INT</Theme>
+      <ExitDate
+        xsi:nil="true" />
+      <ExitValue
+        xsi:nil="true" />
+    </StockPosition>
   </Positions>
   <Name>Test</Name>
   <SaxoAccountId>78800/719479EUR</SaxoAccountId>
   <InitialBalance>100000</InitialBalance>
-  <Balance>78552.8359</Balance>
+  <Balance>80427.91</Balance>
   <MaxRisk>0.1</MaxRisk>
   <CreationDate>2010-01-01T00:00:00</CreationDate>
   <IsSimu>false</IsSimu>
